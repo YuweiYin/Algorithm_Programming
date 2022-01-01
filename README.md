@@ -8,6 +8,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - [Algorithm-Basis](./Algorithm-Basis/) includes basic algorithm analysis and design theories.
 - [Algorithm-Topics](./Algorithm-Topics/) includes a variety of algorithm topics with their theoretical introductions and programming solutions.
+- [LeetCode-Study-Plan](./LeetCode-Study-Plan/) includes several study plans provided by LeeCode online judge platform.
 
 # Main References
 
