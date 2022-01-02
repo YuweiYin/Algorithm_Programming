@@ -11,10 +11,12 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 # Study Plan (Algorithm-1) List
 
 - Day 1 - Binary Search
-  - [LC-704-Binary-Search](./LC-704-Binary-Search.py)
-  - [LC-278-First-Bad-Version](./LC-278-First-Bad-Version.py)
-  - [LC-35-Search-Insert-Position](./LC-35-Search-Insert-Position.py)
+  - (Easy) [LC-704-Binary-Search](./LC-704-Binary-Search.py)
+  - (Easy) [LC-278-First-Bad-Version](./LC-278-First-Bad-Version.py)
+  - (Easy) [LC-35-Search-Insert-Position](./LC-35-Search-Insert-Position.py)
 - Day 2 - Two Pointers
+  - (Easy) [LC-977-Squares-of-a-Sorted-Array](./LC-977-Squares-of-a-Sorted-Array.py)
+  - (Medium) [LC-189-Rotate-Array](./LC-189-Rotate-Array.py)
 - Day 3 - Two Pointers
 - Day 4 - Two Pointers
 - Day 5 - Two Pointers
