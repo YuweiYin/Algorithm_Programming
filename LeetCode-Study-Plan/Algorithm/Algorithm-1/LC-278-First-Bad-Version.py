@@ -63,7 +63,7 @@ class Solution:
         # exception case
         if not isinstance(n, int) or n <= 0:
             return 0
-        # main method: (loop) binary search of a list that the left part is good and the right part is bad
+        # main method: (two pointer) the left part of the list is good and the right part is bad
         return self._firstBadVersion(n)
 
     def _firstBadVersion(self, n: int) -> int:

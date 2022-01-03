@@ -18,6 +18,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Easy) [LC-977-Squares-of-a-Sorted-Array](./LC-977-Squares-of-a-Sorted-Array.py)
   - (Medium) [LC-189-Rotate-Array](./LC-189-Rotate-Array.py)
 - Day 3 - Two Pointers
+  - (Easy) [LC-283-Move-Zeroes](./LC-283-Move-Zeroes.py)
+  - (Easy) [LC-167-Two-Sum-II-Input-Array-Is-Sorted](./LC-167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - Day 4 - Two Pointers
 - Day 5 - Two Pointers
 - Day 6 - Sliding Window

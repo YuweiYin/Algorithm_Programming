@@ -52,7 +52,7 @@ class Solution:
         # exception case
         if not isinstance(nums, list) or len(nums) <= 1 or k <= 0:
             return
-        # main method: (loop) binary search of sorted list
+        # main method
         self._rotate_double_reverse(nums, k)
 
     # Warning: the following method is correct only if gcd(len_num, k) == 1
