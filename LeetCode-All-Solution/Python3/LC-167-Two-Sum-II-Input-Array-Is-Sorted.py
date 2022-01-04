@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 """=================================================================
-@Project : Algorithm_YuweiYin/Study-Plan/Algorithm/Algorithm-1
+@Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
 @File    : LC-167-Two-Sum-II-Input-Array-Is-Sorted.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-03

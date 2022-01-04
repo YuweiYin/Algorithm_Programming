@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 """=================================================================
-@Project : Algorithm_YuweiYin/Study-Plan/Algorithm/Algorithm-1
+@Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
 @File    : LC-704-Binary-Search.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-01
