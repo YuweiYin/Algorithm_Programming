@@ -11,18 +11,18 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 # Study Plan (Algorithm-1) List
 
 - Day 1 - Binary Search
-  - (Easy) [LC-704-Binary-Search](./LC-704-Binary-Search.py)
-  - (Easy) [LC-278-First-Bad-Version](./LC-278-First-Bad-Version.py)
-  - (Easy) [LC-35-Search-Insert-Position](./LC-35-Search-Insert-Position.py)
+  - (Easy) [LC-704-Binary-Search](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-704-Binary-Search.py)
+  - (Easy) [LC-278-First-Bad-Version](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-278-First-Bad-Version.py)
+  - (Easy) [LC-35-Search-Insert-Position](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-35-Search-Insert-Position.py)
 - Day 2 - Two Pointers
-  - (Easy) [LC-977-Squares-of-a-Sorted-Array](./LC-977-Squares-of-a-Sorted-Array.py)
-  - (Medium) [LC-189-Rotate-Array](./LC-189-Rotate-Array.py)
+  - (Easy) [LC-977-Squares-of-a-Sorted-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-977-Squares-of-a-Sorted-Array.py)
+  - (Medium) [LC-189-Rotate-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-189-Rotate-Array.py)
 - Day 3 - Two Pointers
-  - (Easy) [LC-283-Move-Zeroes](./LC-283-Move-Zeroes.py)
-  - (Easy) [LC-167-Two-Sum-II-Input-Array-Is-Sorted](./LC-167-Two-Sum-II-Input-Array-Is-Sorted.py)
+  - (Easy) [LC-283-Move-Zeroes](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-283-Move-Zeroes.py)
+  - (Easy) [LC-167-Two-Sum-II-Input-Array-Is-Sorted](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - Day 4 - Two Pointers
-  - (Easy) [LC-344-Reverse-String](./LC-344-Reverse-String.py)
-  - (Easy) [LC-557-Reverse-Words-in-a-String-III](./LC-557-Reverse-Words-in-a-String-III.py)
+  - (Easy) [LC-344-Reverse-String](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-344-Reverse-String.py)
+  - (Easy) [LC-557-Reverse-Words-in-a-String-III](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-557-Reverse-Words-in-a-String-III.py)
 - Day 5 - Two Pointers
 - Day 6 - Sliding Window
 - Day 7 - Breadth-First Search / Depth-First Search
