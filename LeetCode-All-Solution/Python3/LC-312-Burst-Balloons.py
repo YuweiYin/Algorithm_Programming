@@ -62,7 +62,7 @@ class Solution:
         # @functools.lru_cache(maxsize=None)
         # def mem_dfs(left_index: int, right_index: int, leftmost_num: int, rightmost_num: int) -> int:
         #     """
-        #     (Error) Burst balloons in a ordinary order.
+        #     (Error) Burst balloons in the ordinary order: first burst A, then B, then C, etc.
         #     If a balloon burst, the neighbors of its left balloon and right balloon will change,
         #     so the `leftmost_num` and `rightmost_num` are used to tell the value of both ends in current interval.
         #     """
