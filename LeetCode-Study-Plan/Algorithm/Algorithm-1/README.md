@@ -21,6 +21,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Easy) [LC-283-Move-Zeroes](./LC-283-Move-Zeroes.py)
   - (Easy) [LC-167-Two-Sum-II-Input-Array-Is-Sorted](./LC-167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - Day 4 - Two Pointers
+  - (Easy) [LC-344-Reverse-String](./LC-344-Reverse-String.py)
+  - (Easy) [LC-557-Reverse-Words-in-a-String-III](./LC-557-Reverse-Words-in-a-String-III.py)
 - Day 5 - Two Pointers
 - Day 6 - Sliding Window
 - Day 7 - Breadth-First Search / Depth-First Search
