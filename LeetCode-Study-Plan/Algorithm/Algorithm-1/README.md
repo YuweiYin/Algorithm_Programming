@@ -24,6 +24,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Easy) [LC-344-Reverse-String](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-344-Reverse-String.py)
   - (Easy) [LC-557-Reverse-Words-in-a-String-III](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-557-Reverse-Words-in-a-String-III.py)
 - Day 5 - Two Pointers
+  - (Easy) [LC-876-Middle-of-the-Linked-List](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-876-Middle-of-the-Linked-List.py)
+  - (Medium) [LC-19-Remove-Nth-Node-From-End-of-List](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-19-Remove-Nth-Node-From-End-of-List.py)
 - Day 6 - Sliding Window
 - Day 7 - Breadth-First Search / Depth-First Search
 - Day 8 - Breadth-First Search / Depth-First Search
