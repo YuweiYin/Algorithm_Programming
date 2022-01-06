@@ -59,7 +59,8 @@ class Solution:
                 return False  # Error input
 
         # main method: (Simulate process: incident/event response)
-        return self._carPooling(trips, capacity)
+        # return self._carPooling(trips, capacity)
+        return self._carPoolingPreSum(trips, capacity)  # differential array & pre_sum
 
     def _carPooling(self, trips: List[List[int]], capacity: int) -> bool:
         len_trips = len(trips)
@@ -124,6 +125,24 @@ class Solution:
                     cur_capacity -= get_on_p
             cur_kilometer += 1
 
+        return True
+
+    def _carPoolingPreSum(self, trips: List[List[int]], capacity: int) -> bool:
+        MAX_KILO = 1000 + 1  # Constraints: 0 <= from_i < to_i <= 1000
+        diff_array = [0 for _ in range(MAX_KILO)]  # differential array: 0 mens no passenger get on/off at the moment
+        for trip in trips:
+            num_passengers_i, from_i, to_i = trip[0], trip[1], trip[2]
+            diff_array[from_i] += num_passengers_i  # num_passengers_i get on the car at from_i
+            diff_array[to_i] -= num_passengers_i  # num_passengers_i get off the car at to_i
+
+        # cur_in_car_p is the pre_sum: sum(diff_array[0: cur_kilometer + 1])
+        cur_in_car_p = 0  # how many passengers are in car now
+        for cur_kilometer in range(MAX_KILO):
+            cur_in_car_p += diff_array[cur_kilometer]  # get on or get off or keep driving
+            if cur_in_car_p > capacity:  # can't accommodate these passengers, order failed
+                return False
+
+        # ran MAX_KILO, finished all orders
         return True
 
 
