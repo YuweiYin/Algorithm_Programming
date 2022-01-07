@@ -30,6 +30,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) [LC-3-Longest-Substring-Without-Repeating-Characters](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-3-Longest-Substring-Without-Repeating-Characters.py)
   - (Medium) [LC-567-Permutation-in-String](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-567-Permutation-in-String.py)
 - Day 7 - Breadth-First Search / Depth-First Search
+  - (Easy) [LC-733-Flood-Fill](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-733-Flood-Fill.py)
+  - (Medium) [LC-695-Max-Area-of-Island](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-695-Max-Area-of-Island.py)
 - Day 8 - Breadth-First Search / Depth-First Search
 - Day 9 - Breadth-First Search / Depth-First Search
 - Day 10 - Recursion / Backtracking
