@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-283-Move-Zeroes.py
+@File    : LC-0283-Move-Zeroes.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-03
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 283 - (Easy) - Move Zeroes
+LeetCode - 0283 - (Easy) - Move Zeroes
 https://leetcode.com/problems/move-zeroes/
 
 Description:

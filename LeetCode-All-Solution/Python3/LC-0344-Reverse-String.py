@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-344-Reverse-String.py
+@File    : LC-0344-Reverse-String.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-04
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 344 - (Easy) - Reverse String
+LeetCode - 0344 - (Easy) - Reverse String
 https://leetcode.com/problems/reverse-string/
 
 Description:

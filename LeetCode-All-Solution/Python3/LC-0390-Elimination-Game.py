@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-390-Elimination-Game.py
+@File    : LC-0390-Elimination-Game.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-04
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 # from typing import List
 
 """
-LeetCode - 390 - (Medium) - Elimination Game
+LeetCode - 0390 - (Medium) - Elimination Game
 https://leetcode.com/problems/elimination-game/
 
 Description:

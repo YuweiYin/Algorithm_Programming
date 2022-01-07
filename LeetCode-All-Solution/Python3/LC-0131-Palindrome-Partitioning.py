@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-131-Palindrome-Partitioning.py
+@File    : LC-0131-Palindrome-Partitioning.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-05
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 131 - (Medium) - Palindrome Partitioning
+LeetCode - 0131 - (Medium) - Palindrome Partitioning
 https://leetcode.com/problems/palindrome-partitioning/
 
 Description & Requirement:

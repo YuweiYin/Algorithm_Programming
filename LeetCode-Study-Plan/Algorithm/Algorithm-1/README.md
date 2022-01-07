@@ -11,27 +11,27 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 # Study Plan (Algorithm-1) List
 
 - Day 1 - Binary Search
-  - (Easy) [LC-704-Binary-Search](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-704-Binary-Search.py)
-  - (Easy) [LC-278-First-Bad-Version](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-278-First-Bad-Version.py)
-  - (Easy) [LC-35-Search-Insert-Position](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-35-Search-Insert-Position.py)
+  - (Easy) [LC-0704-Binary-Search](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0704-Binary-Search.py)
+  - (Easy) [LC-0278-First-Bad-Version](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0278-First-Bad-Version.py)
+  - (Easy) [LC-0035-Search-Insert-Position](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0035-Search-Insert-Position.py)
 - Day 2 - Two Pointers
-  - (Easy) [LC-977-Squares-of-a-Sorted-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-977-Squares-of-a-Sorted-Array.py)
-  - (Medium) [LC-189-Rotate-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-189-Rotate-Array.py)
+  - (Easy) [LC-0977-Squares-of-a-Sorted-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0977-Squares-of-a-Sorted-Array.py)
+  - (Medium) [LC-0189-Rotate-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0189-Rotate-Array.py)
 - Day 3 - Two Pointers
-  - (Easy) [LC-283-Move-Zeroes](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-283-Move-Zeroes.py)
-  - (Easy) [LC-167-Two-Sum-II-Input-Array-Is-Sorted](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-167-Two-Sum-II-Input-Array-Is-Sorted.py)
+  - (Easy) [LC-0283-Move-Zeroes](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0283-Move-Zeroes.py)
+  - (Easy) [LC-0167-Two-Sum-II-Input-Array-Is-Sorted](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - Day 4 - Two Pointers
-  - (Easy) [LC-344-Reverse-String](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-344-Reverse-String.py)
-  - (Easy) [LC-557-Reverse-Words-in-a-String-III](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-557-Reverse-Words-in-a-String-III.py)
+  - (Easy) [LC-0344-Reverse-String](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0344-Reverse-String.py)
+  - (Easy) [LC-0557-Reverse-Words-in-a-String-III](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0557-Reverse-Words-in-a-String-III.py)
 - Day 5 - Two Pointers
-  - (Easy) [LC-876-Middle-of-the-Linked-List](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-876-Middle-of-the-Linked-List.py)
-  - (Medium) [LC-19-Remove-Nth-Node-From-End-of-List](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-19-Remove-Nth-Node-From-End-of-List.py)
+  - (Easy) [LC-0876-Middle-of-the-Linked-List](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0876-Middle-of-the-Linked-List.py)
+  - (Medium) [LC-0019-Remove-Nth-Node-From-End-of-List](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0019-Remove-Nth-Node-From-End-of-List.py)
 - Day 6 - Sliding Window
-  - (Medium) [LC-3-Longest-Substring-Without-Repeating-Characters](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-3-Longest-Substring-Without-Repeating-Characters.py)
-  - (Medium) [LC-567-Permutation-in-String](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-567-Permutation-in-String.py)
+  - (Medium) [LC-0003-Longest-Substring-Without-Repeating-Characters](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0003-Longest-Substring-Without-Repeating-Characters.py)
+  - (Medium) [LC-0567-Permutation-in-String](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0567-Permutation-in-String.py)
 - Day 7 - Breadth-First Search / Depth-First Search
-  - (Easy) [LC-733-Flood-Fill](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-733-Flood-Fill.py)
-  - (Medium) [LC-695-Max-Area-of-Island](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-695-Max-Area-of-Island.py)
+  - (Easy) [LC-0733-Flood-Fill](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0733-Flood-Fill.py)
+  - (Medium) [LC-0695-Max-Area-of-Island](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0695-Max-Area-of-Island.py)
 - Day 8 - Breadth-First Search / Depth-First Search
 - Day 9 - Breadth-First Search / Depth-First Search
 - Day 10 - Recursion / Backtracking

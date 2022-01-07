@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-977-Squares-of-a-Sorted-Array.py
+@File    : LC-0977-Squares-of-a-Sorted-Array.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-02
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 977 - (Easy) - Squares of a Sorted Array
+LeetCode - 0977 - (Easy) - Squares of a Sorted Array
 https://leetcode.com/problems/squares-of-a-sorted-array/
 
 Description:

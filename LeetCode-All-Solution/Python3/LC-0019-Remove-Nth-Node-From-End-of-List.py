@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-19-Remove-Nth-Node-From-End-of-List.py
+@File    : LC-0019-Remove-Nth-Node-From-End-of-List.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-05
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List, Optional
 
 """
-LeetCode - 19 - (Medium) - Remove Nth Node From End of List
+LeetCode - 0019 - (Medium) - Remove Nth Node From End of List
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 Description & Requirement:

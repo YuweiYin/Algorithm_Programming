@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-876-Middle-of-the-Linked-List.py
+@File    : LC-0876-Middle-of-the-Linked-List.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-05
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List, Optional
 
 """
-LeetCode - 876 - (Easy) - Middle of the Linked List
+LeetCode - 0876 - (Easy) - Middle of the Linked List
 https://leetcode.com/problems/middle-of-the-linked-list/
 
 Description & Requirement:

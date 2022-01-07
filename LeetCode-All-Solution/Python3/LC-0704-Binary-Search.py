@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-704-Binary-Search.py
+@File    : LC-0704-Binary-Search.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-01
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 704 - (Easy) - Binary Search
+LeetCode - 0704 - (Easy) - Binary Search
 https://leetcode.com/problems/binary-search/
 
 Description:

@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-997-Find-the-Town-Judge.py
+@File    : LC-0997-Find-the-Town-Judge.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-04
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 997 - (Easy) - Find the Town Judge
+LeetCode - 0997 - (Easy) - Find the Town Judge
 https://leetcode.com/problems/find-the-town-judge/
 
 Description:

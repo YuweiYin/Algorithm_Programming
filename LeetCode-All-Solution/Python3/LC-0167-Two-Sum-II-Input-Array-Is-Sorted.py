@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-167-Two-Sum-II-Input-Array-Is-Sorted.py
+@File    : LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-03
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 167 - (Easy) - Two Sum II - Input Array Is Sorted
+LeetCode - 0167 - (Easy) - Two Sum II - Input Array Is Sorted
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
 Description:

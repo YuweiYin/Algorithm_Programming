@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-695-Max-Area-of-Island.py
+@File    : LC-0695-Max-Area-of-Island.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-07
 =================================================================="""
@@ -13,7 +13,7 @@ from typing import List
 import queue
 
 """
-LeetCode - 695 - (Medium) - Max Area of Island
+LeetCode - 0695 - (Medium) - Max Area of Island
 https://leetcode.com/problems/max-area-of-island/
 
 Description:

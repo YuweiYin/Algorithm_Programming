@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-733-Flood-Fill.py
+@File    : LC-0733-Flood-Fill.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-07
 =================================================================="""
@@ -14,7 +14,7 @@ import queue
 # import collections
 
 """
-LeetCode - 733 - (Easy) - Flood Fill
+LeetCode - 0733 - (Easy) - Flood Fill
 https://leetcode.com/problems/flood-fill/
 
 Description:

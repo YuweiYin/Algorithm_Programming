@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-278-First-Bad-Version.py
+@File    : LC-0278-First-Bad-Version.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-01
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 # from typing import List
 
 """
-LeetCode - 278 - (Easy) - First Bad Version
+LeetCode - 0278 - (Easy) - First Bad Version
 https://leetcode.com/problems/first-bad-version/
 
 Description:

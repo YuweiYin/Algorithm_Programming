@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-3-Longest-Substring-Without-Repeating-Characters.py
+@File    : LC-0003-Longest-Substring-Without-Repeating-Characters.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-06
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 # from typing import List
 
 """
-LeetCode - 3 - (Medium) - Longest Substring Without Repeating Characters
+LeetCode - 0003 - (Medium) - Longest Substring Without Repeating Characters
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 Description & Requirement:

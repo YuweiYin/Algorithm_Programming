@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-913-Cat-and-Mouse.py
+@File    : LC-0913-Cat-and-Mouse.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-04
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 913 - (Hard) - Cat and Mouse
+LeetCode - 0913 - (Hard) - Cat and Mouse
 https://leetcode.com/problems/cat-and-mouse/
 
 Description:

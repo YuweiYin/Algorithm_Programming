@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-312-Burst-Balloons.py
+@File    : LC-0312-Burst-Balloons.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-04
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 312 - (Hard) - Burst Balloons
+LeetCode - 0312 - (Hard) - Burst Balloons
 https://leetcode.com/problems/burst-balloons/
 
 Description:

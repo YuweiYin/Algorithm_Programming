@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-557-Reverse-Words-in-a-String-III.py
+@File    : LC-0557-Reverse-Words-in-a-String-III.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-04
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 557 - (Easy) - Reverse Words in a String III
+LeetCode - 0557 - (Easy) - Reverse Words in a String III
 https://leetcode.com/problems/reverse-words-in-a-string-iii/
 
 Description & Requirement:

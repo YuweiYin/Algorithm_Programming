@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-71-Simplify-Path.py
+@File    : LC-0071-Simplify-Path.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-06
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 # from typing import List
 
 """
-LeetCode - 71 - (Medium) - Simplify Path
+LeetCode - 0071 - (Medium) - Simplify Path
 https://leetcode.com/problems/simplify-path/
 
 Description:

@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-189-Rotate-Array.py
+@File    : LC-0189-Rotate-Array.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-02
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 189 - (Medium) - Rotate Array
+LeetCode - 0189 - (Medium) - Rotate Array
 https://leetcode.com/problems/rotate-array/
 
 Description:

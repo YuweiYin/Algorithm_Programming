@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-567-Permutation-in-String.py
+@File    : LC-0567-Permutation-in-String.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-06
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 # from typing import List
 
 """
-LeetCode - 567 - (Medium) - Permutation in String
+LeetCode - 0567 - (Medium) - Permutation in String
 https://leetcode.com/problems/permutation-in-string/
 
 Description & Requirement:

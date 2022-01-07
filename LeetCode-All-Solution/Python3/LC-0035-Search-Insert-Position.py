@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-35-Search-Insert-Position.py
+@File    : LC-0035-Search-Insert-Position.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-01
 =================================================================="""
@@ -12,7 +12,7 @@ import time
 from typing import List
 
 """
-LeetCode - 35 - (Easy) - Search Insert Position
+LeetCode - 0035 - (Easy) - Search Insert Position
 https://leetcode.com/problems/search-insert-position/
 
 Description:

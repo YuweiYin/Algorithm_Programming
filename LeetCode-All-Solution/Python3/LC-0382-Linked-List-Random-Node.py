@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-382-Linked-List-Random-Node.py
+@File    : LC-0382-Linked-List-Random-Node.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-01-07
 =================================================================="""
@@ -13,7 +13,7 @@ import random
 from typing import List, Optional
 
 """
-LeetCode - 382 - (Medium) - Linked List Random Node
+LeetCode - 0382 - (Medium) - Linked List Random Node
 https://leetcode.com/problems/linked-list-random-node/
 
 Description & Requirement:
