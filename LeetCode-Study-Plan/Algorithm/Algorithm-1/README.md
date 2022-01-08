@@ -33,6 +33,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Easy) [LC-0733-Flood-Fill](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0733-Flood-Fill.py)
   - (Medium) [LC-0695-Max-Area-of-Island](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0695-Max-Area-of-Island.py)
 - Day 8 - Breadth-First Search / Depth-First Search
+  - (Easy) [LC-0617-Merge-Two-Binary-Trees](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0617-Merge-Two-Binary-Trees.py)
+  - (Medium) [LC-0116-Populating-Next-Right-Pointers-in-Each-Node](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0116-Populating-Next-Right-Pointers-in-Each-Node.py)
 - Day 9 - Breadth-First Search / Depth-First Search
 - Day 10 - Recursion / Backtracking
 - Day 11 - Recursion / Backtracking
