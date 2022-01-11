@@ -57,8 +57,8 @@ Constraints:
 class Solution:
     def isEscapePossible(self, blocked: List[List[int]], source: List[int], target: List[int]) -> bool:
         """
-        Runtime: 711 ms, faster than 84.21% of Python3 online submissions for Escape a Large Maze.
-        Memory Usage: 18.8 MB, less than 89.47% of Python3 online submissions for Escape a Large Maze.
+        Runtime: 425 ms, faster than 87.50% of Python3 online submissions for Escape a Large Maze.
+        Memory Usage: 18.9 MB, less than 87.50% of Python3 online submissions for Escape a Large Maze.
         """
         # exception case
         if not isinstance(blocked, list) or not isinstance(source, list) or not isinstance(target, list):
@@ -85,6 +85,7 @@ class Solution:
     def _isEscapePossible(self, blocked: List[List[int]], source: List[int], target: List[int]) -> bool:
         MAX_INDEX = 999999
         len_b = len(blocked)
+        assert len_b > 1
         blocked_set = set()  # convert to set, for fast judge
         for blocked_square in blocked:
             blocked_set.add(tuple(blocked_square))
@@ -154,9 +155,17 @@ class Solution:
                     done_bfs_set.add(tuple([cur_row + 1, cur_col]))  # record done bfs
             return False
 
-        if_source_free = __check_surround(source[0], source[1], target[0], target[1])
-        if_target_free = __check_surround(target[0], target[1], source[0], source[1])
-        return if_source_free and if_target_free
+        # heuristically, check source first if source is closer to blocked area, else check target first
+        dis_source_block = abs(source[0] - blocked[0][0]) + abs(source[1] - blocked[0][1])
+        dis_target_block = abs(target[0] - blocked[0][0]) + abs(target[1] - blocked[0][1])
+        if dis_source_block <= dis_target_block:
+            # if source is surrounded, then needn't and won't check target
+            return __check_surround(source[0], source[1], target[0], target[1]) and \
+                   __check_surround(target[0], target[1], source[0], source[1])
+        else:
+            # if target is surrounded, then needn't and won't check source
+            return __check_surround(target[0], target[1], source[0], source[1]) and \
+                   __check_surround(source[0], source[1], target[0], target[1])
 
 
 def main():
