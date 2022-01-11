@@ -42,6 +42,9 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Easy) [LC-0021-Merge-Two-Sorted-Lists](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0021-Merge-Two-Sorted-Lists.py)
   - (Easy) [LC-0206-Reverse-Linked-List](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0206-Reverse-Linked-List.py)
 - Day 11 - Recursion / Backtracking
+  - (Medium) [LC-0077-Combinations](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0077-Combinations.py)
+  - (Medium) [LC-0046-Permutations](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0046-Permutations.py)
+  - (Medium) [LC-0784-Letter-Case-Permutation](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0784-Letter-Case-Permutation.py)
 - Day 12 - Dynamic Programming
 - Day 13 - Bit Manipulation
 - Day 14 - Bit Manipulation
