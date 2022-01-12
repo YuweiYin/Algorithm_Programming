@@ -37,10 +37,6 @@ Constraints:
     -104 < nums[i], target < 104
     All the integers in nums are unique.
     nums is sorted in ascending order.
-    Accepted
-    541,140
-    Submissions
-    992,235
 """
 
 

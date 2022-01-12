@@ -14,6 +14,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0035-Search-Insert-Position: [Python3](./Python3/LC-0035-Search-Insert-Position.py)
 - LC-0046-Permutations: [Python3](./Python3/LC-0046-Permutations.py)
 - LC-0067-Add-Binary: [Python3](./Python3/LC-0067-Add-Binary.py)
+- LC-0070-Climbing-Stairs: [Python3](./Python3/LC-0070-Climbing-Stairs.py)
 - LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
 - LC-0077-Combinations: [Python3](./Python3/LC-0077-Combinations.py)
 - LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
@@ -21,9 +22,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ## LeetCode 0101 - 0200
 
 - LC-0116-Populating-Next-Right-Pointers-in-Each-Node: [Python3](./Python3/LC-0116-Populating-Next-Right-Pointers-in-Each-Node.py)
+- LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
 - LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
 - LC-0167-Two-Sum-II-Input-Array-Is-Sorted: [Python3](./Python3/LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - LC-0189-Rotate-Array: [Python3](./Python3/LC-0189-Rotate-Array.py)
+- LC-0198-House-Robber: [Python3](./Python3/LC-0198-House-Robber.py)
 
 ## LeetCode 0201 - 0300
 
@@ -35,6 +38,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - LC-0312-Burst-Balloons: [Python3](./Python3/LC-0312-Burst-Balloons.py)
+- LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
 - LC-0344-Reverse-String: [Python3](./Python3/LC-0344-Reverse-String.py)
 - LC-0382-Linked-List-Random-Node: [Python3](./Python3/LC-0382-Linked-List-Random-Node.py)
 - LC-0390-Elimination-Game: [Python3](./Python3/LC-0390-Elimination-Game.py)
@@ -54,6 +58,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ## LeetCode 0701 - 0800
 
+- LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
 - LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
