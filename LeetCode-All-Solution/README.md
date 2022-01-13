@@ -26,11 +26,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
 - LC-0167-Two-Sum-II-Input-Array-Is-Sorted: [Python3](./Python3/LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - LC-0189-Rotate-Array: [Python3](./Python3/LC-0189-Rotate-Array.py)
+- LC-0191-Number-of-1-Bits: [Python3](./Python3/LC-0191-Number-of-1-Bits.py)
 - LC-0198-House-Robber: [Python3](./Python3/LC-0198-House-Robber.py)
 
 ## LeetCode 0201 - 0300
 
 - LC-0206-Reverse-Linked-List: [Python3](./Python3/LC-0206-Reverse-Linked-List.py)
+- LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
 - LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
 - LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
 
@@ -44,6 +46,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0390-Elimination-Game: [Python3](./Python3/LC-0390-Elimination-Game.py)
 
 ## LeetCode 0401 - 0500
+
+- LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons: [Python3](./Python3/LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons.py)
 
 ## LeetCode 0501 - 0600
 
@@ -61,6 +65,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
 - LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
+- LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
 
 ## LeetCode 0801 - 0900

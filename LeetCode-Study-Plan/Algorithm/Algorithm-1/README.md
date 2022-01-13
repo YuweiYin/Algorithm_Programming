@@ -50,6 +50,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) [LC-0198-House-Robber](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0198-House-Robber.py)
   - (Medium) [LC-0120-Triangle](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0120-Triangle.py)
 - Day 13 - Bit Manipulation
+  - (Easy) [LC-0231-Power-of-Two](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0231-Power-of-Two.py)
+  - (Easy) [LC-0191-Number-of-1-Bits](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0191-Number-of-1-Bits.py)
 - Day 14 - Bit Manipulation
 
 # TODO
