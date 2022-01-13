@@ -4,15 +4,25 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ---
 
-# Directory
+## Directory
 
-- [Algorithm-Basis](./Algorithm-Basis/) includes basic algorithm analysis and design theories.
-- [Algorithm-Topics](./Algorithm-Topics/) includes a variety of algorithm topics with their theoretical introductions and programming solutions.
-- [LeetCode-Study-Plan](./LeetCode-Study-Plan/) includes several study plans provided by LeeCode online judge platform.
+- [Algorithm Basis](./Algorithm-Basis/) includes basic algorithm analysis and design theories.
+  - [Mathematics](./Algorithm-Basis/Mathematics/)
+  - [Data Structure](./Algorithm-Basis/Data-Structure/)
+  - [Sorting](./Algorithm-Basis/Sorting/)
+  - [Divide & Conquer](./Algorithm-Basis/Divide-Conquer/)
+  - [Dynamic Programming](./Algorithm-Basis/Dynamic-Programming/)
+  - [Greedy Algorithm](./Algorithm-Basis/Greedy-Algorithm/)
+  - [Graph Theory](./Algorithm-Basis/Graph-Theory/)
+  - [Other Topics](./Algorithm-Basis/Other-Topics/)
+- [Algorithm Topics](./Algorithm-Topics/) includes a variety of algorithm topics with their theoretical introductions and programming solutions.
+- [LeetCode All Solution](./LeetCode-All-Solution/) includes all solutions of LeeCode online judge platform.
+- [LeetCode Study Plan](./LeetCode-Study-Plan/) includes several study plans provided by LeeCode online judge platform.
 
-# Main References
+## Main References
 
 - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein. ***Introduction to Algorithms***. Third Edition. MIT press, 2009.
+- Robert Sedgewick, Kevin Wayne. **Algorithms**. Fourth Edition. Addison-Wesley, 2011.
 - Steven S. Skiena. ***The Algorithm Design Manual***. Second Edition. Springer, 2008.
 - Donald E. Knuth. ***The Art of Computer Programming***. ([TAOCP link](https://www-cs-faculty.stanford.edu/~knuth/taocp.html))
   - ***Volume 1: Fundamental Algorithms***. Third Edition. Addison-Wesley, 1997. (ISBN 0-201-89683-4)

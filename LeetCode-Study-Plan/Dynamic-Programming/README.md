@@ -4,11 +4,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ---
 
-# Study Plan (Dynamic Programming) List
+## Study Plan (Dynamic Programming) List
 
 - TODO
 
-# TODO
+## TODO
 
 - Finish all the study plans (dynamic programming).
 

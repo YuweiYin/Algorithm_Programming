@@ -8,7 +8,7 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 
 ---
 
-# Study Plan (Algorithm-1) List
+## Study Plan (Algorithm-1) List
 
 - Day 1 - Binary Search
   - (Easy) [LC-0704-Binary-Search](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0704-Binary-Search.py)
@@ -54,7 +54,7 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Easy) [LC-0191-Number-of-1-Bits](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0191-Number-of-1-Bits.py)
 - Day 14 - Bit Manipulation
 
-# TODO
+## TODO
 
 - Finish all the study plans (algorithm-1).
 

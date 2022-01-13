@@ -4,7 +4,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ---
 
-# Algorithm Topic List
+## Algorithm Topic List
 
 The following algorithm topics are divided according to [LeetCode](https://leetcode.com/problemset/algorithms/) Tags.
 Each topic contain its theoretical introduction and programming solution of LeetCode or other Online Judge.
@@ -81,7 +81,7 @@ Each topic contain its theoretical introduction and programming solution of Leet
 - [Rejection Sampling](./Rejection-Sampling/)
 - [Biconnected Component](./Biconnected-Component/)
 
-# TODO
+## TODO
 
 - Finish all the algorithm topics. (Theory & Programming)
 - Reorder the list based on the recommendation learning order.

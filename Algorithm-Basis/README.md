@@ -4,15 +4,21 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ---
 
-# Algorithm Basis List
+## Algorithm Basis List
 
-Each item introduces basic algorithm analysis or design theory.
+Each entry introduces basic algorithm analysis or design theory.
 
-- TODO
+- [Mathematics](./Mathematics/)
+- [Data Structure](./Data-Structure/)
+- [Sorting](./Sorting/)
+- [Divide & Conquer](./Divide-Conquer/)
+- [Dynamic Programming](./Dynamic-Programming/)
+- [Greedy Algorithm](./Greedy-Algorithm/)
+- [Graph Theory](./Graph-Theory/)
+- [Other Topics](./Other-Topics/)
 
-# TODO
+## TODO
 
-- Complete the full list.
-- Finish all the algorithm basic items.
+- Revise all the algorithm basic items.
 
 ---

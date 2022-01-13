@@ -4,13 +4,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ---
 
-# Study Plan List
+## Study Plan List
 
 - [Algorithm](./Algorithm/)
 - [Data-Structure](./Data-Structure/)
 - [Dynamic-Programming](./Dynamic-Programming/)
 
-# TODO
+## TODO
 
 - Finish all the study plans.
 

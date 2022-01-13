@@ -8,11 +8,11 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 
 ---
 
-# Study Plan (Algorithm-2) List
+## Study Plan (Algorithm-2) List
 
 - TODO
 
-# TODO
+## TODO
 
 - Finish all the study plans (algorithm-2).
 
