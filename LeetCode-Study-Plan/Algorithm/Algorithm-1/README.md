@@ -53,9 +53,11 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Easy) [LC-0231-Power-of-Two](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0231-Power-of-Two.py)
   - (Easy) [LC-0191-Number-of-1-Bits](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0191-Number-of-1-Bits.py)
 - Day 14 - Bit Manipulation
+  - (Easy) [LC-0190-Reverse-Bits](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0190-Reverse-Bits.py)
+  - (Easy) [LC-0136-Single-Number](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0136-Single-Number.py)
 
 ## TODO
 
-- Finish all the study plans (algorithm-1).
+- [x] Finish all the study plans (algorithm-1).
 
 ---
