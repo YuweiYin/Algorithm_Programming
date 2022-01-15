@@ -12,11 +12,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0008-String-to-Integer-atoi: [Python3](./Python3/LC-0008-String-to-Intege-atoi.py)
 - LC-0019-Remove-Nth-Node-From-End-of-List: [Python3](./Python3/LC-0019-Remove-Nth-Node-From-End-of-List.py)
 - LC-0021-Merge-Two-Sorted-Lists: [Python3](./Python3/LC-0021-Merge-Two-Sorted-Lists.py)
+- LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
+- LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](./Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
 - LC-0035-Search-Insert-Position: [Python3](./Python3/LC-0035-Search-Insert-Position.py)
 - LC-0046-Permutations: [Python3](./Python3/LC-0046-Permutations.py)
 - LC-0067-Add-Binary: [Python3](./Python3/LC-0067-Add-Binary.py)
 - LC-0070-Climbing-Stairs: [Python3](./Python3/LC-0070-Climbing-Stairs.py)
 - LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
+- LC-0074-Search-a-2D-Matrix: [Python3](./Python3/LC-0074-Search-a-2D-Matrix.py)
 - LC-0077-Combinations: [Python3](./Python3/LC-0077-Combinations.py)
 - LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
 
@@ -26,6 +29,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
 - LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
 - LC-0136-Single-Number: [Python3](./Python3/LC-0136-Single-Number.py)
+- LC-0153-Find-Minimum-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
+- LC-0162-Find-Peak-Element: [Python3](./Python3/LC-0162-Find-Peak-Element.py)
 - LC-0167-Two-Sum-II-Input-Array-Is-Sorted: [Python3](./Python3/LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - LC-0189-Rotate-Array: [Python3](./Python3/LC-0189-Rotate-Array.py)
 - LC-0190-Reverse-Bits: [Python3](./Python3/LC-0190-Reverse-Bits.py)
@@ -100,6 +105,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ### LeetCode 1301 - 1400
 
+- LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
+
 ### LeetCode 1401 - 1500
 
 - LC-1463-Cherry-Pickup-II: [Python3](./Python3/LC-1463-Cherry-Pickup-II.py)
@@ -115,6 +122,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ### LeetCode 1701 - 1800
 
+- LC-1716-Calculate-Money-in-Leetcode-Bank: [Python3](./Python3/LC-1716-Calculate-Money-in-Leetcode-Bank.py)
+
 ### LeetCode 1801 - 1900
 
 ### LeetCode 1901 - 2000
@@ -127,6 +136,6 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ## TODO
 
-- Finish all LeetCode problems.
+- [] Finish all LeetCode problems.
 
 ---
