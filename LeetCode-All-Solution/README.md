@@ -10,6 +10,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0003-Longest-Substring-Without-Repeating-Characters: [Python3](./Python3/LC-0003-Longest-Substring-Without-Repeating-Characters.py)
 - LC-0008-String-to-Integer-atoi: [Python3](./Python3/LC-0008-String-to-Intege-atoi.py)
+- LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
 - LC-0019-Remove-Nth-Node-From-End-of-List: [Python3](./Python3/LC-0019-Remove-Nth-Node-From-End-of-List.py)
 - LC-0021-Merge-Two-Sorted-Lists: [Python3](./Python3/LC-0021-Merge-Two-Sorted-Lists.py)
 - LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
@@ -21,6 +22,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
 - LC-0074-Search-a-2D-Matrix: [Python3](./Python3/LC-0074-Search-a-2D-Matrix.py)
 - LC-0077-Combinations: [Python3](./Python3/LC-0077-Combinations.py)
+- LC-0082-Remove-Duplicates-from-Sorted-List-II: [Python3](./Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
 - LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
 
 ### LeetCode 0101 - 0200
@@ -79,6 +81,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ### LeetCode 0801 - 0900
 
+- LC-0849-Maximize-Distance-to-Closest-Person: [Python3](./Python3/LC-0849-Maximize-Distance-to-Closest-Person.py)
 - LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
 
 ### LeetCode 0901 - 1000

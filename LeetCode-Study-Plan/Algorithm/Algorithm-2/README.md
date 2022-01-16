@@ -18,6 +18,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) [LC-0153-Find-Minimum-in-Rotated-Sorted-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
   - (Medium) [LC-0162-Find-Peak-Element](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0162-Find-Peak-Element.py)
 - Day 3 - Two Pointers
+  - (Medium) [LC-0082-Remove-Duplicates-from-Sorted-List-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
+  - (Medium) [LC-0015-3Sum](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0015-3Sum.py)
 - Day 4 - Two Pointers
 - Day 5 - Sliding Window
 - Day 6 - Breadth-First Search / Depth-First Search
