@@ -21,6 +21,9 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) [LC-0082-Remove-Duplicates-from-Sorted-List-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
   - (Medium) [LC-0015-3Sum](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0015-3Sum.py)
 - Day 4 - Two Pointers
+  - (Easy) [LC-0844-Backspace-String-Compare](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0844-Backspace-String-Compare.py)
+  - (Medium) [LC-0986-Interval-List-Intersections](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0986-Interval-List-Intersections.py)
+  - (Medium) [LC-0011-Container-With-Most-Water](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0011-Container-With-Most-Water.py)
 - Day 5 - Sliding Window
 - Day 6 - Breadth-First Search / Depth-First Search
 - Day 7 - Breadth-First Search / Depth-First Search

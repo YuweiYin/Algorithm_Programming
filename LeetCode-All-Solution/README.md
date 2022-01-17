@@ -10,6 +10,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0003-Longest-Substring-Without-Repeating-Characters: [Python3](./Python3/LC-0003-Longest-Substring-Without-Repeating-Characters.py)
 - LC-0008-String-to-Integer-atoi: [Python3](./Python3/LC-0008-String-to-Intege-atoi.py)
+- LC-0011-Container-With-Most-Water: [Python3](./Python3/LC-0011-Container-With-Most-Water.py)
 - LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
 - LC-0019-Remove-Nth-Node-From-End-of-List: [Python3](./Python3/LC-0019-Remove-Nth-Node-From-End-of-List.py)
 - LC-0021-Merge-Two-Sorted-Lists: [Python3](./Python3/LC-0021-Merge-Two-Sorted-Lists.py)
@@ -45,6 +46,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
 - LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
 - LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
+- LC-0290-Word-Pattern: [Python3](./Python3/LC-0290-Word-Pattern.py)
 
 ### LeetCode 0301 - 0400
 
@@ -81,6 +83,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ### LeetCode 0801 - 0900
 
+- LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
 - LC-0849-Maximize-Distance-to-Closest-Person: [Python3](./Python3/LC-0849-Maximize-Distance-to-Closest-Person.py)
 - LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
 
@@ -88,6 +91,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
 - LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
+- LC-0986-Interval-List-Intersections: [Python3](./Python3/LC-0986-Interval-List-Intersections.py)
 - LC-0994-Rotting-Oranges: [Python3](./Python3/LC-0994-Rotting-Oranges.py)
 - LC-0997-Find-the-Town-Judge: [Python3](./Python3/LC-0997-Find-the-Town-Judge.py)
 
@@ -105,6 +109,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
 
 ### LeetCode 1201 - 1300
+
+- LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
 
 ### LeetCode 1301 - 1400
 
