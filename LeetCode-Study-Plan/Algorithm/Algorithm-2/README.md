@@ -25,6 +25,9 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) [LC-0986-Interval-List-Intersections](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0986-Interval-List-Intersections.py)
   - (Medium) [LC-0011-Container-With-Most-Water](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0011-Container-With-Most-Water.py)
 - Day 5 - Sliding Window
+  - (Medium) [LC-0438-Find-All-Anagrams-in-a-String](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
+  - (Medium) [LC-0713-Subarray-Product-Less-Than-K](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0713-Subarray-Product-Less-Than-K.py)
+  - (Medium) [LC-0209-Minimum-Size-Subarray-Sum](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
 - Day 6 - Breadth-First Search / Depth-First Search
 - Day 7 - Breadth-First Search / Depth-First Search
 - Day 8 - Breadth-First Search / Depth-First Search

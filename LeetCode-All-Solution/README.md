@@ -43,6 +43,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 - LC-0206-Reverse-Linked-List: [Python3](./Python3/LC-0206-Reverse-Linked-List.py)
+- LC-0209-Minimum-Size-Subarray-Sum: [Python3](./Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
 - LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
 - LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
 - LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
@@ -60,16 +61,19 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ### LeetCode 0401 - 0500
 
+- LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
 - LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons: [Python3](./Python3/LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons.py)
 
 ### LeetCode 0501 - 0600
 
+- LC-0539-Minimum-Time-Difference: [Python3](./Python3/LC-0539-Minimum-Time-Difference.py)
 - LC-0542-01-Matrix: [Python3](./Python3/LC-0542-01-Matrix.py)
 - LC-0557-Reverse-Words-in-a-String-III: [Python3](./Python3/LC-0557-Reverse-Words-in-a-String-III.py)
 - LC-0567-Permutation-in-String: [Python3](./Python3/LC-0567-Permutation-in-String.py)
 
 ### LeetCode 0601 - 0700
 
+- LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - LC-0617-Merge-Two-Binary-Trees: [Python3](./Python3/LC-0617-Merge-Two-Binary-Trees.py)
 - LC-0695-Max-Area-of-Island: [Python3](./Python3/LC-0695-Max-Area-of-Island.py)
 
@@ -77,6 +81,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
+- LC-0713-Subarray-Product-Less-Than-K: [Python3](./Python3/LC-0713-Subarray-Product-Less-Than-K.py)
 - LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
