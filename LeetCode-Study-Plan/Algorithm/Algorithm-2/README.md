@@ -29,6 +29,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) [LC-0713-Subarray-Product-Less-Than-K](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0713-Subarray-Product-Less-Than-K.py)
   - (Medium) [LC-0209-Minimum-Size-Subarray-Sum](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
 - Day 6 - Breadth-First Search / Depth-First Search
+  - (Medium) [LC-0200-Number-of-Islands](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0200-Number-of-Islands.py)
+  - (Medium) [LC-0547-Number-of-Provinces](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0547-Number-of-Provinces.py)
 - Day 7 - Breadth-First Search / Depth-First Search
 - Day 8 - Breadth-First Search / Depth-First Search
 - Day 9 - Recursion / Backtracking
