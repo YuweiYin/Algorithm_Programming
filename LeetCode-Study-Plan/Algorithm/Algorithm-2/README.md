@@ -32,6 +32,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) [LC-0200-Number-of-Islands](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0200-Number-of-Islands.py)
   - (Medium) [LC-0547-Number-of-Provinces](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0547-Number-of-Provinces.py)
 - Day 7 - Breadth-First Search / Depth-First Search
+  - (Medium) [LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
+  - (Easy) [LC-0572-Subtree-of-Another-Tree](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0572-Subtree-of-Another-Tree.py)
 - Day 8 - Breadth-First Search / Depth-First Search
 - Day 9 - Recursion / Backtracking
 - Day 10 - Recursion / Backtracking

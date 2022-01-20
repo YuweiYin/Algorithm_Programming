@@ -29,6 +29,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 - LC-0116-Populating-Next-Right-Pointers-in-Each-Node: [Python3](./Python3/LC-0116-Populating-Next-Right-Pointers-in-Each-Node.py)
+- LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II: [Python3](./Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
 - LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
 - LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
 - LC-0136-Single-Number: [Python3](./Python3/LC-0136-Single-Number.py)
@@ -74,6 +75,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0547-Number-of-Provinces: [Python3](./Python3/LC-0547-Number-of-Provinces.py)
 - LC-0557-Reverse-Words-in-a-String-III: [Python3](./Python3/LC-0557-Reverse-Words-in-a-String-III.py)
 - LC-0567-Permutation-in-String: [Python3](./Python3/LC-0567-Permutation-in-String.py)
+- LC-0572-Subtree-of-Another-Tree: [Python3](./Python3/LC-0572-Subtree-of-Another-Tree.py)
 
 ### LeetCode 0601 - 0700
 
@@ -94,6 +96,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
 - LC-0849-Maximize-Distance-to-Closest-Person: [Python3](./Python3/LC-0849-Maximize-Distance-to-Closest-Person.py)
+- LC-0875-Koko-Eating-Bananas: [Python3](./Python3/LC-0875-Koko-Eating-Bananas.py)
 - LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
 
 ### LeetCode 0901 - 1000
@@ -149,6 +152,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 - LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
+- LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
 
 ### LeetCode 2101 - 2200
 
