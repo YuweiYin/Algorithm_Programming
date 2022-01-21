@@ -31,7 +31,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0116-Populating-Next-Right-Pointers-in-Each-Node: [Python3](./Python3/LC-0116-Populating-Next-Right-Pointers-in-Each-Node.py)
 - LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II: [Python3](./Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
 - LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
+- LC-0130-Surrounded-Regions: [Python3](./Python3/LC-0130-Surrounded-Regions.py)
 - LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
+- LC-0134-Gas-Station: [Python3](./Python3/LC-0134-Gas-Station.py)
 - LC-0136-Single-Number: [Python3](./Python3/LC-0136-Single-Number.py)
 - LC-0142-Linked-List-Cycle-II: [Python3](./Python3/LC-0142-Linked-List-Cycle-II.py)
 - LC-0153-Find-Minimum-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
@@ -91,6 +93,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
+- LC-0797-All-Paths-From-Source-to-Target: [Python3](./Python3/LC-0797-All-Paths-From-Source-to-Target.py)
 
 ### LeetCode 0801 - 0900
 
@@ -114,6 +117,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers: [Python3](./Python3/LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers.py)
 - LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
 - LC-1041-Robot-Bounded-In-Circle: [Python3](./Python3/LC-1041-Robot-Bounded-In-Circle.py)
+- LC-1091-Shortest-Path-in-Binary-Matrix: [Python3](./Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
 - LC-1094-Car-Pooling: [Python3](./Python3/LC-1094-Car-Pooling.py)
 
 ### LeetCode 1101 - 1200

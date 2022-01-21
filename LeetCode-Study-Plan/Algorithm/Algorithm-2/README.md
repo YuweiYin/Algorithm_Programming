@@ -35,6 +35,9 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) [LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
   - (Easy) [LC-0572-Subtree-of-Another-Tree](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0572-Subtree-of-Another-Tree.py)
 - Day 8 - Breadth-First Search / Depth-First Search
+  - (Medium) [LC-1091-Shortest-Path-in-Binary-Matrix](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
+  - (Medium) [LC-0130-Surrounded-Regions](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0130-Surrounded-Regions.py)
+  - (Medium) [LC-0797-All-Paths-From-Source-to-Target](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0797-All-Paths-From-Source-to-Target.py)
 - Day 9 - Recursion / Backtracking
 - Day 10 - Recursion / Backtracking
 - Day 11 - Recursion / Backtracking
