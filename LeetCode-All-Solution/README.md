@@ -23,8 +23,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
 - LC-0074-Search-a-2D-Matrix: [Python3](./Python3/LC-0074-Search-a-2D-Matrix.py)
 - LC-0077-Combinations: [Python3](./Python3/LC-0077-Combinations.py)
+- LC-0078-Subsets: [Python3](./Python3/LC-0078-Subsets.py)
 - LC-0082-Remove-Duplicates-from-Sorted-List-II: [Python3](./Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
 - LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
+- LC-0090-Subsets-II: [Python3](./Python3/LC-0090-Subsets-II.py)
 
 ### LeetCode 0101 - 0200
 
@@ -130,6 +132,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ### LeetCode 1301 - 1400
 
+- LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
 - LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
 
 ### LeetCode 1401 - 1500
@@ -138,6 +141,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ### LeetCode 1501 - 1600
 
+- LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
 
 ### LeetCode 1601 - 1700
