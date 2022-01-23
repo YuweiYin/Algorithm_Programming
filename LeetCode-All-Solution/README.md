@@ -17,7 +17,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
 - LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](./Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
 - LC-0035-Search-Insert-Position: [Python3](./Python3/LC-0035-Search-Insert-Position.py)
+- LC-0039-Combination-Sum: [Python3](./Python3/LC-0039-Combination-Sum.py)
+- LC-0040-Combination-Sum-II: [Python3](./Python3/LC-0040-Combination-Sum-II.py)
 - LC-0046-Permutations: [Python3](./Python3/LC-0046-Permutations.py)
+- LC-0047-Permutations-II: [Python3](./Python3/LC-0047-Permutations-II.py)
 - LC-0067-Add-Binary: [Python3](./Python3/LC-0067-Add-Binary.py)
 - LC-0070-Climbing-Stairs: [Python3](./Python3/LC-0070-Climbing-Stairs.py)
 - LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
@@ -129,6 +132,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 - LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
+- LC-1291-Sequential-Digits: [Python3](./Python3/LC-1291-Sequential-Digits.py)
 
 ### LeetCode 1301 - 1400
 
@@ -161,6 +165,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
 - LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
+- LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)
 
 ### LeetCode 2101 - 2200
 
