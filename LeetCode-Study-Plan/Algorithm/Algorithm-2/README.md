@@ -46,6 +46,9 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) [LC-0039-Combination-Sum](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0039-Combination-Sum.py)
   - (Medium) [LC-0040-Combination-Sum-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0040-Combination-Sum-II.py)
 - Day 11 - Recursion / Backtracking
+  - (Medium) [LC-0017-Letter-Combinations-of-a-Phone-Number](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0017-Letter-Combinations-of-a-Phone-Number.py)
+  - (Medium) [LC-0022-Generate-Parentheses](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0022-Generate-Parentheses.py)
+  - (Medium) [LC-0079-Word-Search](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0079-Word-Search.py)
 - Day 12 - Dynamic Programming
 - Day 13 - Dynamic Programming
 - Day 14 - Dynamic Programming
@@ -59,6 +62,6 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 
 ## TODO
 
-- [] Finish all the study plans (algorithm-2).
+- [ ] Finish all the study plans (algorithm-2).
 
 ---

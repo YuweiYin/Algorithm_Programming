@@ -53,7 +53,7 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
         # exception case
         if not isinstance(candidates, list) or len(candidates) <= 0 or not isinstance(target, int):
-            return [] # Error input type
+            return []  # Error input type
         # main method: (sort & dfs & backtrace.)
         return self._combinationSum(candidates, target)
 

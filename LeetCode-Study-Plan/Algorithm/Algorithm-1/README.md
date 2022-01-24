@@ -58,6 +58,6 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 
 ## TODO
 
-- [x] Finish all the study plans (algorithm-1).
+- [x] <s>Finish all the study plans (algorithm-1)</s>.
 
 ---

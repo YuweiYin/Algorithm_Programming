@@ -16,6 +16,6 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 
 ## TODO
 
-- Finish all the study plans (algorithm).
+- [ ] Finish all the study plans (algorithm).
 
 ---

@@ -10,6 +10,6 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ## TODO
 
-- Finish all the study plans (dynamic programming).
+- [ ] Finish all the study plans (dynamic programming).
 
 ---
