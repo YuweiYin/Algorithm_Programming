@@ -11,45 +11,47 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 ## Study Plan (Algorithm-2) List
 
 - Day 1 - Binary Search
-  - (Medium) [LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
-  - (Medium) [LC-0033-Search-in-Rotated-Sorted-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
-  - (Medium) [LC-0074-Search-a-2D-Matrix](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0074-Search-a-2D-Matrix.py)
+  - (Medium) LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
+  - (Medium) LC-0033-Search-in-Rotated-Sorted-Array: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
+  - (Medium) LC-0074-Search-a-2D-Matrix: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0074-Search-a-2D-Matrix.py)
 - Day 2 - Binary Search
-  - (Medium) [LC-0153-Find-Minimum-in-Rotated-Sorted-Array](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
-  - (Medium) [LC-0162-Find-Peak-Element](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0162-Find-Peak-Element.py)
+  - (Medium) LC-0153-Find-Minimum-in-Rotated-Sorted-Array: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
+  - (Medium) LC-0162-Find-Peak-Element: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0162-Find-Peak-Element.py)
 - Day 3 - Two Pointers
-  - (Medium) [LC-0082-Remove-Duplicates-from-Sorted-List-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
-  - (Medium) [LC-0015-3Sum](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0015-3Sum.py)
+  - (Medium) LC-0082-Remove-Duplicates-from-Sorted-List-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
+  - (Medium) LC-0015-3Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0015-3Sum.py)
 - Day 4 - Two Pointers
-  - (Easy) [LC-0844-Backspace-String-Compare](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0844-Backspace-String-Compare.py)
-  - (Medium) [LC-0986-Interval-List-Intersections](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0986-Interval-List-Intersections.py)
-  - (Medium) [LC-0011-Container-With-Most-Water](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0011-Container-With-Most-Water.py)
+  - (Easy) LC-0844-Backspace-String-Compare: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0844-Backspace-String-Compare.py)
+  - (Medium) LC-0986-Interval-List-Intersections: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0986-Interval-List-Intersections.py)
+  - (Medium) LC-0011-Container-With-Most-Water: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0011-Container-With-Most-Water.py)
 - Day 5 - Sliding Window
-  - (Medium) [LC-0438-Find-All-Anagrams-in-a-String](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
-  - (Medium) [LC-0713-Subarray-Product-Less-Than-K](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0713-Subarray-Product-Less-Than-K.py)
-  - (Medium) [LC-0209-Minimum-Size-Subarray-Sum](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
+  - (Medium) LC-0438-Find-All-Anagrams-in-a-String: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
+  - (Medium) LC-0713-Subarray-Product-Less-Than-K: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0713-Subarray-Product-Less-Than-K.py)
+  - (Medium) LC-0209-Minimum-Size-Subarray-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
 - Day 6 - Breadth-First Search / Depth-First Search
-  - (Medium) [LC-0200-Number-of-Islands](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0200-Number-of-Islands.py)
-  - (Medium) [LC-0547-Number-of-Provinces](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0547-Number-of-Provinces.py)
+  - (Medium) LC-0200-Number-of-Islands: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0200-Number-of-Islands.py)
+  - (Medium) LC-0547-Number-of-Provinces: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0547-Number-of-Provinces.py)
 - Day 7 - Breadth-First Search / Depth-First Search
-  - (Medium) [LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
-  - (Easy) [LC-0572-Subtree-of-Another-Tree](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0572-Subtree-of-Another-Tree.py)
+  - (Medium) LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
+  - (Easy) LC-0572-Subtree-of-Another-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0572-Subtree-of-Another-Tree.py)
 - Day 8 - Breadth-First Search / Depth-First Search
-  - (Medium) [LC-1091-Shortest-Path-in-Binary-Matrix](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
-  - (Medium) [LC-0130-Surrounded-Regions](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0130-Surrounded-Regions.py)
-  - (Medium) [LC-0797-All-Paths-From-Source-to-Target](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0797-All-Paths-From-Source-to-Target.py)
+  - (Medium) LC-1091-Shortest-Path-in-Binary-Matrix: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
+  - (Medium) LC-0130-Surrounded-Regions: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0130-Surrounded-Regions.py)
+  - (Medium) LC-0797-All-Paths-From-Source-to-Target: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0797-All-Paths-From-Source-to-Target.py)
 - Day 9 - Recursion / Backtracking
-  - (Medium) [LC-0078-Subsets](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0078-Subsets.py)
-  - (Medium) [LC-0090-Subsets-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0090-Subsets-II.py)
+  - (Medium) LC-0078-Subsets: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0078-Subsets.py)
+  - (Medium) LC-0090-Subsets-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0090-Subsets-II.py)
 - Day 10 - Recursion / Backtracking
-  - (Medium) [LC-0047-Permutations-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0047-Permutations-II.py)
-  - (Medium) [LC-0039-Combination-Sum](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0039-Combination-Sum.py)
-  - (Medium) [LC-0040-Combination-Sum-II](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0040-Combination-Sum-II.py)
+  - (Medium) LC-0047-Permutations-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0047-Permutations-II.py)
+  - (Medium) LC-0039-Combination-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0039-Combination-Sum.py)
+  - (Medium) LC-0040-Combination-Sum-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0040-Combination-Sum-II.py)
 - Day 11 - Recursion / Backtracking
-  - (Medium) [LC-0017-Letter-Combinations-of-a-Phone-Number](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0017-Letter-Combinations-of-a-Phone-Number.py)
-  - (Medium) [LC-0022-Generate-Parentheses](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0022-Generate-Parentheses.py)
-  - (Medium) [LC-0079-Word-Search](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0079-Word-Search.py)
+  - (Medium) LC-0017-Letter-Combinations-of-a-Phone-Number: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0017-Letter-Combinations-of-a-Phone-Number.py)
+  - (Medium) LC-0022-Generate-Parentheses: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0022-Generate-Parentheses.py)
+  - (Medium) LC-0079-Word-Search: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0079-Word-Search.py)
 - Day 12 - Dynamic Programming
+  - (Medium) LC-0213-House-Robber-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0213-House-Robber-II.py)
+  - (Medium) LC-0055-Jump-Game: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0055-Jump-Game.py)
 - Day 13 - Dynamic Programming
 - Day 14 - Dynamic Programming
 - Day 15 - Dynamic Programming

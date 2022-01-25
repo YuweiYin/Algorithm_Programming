@@ -26,6 +26,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0040-Combination-Sum-II: [Python3](./Python3/LC-0040-Combination-Sum-II.py)
 - LC-0046-Permutations: [Python3](./Python3/LC-0046-Permutations.py)
 - LC-0047-Permutations-II: [Python3](./Python3/LC-0047-Permutations-II.py)
+- LC-0055-Jump-Game: [Python3](./Python3/LC-0055-Jump-Game.py)
 - LC-0067-Add-Binary: [Python3](./Python3/LC-0067-Add-Binary.py)
 - LC-0070-Climbing-Stairs: [Python3](./Python3/LC-0070-Climbing-Stairs.py)
 - LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
@@ -70,6 +71,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0206-Reverse-Linked-List: [Python3](./Python3/LC-0206-Reverse-Linked-List.py)
 - LC-0209-Minimum-Size-Subarray-Sum: [Python3](./Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
+- LC-0213-House-Robber-II: [Python3](./Python3/LC-0213-House-Robber-II.py)
 - LC-0219-Contains-Duplicate-II: [Python3](./Python3/LC-0219-Contains-Duplicate-II.py)
 - LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
 - LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
@@ -162,6 +164,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
+- LC-0941-Valid-Mountain-Array: [Python3](./Python3/LC-0941-Valid-Mountain-Array.py)
 - LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
 - LC-0986-Interval-List-Intersections: [Python3](./Python3/LC-0986-Interval-List-Intersections.py)
 - LC-0994-Rotting-Oranges: [Python3](./Python3/LC-0994-Rotting-Oranges.py)
@@ -239,6 +242,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-1614-Maximum-Nesting-Depth-of-the-Parentheses: [Python3](./Python3/LC-1614-Maximum-Nesting-Depth-of-the-Parentheses.py)
 - LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
+- LC-1688-Count-of-Matches-in-Tournament: [Python3](./Python3/LC-1688-Count-of-Matches-in-Tournament.py)
 
 </details>
 
