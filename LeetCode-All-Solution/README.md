@@ -24,9 +24,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0035-Search-Insert-Position: [Python3](./Python3/LC-0035-Search-Insert-Position.py)
 - LC-0039-Combination-Sum: [Python3](./Python3/LC-0039-Combination-Sum.py)
 - LC-0040-Combination-Sum-II: [Python3](./Python3/LC-0040-Combination-Sum-II.py)
+- LC-0045-Jump-Game-II: [Python3](./Python3/LC-0045-Jump-Game-II.py)
 - LC-0046-Permutations: [Python3](./Python3/LC-0046-Permutations.py)
 - LC-0047-Permutations-II: [Python3](./Python3/LC-0047-Permutations-II.py)
 - LC-0055-Jump-Game: [Python3](./Python3/LC-0055-Jump-Game.py)
+- LC-0062-Unique-Paths: [Python3](./Python3/LC-0062-Unique-Paths.py)
 - LC-0067-Add-Binary: [Python3](./Python3/LC-0067-Add-Binary.py)
 - LC-0070-Climbing-Stairs: [Python3](./Python3/LC-0070-Climbing-Stairs.py)
 - LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
@@ -211,6 +213,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
 - LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
 - LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
 
@@ -278,6 +281,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-2013-Detect-Squares: [Python3](./Python3/LC-2013-Detect-Squares.py)
 - LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
 - LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
 - LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)

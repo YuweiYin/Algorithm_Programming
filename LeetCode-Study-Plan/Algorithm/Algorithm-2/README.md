@@ -53,6 +53,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) LC-0213-House-Robber-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0213-House-Robber-II.py)
   - (Medium) LC-0055-Jump-Game: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0055-Jump-Game.py)
 - Day 13 - Dynamic Programming
+  - (Medium) LC-0045-Jump-Game-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0045-Jump-Game-II.py)
+  - (Medium) LC-0062-Unique-Paths: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0062-Unique-Paths.py)
 - Day 14 - Dynamic Programming
 - Day 15 - Dynamic Programming
 - Day 16 - Dynamic Programming
