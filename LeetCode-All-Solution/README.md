@@ -12,6 +12,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-0003-Longest-Substring-Without-Repeating-Characters: [Python3](./Python3/LC-0003-Longest-Substring-Without-Repeating-Characters.py)
+- LC-0005-Longest-Palindromic-Substring: [Python3](./Python3/LC-0005-Longest-Palindromic-Substring.py)
 - LC-0008-String-to-Integer-atoi: [Python3](./Python3/LC-0008-String-to-Intege-atoi.py)
 - LC-0011-Container-With-Most-Water: [Python3](./Python3/LC-0011-Container-With-Most-Water.py)
 - LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
@@ -102,6 +103,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-0413-Arithmetic-Slices: [Python3](./Python3/LC-0413-Arithmetic-Slices.py)
+- LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array: [Python3](./Python3/LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array.py)
 - LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
 - LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons: [Python3](./Python3/LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons.py)
 
@@ -286,6 +289,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
 - LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)
 - LC-2045-Second-Minimum-Time-to-Reach-Destination: [Python3](./Python3/LC-2045-Second-Minimum-Time-to-Reach-Destination.py)
+- LC-2047-Number-of-Valid-Words-in-a-Sentence: [Python3](./Python3/LC-2047-Number-of-Valid-Words-in-a-Sentence.py)
 
 </details>
 
