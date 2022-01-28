@@ -48,7 +48,7 @@ class Solution:
             return 0
         if len(nums) == 3:
             return 1 if nums[1] - nums[0] == nums[2] - nums[1] else 0
-        # main method: (scan and find each longest valid subarray, )
+        # main method: (scan and find each longest valid subarray)
         #     for a valid array, all its subarrays are valid (len >= 3)
         return self._numberOfArithmeticSlices(nums)
 

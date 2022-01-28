@@ -59,6 +59,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) LC-0005-Longest-Palindromic-Substring: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0005-Longest-Palindromic-Substring.py)
   - (Medium) LC-0413-Arithmetic-Slices: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0413-Arithmetic-Slices.py)
 - Day 15 - Dynamic Programming
+  - (Medium) LC-0091-Decode-Ways: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0091-Decode-Ways.py)
+  - (Medium) LC-0139-Word-Break: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0139-Word-Break.py)
 - Day 16 - Dynamic Programming
 - Day 17 - Dynamic Programming
 - Day 18 - Dynamic Programming

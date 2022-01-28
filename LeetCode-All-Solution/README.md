@@ -40,6 +40,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0082-Remove-Duplicates-from-Sorted-List-II: [Python3](./Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
 - LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
 - LC-0090-Subsets-II: [Python3](./Python3/LC-0090-Subsets-II.py)
+- LC-0091-Decode-Ways: [Python3](./Python3/LC-0091-Decode-Ways.py)
 
 </details>
 
@@ -55,6 +56,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
 - LC-0134-Gas-Station: [Python3](./Python3/LC-0134-Gas-Station.py)
 - LC-0136-Single-Number: [Python3](./Python3/LC-0136-Single-Number.py)
+- LC-0139-Word-Break: [Python3](./Python3/LC-0139-Word-Break.py)
 - LC-0142-Linked-List-Cycle-II: [Python3](./Python3/LC-0142-Linked-List-Cycle-II.py)
 - LC-0153-Find-Minimum-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
 - LC-0162-Find-Peak-Element: [Python3](./Python3/LC-0162-Find-Peak-Element.py)
@@ -74,6 +76,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0206-Reverse-Linked-List: [Python3](./Python3/LC-0206-Reverse-Linked-List.py)
 - LC-0209-Minimum-Size-Subarray-Sum: [Python3](./Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
+- LC-0211-Design-Add-and-Search-Words-Data-Structure: [Python3](./Python3/LC-0211-Design-Add-and-Search-Words-Data-Structure.py)
 - LC-0213-House-Robber-II: [Python3](./Python3/LC-0213-House-Robber-II.py)
 - LC-0219-Contains-Duplicate-II: [Python3](./Python3/LC-0219-Contains-Duplicate-II.py)
 - LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
@@ -275,7 +278,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
-- 
+- LC-1996-The-Number-of-Weak-Characters-in-the-Game: [Python3](./Python3/LC-1996-The-Number-of-Weak-Characters-in-the-Game.py)
 
 </details>
 
