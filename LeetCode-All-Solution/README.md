@@ -38,6 +38,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0078-Subsets: [Python3](./Python3/LC-0078-Subsets.py)
 - LC-0079-Word-Search: [Python3](./Python3/LC-0079-Word-Search.py)
 - LC-0082-Remove-Duplicates-from-Sorted-List-II: [Python3](./Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
+- LC-0084-Largest-Rectangle-in-Histogram: [Python3](./Python3/LC-0084-Largest-Rectangle-in-Histogram.py)
 - LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
 - LC-0090-Subsets-II: [Python3](./Python3/LC-0090-Subsets-II.py)
 - LC-0091-Decode-Ways: [Python3](./Python3/LC-0091-Decode-Ways.py)
@@ -83,6 +84,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
 - LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
 - LC-0290-Word-Pattern: [Python3](./Python3/LC-0290-Word-Pattern.py)
+- LC-0300-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0300-Longest-Increasing-Subsequence.py)
 
 </details>
 
@@ -135,6 +137,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - LC-0617-Merge-Two-Binary-Trees: [Python3](./Python3/LC-0617-Merge-Two-Binary-Trees.py)
+- LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
 - LC-0695-Max-Area-of-Island: [Python3](./Python3/LC-0695-Max-Area-of-Island.py)
 
 </details>
@@ -261,6 +264,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-1716-Calculate-Money-in-Leetcode-Bank: [Python3](./Python3/LC-1716-Calculate-Money-in-Leetcode-Bank.py)
+- LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
 
 </details>
 
