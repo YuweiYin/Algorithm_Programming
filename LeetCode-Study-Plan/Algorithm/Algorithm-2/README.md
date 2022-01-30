@@ -65,6 +65,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Medium) LC-0300-Longest-Increasing-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0300-Longest-Increasing-Subsequence.py)
   - (Medium) LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
 - Day 17 - Dynamic Programming
+  - (Medium) LC-1143-Longest-Common-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1143-Longest-Common-Subsequence.py)
+  - (Medium) LC-0583-Delete-Operation-for-Two-Strings: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0583-Delete-Operation-for-Two-Strings.py)
 - Day 18 - Dynamic Programming
 - Day 19 - Bit Manipulation
 - Day 20 - Others

@@ -127,6 +127,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0557-Reverse-Words-in-a-String-III: [Python3](./Python3/LC-0557-Reverse-Words-in-a-String-III.py)
 - LC-0567-Permutation-in-String: [Python3](./Python3/LC-0567-Permutation-in-String.py)
 - LC-0572-Subtree-of-Another-Tree: [Python3](./Python3/LC-0572-Subtree-of-Another-Tree.py)
+- LC-0583-Delete-Operation-for-Two-Strings: [Python3](./Python3/LC-0583-Delete-Operation-for-Two-Strings.py)
 
 </details>
 
@@ -166,6 +167,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0849-Maximize-Distance-to-Closest-Person: [Python3](./Python3/LC-0849-Maximize-Distance-to-Closest-Person.py)
 - LC-0875-Koko-Eating-Bananas: [Python3](./Python3/LC-0875-Koko-Eating-Bananas.py)
 - LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
+- LC-0884-Uncommon-Words-from-Two-Sentences: [Python3](./Python3/LC-0884-Uncommon-Words-from-Two-Sentences.py)
 
 </details>
 
@@ -203,6 +205,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-1143-Longest-Common-Subsequence: [Python3](./Python3/LC-1143-Longest-Common-Subsequence.py)
 - LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
 
 </details>
