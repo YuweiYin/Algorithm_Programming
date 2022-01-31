@@ -33,6 +33,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0067-Add-Binary: [Python3](./Python3/LC-0067-Add-Binary.py)
 - LC-0070-Climbing-Stairs: [Python3](./Python3/LC-0070-Climbing-Stairs.py)
 - LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
+- LC-0072-Edit-Distance: [Python3](./Python3/LC-0072-Edit-Distance.py)
 - LC-0074-Search-a-2D-Matrix: [Python3](./Python3/LC-0074-Search-a-2D-Matrix.py)
 - LC-0077-Combinations: [Python3](./Python3/LC-0077-Combinations.py)
 - LC-0078-Subsets: [Python3](./Python3/LC-0078-Subsets.py)
@@ -95,7 +96,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - LC-0312-Burst-Balloons: [Python3](./Python3/LC-0312-Burst-Balloons.py)
+- LC-0322-Coin-Change: [Python3](./Python3/LC-0322-Coin-Change.py)
 - LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
+- LC-0343-Integer-Break: [Python3](./Python3/LC-0343-Integer-Break.py)
 - LC-0344-Reverse-String: [Python3](./Python3/LC-0344-Reverse-String.py)
 - LC-0373-Find-K-Pairs-with-Smallest-Sums: [Python3](./Python3/LC-0373-Find-K-Pairs-with-Smallest-Sums.py)
 - LC-0382-Linked-List-Random-Node: [Python3](./Python3/LC-0382-Linked-List-Random-Node.py)
@@ -227,6 +230,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
 - LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
+- LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero: [Python3](./Python3/LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
 - LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
 
 </details>
@@ -257,6 +261,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-1614-Maximum-Nesting-Depth-of-the-Parentheses: [Python3](./Python3/LC-1614-Maximum-Nesting-Depth-of-the-Parentheses.py)
 - LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
+- LC-1672-Richest-Customer-Wealth: [Python3](./Python3/LC-1672-Richest-Customer-Wealth.py)
 - LC-1688-Count-of-Matches-in-Tournament: [Python3](./Python3/LC-1688-Count-of-Matches-in-Tournament.py)
 
 </details>
