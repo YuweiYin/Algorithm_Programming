@@ -54,6 +54,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0116-Populating-Next-Right-Pointers-in-Each-Node: [Python3](./Python3/LC-0116-Populating-Next-Right-Pointers-in-Each-Node.py)
 - LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II: [Python3](./Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
 - LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
+- LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](./Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
 - LC-0130-Surrounded-Regions: [Python3](./Python3/LC-0130-Surrounded-Regions.py)
 - LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
 - LC-0134-Gas-Station: [Python3](./Python3/LC-0134-Gas-Station.py)
@@ -76,6 +77,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - LC-0206-Reverse-Linked-List: [Python3](./Python3/LC-0206-Reverse-Linked-List.py)
 - LC-0209-Minimum-Size-Subarray-Sum: [Python3](./Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
 - LC-0211-Design-Add-and-Search-Words-Data-Structure: [Python3](./Python3/LC-0211-Design-Add-and-Search-Words-Data-Structure.py)
@@ -272,6 +274,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-1716-Calculate-Money-in-Leetcode-Bank: [Python3](./Python3/LC-1716-Calculate-Money-in-Leetcode-Bank.py)
+- LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
 
 </details>
