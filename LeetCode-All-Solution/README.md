@@ -104,6 +104,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0344-Reverse-String: [Python3](./Python3/LC-0344-Reverse-String.py)
 - LC-0373-Find-K-Pairs-with-Smallest-Sums: [Python3](./Python3/LC-0373-Find-K-Pairs-with-Smallest-Sums.py)
 - LC-0382-Linked-List-Random-Node: [Python3](./Python3/LC-0382-Linked-List-Random-Node.py)
+- LC-0384-Shuffle-an-Array: [Python3](./Python3/LC-0384-Shuffle-an-Array.py)
 - LC-0390-Elimination-Game: [Python3](./Python3/LC-0390-Elimination-Game.py)
 
 </details>
@@ -294,6 +295,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-1996-The-Number-of-Weak-Characters-in-the-Game: [Python3](./Python3/LC-1996-The-Number-of-Weak-Characters-in-the-Game.py)
+- LC-2000-Reverse-Prefix-of-Word: [Python3](./Python3/LC-2000-Reverse-Prefix-of-Word.py)
 
 </details>
 

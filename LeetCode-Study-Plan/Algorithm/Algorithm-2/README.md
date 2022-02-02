@@ -74,6 +74,7 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 - Day 19 - Bit Manipulation
   - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - Day 20 - Others
+  - (Medium) LC-0384-Shuffle-an-Array: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0384-Shuffle-an-Array.py)
 - Day 21 - Others
 
 ## TODO
