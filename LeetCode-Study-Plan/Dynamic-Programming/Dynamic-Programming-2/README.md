@@ -1,4 +1,4 @@
-# Algorithm_YuweiYin - Study-Plan (Dynamic-Programming)
+# Algorithm_YuweiYin - Study-Plan (Dynamic-Programming-2)
 
 Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
@@ -8,15 +8,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ---
 
-## Study Plan (Dynamic-Programming) List
+## Study Plan (Dynamic-Programming-2) List
 
-- [Dynamic-Programming-1](./Dynamic-Programming-1/)
-- [Dynamic-Programming-2](./Dynamic-Programming-2/)
-- [Dynamic-Programming-3](./Dynamic-Programming-3/)
-- [Dynamic-Programming-4](./Dynamic-Programming-4/)
+- 
 
 ## TODO
 
-- [ ] Finish all the study plans (dynamic programming).
+- [ ] Finish all the study plans (dynamic-programming-2).
 
 ---

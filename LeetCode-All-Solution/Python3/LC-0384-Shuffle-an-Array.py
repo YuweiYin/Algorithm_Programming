@@ -44,9 +44,6 @@ Constraints:
     -10^6 <= nums[i] <= 10^6
     All the elements of nums are unique.
     At most 5 * 10^4 calls in total will be made to reset and shuffle.
-
--- To shuffle an array a of n elements (indices 0..n-1):
-
 """
 
 

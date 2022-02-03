@@ -1,4 +1,4 @@
-# Algorithm_YuweiYin - Study-Plan (Data-Structure)
+# Algorithm_YuweiYin - Study-Plan (Data-Structure-2)
 
 Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
@@ -10,14 +10,12 @@ During the computer programming process, **identifying and using the appropriate
 
 ---
 
-## Study Plan (Data-Structure) List
+## Study Plan (Data-Structure-2) List
 
-- [Data-Structure-1](./Data-Structure-1/)
-- [Data-Structure-2](./Data-Structure-2/)
-- [Data-Structure-3](./Data-Structure-3/)
+- 
 
 ## TODO
 
-- [ ] Finish all the study plans (data structure).
+- [ ] Finish all the study plans (data-structure-2).
 
 ---

@@ -61,6 +61,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0136-Single-Number: [Python3](./Python3/LC-0136-Single-Number.py)
 - LC-0139-Word-Break: [Python3](./Python3/LC-0139-Word-Break.py)
 - LC-0142-Linked-List-Cycle-II: [Python3](./Python3/LC-0142-Linked-List-Cycle-II.py)
+- LC-0149-Max-Points-on-a-Line: [Python3](./Python3/LC-0149-Max-Points-on-a-Line.py)
 - LC-0153-Find-Minimum-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
 - LC-0162-Find-Peak-Element: [Python3](./Python3/LC-0162-Find-Peak-Element.py)
 - LC-0167-Two-Sum-II-Input-Array-Is-Sorted: [Python3](./Python3/LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py)
@@ -78,6 +79,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
+- LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
 - LC-0206-Reverse-Linked-List: [Python3](./Python3/LC-0206-Reverse-Linked-List.py)
 - LC-0209-Minimum-Size-Subarray-Sum: [Python3](./Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
 - LC-0211-Design-Add-and-Search-Words-Data-Structure: [Python3](./Python3/LC-0211-Design-Add-and-Search-Words-Data-Structure.py)
@@ -118,6 +120,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array: [Python3](./Python3/LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array.py)
 - LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
 - LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons: [Python3](./Python3/LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons.py)
+- LC-0454-4Sum-II: [Python3](./Python3/LC-0454-4Sum-II.py)
 
 </details>
 
@@ -243,6 +246,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K: [Python3](./Python3/LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.py)
 - LC-1463-Cherry-Pickup-II: [Python3](./Python3/LC-1463-Cherry-Pickup-II.py)
 
 </details>
