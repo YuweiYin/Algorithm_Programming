@@ -90,7 +90,7 @@ class Solution:
 
     def _secondMinimum(self, n: int, edges: List[List[int]], time: int, change: int) -> int:
         """
-        TODO: TTL for the graph with about 10^4 vertices, need to prune search tree.
+        TODO: TLE for the graph with about 10^4 vertices, need to prune search tree.
         """
         len_edge = len(edges)
         assert len_edge >= n - 1

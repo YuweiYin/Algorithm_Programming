@@ -129,7 +129,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
 - LC-0520-Detect-Capital: [Python3](./Python3/LC-0520-Detect-Capital.py)
+- LC-0525-Contiguous-Array: [Python3](./Python3/LC-0525-Contiguous-Array.py)
 - LC-0539-Minimum-Time-Difference: [Python3](./Python3/LC-0539-Minimum-Time-Difference.py)
 - LC-0542-01-Matrix: [Python3](./Python3/LC-0542-01-Matrix.py)
 - LC-0547-Number-of-Provinces: [Python3](./Python3/LC-0547-Number-of-Provinces.py)
@@ -214,6 +216,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-1137-N-th-Tribonacci-Number: [Python3](./Python3/LC-1137-N-th-Tribonacci-Number.py)
 - LC-1143-Longest-Common-Subsequence: [Python3](./Python3/LC-1143-Longest-Common-Subsequence.py)
 - LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
 
@@ -279,6 +282,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-1716-Calculate-Money-in-Leetcode-Bank: [Python3](./Python3/LC-1716-Calculate-Money-in-Leetcode-Bank.py)
+- LC-1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square: [Python3](./Python3/LC-1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square.py)
 - LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
 

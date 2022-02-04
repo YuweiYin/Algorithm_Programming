@@ -64,7 +64,7 @@ class Solution:
         #     explanation: 'a' can come from 'e'/'u'/'i', 'e' can come from 'a'/'i', 'i' can come from 'e'/'o'
         #         'o' can come from 'i', 'u' can come from 'i'/'o'
         # based on the dp equation (recurrence relation), fast matrix multiplication can be applied
-        # return self._countVowelPermutationDFS(n)  # TTL
+        # return self._countVowelPermutationDFS(n)  # TLE
         return self._countVowelPermutationDP(n)
 
     def _countVowelPermutationDFS(self, n: int) -> int:

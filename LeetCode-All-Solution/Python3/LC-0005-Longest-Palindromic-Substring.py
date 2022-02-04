@@ -43,7 +43,7 @@ class Solution:
         if len(s) == 2:
             return s if s[0] == s[1] else s[0]
         # main method: (1. Dynamic Programming; 2. Mid Expansion; 3. Manacher's algorithm.)
-        # return self._longestPalindromeDp(s)  # (the slowest, may TTL) Time: O(n^2).  Space: O(n^2)
+        # return self._longestPalindromeDp(s)  # (the slowest, may TLE) Time: O(n^2).  Space: O(n^2)
         # return self._longestPalindromeMidExpand(s)  # (faster) Time: O(n^2).  Space: O(1)
         return self._longestPalindromeManacher(s)  # (best) Time: O(n).  Space: O(n)
 

@@ -57,7 +57,7 @@ class Solution:
         if not (len(nums1) == len(nums2) == len(nums3) == len(nums4)):
             return 0  # Error input type
         # main method:
-        #     1. slow (O(n^3 log n), TTL): fix nums1[i], nums2[j], and nums3[k], binary search find nums4[l]
+        #     1. slow (O(n^3 log n), TLE): fix nums1[i], nums2[j], and nums3[k], binary search find nums4[l]
         # return self._fourSumCountSlow(nums1, nums2, nums3, nums4)
         #     2. fast O(n^2): nums1[i] and nums2[j] is a group, nums3[k] and nums4[l] is a group
         #         if nums1[i] + nums2[j] == - (nums3[k] + nums4[l]), then bingo

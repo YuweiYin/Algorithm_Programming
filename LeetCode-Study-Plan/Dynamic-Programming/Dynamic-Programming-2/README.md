@@ -10,7 +10,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 ## Study Plan (Dynamic-Programming-2) List
 
-- 
+- *LeetCode Premium*
 
 ## TODO
 

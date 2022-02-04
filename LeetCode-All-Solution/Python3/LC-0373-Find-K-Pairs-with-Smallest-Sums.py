@@ -69,7 +69,7 @@ class Solution:
         res_list = []
         sum_dict = dict({})
 
-        # O(len_nums1 * len_nums2)  TTL
+        # O(len_nums1 * len_nums2)  TLE
         for idx1, n1 in enumerate(nums1):
             for idx2, n2 in enumerate(nums2):
                 cur_sum = n1 + n2
@@ -183,7 +183,7 @@ class Solution:
 
         res_list = []
         my_heapq = MyHeapqList()
-        # # O(len_nums1 * len_nums2)  TTL
+        # # O(len_nums1 * len_nums2)  TLE
         # for n1 in nums1:  # push all items into heapq
         #     for n2 in nums2:
         #         my_heapq.heappush([n1 + n2, n1, n2])

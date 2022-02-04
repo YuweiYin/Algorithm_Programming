@@ -12,7 +12,7 @@ During the computer programming process, **identifying and using the appropriate
 
 ## Study Plan (Data-Structure-3) List
 
-- 
+- *LeetCode Premium*
 
 ## TODO
 

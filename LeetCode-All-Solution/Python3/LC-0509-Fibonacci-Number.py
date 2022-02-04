@@ -2,78 +2,73 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-0070-Climbing-Stairs.py
+@File    : LC-0509-Fibonacci-Number.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
-@Date    : 2022-01-12
+@Date    : 2022-02-04
 =================================================================="""
-import math
+
 import sys
 import time
 # from typing import List
-# import functools
+# import collections
+import math
 
 """
-LeetCode - 0070 - (Easy) - Climbing Stairs
-https://leetcode.com/problems/climbing-stairs/
+LeetCode - 0509 - (Easy) - Fibonacci Number
+https://leetcode.com/problems/fibonacci-number/
 
 Description & Requirement:
-    You are climbing a staircase. It takes n steps to reach the top.
-
-    Each time you can either climb 1 or 2 steps. 
-    In how many distinct ways can you climb to the top?
+    The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, 
+    such that each number is the sum of the two preceding ones, starting from 0 and 1. That is,
+        F(0) = 0, F(1) = 1
+        F(n) = F(n - 1) + F(n - 2), for n > 1.
+    Given n, calculate F(n).
 
 Example 1:
     Input: n = 2
-    Output: 2
-    Explanation: There are two ways to climb to the top.
-        1. 1 step + 1 step
-        2. 2 steps
+    Output: 1
+    Explanation: F(2) = F(1) + F(0) = 1 + 0 = 1.
 Example 2:
     Input: n = 3
+    Output: 2
+    Explanation: F(3) = F(2) + F(1) = 1 + 1 = 2.
+Example 3:
+    Input: n = 4
     Output: 3
-    Explanation: There are three ways to climb to the top.
-        1. 1 step + 1 step + 1 step
-        2. 1 step + 2 steps
-        3. 2 steps + 1 step
+    Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 
 Constraints:
-    1 <= n <= 45
+    0 <= n <= 30
 
 Related Problem:
-    LC-0509-Fibonacci-Number
+    LC-0070-Climbing-Stairs
 """
 
 
 class Solution:
-    def climbStairs(self, n: int) -> int:
+    def fib(self, n: int) -> int:
         # exception case
         if not isinstance(n, int) or n <= 0:
             return 0  # Error input type
         if n == 1:
             return 1
         elif n == 2:
-            return 2
+            return 1
         elif n == 3:
-            return 3
-        # main method: (Dynamic Programming: DP equation: dp[i] = dp[i-1] + dp[i-2] -> Mathematics: Fibonacci sequence)
-        #     Explanation: When jumping to i-th staircase, it can either from (i-1)-th staircase (by jump 1 step);
-        #     or from (i-2)-th staircase (by jump 2 steps at a time), so the total jumping way to get i-th staircase
-        #     dp[i] is the sum of dp[i-1] and dp[i-2]  (i >= 2).
-        #     The dp equation dp[i] = dp[i-1] + dp[i-2] forms exactly the Fibonacci sequence: 1, 1, 2, 3, 5, ...
-        #     In this problem, the fibo seq is: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987,
-        #     1597, 2584, 4181, 6765, 10946, ... [Fibonacci_number](https://en.wikipedia.org/wiki/Fibonacci_number)
-        return self._climbStairsFibonacci(n)
+            return 2
+        # main method: (3 methods)
+        return self._fib(n)
 
-    def _climbStairsFibonacci(self, n: int) -> int:
-        assert isinstance(n, int) and n > 2
+    def _fib(self, n: int) -> int:
+        assert n >= 4
 
-        def __fibo_simple(first: int, second: int, cur_staircase: int):
+        def __fibo_simple(first: int, second: int, cur_n: int):
             """
             __fibo_simple can be accelerated by dynamic programming technique or matrix fast power technique
             """
-            if cur_staircase == n:
+            if cur_n == n:
                 return second
-            return __fibo_simple(second, first + second, cur_staircase + 1)
+            return __fibo_simple(second, first + second, cur_n + 1)
 
         def __fibo_matrix_fast_power():
             """
@@ -105,8 +100,7 @@ class Solution:
 
                 return res_mx
 
-            # note that in this problem, the actual target Fibonacci number is F_{n+1} rather than F_n
-            fino_matrix = __matrix_fast_power(multiplier_matrix, n + 1)
+            fino_matrix = __matrix_fast_power(multiplier_matrix, n)
             return fino_matrix[0][1]
 
         def __fibo_binet():
@@ -120,49 +114,38 @@ class Solution:
             However, when n is extremely large, there might be some accuracy error
             """
             SQRT5 = math.sqrt(5)
-            # note that in this problem, the actual target Fibonacci number is F_{n+1} rather than F_n
-            _fibo = math.pow((1 + SQRT5) / 2, n + 1) - math.pow((1 - SQRT5) / 2, n + 1)
+            _fibo = math.pow((1 + SQRT5) / 2, n) - math.pow((1 - SQRT5) / 2, n)
             return int(_fibo / SQRT5)
 
-        # fibo_n = __fibo_simple(1, 2, 2)
+        # fibo_n = __fibo_simple(0, 1, 1)
         # fibo_n = __fibo_matrix_fast_power()
         fibo_n = __fibo_binet()
         return fibo_n
 
 
 def main():
-    # Example 1: Output: 2
+    # Example 1: Output: 1
     # n = 2
 
-    # Example 2: Output: 3
+    # Example 2: Output: 2
     # n = 3
 
-    # Example 3: Output: 89
-    # n = 10
-
-    # Example 4: Output: 10946
-    # n = 20
-
-    # Example 5: Output: 1346269
-    # n = 30
-
-    # Example 6: Output: 165580141
-    # n = 40
-
-    # Example 7: Output: 1836311903
-    n = 45
+    # Example 3: Output: 3
+    # n = 4
 
     # init instance
     solution = Solution()
 
     # run & time
     start = time.process_time()
-    ans = solution.climbStairs(n)
+    for n in range(31):
+        ans = solution.fib(n)
+        print(ans)
     end = time.process_time()
 
     # show answer
-    print('\nAnswer:')
-    print(ans)
+    # print('\nAnswer:')
+    # print(ans)
 
     # show time consumption
     print('Running Time: %.5f ms' % ((end - start) * 1000))

@@ -71,7 +71,7 @@ class Solution:
 
     def _canJumpBfs(self, nums: List[int]) -> bool:
         """
-        TODO: TTL, need prune search tree
+        TODO: TLE, need prune search tree
         """
         len_nums = len(nums)
         assert len_nums > 2

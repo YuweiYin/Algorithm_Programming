@@ -10,7 +10,7 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 
 ## Study Plan (Algorithm-3) List
 
-- TODO
+- *LeetCode Premium*
 
 ## TODO
 
