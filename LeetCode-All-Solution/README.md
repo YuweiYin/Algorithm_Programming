@@ -20,6 +20,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0019-Remove-Nth-Node-From-End-of-List: [Python3](./Python3/LC-0019-Remove-Nth-Node-From-End-of-List.py)
 - LC-0021-Merge-Two-Sorted-Lists: [Python3](./Python3/LC-0021-Merge-Two-Sorted-Lists.py)
 - LC-0022-Generate-Parentheses: [Python3](./Python3/LC-0022-Generate-Parentheses.py)
+- LC-0023-Merge-k-Sorted-Lists: [Python3](./Python3/LC-0023-Merge-k-Sorted-Lists.py)
 - LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
 - LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](./Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
 - LC-0035-Search-Insert-Position: [Python3](./Python3/LC-0035-Search-Insert-Position.py)
@@ -163,6 +164,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
 - LC-0713-Subarray-Product-Less-Than-K: [Python3](./Python3/LC-0713-Subarray-Product-Less-Than-K.py)
 - LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
+- LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
 - LC-0797-All-Paths-From-Source-to-Target: [Python3](./Python3/LC-0797-All-Paths-From-Source-to-Target.py)
@@ -227,6 +229,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-1219-Path-with-Maximum-Gold: [Python3](./Python3/LC-1219-Path-with-Maximum-Gold.py)
 - LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
 - LC-1291-Sequential-Digits: [Python3](./Python3/LC-1291-Sequential-Digits.py)
 

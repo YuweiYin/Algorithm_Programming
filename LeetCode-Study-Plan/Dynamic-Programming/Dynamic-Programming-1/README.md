@@ -12,8 +12,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - Day 1
   - (Easy) LC-0509-Fibonacci-Number: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0509-Fibonacci-Number.py)
-  - (Easy) LC-1137-N-th-Tribonacci-Number: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1137-N-th-Tribonacci-Number.py)
+  - (Easy) (Easy) LC-1137-N-th-Tribonacci-Number: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1137-N-th-Tribonacci-Number.py)
 - Day 2
+  - (Easy) LC-0070-Climbing-Stairs: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0070-Climbing-Stairs.py)
+  - (Easy) LC-0746-Min-Cost-Climbing-Stairs: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - Day 3
 - Day 4
 - Day 5
