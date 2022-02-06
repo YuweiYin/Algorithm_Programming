@@ -17,6 +17,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Easy) LC-0070-Climbing-Stairs: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0070-Climbing-Stairs.py)
   - (Easy) LC-0746-Min-Cost-Climbing-Stairs: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - Day 3
+  - (Medium) LC-0198-House-Robber: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0198-House-Robber.py)
+  - (Medium) LC-0213-House-Robber-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0213-House-Robber-II.py)
+  - (Medium) LC-0740-Delete-and-Earn: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0740-Delete-and-Earn.py)
 - Day 4
 - Day 5
 - Day 6
