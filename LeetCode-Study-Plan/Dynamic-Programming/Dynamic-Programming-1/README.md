@@ -21,6 +21,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0213-House-Robber-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0213-House-Robber-II.py)
   - (Medium) LC-0740-Delete-and-Earn: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0740-Delete-and-Earn.py)
 - Day 4
+  - (Medium) LC-0055-Jump-Game: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0055-Jump-Game.py)
+  - (Medium) LC-0045-Jump-Game-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0045-Jump-Game-II.py)
 - Day 5
 - Day 6
 - Day 7

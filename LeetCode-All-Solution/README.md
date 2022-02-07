@@ -109,6 +109,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0373-Find-K-Pairs-with-Smallest-Sums: [Python3](./Python3/LC-0373-Find-K-Pairs-with-Smallest-Sums.py)
 - LC-0382-Linked-List-Random-Node: [Python3](./Python3/LC-0382-Linked-List-Random-Node.py)
 - LC-0384-Shuffle-an-Array: [Python3](./Python3/LC-0384-Shuffle-an-Array.py)
+- LC-0389-Find-the-Difference: [Python3](./Python3/LC-0389-Find-the-Difference.py)
 - LC-0390-Elimination-Game: [Python3](./Python3/LC-0390-Elimination-Game.py)
 
 </details>
@@ -254,6 +255,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
 - LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K: [Python3](./Python3/LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.py)
 - LC-1463-Cherry-Pickup-II: [Python3](./Python3/LC-1463-Cherry-Pickup-II.py)
 
