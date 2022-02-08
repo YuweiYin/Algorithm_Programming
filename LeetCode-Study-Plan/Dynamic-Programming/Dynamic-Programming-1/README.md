@@ -24,6 +24,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0055-Jump-Game: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0055-Jump-Game.py)
   - (Medium) LC-0045-Jump-Game-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0045-Jump-Game-II.py)
 - Day 5
+  - (Easy) LC-0053-Maximum-Subarray: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0053-Maximum-Subarray.py)
+  - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
 - Day 6
 - Day 7
 - Day 8
