@@ -27,6 +27,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Easy) LC-0053-Maximum-Subarray: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0053-Maximum-Subarray.py)
   - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
 - Day 6
+  - (Medium) LC-0152-Maximum-Product-Subarray: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0152-Maximum-Product-Subarray.py)
+  - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
 - Day 7
 - Day 8
 - Day 9

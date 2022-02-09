@@ -65,6 +65,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0139-Word-Break: [Python3](./Python3/LC-0139-Word-Break.py)
 - LC-0142-Linked-List-Cycle-II: [Python3](./Python3/LC-0142-Linked-List-Cycle-II.py)
 - LC-0149-Max-Points-on-a-Line: [Python3](./Python3/LC-0149-Max-Points-on-a-Line.py)
+- LC-0152-Maximum-Product-Subarray: [Python3](./Python3/LC-0152-Maximum-Product-Subarray.py)
 - LC-0153-Find-Minimum-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
 - LC-0162-Find-Peak-Element: [Python3](./Python3/LC-0162-Find-Peak-Element.py)
 - LC-0167-Two-Sum-II-Input-Array-Is-Sorted: [Python3](./Python3/LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py)
@@ -137,6 +138,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
 - LC-0520-Detect-Capital: [Python3](./Python3/LC-0520-Detect-Capital.py)
 - LC-0525-Contiguous-Array: [Python3](./Python3/LC-0525-Contiguous-Array.py)
+- LC-0532-K-diff-Pairs-in-an-Array: [Python3](./Python3/LC-0532-K-diff-Pairs-in-an-Array.py)
 - LC-0539-Minimum-Time-Difference: [Python3](./Python3/LC-0539-Minimum-Time-Difference.py)
 - LC-0542-01-Matrix: [Python3](./Python3/LC-0542-01-Matrix.py)
 - LC-0547-Number-of-Provinces: [Python3](./Python3/LC-0547-Number-of-Provinces.py)
@@ -271,6 +273,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
+- LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](./Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
 - LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
 
 </details>
@@ -324,6 +327,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - LC-2013-Detect-Squares: [Python3](./Python3/LC-2013-Detect-Squares.py)
 - LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
 - LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
