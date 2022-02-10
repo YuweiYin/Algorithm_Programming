@@ -30,6 +30,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0152-Maximum-Product-Subarray: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0152-Maximum-Product-Subarray.py)
   - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
 - Day 7
+  - (Medium) LC-1014-Best-Sightseeing-Pair: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1014-Best-Sightseeing-Pair.py)
+  - (Easy) LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
+  - (Medium) LC-0122-Best-Time-to-Buy-and-Sell-Stock-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0122-Best-Time-to-Buy-and-Sell-Stock-II.py)
 - Day 8
 - Day 9
 - Day 10

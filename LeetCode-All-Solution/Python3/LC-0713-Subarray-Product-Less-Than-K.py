@@ -34,6 +34,9 @@ Constraints:
     1 <= nums.length <= 3 * 10^4
     1 <= nums[i] <= 1000
     0 <= k <= 10^6
+
+Related Problem:
+    LC-0560-Subarray-Sum-Equals-K
 """
 
 

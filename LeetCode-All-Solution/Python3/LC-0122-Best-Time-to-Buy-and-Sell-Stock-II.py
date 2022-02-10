@@ -2,9 +2,9 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-0121-Best-Time-to-Buy-and-Sell-Stock.py
+@File    : LC-0122-Best-Time-to-Buy-and-Sell-Stock-II.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
-@Date    : 2022-02-01
+@Date    : 2022-02-10
 =================================================================="""
 
 import sys
@@ -13,30 +13,36 @@ from typing import List
 # import collections
 
 """
-LeetCode - 0121 - (Easy) - Best Time to Buy and Sell Stock
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+LeetCode - 0122 - (Medium) - Best Time to Buy and Sell Stock II
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 
 Description & Requirement:
-    You are given an array prices where prices[i] is the price of a given stock on the ith day.
+    You are given an integer array prices where prices[i] is the price of a given stock on the i-th day.
 
-    You want to maximize your profit by choosing a single day to buy one stock and 
-    choosing a different day in the future to sell that stock.
+    On each day, you may decide to buy and/or sell the stock. 
+    You can only hold at most one share of the stock at any time. 
+    However, you can buy it then immediately sell it on the same day.
 
-    Return the maximum profit you can achieve from this transaction. 
-    If you cannot achieve any profit, return 0.
+    Find and return the maximum profit you can achieve.
 
 Example 1:
     Input: prices = [7,1,5,3,6,4]
-    Output: 5
-    Explanation: Buy on day 2 (price = 1) and sell on day 5 (price = 6), profit = 6-1 = 5.
-        Note that buying on day 2 and selling on day 1 is not allowed because you must buy before you sell.
+    Output: 7
+    Explanation: Buy on day 2 (price = 1) and sell on day 3 (price = 5), profit = 5-1 = 4.
+        Then buy on day 4 (price = 3) and sell on day 5 (price = 6), profit = 6-3 = 3.
+        Total profit is 4 + 3 = 7.
 Example 2:
+    Input: prices = [1,2,3,4,5]
+    Output: 4
+    Explanation: Buy on day 1 (price = 1) and sell on day 5 (price = 5), profit = 5-1 = 4.
+        Total profit is 4.
+Example 3:
     Input: prices = [7,6,4,3,1]
     Output: 0
-    Explanation: In this case, no transactions are done and the max profit = 0.
+    Explanation: There is no way to make a positive profit, so we never buy the stock to achieve the maximum profit of 0.
 
 Constraints:
-    1 <= prices.length <= 10^5
+    1 <= prices.length <= 3 * 10^4
     0 <= prices[i] <= 10^4
 
 Related Problems:
@@ -56,35 +62,33 @@ class Solution:
             return 0  # Error input type
         if len(prices) == 1:
             return 0  # only one day, buy and sell, no net profit
-        # main method: (scan, consider diff between prices)
-        #     idea: buy on the current lowest price day X, then consider how many profit can get on other day Y (Y > X)
+        # main method: (scan, if prices[i] > prices[i-1], just get profit prices[i]-prices[i-1])
         return self._maxProfit(prices)
 
     def _maxProfit(self, prices: List[int]) -> int:
         len_prices = len(prices)
         assert len_prices >= 2
 
-        res = 0  # default profit is 0
+        res = 0
 
-        # buy on the current lowest price day X, then consider how many profit can get on other day Y (Y > X)
-        min_price = prices[0]  # the current lowest price
-
-        for price in prices:
-            res = max(res, price - min_price)  # update the max profit
-            min_price = min(min_price, price)  # update the min price
+        cur_day = 1
+        while cur_day < len_prices:
+            if prices[cur_day] > prices[cur_day - 1]:
+                res += prices[cur_day] - prices[cur_day - 1]
+            cur_day += 1
 
         return res
 
 
 def main():
-    # Example 1: Output: 5
-    prices = [7, 1, 5, 3, 6, 4]
+    # Example 1: Output: 7
+    # prices = [7, 1, 5, 3, 6, 4]
 
-    # Example 2: Output: 0
-    # prices = [7, 6, 4, 3, 1]
+    # Example 2: Output: 4
+    # prices = [1, 2, 3, 4, 5]
 
-    # Example 3: Output: 2
-    # prices = [2, 4, 1]
+    # Example 3: Output: 0
+    prices = [7, 6, 4, 3, 1]
 
     # init instance
     solution = Solution()

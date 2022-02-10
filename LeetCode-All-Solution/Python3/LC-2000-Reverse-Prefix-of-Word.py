@@ -55,7 +55,7 @@ class Solution:
     def reversePrefix(self, word: str, ch: str) -> str:
         # exception case
         if not isinstance(word, str) or len(word) <= 0:
-            return ""  # Error word1 input type
+            return ""  # Error input type
         if not isinstance(ch, str) or len(ch) <= 0 or len(ch) > len(word):
             return word  # do nothing
         # main method: (just find the first ch in word, then reverse this part. if no ch, return original word)

@@ -51,7 +51,7 @@ class Solution:
     def longestNiceSubstring(self, s: str) -> str:
         # exception case
         if not isinstance(s, str) or len(s) <= 0 or not s.isalpha():
-            return ""  # Error word1 input type
+            return ""  # Error input type
         if len(s) == 1:
             return ""
         if len(s) == 2:
