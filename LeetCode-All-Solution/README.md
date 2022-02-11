@@ -105,6 +105,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
+- LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown: [Python3](./Python3/LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py)
 - LC-0312-Burst-Balloons: [Python3](./Python3/LC-0312-Burst-Balloons.py)
 - LC-0322-Coin-Change: [Python3](./Python3/LC-0322-Coin-Change.py)
 - LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
@@ -171,6 +172,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
 - LC-0713-Subarray-Product-Less-Than-K: [Python3](./Python3/LC-0713-Subarray-Product-Less-Than-K.py)
+- LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee: [Python3](./Python3/LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.py)
 - LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - LC-0740-Delete-and-Earn: [Python3](./Python3/LC-0740-Delete-and-Earn.py)
 - LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
@@ -321,6 +323,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores: [Python3](./Python3/LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.py)
 - LC-1996-The-Number-of-Weak-Characters-in-the-Game: [Python3](./Python3/LC-1996-The-Number-of-Weak-Characters-in-the-Game.py)
 - LC-2000-Reverse-Prefix-of-Word: [Python3](./Python3/LC-2000-Reverse-Prefix-of-Word.py)
 

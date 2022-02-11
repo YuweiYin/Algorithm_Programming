@@ -34,6 +34,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Easy) LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
   - (Medium) LC-0122-Best-Time-to-Buy-and-Sell-Stock-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0122-Best-Time-to-Buy-and-Sell-Stock-II.py)
 - Day 8
+  - (Medium) LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py)
+  - (Medium) LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.py)
 - Day 9
 - Day 10
 - Day 11
