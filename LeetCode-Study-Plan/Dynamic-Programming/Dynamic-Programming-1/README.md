@@ -37,6 +37,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py)
   - (Medium) LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.py)
 - Day 9
+  - (Medium) LC-0139-Word-Break: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0139-Word-Break.py)
+  - (Hard) LC-0042-Trapping-Rain-Water: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0042-Trapping-Rain-Water.py)
 - Day 10
 - Day 11
 - Day 12
