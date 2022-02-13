@@ -238,6 +238,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-1137-N-th-Tribonacci-Number: [Python3](./Python3/LC-1137-N-th-Tribonacci-Number.py)
 - LC-1143-Longest-Common-Subsequence: [Python3](./Python3/LC-1143-Longest-Common-Subsequence.py)
 - LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
+- LC-1189-Maximum-Number-of-Balloons: [Python3](./Python3/LC-1189-Maximum-Number-of-Balloons.py)
 
 </details>
 

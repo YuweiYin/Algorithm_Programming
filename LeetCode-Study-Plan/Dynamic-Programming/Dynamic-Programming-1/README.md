@@ -40,6 +40,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0139-Word-Break: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0139-Word-Break.py)
   - (Hard) LC-0042-Trapping-Rain-Water: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0042-Trapping-Rain-Water.py)
 - Day 10
+  - (Medium) LC-0413-Arithmetic-Slices: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0413-Arithmetic-Slices.py)
+  - (Medium) LC-0091-Decode-Ways: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0091-Decode-Ways.py)
 - Day 11
 - Day 12
 - Day 13
