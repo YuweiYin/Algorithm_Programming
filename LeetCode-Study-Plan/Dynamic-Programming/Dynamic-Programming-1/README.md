@@ -43,6 +43,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0413-Arithmetic-Slices: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0413-Arithmetic-Slices.py)
   - (Medium) LC-0091-Decode-Ways: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0091-Decode-Ways.py)
 - Day 11
+  - (Medium) LC-0264-Ugly-Number-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0264-Ugly-Number-II.py)
+  - (Medium) LC-0096-Unique-Binary-Search-Trees: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0096-Unique-Binary-Search-Trees.py)
 - Day 12
 - Day 13
 - Day 14

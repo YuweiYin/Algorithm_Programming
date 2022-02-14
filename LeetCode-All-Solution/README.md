@@ -47,6 +47,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
 - LC-0090-Subsets-II: [Python3](./Python3/LC-0090-Subsets-II.py)
 - LC-0091-Decode-Ways: [Python3](./Python3/LC-0091-Decode-Ways.py)
+- LC-0096-Unique-Binary-Search-Trees: [Python3](./Python3/LC-0096-Unique-Binary-Search-Trees.py)
 
 </details>
 
@@ -55,6 +56,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-0104-Maximum-Depth-of-Binary-Tree: [Python3](./Python3/LC-0104-Maximum-Depth-of-Binary-Tree.py)
 - LC-0116-Populating-Next-Right-Pointers-in-Each-Node: [Python3](./Python3/LC-0116-Populating-Next-Right-Pointers-in-Each-Node.py)
 - LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II: [Python3](./Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
 - LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
@@ -94,6 +96,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0219-Contains-Duplicate-II: [Python3](./Python3/LC-0219-Contains-Duplicate-II.py)
 - LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
 - LC-0258-Add-Digits: [Python3](./Python3/LC-0258-Add-Digits.py)
+- LC-0264-Ugly-Number-II: [Python3](./Python3/LC-0264-Ugly-Number-II.py)
 - LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
 - LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
 - LC-0290-Word-Pattern: [Python3](./Python3/LC-0290-Word-Pattern.py)
@@ -144,6 +147,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0525-Contiguous-Array: [Python3](./Python3/LC-0525-Contiguous-Array.py)
 - LC-0532-K-diff-Pairs-in-an-Array: [Python3](./Python3/LC-0532-K-diff-Pairs-in-an-Array.py)
 - LC-0539-Minimum-Time-Difference: [Python3](./Python3/LC-0539-Minimum-Time-Difference.py)
+- LC-0540-Single-Element-in-a-Sorted-Array: [Python3](./Python3/LC-0540-Single-Element-in-a-Sorted-Array.py)
 - LC-0542-01-Matrix: [Python3](./Python3/LC-0542-01-Matrix.py)
 - LC-0547-Number-of-Provinces: [Python3](./Python3/LC-0547-Number-of-Provinces.py)
 - LC-0557-Reverse-Words-in-a-String-III: [Python3](./Python3/LC-0557-Reverse-Words-in-a-String-III.py)
