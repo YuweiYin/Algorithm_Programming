@@ -46,6 +46,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0264-Ugly-Number-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0264-Ugly-Number-II.py)
   - (Medium) LC-0096-Unique-Binary-Search-Trees: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0096-Unique-Binary-Search-Trees.py)
 - Day 12
+  - (Easy) LC-0118-Pascals-Triangle: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0118-Pascals-Triangle.py)
+  - (Easy) LC-0119-Pascals-Triangle-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0119-Pascals-Triangle-II.py)
 - Day 13
 - Day 14
 - Day 15

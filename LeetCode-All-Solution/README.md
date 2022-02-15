@@ -59,6 +59,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0104-Maximum-Depth-of-Binary-Tree: [Python3](./Python3/LC-0104-Maximum-Depth-of-Binary-Tree.py)
 - LC-0116-Populating-Next-Right-Pointers-in-Each-Node: [Python3](./Python3/LC-0116-Populating-Next-Right-Pointers-in-Each-Node.py)
 - LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II: [Python3](./Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
+- LC-0118-Pascals-Triangle: [Python3](./Python3/LC-0118-Pascals-Triangle.py)
+- LC-0119-Pascals-Triangle-II: [Python3](./Python3/LC-0119-Pascals-Triangle-II.py)
 - LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
 - LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](./Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
 - LC-0122-Best-Time-to-Buy-and-Sell-Stock-II: [Python3](./Python3/LC-0122-Best-Time-to-Buy-and-Sell-Stock-II.py)
@@ -266,6 +268,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
 - LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero: [Python3](./Python3/LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
 - LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
+- LC-1380-Lucky-Numbers-in-a-Matrix: [Python3](./Python3/LC-1380-Lucky-Numbers-in-a-Matrix.py)
 
 </details>
 
