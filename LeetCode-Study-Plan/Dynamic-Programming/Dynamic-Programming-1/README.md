@@ -49,6 +49,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Easy) LC-0118-Pascals-Triangle: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0118-Pascals-Triangle.py)
   - (Easy) LC-0119-Pascals-Triangle-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0119-Pascals-Triangle-II.py)
 - Day 13
+  - (Medium) LC-0931-Minimum-Falling-Path-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0931-Minimum-Falling-Path-Sum.py)
+  - (Medium) LC-0120-Triangle: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0120-Triangle.py)
 - Day 14
 - Day 15
 - Day 16
