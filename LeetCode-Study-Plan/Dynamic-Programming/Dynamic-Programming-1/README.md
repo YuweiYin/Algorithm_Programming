@@ -52,6 +52,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0931-Minimum-Falling-Path-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0931-Minimum-Falling-Path-Sum.py)
   - (Medium) LC-0120-Triangle: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0120-Triangle.py)
 - Day 14
+  - (Medium) LC-1314-Matrix-Block-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1314-Matrix-Block-Sum.py)
+  - (Medium) LC-0304-Range-Sum-Query-2D-Immutable: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0304-Range-Sum-Query-2D-Immutable.py)
 - Day 15
 - Day 16
 - Day 17

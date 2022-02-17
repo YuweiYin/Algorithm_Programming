@@ -169,6 +169,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - LC-0617-Merge-Two-Binary-Trees: [Python3](./Python3/LC-0617-Merge-Two-Binary-Trees.py)
 - LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
+- LC-0688-Knight-Probability-in-Chessboard: [Python3](./Python3/LC-0688-Knight-Probability-in-Chessboard.py)
 - LC-0695-Max-Area-of-Island: [Python3](./Python3/LC-0695-Max-Area-of-Island.py)
 
 </details>
