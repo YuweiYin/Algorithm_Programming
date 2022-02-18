@@ -55,6 +55,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-1314-Matrix-Block-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1314-Matrix-Block-Sum.py)
   - (Medium) LC-0304-Range-Sum-Query-2D-Immutable: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0304-Range-Sum-Query-2D-Immutable.py)
 - Day 15
+  - (Medium) LC-0062-Unique-Paths: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0062-Unique-Paths.py)
+  - (Medium) LC-0063-Unique-Paths-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0063-Unique-Paths-II.py)
 - Day 16
 - Day 17
 - Day 18

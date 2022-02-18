@@ -40,6 +40,9 @@ Example 2:
 
 Constraints:
     1 <= m, n <= 100
+
+Related Problem:
+    LC-0063-Unique-Paths-II
 """
 
 
@@ -58,6 +61,10 @@ class Solution:
         return self._uniquePaths(m, n)
 
     def _uniquePaths(self, m: int, n: int) -> int:
+        """
+        Runtime: 32 ms, faster than 83.98% of Python3 online submissions for Unique Paths.
+        Memory Usage: 14 MB, less than 77.52% of Python3 online submissions for Unique Paths.
+        """
         assert isinstance(m, int) and m > 1 and isinstance(n, int) and n > 1
 
         def __combination_number(x: int, y: int) -> int:

@@ -34,6 +34,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0053-Maximum-Subarray: [Python3](./Python3/LC-0053-Maximum-Subarray.py)
 - LC-0055-Jump-Game: [Python3](./Python3/LC-0055-Jump-Game.py)
 - LC-0062-Unique-Paths: [Python3](./Python3/LC-0062-Unique-Paths.py)
+- LC-0063-Unique-Paths-II: [Python3](./Python3/LC-0063-Unique-Paths-II.py)
 - LC-0067-Add-Binary: [Python3](./Python3/LC-0067-Add-Binary.py)
 - LC-0070-Climbing-Stairs: [Python3](./Python3/LC-0070-Climbing-Stairs.py)
 - LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
@@ -132,6 +133,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - LC-0413-Arithmetic-Slices: [Python3](./Python3/LC-0413-Arithmetic-Slices.py)
 - LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array: [Python3](./Python3/LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array.py)
 - LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
@@ -321,6 +323,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
 - LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
+- LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
 
 </details>
 
