@@ -58,6 +58,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0062-Unique-Paths: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0062-Unique-Paths.py)
   - (Medium) LC-0063-Unique-Paths-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0063-Unique-Paths-II.py)
 - Day 16
+  - (Medium) LC-0064-Minimum-Path-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0064-Minimum-Path-Sum.py)
+  - (Medium) LC-0221-Maximal-Square: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0221-Maximal-Square.py)
 - Day 17
 - Day 18
 - Day 19

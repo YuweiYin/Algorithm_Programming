@@ -52,8 +52,8 @@ class Solution:
         # main method: (2-dim prefix sum)
         #     record prefix sum of matrix (0, 0) (0, j) (i, 0) (i, j),
         #         where (i, j) from (0, 0) to (max_row-1, max_col-1)
-        #     pre_sum(i, j) = pre_sum(i-1, j) + pre_sum(i, j-1) - pre_sum(i-1, j-1) + pre_sum(i, j)
-        #         - pre_sum(i-1, j-1) to remove redundant part, + pre_sum(i, j) to add up the current square
+        #     pre_sum(i, j) = pre_sum(i-1, j) + pre_sum(i, j-1) - pre_sum(i-1, j-1) + matrix(i, j)
+        #         - pre_sum(i-1, j-1) to remove redundant part, + matrix(i, j) to add up the current square
         #         0 <= i < max_row, 0 <= j < max_col, pre_sum(-1, ?) = 0, pre_sum(?, -1) = 0
         #     res(i, j) = pre_sum(i+k, j+k) - pre_sum(i+k, j-k-1) - pre_sum(i-k-1, j+k) + pre_sum(i-k-1, j-k-1)
         return self._matrixBlockSum(mat, k)
@@ -69,7 +69,7 @@ class Solution:
         prefix_sum = [[0 for _ in range(max_col + 1)] for _ in range(max_row + 1)]  # first row and col are all 0
         for row_idx in range(1, max_row + 1):  # start from index == 1
             for col_idx in range(1, max_col + 1):
-                # pre_sum(i, j) = pre_sum(i-1, j) + pre_sum(i, j-1) - pre_sum(i-1, j-1) + pre_sum(i, j)
+                # pre_sum(i, j) = pre_sum(i-1, j) + pre_sum(i, j-1) - pre_sum(i-1, j-1) + matrix(i, j)
                 prefix_sum[row_idx][col_idx] = prefix_sum[row_idx - 1][col_idx] + prefix_sum[row_idx][col_idx - 1] - \
                                                prefix_sum[row_idx - 1][col_idx - 1] + mat[row_idx - 1][col_idx - 1]
 

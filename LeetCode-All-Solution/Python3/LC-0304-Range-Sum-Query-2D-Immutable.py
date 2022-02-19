@@ -68,7 +68,7 @@ class NumMatrix:
         prefix_sum = [[0 for _ in range(max_col + 1)] for _ in range(max_row + 1)]  # first row and col are all 0
         for row_idx in range(1, max_row + 1):  # start from index == 1
             for col_idx in range(1, max_col + 1):
-                # pre_sum(i, j) = pre_sum(i-1, j) + pre_sum(i, j-1) - pre_sum(i-1, j-1) + pre_sum(i, j)
+                # pre_sum(i, j) = pre_sum(i-1, j) + pre_sum(i, j-1) - pre_sum(i-1, j-1) + matrix(i, j)
                 prefix_sum[row_idx][col_idx] = prefix_sum[row_idx - 1][col_idx] + prefix_sum[row_idx][col_idx - 1] - \
                                                prefix_sum[row_idx - 1][col_idx - 1] + matrix[row_idx - 1][col_idx - 1]
         self.prefix_sum = prefix_sum
