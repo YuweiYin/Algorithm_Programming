@@ -61,6 +61,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0064-Minimum-Path-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0064-Minimum-Path-Sum.py)
   - (Medium) LC-0221-Maximal-Square: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0221-Maximal-Square.py)
 - Day 17
+  - LC-0005-Longest-Palindromic-Substring: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0005-Longest-Palindromic-Substring.py)
+  - LC-0516-Longest-Palindromic-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0516-Longest-Palindromic-Subsequence.py)
 - Day 18
 - Day 19
 - Day 20

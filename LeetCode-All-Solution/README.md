@@ -150,6 +150,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
+- LC-0516-Longest-Palindromic-Subsequence: [Python3](./Python3/LC-0516-Longest-Palindromic-Subsequence.py)
 - LC-0520-Detect-Capital: [Python3](./Python3/LC-0520-Detect-Capital.py)
 - LC-0525-Contiguous-Array: [Python3](./Python3/LC-0525-Contiguous-Array.py)
 - LC-0532-K-diff-Pairs-in-an-Array: [Python3](./Python3/LC-0532-K-diff-Pairs-in-an-Array.py)
@@ -187,6 +188,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
 - LC-0713-Subarray-Product-Less-Than-K: [Python3](./Python3/LC-0713-Subarray-Product-Less-Than-K.py)
 - LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee: [Python3](./Python3/LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.py)
+- LC-0717-1-bit-and-2-bit-Characters: [Python3](./Python3/LC-0717-1-bit-and-2-bit-Characters.py)
 - LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - LC-0740-Delete-and-Earn: [Python3](./Python3/LC-0740-Delete-and-Earn.py)
 - LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
@@ -263,6 +265,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - LC-1219-Path-with-Maximum-Gold: [Python3](./Python3/LC-1219-Path-with-Maximum-Gold.py)
 - LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
+- LC-1288-Remove-Covered-Intervals: [Python3](./Python3/LC-1288-Remove-Covered-Intervals.py)
 - LC-1291-Sequential-Digits: [Python3](./Python3/LC-1291-Sequential-Digits.py)
 
 </details>

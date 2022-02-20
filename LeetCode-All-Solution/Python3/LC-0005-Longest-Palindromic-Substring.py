@@ -30,6 +30,9 @@ Example 2:
 Constraints:
     1 <= s.length <= 1000
     s consist of only digits and English letters.
+
+Related Problem:
+    LC-0516-Longest-Palindromic-Subsequence
 """
 
 
@@ -129,8 +132,8 @@ class Solution:
         Time: O(n).  Space: O(n)
         Manacher's algorithm to find the longest palindromic substring
         [Wiki](https://en.wikipedia.org/wiki/Longest_palindromic_substring)
-        Runtime: 246 ms, faster than 94.10% of Python3 online submissions for Longest Palindromic Substring.
-        Memory Usage: 14.5 MB, less than 34.75% of Python3 online submissions for Longest Palindromic Substring.
+        Runtime: 249 ms, faster than 94.30% of Python3 online submissions for Longest Palindromic Substring.
+        Memory Usage: 14.4 MB, less than 43.07% of Python3 online submissions for Longest Palindromic Substring.
         """
         assert len(s) > 2
 
@@ -188,35 +191,6 @@ class Solution:
 
         # get the final result, note that gap == 2 to skip all placeholder
         return new_s[max_palin_left + 1: max_palin_right + 1: 2]
-
-    def _longestPalindromeSequence(self, s: str) -> str:
-        """
-        This function is to find the longest palindromic sequence, not substring (consecutive indices)
-        """
-        len_s = len(s)
-        assert len_s > 2
-
-        # INIT = 1
-        # dp = [[INIT for _ in range(len_s)] for _ in range(len_s)]
-
-        def __dp_dfs(left_index: int, right_index: int) -> str:
-            if left_index > right_index:
-                return ""  # not a palin
-            if left_index == right_index - 1:
-                if s[left_index] == s[right_index]:
-                    return s[left_index: right_index + 1]
-                else:
-                    return s[left_index]  # or s[right_index]
-            if left_index == right_index:
-                return s[left_index]
-            if s[left_index] == s[right_index]:
-                return s[left_index] + __dp_dfs(left_index + 1, right_index - 1) + s[right_index]
-            else:
-                res_1 = __dp_dfs(left_index + 1, right_index)
-                res_2 = __dp_dfs(left_index, right_index - 1)
-                return res_1 if len(res_1) >= len(res_2) else res_2
-
-        return __dp_dfs(0, len_s - 1)
 
 
 def main():
