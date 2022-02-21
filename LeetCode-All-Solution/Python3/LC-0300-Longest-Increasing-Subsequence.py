@@ -61,7 +61,7 @@ class Solution:
 
         # (2. Greedy: for every valid seq of diff len, record its end num, maintain this num as the smallest possible)
         #     in this way, seq will grow as slow as possible, and won't miss any new num that will make them grow
-        return self._lengthOfLISgreedy(nums)  # Time: O(n log n);  Space: O(n).
+        return self._lengthOfLISGreedy(nums)  # Time: O(n log n);  Space: O(n).
 
     def _lengthOfLISdp(self, nums: List[int]) -> int:
         """
@@ -79,9 +79,11 @@ class Solution:
 
         return max(dp)
 
-    def _lengthOfLISgreedy(self, nums: List[int]) -> int:
+    def _lengthOfLISGreedy(self, nums: List[int]) -> int:
         """
         Time: O(n log n);  Space: O(n).
+        Runtime: 84 ms, faster than 91.67% of Python3 online submissions for Longest Increasing Subsequence.
+        Memory Usage: 14.4 MB, less than 58.16% of Python3 online submissions for Longest Increasing Subsequence.
         """
         len_nums = len(nums)
         assert len_nums >= 3
