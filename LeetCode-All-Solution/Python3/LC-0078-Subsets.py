@@ -64,7 +64,7 @@ class Solution:
             res_list.append(cur_subset[:])  # new res
             for next_num_index in range(cur_num_index + 1, len_nums):  # explore all left numbers
                 __dfs(cur_subset, next_num_index)  # go deeper
-                cur_subset.pop()  # backtrace
+            cur_subset.pop()  # backtrace
 
         for start_num_index in range(len_nums):  # start from every number
             __dfs([], start_num_index)

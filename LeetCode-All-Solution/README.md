@@ -80,6 +80,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0162-Find-Peak-Element: [Python3](./Python3/LC-0162-Find-Peak-Element.py)
 - LC-0167-Two-Sum-II-Input-Array-Is-Sorted: [Python3](./Python3/LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - LC-0169-Majority-Element: [Python3](./Python3/LC-0169-Majority-Element.py)
+- LC-0171-Excel-Sheet-Column-Number: [Python3](./Python3/LC-0171-Excel-Sheet-Column-Number.py)
 - LC-0189-Rotate-Array: [Python3](./Python3/LC-0189-Rotate-Array.py)
 - LC-0190-Reverse-Bits: [Python3](./Python3/LC-0190-Reverse-Bits.py)
 - LC-0191-Number-of-1-Bits: [Python3](./Python3/LC-0191-Number-of-1-Bits.py)
@@ -129,6 +130,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0384-Shuffle-an-Array: [Python3](./Python3/LC-0384-Shuffle-an-Array.py)
 - LC-0389-Find-the-Difference: [Python3](./Python3/LC-0389-Find-the-Difference.py)
 - LC-0390-Elimination-Game: [Python3](./Python3/LC-0390-Elimination-Game.py)
+- LC-0392-Is-Subsequence: [Python3](./Python3/LC-0392-Is-Subsequence.py)
 
 </details>
 
@@ -352,6 +354,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores: [Python3](./Python3/LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.py)
+- LC-1994-The-Number-of-Good-Subsets: [Python3](./Python3/LC-1994-The-Number-of-Good-Subsets.py)
 - LC-1996-The-Number-of-Weak-Characters-in-the-Game: [Python3](./Python3/LC-1996-The-Number-of-Weak-Characters-in-the-Game.py)
 - LC-2000-Reverse-Prefix-of-Word: [Python3](./Python3/LC-2000-Reverse-Prefix-of-Word.py)
 
