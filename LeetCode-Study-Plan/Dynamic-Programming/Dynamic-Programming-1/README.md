@@ -67,10 +67,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0300-Longest-Increasing-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0300-Longest-Increasing-Subsequence.py)
   - (Medium) LC-0376-Wiggle-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0376-Wiggle-Subsequence.py)
 - Day 19
-  - LC-0392-Is-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0392-Is-Subsequence.py)
-  - LC-1143-Longest-Common-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1143-Longest-Common-Subsequence.py)
-  - LC-0072-Edit-Distance: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0072-Edit-Distance.py)
+  - (Easy) LC-0392-Is-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0392-Is-Subsequence.py)
+  - (Medium) LC-1143-Longest-Common-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1143-Longest-Common-Subsequence.py)
+  - (Hard) LC-0072-Edit-Distance: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0072-Edit-Distance.py)
 - Day 20
+  - (Medium) LC-0322-Coin-Change: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0322-Coin-Change.py)
+  - (Medium) LC-0518-Coin-Change-2: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0518-Coin-Change-2.py)
 - Day 21
 - Day 22
 
