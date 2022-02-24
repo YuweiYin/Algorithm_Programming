@@ -46,6 +46,12 @@ Constraints:
     1 <= candidates[i] <= 200
     All elements of candidates are distinct.
     1 <= target <= 500
+
+Related Problem:
+    LC-0039-Combination-Sum
+    LC-0040-Combination-Sum-II
+    LC-0216-Combination-Sum-III
+    LC-0377-Combination-Sum-IV
 """
 
 
@@ -77,7 +83,7 @@ class Solution:
                 if tuple(cur_combo) not in dup_set:
                     dup_set.add(tuple(cur_combo))
                     res_list.append(cur_combo[:])
-            for next_num_index in range(cur_num_index, len_nums):  # explore more numbers
+            for next_num_index in range(cur_num_index, len_nums):  # explore more numbers (numbers can be reused)
                 __dfs(cur_combo, cur_sum, next_num_index)  # go deeper
                 cur_combo.pop()  # backtrace
 
@@ -92,16 +98,16 @@ def main():
     # target = 7
 
     # Example 2: Output: [[2,2,2,2],[2,3,3],[3,5]]
-    # candidates = [2, 3, 5]
-    # target = 8
+    candidates = [2, 3, 5]
+    target = 8
 
     # Example 3: Output: []
     # candidates = [2]
     # target = 1
 
     # Example 4: Output: [[1,1]]
-    candidates = [1]
-    target = 2
+    # candidates = [1]
+    # target = 2
 
     # init instance
     solution = Solution()

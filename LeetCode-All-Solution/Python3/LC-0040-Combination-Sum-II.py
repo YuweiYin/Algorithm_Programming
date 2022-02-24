@@ -17,11 +17,12 @@ LeetCode - 0040 - (Medium) - Combination Sum II
 https://leetcode.com/problems/combination-sum-ii/
 
 Description & Requirement:
-Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target.
+    Given a collection of candidate numbers (candidates) and a target number (target), 
+    find all unique combinations in candidates where the candidate numbers sum to target.
 
-Each number in candidates may only be used once in the combination.
+    Each number in candidates may only be used once in the combination.
 
-Note: The solution set must not contain duplicate combinations.
+    Note: The solution set must not contain duplicate combinations.
 
 Example 1:
     Input: candidates = [10,1,2,7,6,1,5], target = 8
@@ -42,6 +43,12 @@ Constraints:
     1 <= candidates.length <= 100
     1 <= candidates[i] <= 50
     1 <= target <= 30
+
+Related Problem:
+    LC-0039-Combination-Sum
+    LC-0040-Combination-Sum-II
+    LC-0216-Combination-Sum-III
+    LC-0377-Combination-Sum-IV
 """
 
 

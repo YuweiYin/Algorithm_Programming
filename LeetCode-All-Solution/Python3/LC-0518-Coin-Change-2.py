@@ -84,11 +84,9 @@ class Solution:
         # note that outer loop is valid coin denominations
         for j in coins:
             for i in range(j, amount + 1):
-                if dp[i - j] == -1:  # index out of range, or dp[i - j] itself can't be reached
-                    continue
-                else:  # accumulate dp[i], there are more combination to make up amount i
-                    # dp equation: dp[i] = sum(dp[i-j]), where j in coins (i - j >= 0), means a valid coin denomination
-                    dp[i] += dp[i - j]
+                # accumulate dp[i], there are more combination to make up amount i
+                # dp equation: dp[i] = sum(dp[i-j]), where j in coins (i - j >= 0), means a valid coin denomination
+                dp[i] += dp[i - j]
 
         # dp aim: get dp[-1]
         return dp[-1]

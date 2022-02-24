@@ -74,10 +74,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
   - (Medium) LC-0322-Coin-Change: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0322-Coin-Change.py)
   - (Medium) LC-0518-Coin-Change-2: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0518-Coin-Change-2.py)
 - Day 21
-- Day 22
+  - (Medium) LC-0377-Combination-Sum-IV: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0377-Combination-Sum-IV.py)
+  - (Medium) LC-0343-Integer-Break: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0343-Integer-Break.py)
+  - (Medium) LC-0279-Perfect-Squares: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0279-Perfect-Squares.py)
 
 ## TODO
 
-- [ ] Finish all the study plans (dynamic-programming-1).
+- [x] <s>Finish all the study plans (dynamic-programming-1)</s>.
 
 ---
