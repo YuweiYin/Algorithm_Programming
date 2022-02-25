@@ -12,7 +12,53 @@ During the computer programming process, **identifying and using the appropriate
 
 ## Study Plan (Data-Structure-1) List
 
-- 
+- Day 1 - Array
+  - (Easy) LC-0217-Contains-Duplicate: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0217-Contains-Duplicate.py)
+  - (Easy) LC-0053-Maximum-Subarray: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0053-Maximum-Subarray.py)
+- Day 2 - Array
+  - 1. Two Sum
+  - 88. Merge Sorted Array
+- Day 3 - Array
+  - 350. Intersection of Two Arrays II
+  - 121. Best Time to Buy and Sell Stock
+- Day 4 - Array
+  - 566. Reshape the Matrix
+  - 118. Pascal's Triangle
+- Day 5 - Array
+  - 36. Valid Sudoku
+  - 74. Search a 2D Matrix
+- Day 6 - String
+  - 387. First Unique Character in a String
+  - 383. Ransom Note
+  - 242. Valid Anagram
+- Day 7 - Linked List
+  - 141. Linked List Cycle
+  - 21. Merge Two Sorted Lists
+  - 203. Remove Linked List Elements
+- Day 8 - Linked List
+  - 206. Reverse Linked List
+  - 83. Remove Duplicates from Sorted List
+- Day 9 - Stack / Queue
+  - 20. Valid Parentheses
+  - 232. Implement Queue using Stacks
+- Day 10 - Tree
+  - 144. Binary Tree Preorder Traversal
+  - 94. Binary Tree Inorder Traversal
+  - 145. Binary Tree Postorder Traversal
+- Day 11 - Tree
+  - 102. Binary Tree Level Order Traversal
+  - 104. Maximum Depth of Binary Tree
+  - 101. Symmetric Tree
+- Day 12 - Tree
+  - 226. Invert Binary Tree
+  - 112. Path Sum
+- Day 13 - Tree
+  - 700. Search in a Binary Search Tree
+  - 701. Insert into a Binary Search Tree
+- Day 14 - Tree
+  - 98. Validate Binary Search Tree
+  - 653. Two Sum IV - Input is a BST
+  - 235. Lowest Common Ancestor of a Binary Search Tree
 
 ## TODO
 

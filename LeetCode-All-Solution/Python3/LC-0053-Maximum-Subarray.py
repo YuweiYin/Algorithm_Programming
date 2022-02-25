@@ -83,7 +83,7 @@ class Solution:
         assert len_nums >= 3
 
         res = nums[0]
-        accumulate_sum = 0  # from some num, the accumulated sum
+        accumulate_sum = 0  # during the process, accumulate_sum may change to another number, or keep accumulating
 
         for cur_num in nums:
             # accumulate_sum is either the current num or the former accumulate_sum + current num
