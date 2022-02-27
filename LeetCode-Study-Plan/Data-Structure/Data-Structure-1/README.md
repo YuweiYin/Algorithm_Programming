@@ -19,8 +19,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0001-Two-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0001-Two-Sum.py)
   - (Easy) LC-0088-Merge-Sorted-Array: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0088-Merge-Sorted-Array.py)
 - Day 3 - Array
-  - 350. Intersection of Two Arrays II
-  - 121. Best Time to Buy and Sell Stock
+  - (Easy) LC-0350-Intersection-of-Two-Arrays-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0350-Intersection-of-Two-Arrays-II.py)
+  - (Easy) LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
 - Day 4 - Array
   - 566. Reshape the Matrix
   - 118. Pascal's Triangle
