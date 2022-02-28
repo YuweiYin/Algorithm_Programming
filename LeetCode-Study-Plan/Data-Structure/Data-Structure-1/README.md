@@ -22,8 +22,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0350-Intersection-of-Two-Arrays-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0350-Intersection-of-Two-Arrays-II.py)
   - (Easy) LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
 - Day 4 - Array
-  - 566. Reshape the Matrix
-  - 118. Pascal's Triangle
+  - (Easy) LC-0566-Reshape-the-Matrix: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0350-Intersection-of-Two-Arrays-II.py)
+  - (Easy) LC-0118-Pascals-Triangle: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0118-Pascals-Triangle.py)
 - Day 5 - Array
   - 36. Valid Sudoku
   - 74. Search a 2D Matrix
