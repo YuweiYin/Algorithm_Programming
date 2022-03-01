@@ -25,8 +25,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0566-Reshape-the-Matrix: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0350-Intersection-of-Two-Arrays-II.py)
   - (Easy) LC-0118-Pascals-Triangle: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0118-Pascals-Triangle.py)
 - Day 5 - Array
-  - 36. Valid Sudoku
-  - 74. Search a 2D Matrix
+  - (Medium) LC-0036-Valid-Sudoku: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0036-Valid-Sudoku.py)
+  - (Medium) LC-0073-Set-Matrix-Zeroes: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0073-Set-Matrix-Zeroes.py)
+  - (Medium) LC-0074-Search-a-2D-Matrix: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0074-Search-a-2D-Matrix.py)
 - Day 6 - String
   - 387. First Unique Character in a String
   - 383. Ransom Note
