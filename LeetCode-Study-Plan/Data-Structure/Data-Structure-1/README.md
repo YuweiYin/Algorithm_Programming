@@ -29,9 +29,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0073-Set-Matrix-Zeroes: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0073-Set-Matrix-Zeroes.py)
   - (Medium) LC-0074-Search-a-2D-Matrix: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0074-Search-a-2D-Matrix.py)
 - Day 6 - String
-  - 387. First Unique Character in a String
-  - 383. Ransom Note
-  - 242. Valid Anagram
+  - (Easy) LC-0387-First-Unique-Character-in-a-String: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0387-First-Unique-Character-in-a-String.py)
+  - (Easy) LC-0383-Ransom-Note: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0383-Ransom-Note.py)
+  - (Easy) LC-0242-Valid-Anagram: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0242-Valid-Anagram.py)
 - Day 7 - Linked List
   - 141. Linked List Cycle
   - 21. Merge Two Sorted Lists
