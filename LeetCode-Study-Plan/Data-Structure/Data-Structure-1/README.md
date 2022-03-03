@@ -33,9 +33,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0383-Ransom-Note: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0383-Ransom-Note.py)
   - (Easy) LC-0242-Valid-Anagram: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0242-Valid-Anagram.py)
 - Day 7 - Linked List
-  - 141. Linked List Cycle
-  - 21. Merge Two Sorted Lists
-  - 203. Remove Linked List Elements
+  - (Easy) LC-0141-Linked-List-Cycle: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0141-Linked-List-Cycle.py)
+  - (Easy) LC-0021-Merge-Two-Sorted-Lists: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0021-Merge-Two-Sorted-Lists.py)
+  - (Easy) LC-0203-Remove-Linked-List-Elements: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0203-Remove-Linked-List-Elements.py)
 - Day 8 - Linked List
   - 206. Reverse Linked List
   - 83. Remove Duplicates from Sorted List

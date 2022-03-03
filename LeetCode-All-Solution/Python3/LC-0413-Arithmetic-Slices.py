@@ -53,6 +53,10 @@ class Solution:
         return self._numberOfArithmeticSlices(nums)
 
     def _numberOfArithmeticSlices(self, nums: List[int]) -> int:
+        """
+        Runtime: 36 ms, faster than 93.60% of Python3 online submissions for Arithmetic Slices.
+        Memory Usage: 14.2 MB, less than 53.58% of Python3 online submissions for Arithmetic Slices.
+        """
         len_nums = len(nums)
         assert len_nums >= 4
 
