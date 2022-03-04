@@ -50,6 +50,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0079-Word-Search: [Python3](./Python3/LC-0079-Word-Search.py)
 - LC-0080-Remove-Duplicates-from-Sorted-Array-II: [Python3](./Python3/LC-0080-Remove-Duplicates-from-Sorted-Array-II.py)
 - LC-0082-Remove-Duplicates-from-Sorted-List-II: [Python3](./Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
+- LC-0083-Remove-Duplicates-from-Sorted-List: [Python3](./Python3/LC-0083-Remove-Duplicates-from-Sorted-List.py)
 - LC-0084-Largest-Rectangle-in-Histogram: [Python3](./Python3/LC-0084-Largest-Rectangle-in-Histogram.py)
 - LC-0088-Merge-Sorted-Array: [Python3](./Python3/LC-0088-Merge-Sorted-Array.py)
 - LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
@@ -225,6 +226,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
 - LC-0797-All-Paths-From-Source-to-Target: [Python3](./Python3/LC-0797-All-Paths-From-Source-to-Target.py)
+- LC-0799-Champagne-Tower: [Python3](./Python3/LC-0799-Champagne-Tower.py)
 
 </details>
 
@@ -411,7 +413,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
-- 
+- LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
 
 </details>
 

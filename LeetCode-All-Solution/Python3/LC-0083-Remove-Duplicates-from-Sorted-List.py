@@ -2,9 +2,9 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-0082-Remove-Duplicates-from-Sorted-List-II.py
+@File    : LC-0083-Remove-Duplicates-from-Sorted-List.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
-@Date    : 2022-01-16
+@Date    : 2022-03-04
 =================================================================="""
 
 import sys
@@ -12,19 +12,20 @@ import time
 from typing import List, Optional
 
 """
-LeetCode - 0082 - (Medium) - Remove Duplicates from Sorted List II
-https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+LeetCode - 0083 - (Easy) - Remove Duplicates from Sorted List
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 
 Description & Requirement:
-    Given the head of a sorted linked list, delete all nodes that have duplicate numbers, 
-    leaving only distinct numbers from the original list. Return the linked list sorted as well.
+    Given the head of a sorted linked list, 
+    delete all duplicates such that each element appears only once. 
+    Return the linked list sorted as well.
 
 Example 1:
-    Input: head = [1,2,3,3,4,4,5]
-    Output: [1,2,5]
+    Input: head = [1,1,2]
+    Output: [1,2]
 Example 2:
-    Input: head = [1,1,1,2,3]
-    Output: [2,3]
+    Input: head = [1,1,2,3,3]
+    Output: [1,2,3]
 
 Constraints:
     The number of nodes in the list is in the range [0, 300].
@@ -74,8 +75,11 @@ class Solution:
             return None  # Error head type
         if not isinstance(head.next, ListNode):
             return head  # only one element
-        if not isinstance(head.next.next, ListNode):
-            return None if head.val == head.next.val else head  # only two element
+        if not isinstance(head.next.next, ListNode):  # only two element
+            if head.val == head.next.val:
+                del head.next
+                head.next = None
+            return head
         # main method: (three pointers, in-place delete)
         return self._deleteDuplicates(head)
 
@@ -83,11 +87,11 @@ class Solution:
         assert isinstance(head_node, ListNode) and isinstance(head_node.next, ListNode) and \
                isinstance(head_node.next.next, ListNode)
 
-        pseudo_head = ListNode(val=sys.maxsize, next=head_node)
+        pseudo_head = ListNode(val=sys.maxsize, next=head_node)  # Constraint: -100 <= Node.val <= 100
 
         ptr = pseudo_head
-        while isinstance(ptr.next, ListNode) and isinstance(ptr.next.next, ListNode):
-            if ptr.next.val == ptr.next.next.val:
+        while isinstance(ptr.next, ListNode):
+            if ptr.val == ptr.next.val:
                 same_val = ptr.next.val  # record the same val
                 while isinstance(ptr.next, ListNode) and ptr.next.val == same_val:
                     next_node = ptr.next.next
@@ -100,11 +104,11 @@ class Solution:
 
 
 def main():
-    # Example 1: Output: [1,2,5]
-    # head = [1, 2, 3, 3, 4, 4, 5]
+    # Example 1: Output: [1,2]
+    # head = [1, 1, 2]
 
-    # Example 2: Output: [2,3]
-    head = [1, 1, 1, 2, 3]
+    # Example 2: Output: [1,2,3]
+    head = [1, 1, 2, 3, 3]
 
     head_node = ListNode.build_singly_linked_list(head)
 

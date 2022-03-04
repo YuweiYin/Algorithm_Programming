@@ -37,8 +37,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0021-Merge-Two-Sorted-Lists: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0021-Merge-Two-Sorted-Lists.py)
   - (Easy) LC-0203-Remove-Linked-List-Elements: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0203-Remove-Linked-List-Elements.py)
 - Day 8 - Linked List
-  - 206. Reverse Linked List
-  - 83. Remove Duplicates from Sorted List
+  - (Easy) LC-0206-Reverse-Linked-List: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0206-Reverse-Linked-List.py)
+  - (Easy) LC-0083-Remove-Duplicates-from-Sorted-List: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0083-Remove-Duplicates-from-Sorted-List.py)
 - Day 9 - Stack / Queue
   - 20. Valid Parentheses
   - 232. Implement Queue using Stacks
