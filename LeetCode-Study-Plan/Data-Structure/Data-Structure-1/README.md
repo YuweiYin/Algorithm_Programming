@@ -43,9 +43,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0020-Valid-Parentheses: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0020-Valid-Parentheses.py)
   - (Easy) LC-0232-Implement-Queue-using-Stacks: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0232-Implement-Queue-using-Stacks.py)
 - Day 10 - Tree
-  - 144. Binary Tree Preorder Traversal
-  - 94. Binary Tree Inorder Traversal
-  - 145. Binary Tree Postorder Traversal
+  - (Easy) LC-0144-Binary-Tree-Preorder-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0144-Binary-Tree-Preorder-Traversal.py)
+  - (Easy) LC-0094-Binary-Tree-Inorder-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0094-Binary-Tree-Inorder-Traversal.py)
+  - (Easy) LC-0145-Binary-Tree-Postorder-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0145-Binary-Tree-Postorder-Traversal.py)
 - Day 11 - Tree
   - 102. Binary Tree Level Order Traversal
   - 104. Maximum Depth of Binary Tree

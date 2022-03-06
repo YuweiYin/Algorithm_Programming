@@ -57,6 +57,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
 - LC-0090-Subsets-II: [Python3](./Python3/LC-0090-Subsets-II.py)
 - LC-0091-Decode-Ways: [Python3](./Python3/LC-0091-Decode-Ways.py)
+- LC-0094-Binary-Tree-Inorder-Traversal: [Python3](./Python3/LC-0094-Binary-Tree-Inorder-Traversal.py)
 - LC-0096-Unique-Binary-Search-Trees: [Python3](./Python3/LC-0096-Unique-Binary-Search-Trees.py)
 
 </details>
@@ -83,6 +84,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0139-Word-Break: [Python3](./Python3/LC-0139-Word-Break.py)
 - LC-0141-Linked-List-Cycle: [Python3](./Python3/LC-0141-Linked-List-Cycle.py)
 - LC-0142-Linked-List-Cycle-II: [Python3](./Python3/LC-0142-Linked-List-Cycle-II.py)
+- LC-0144-Binary-Tree-Preorder-Traversal: [Python3](./Python3/LC-0144-Binary-Tree-Preorder-Traversal.py)
+- LC-0145-Binary-Tree-Postorder-Traversal: [Python3](./Python3/LC-0145-Binary-Tree-Postorder-Traversal.py)
 - LC-0148-Sort-List: [Python3](./Python3/LC-0148-Sort-List.py)
 - LC-0149-Max-Points-on-a-Line: [Python3](./Python3/LC-0149-Max-Points-on-a-Line.py)
 - LC-0152-Maximum-Product-Subarray: [Python3](./Python3/LC-0152-Maximum-Product-Subarray.py)
@@ -317,6 +320,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
 - LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero: [Python3](./Python3/LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
 - LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
+- LC-1359-Count-All-Valid-Pickup-and-Delivery-Options: [Python3](./Python3/LC-1359-Count-All-Valid-Pickup-and-Delivery-Options.py)
 - LC-1380-Lucky-Numbers-in-a-Matrix: [Python3](./Python3/LC-1380-Lucky-Numbers-in-a-Matrix.py)
 
 </details>
@@ -408,6 +412,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)
 - LC-2045-Second-Minimum-Time-to-Reach-Destination: [Python3](./Python3/LC-2045-Second-Minimum-Time-to-Reach-Destination.py)
 - LC-2047-Number-of-Valid-Words-in-a-Sentence: [Python3](./Python3/LC-2047-Number-of-Valid-Words-in-a-Sentence.py)
+- LC-2100-Find-Good-Days-to-Rob-the-Bank: [Python3](./Python3/LC-2100-Find-Good-Days-to-Rob-the-Bank.py)
 
 </details>
 
