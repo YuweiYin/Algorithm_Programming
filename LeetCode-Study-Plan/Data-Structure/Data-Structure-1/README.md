@@ -47,9 +47,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0094-Binary-Tree-Inorder-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0094-Binary-Tree-Inorder-Traversal.py)
   - (Easy) LC-0145-Binary-Tree-Postorder-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0145-Binary-Tree-Postorder-Traversal.py)
 - Day 11 - Tree
-  - 102. Binary Tree Level Order Traversal
-  - 104. Maximum Depth of Binary Tree
-  - 101. Symmetric Tree
+  - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
+  - (Easy) LC-0104-Maximum-Depth-of-Binary-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0104-Maximum-Depth-of-Binary-Tree.py)
+  - (Easy) LC-0101-Symmetric-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0101-Symmetric-Tree.py)
 - Day 12 - Tree
   - 226. Invert Binary Tree
   - 112. Path Sum

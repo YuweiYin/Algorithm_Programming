@@ -67,6 +67,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
+- LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
 - LC-0104-Maximum-Depth-of-Binary-Tree: [Python3](./Python3/LC-0104-Maximum-Depth-of-Binary-Tree.py)
 - LC-0116-Populating-Next-Right-Pointers-in-Each-Node: [Python3](./Python3/LC-0116-Populating-Next-Right-Pointers-in-Each-Node.py)
 - LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II: [Python3](./Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
@@ -179,6 +181,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List</summary>
 
+- LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
 - LC-0516-Longest-Palindromic-Subsequence: [Python3](./Python3/LC-0516-Longest-Palindromic-Subsequence.py)
 - LC-0518-Coin-Change-2: [Python3](./Python3/LC-0518-Coin-Change-2.py)
