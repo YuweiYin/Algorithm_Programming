@@ -54,8 +54,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0226-Invert-Binary-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0226-Invert-Binary-Tree.py)
   - (Easy) LC-0112-Path-Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0112-Path-Sum.py)
 - Day 13 - Tree
-  - 700. Search in a Binary Search Tree
-  - 701. Insert into a Binary Search Tree
+  - (Easy) LC-0700-Search-in-a-Binary-Search-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0700-Search-in-a-Binary-Search-Tree.py)
+  - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - Day 14 - Tree
   - 98. Validate Binary Search Tree
   - 653. Two Sum IV - Input is a BST

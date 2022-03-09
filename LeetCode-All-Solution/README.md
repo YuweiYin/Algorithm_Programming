@@ -218,6 +218,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
 - LC-0688-Knight-Probability-in-Chessboard: [Python3](./Python3/LC-0688-Knight-Probability-in-Chessboard.py)
 - LC-0695-Max-Area-of-Island: [Python3](./Python3/LC-0695-Max-Area-of-Island.py)
+- LC-0700-Search-in-a-Binary-Search-Tree: [Python3](./Python3/LC-0700-Search-in-a-Binary-Search-Tree.py)
 
 </details>
 
@@ -237,6 +238,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
 - LC-0797-All-Paths-From-Source-to-Target: [Python3](./Python3/LC-0797-All-Paths-From-Source-to-Target.py)
+- LC-0798-Smallest-Rotation-with-Highest-Score: [Python3](./Python3/LC-0798-Smallest-Rotation-with-Highest-Score.py)
 - LC-0799-Champagne-Tower: [Python3](./Python3/LC-0799-Champagne-Tower.py)
 
 </details>

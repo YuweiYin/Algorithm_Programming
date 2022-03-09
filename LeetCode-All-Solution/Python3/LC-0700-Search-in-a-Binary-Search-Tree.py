@@ -2,9 +2,9 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-0701-Insert-into-a-Binary-Search-Tree.py
+@File    : LC-0700-Search-in-a-Binary-Search-Tree.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
-@Date    : 2022-01-12
+@Date    : 2022-03-09
 =================================================================="""
 
 import sys
@@ -12,33 +12,28 @@ import time
 from typing import List, Optional
 
 """
-LeetCode - 0701 - (Medium) - Insert into a Binary Search Tree
-https://leetcode.com/problems/insert-into-a-binary-search-tree/
+LeetCode - 0700 - (Easy) - Search in a Binary Search Tree
+https://leetcode.com/problems/search-in-a-binary-search-tree/
 
 Description & Requirement:
-    You are given the root node of a binary search tree (BST) and a value to insert into the tree. 
-    Return the root node of the BST after the insertion. 
-    It is guaranteed that the new value does not exist in the original BST.
+    You are given the root of a binary search tree (BST) and an integer val.
 
-    Notice that there may exist multiple valid ways for the insertion, 
-    as long as the tree remains a BST after insertion. You can return any of them.
+    Find the node in the BST that the node's value equals val and 
+    return the subtree rooted with that node. 
+    If such a node does not exist, return null.
 
 Example 1:
-    Input: root = [4,2,7,1,3], val = 5
-    Output: [4,2,7,1,3,5]
+    Input: root = [4,2,7,1,3], val = 2
+    Output: [2,1,3]
 Example 2:
-    Input: root = [40,20,60,10,30,50,70], val = 25
-    Output: [40,20,60,10,30,50,70,null,null,25]
-Example 3:
-    Input: root = [4,2,7,1,3,null,null,null,null,null,null], val = 5
-    Output: [4,2,7,1,3,5]
+    Input: root = [4,2,7,1,3], val = 5
+    Output: []
 
 Constraints:
-    The number of nodes in the tree will be in the range [0, 10^4].
-    -10^8 <= Node.val <= 10^8
-    All the values Node.val are unique.
-    -10^8 <= val <= 10^8
-    It's guaranteed that val does not exist in the original BST.
+    The number of nodes in the tree is in the range [1, 5000].
+    1 <= Node.val <= 10^7
+    root is a binary search tree.
+    1 <= val <= 10^7
 """
 
 
@@ -112,52 +107,37 @@ class TreeNode:
 
 
 class Solution:
-    def insertIntoBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+    def searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
         # exception case
         if not isinstance(root, TreeNode):
-            new_root = TreeNode(val=val)
-            return new_root  # new tree new root
+            return None
         # main method: (BST traverse)
-        return self._insertIntoBST(root, val)
+        return self._searchBST(root, val)
 
-    def _insertIntoBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
+    def _searchBST(self, root: Optional[TreeNode], val: int) -> Optional[TreeNode]:
 
         def __dfs(node: Optional[TreeNode]):  # BST traverse
-            assert isinstance(node, TreeNode)
+            if not isinstance(node, TreeNode):
+                return None
 
-            if val <= node.val:  # go left
-                # left child
-                if isinstance(node.left, TreeNode):
-                    __dfs(node.left)
-                else:  # left child is None, can be inserted there
-                    new_node = TreeNode(val=val)
-                    node.left = new_node
-                    return
+            if val == node.val:  # val matched
+                return node
+            elif val < node.val:  # go left
+                return __dfs(node.left)
             else:  # go right
-                # right child
-                if isinstance(node.right, TreeNode):
-                    __dfs(node.right)
-                else:  # right child is None, can be inserted there
-                    new_node = TreeNode(val=val)
-                    node.right = new_node
-                    return
+                return __dfs(node.right)
 
-        __dfs(root)
-        return root
+        return __dfs(root)
 
 
 def main():
-    # Example 1: Output: [4,2,7,1,3,5]
+    # Example 1: Output: [2,1,3]
+    root = [4, 2, 7, 1, 3]
+    val = 2
+
+    # Example 2: Output: []
     # root = [4, 2, 7, 1, 3]
     # val = 5
-
-    # Example 2: Output: [40,20,60,10,30,50,70,null,null,25]
-    # root = [40, 20, 60, 10, 30, 50, 70]
-    # val = 25
-
-    # Example 3: Output: [4,2,7,1,3,5]
-    root = [4, 2, 7, 1, 3, None, None, None, None, None, None]
-    val = 5
 
     root_node = TreeNode.build_binary_tree_layer(root)
     print(TreeNode.show_binary_tree_mid_order(root_node))  # mid traverse BST to get ordered list
@@ -167,7 +147,7 @@ def main():
 
     # run & time
     start = time.process_time()
-    ans = solution.insertIntoBST(root_node, val)
+    ans = solution.searchBST(root_node, val)
     end = time.process_time()
 
     # show answer
