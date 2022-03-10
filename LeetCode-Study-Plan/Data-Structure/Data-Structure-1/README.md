@@ -57,12 +57,12 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0700-Search-in-a-Binary-Search-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0700-Search-in-a-Binary-Search-Tree.py)
   - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - Day 14 - Tree
-  - 98. Validate Binary Search Tree
-  - 653. Two Sum IV - Input is a BST
-  - 235. Lowest Common Ancestor of a Binary Search Tree
+  - (Medium) LC-0098-Validate-Binary-Search-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0098-Validate-Binary-Search-Tree.py)
+  - (Easy) LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
+  - (Easy) LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree.py)
 
 ## TODO
 
-- [ ] Finish all the study plans (data-structure-1).
+- [x] <s>Finish all the study plans (data-structure-1)</s>.
 
 ---
