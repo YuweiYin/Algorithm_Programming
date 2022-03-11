@@ -53,6 +53,10 @@ class Solution:
         return self._singleNumber(nums)
 
     def _singleNumber(self, nums: List[int]) -> int:
+        """
+        Runtime: 132 ms, faster than 94.11% of Python3 online submissions for Single Number.
+        Memory Usage: 16.5 MB, less than 92.57% of Python3 online submissions for Single Number.
+        """
         res = 0
         for num in nums:
             res ^= num

@@ -12,7 +12,77 @@ During the computer programming process, **identifying and using the appropriate
 
 ## Study Plan (Data-Structure-2) List
 
-- 
+- Day 1 - Array
+  - (Easy) LC-0136-Single-Number: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0136-Single-Number.py)
+  - (Easy) LC-0169-Majority-Element: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0169-Majority-Element.py)
+  - (Medium) LC-0015-3Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0015-3Sum.py)
+- Day 2 - Array
+  - 75. Sort Colors
+  - 56. Merge Intervals
+  - 706. Design HashMap
+- Day 3 - Array
+  - 119. Pascal's Triangle II
+  - 48. Rotate Image
+  - 59. Spiral Matrix II
+- Day 4 - Array
+  - 240. Search a 2D Matrix II
+  - 435. Non-overlapping Intervals
+- Day 5 - Array
+  - 334. Increasing Triplet Subsequence
+  - 238. Product of Array Except Self
+  - 560. Subarray Sum Equals K
+- Day 6 - String
+  - 415. Add Strings
+  - 409. Longest Palindrome
+- Day 7 - String
+  - 290. Word Pattern
+  - 763. Partition Labels
+- Day 8 - String
+  - 49. Group Anagrams
+  - 43. Multiply Strings
+- Day 9 - String
+  - 187. Repeated DNA Sequences
+  - 5. Longest Palindromic Substring
+- Day 10 - Linked List
+  - 2. Add Two Numbers
+  - 142. Linked List Cycle II
+- Day 11 - Linked List
+  - 160. Intersection of Two Linked Lists
+  - 82. Remove Duplicates from Sorted List II
+- Day 12 - Linked List
+  - 24. Swap Nodes in Pairs
+  - 707. Design Linked List
+- Day 13 - Linked List
+  - 25. Reverse Nodes in k-Group
+  - 143. Reorder List
+- Day 14 - Stack / Queue
+  - 155. Min Stack
+  - 1249. Minimum Remove to Make Valid Parentheses
+  - 1823. Find the Winner of the Circular Game
+- Day 15 - Tree
+  - 108. Convert Sorted Array to Binary Search Tree
+  - 105. Construct Binary Tree from Preorder and Inorder Traversal
+  - 103. Binary Tree Zigzag Level Order Traversal
+- Day 16 - Tree
+  - 199. Binary Tree Right Side View
+  - 113. Path Sum II
+  - 450. Delete Node in a BST
+- Day 17 - Tree
+  - 230. Kth Smallest Element in a BST
+  - 173. Binary Search Tree Iterator
+- Day 18 - Tree
+  - 236. Lowest Common Ancestor of a Binary Tree
+  - 297. Serialize and Deserialize Binary Tree
+- Day 19 - Graph
+  - 997. Find the Town Judge
+  - 1557. Minimum Number of Vertices to Reach All Nodes
+  - 841. Keys and Rooms
+- Day 20 - Heap (Priority Queue)
+  - 215. Kth Largest Element in an Array
+  - 347. Top K Frequent Elements
+- Day 21 - Heap (Priority Queue)
+  - 451. Sort Characters By Frequency
+  - 973. K Closest Points to Origin
 
 ## TODO
 
