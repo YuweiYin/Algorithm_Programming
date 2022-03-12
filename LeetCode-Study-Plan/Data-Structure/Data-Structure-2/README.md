@@ -17,9 +17,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0169-Majority-Element: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0169-Majority-Element.py)
   - (Medium) LC-0015-3Sum: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0015-3Sum.py)
 - Day 2 - Array
-  - 75. Sort Colors
-  - 56. Merge Intervals
-  - 706. Design HashMap
+  - (Medium) LC-0075-Sort-Colors: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0075-Sort-Colors.py)
+  - (Medium) LC-0056-Merge-Intervals: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0056-Merge-Intervals.py)
+  - (Easy) LC-0706-Design-HashMap: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0706-Design-HashMap.py)
 - Day 3 - Array
   - 119. Pascal's Triangle II
   - 48. Rotate Image
