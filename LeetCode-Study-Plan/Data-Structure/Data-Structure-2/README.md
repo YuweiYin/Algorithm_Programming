@@ -21,9 +21,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0056-Merge-Intervals: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0056-Merge-Intervals.py)
   - (Easy) LC-0706-Design-HashMap: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0706-Design-HashMap.py)
 - Day 3 - Array
-  - 119. Pascal's Triangle II
-  - 48. Rotate Image
-  - 59. Spiral Matrix II
+  - (Easy) LC-0119-Pascals-Triangle-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0119-Pascals-Triangle-II.py)
+  - (Medium) LC-0048-Rotate-Image: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0048-Rotate-Image.py)
+  - (Medium) LC-0059-Spiral-Matrix-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0059-Spiral-Matrix-II.py)
 - Day 4 - Array
   - 240. Search a 2D Matrix II
   - 435. Non-overlapping Intervals
