@@ -25,8 +25,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0048-Rotate-Image: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0048-Rotate-Image.py)
   - (Medium) LC-0059-Spiral-Matrix-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0059-Spiral-Matrix-II.py)
 - Day 4 - Array
-  - 240. Search a 2D Matrix II
-  - 435. Non-overlapping Intervals
+  - (Medium) LC-0240-Search-a-2D-Matrix-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0240-Search-a-2D-Matrix-II.py)
+  - (Medium) LC-0435-Non-overlapping-Intervals: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0435-Non-overlapping-Intervals.py)
 - Day 5 - Array
   - 334. Increasing Triplet Subsequence
   - 238. Product of Array Except Self
