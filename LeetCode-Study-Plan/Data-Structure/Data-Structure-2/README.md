@@ -28,9 +28,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0240-Search-a-2D-Matrix-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0240-Search-a-2D-Matrix-II.py)
   - (Medium) LC-0435-Non-overlapping-Intervals: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0435-Non-overlapping-Intervals.py)
 - Day 5 - Array
-  - 334. Increasing Triplet Subsequence
-  - 238. Product of Array Except Self
-  - 560. Subarray Sum Equals K
+  - (Medium) LC-0334-Increasing-Triplet-Subsequence: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0334-Increasing-Triplet-Subsequence.py)
+  - (Medium) LC-0238-Product-of-Array-Except-Self: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0238-Product-of-Array-Except-Self.py)
+  - (Medium) LC-0560-Subarray-Sum-Equals-K: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0560-Subarray-Sum-Equals-K.py)
 - Day 6 - String
   - 415. Add Strings
   - 409. Longest Palindrome
