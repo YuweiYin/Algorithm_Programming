@@ -32,8 +32,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0238-Product-of-Array-Except-Self: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0238-Product-of-Array-Except-Self.py)
   - (Medium) LC-0560-Subarray-Sum-Equals-K: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0560-Subarray-Sum-Equals-K.py)
 - Day 6 - String
-  - 415. Add Strings
-  - 409. Longest Palindrome
+  - (Easy) LC-0415-Add-Strings: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0415-Add-Strings.py)
+  - (Easy) LC-0409-Longest-Palindrome: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0409-Longest-Palindrome.py)
 - Day 7 - String
   - 290. Word Pattern
   - 763. Partition Labels
