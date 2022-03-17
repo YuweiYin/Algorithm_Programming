@@ -35,8 +35,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0415-Add-Strings: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0415-Add-Strings.py)
   - (Easy) LC-0409-Longest-Palindrome: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0409-Longest-Palindrome.py)
 - Day 7 - String
-  - 290. Word Pattern
-  - 763. Partition Labels
+  - (Easy) LC-0290-Word-Pattern: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0290-Word-Pattern.py)
+  - (Medium) LC-0763-Partition-Labels: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0763-Partition-Labels.py)
 - Day 8 - String
   - 49. Group Anagrams
   - 43. Multiply Strings
