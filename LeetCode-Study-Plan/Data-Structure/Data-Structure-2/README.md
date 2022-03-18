@@ -38,8 +38,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0290-Word-Pattern: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0290-Word-Pattern.py)
   - (Medium) LC-0763-Partition-Labels: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0763-Partition-Labels.py)
 - Day 8 - String
-  - 49. Group Anagrams
-  - 43. Multiply Strings
+  - (Medium) LC-0049-Group-Anagrams: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0049-Group-Anagrams.py)
+  - (Medium) LC-0043-Multiply-Strings: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0043-Multiply-Strings.py)
 - Day 9 - String
   - 187. Repeated DNA Sequences
   - 5. Longest Palindromic Substring
