@@ -41,8 +41,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0049-Group-Anagrams: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0049-Group-Anagrams.py)
   - (Medium) LC-0043-Multiply-Strings: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0043-Multiply-Strings.py)
 - Day 9 - String
-  - 187. Repeated DNA Sequences
-  - 5. Longest Palindromic Substring
+  - (Medium) LC-0187-Repeated-DNA-Sequences: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0187-Repeated-DNA-Sequences.py)
+  - (Medium) LC-0005-Longest-Palindromic-Substring: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0005-Longest-Palindromic-Substring.py)
 - Day 10 - Linked List
   - 2. Add Two Numbers
   - 142. Linked List Cycle II

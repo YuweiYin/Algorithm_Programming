@@ -108,6 +108,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0167-Two-Sum-II-Input-Array-Is-Sorted: [Python3](./Python3/LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - LC-0169-Majority-Element: [Python3](./Python3/LC-0169-Majority-Element.py)
 - LC-0171-Excel-Sheet-Column-Number: [Python3](./Python3/LC-0171-Excel-Sheet-Column-Number.py)
+- LC-0187-Repeated-DNA-Sequences: [Python3](./Python3/LC-0187-Repeated-DNA-Sequences.py)
 - LC-0189-Rotate-Array: [Python3](./Python3/LC-0189-Rotate-Array.py)
 - LC-0190-Reverse-Bits: [Python3](./Python3/LC-0190-Reverse-Bits.py)
 - LC-0191-Number-of-1-Bits: [Python3](./Python3/LC-0191-Number-of-1-Bits.py)
@@ -235,6 +236,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
+- LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
 - LC-0617-Merge-Two-Binary-Trees: [Python3](./Python3/LC-0617-Merge-Two-Binary-Trees.py)
 - LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](./Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
 - LC-0662-Maximum-Width-of-Binary-Tree: [Python3](./Python3/LC-0662-Maximum-Width-of-Binary-Tree.py)
@@ -282,6 +284,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-0875-Koko-Eating-Bananas: [Python3](./Python3/LC-0875-Koko-Eating-Bananas.py)
 - LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
 - LC-0884-Uncommon-Words-from-Two-Sentences: [Python3](./Python3/LC-0884-Uncommon-Words-from-Two-Sentences.py)
+- LC-0895-Maximum-Frequency-Stack: [Python3](./Python3/LC-0895-Maximum-Frequency-Stack.py)
 
 </details>
 

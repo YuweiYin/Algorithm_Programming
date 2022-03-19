@@ -132,8 +132,8 @@ class Solution:
         Time: O(n).  Space: O(n)
         Manacher's algorithm to find the longest palindromic substring
         [Wiki](https://en.wikipedia.org/wiki/Longest_palindromic_substring)
-        Runtime: 249 ms, faster than 94.30% of Python3 online submissions for Longest Palindromic Substring.
-        Memory Usage: 14.4 MB, less than 43.07% of Python3 online submissions for Longest Palindromic Substring.
+        Runtime: 201 ms, faster than 95.86% of Python3 online submissions for Longest Palindromic Substring.
+        Memory Usage: 14.3 MB, less than 23.92% of Python3 online submissions for Longest Palindromic Substring.
         """
         assert len(s) > 2
 
