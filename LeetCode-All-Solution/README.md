@@ -313,6 +313,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List</summary>
 
 - LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
+- LC-1007-Minimum-Domino-Rotations-For-Equal-Row: [Python3](./Python3/LC-1007-Minimum-Domino-Rotations-For-Equal-Row.py)
 - LC-1009-Complement-of-Base-10-Integer: [Python3](./Python3/LC-1009-Complement-of-Base-10-Integer.py)
 - LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60: [Python3](./Python3/LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60.py)
 - LC-1014-Best-Sightseeing-Pair: [Python3](./Python3/LC-1014-Best-Sightseeing-Pair.py)
@@ -450,6 +451,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
 - LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
 - LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)
+- LC-2039-The-Time-When-the-Network-Becomes-Idle: [Python3](./Python3/LC-2039-The-Time-When-the-Network-Becomes-Idle.py)
 - LC-2043-Simple-Bank-System: [Python3](./Python3/LC-2043-Simple-Bank-System.py)
 - LC-2044-Count-Number-of-Maximum-Bitwise-OR-Subsets: [Python3](./Python3/LC-2044-Count-Number-of-Maximum-Bitwise-OR-Subsets.py)
 - LC-2045-Second-Minimum-Time-to-Reach-Destination: [Python3](./Python3/LC-2045-Second-Minimum-Time-to-Reach-Destination.py)
@@ -461,6 +463,15 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 </details>
 
 ### LeetCode 2101 - 2200
+
+<details>
+<summary>Solution List</summary>
+
+- LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
+
+</details>
+
+### LeetCode 2201 - 2300
 
 <details>
 <summary>Solution List</summary>

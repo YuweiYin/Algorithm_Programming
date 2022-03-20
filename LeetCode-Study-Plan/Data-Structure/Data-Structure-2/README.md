@@ -44,8 +44,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0187-Repeated-DNA-Sequences: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0187-Repeated-DNA-Sequences.py)
   - (Medium) LC-0005-Longest-Palindromic-Substring: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0005-Longest-Palindromic-Substring.py)
 - Day 10 - Linked List
-  - 2. Add Two Numbers
-  - 142. Linked List Cycle II
+  - (Medium) LC-0002-Add-Two-Numbers: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0002-Add-Two-Numbers.py)
+  - (Medium) LC-0142-Linked-List-Cycle-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0142-Linked-List-Cycle-II.py)
 - Day 11 - Linked List
   - 160. Intersection of Two Linked Lists
   - 82. Remove Duplicates from Sorted List II
