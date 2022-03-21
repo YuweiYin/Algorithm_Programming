@@ -51,7 +51,7 @@ class Solution:
 
     def _partitionLabels(self, s: str) -> List[int]:
         """
-        Runtime: 44 ms, faster than 82.56% of Python3 online submissions for Partition Labels.
+        Runtime: 37 ms, faster than 93.35% of Python3 online submissions for Partition Labels.
         Memory Usage: 14 MB, less than 41.14% of Python3 online submissions for Partition Labels.
         """
         len_s = len(s)

@@ -80,6 +80,10 @@ class Solution:
         return self._deleteDuplicates(head)
 
     def _deleteDuplicates(self, head_node: Optional[ListNode]) -> Optional[ListNode]:
+        """
+        Runtime: 44 ms, faster than 86.84% of Python3 online submissions for Remove Duplicates from Sorted List II.
+        Memory Usage: 13.9 MB, less than 35.92% of Python3 online submissions for Remove Duplicates from Sorted List II.
+        """
         assert isinstance(head_node, ListNode) and isinstance(head_node.next, ListNode) and \
                isinstance(head_node.next.next, ListNode)
 
