@@ -50,8 +50,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Easy) LC-0160-Intersection-of-Two-Linked-Lists: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0002-Add-Two-Numbers.py)
   - (Medium) LC-0082-Remove-Duplicates-from-Sorted-List-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0002-Add-Two-Numbers.py)
 - Day 12 - Linked List
-  - 24. Swap Nodes in Pairs
-  - 707. Design Linked List
+  - (Medium) LC-0024-Swap-Nodes-in-Pairs: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0024-Swap-Nodes-in-Pairs.py)
+  - (Medium) LC-0707-Design-Linked-List: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0707-Design-Linked-List.py)
 - Day 13 - Linked List
   - 25. Reverse Nodes in k-Group
   - 143. Reorder List
