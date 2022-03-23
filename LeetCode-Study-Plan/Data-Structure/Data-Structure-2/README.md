@@ -53,8 +53,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0024-Swap-Nodes-in-Pairs: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0024-Swap-Nodes-in-Pairs.py)
   - (Medium) LC-0707-Design-Linked-List: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0707-Design-Linked-List.py)
 - Day 13 - Linked List
-  - 25. Reverse Nodes in k-Group
-  - 143. Reorder List
+  - (Hard) LC-0025-Reverse-Nodes-in-k-Group: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0025-Reverse-Nodes-in-k-Group.py)
+  - (Medium) LC-0143-Reorder-List: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0143-Reorder-List.py)
 - Day 14 - Stack / Queue
   - 155. Min Stack
   - 1249. Minimum Remove to Make Valid Parentheses
