@@ -75,7 +75,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (40/100)</summary>
+<summary>Solution List (41/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -105,6 +105,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0149-Max-Points-on-a-Line: [Python3](./Python3/LC-0149-Max-Points-on-a-Line.py)
 - (Medium) LC-0152-Maximum-Product-Subarray: [Python3](./Python3/LC-0152-Maximum-Product-Subarray.py)
 - (Medium) LC-0153-Find-Minimum-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
+- (-Easy-) LC-0155-Min-Stack: [Python3](./Python3/LC-0155-Min-Stack.py)
 - (-Easy-) LC-0160-Intersection-of-Two-Linked-Lists: [Python3](./Python3/LC-0160-Intersection-of-Two-Linked-Lists.py)
 - (Medium) LC-0162-Find-Peak-Element: [Python3](./Python3/LC-0162-Find-Peak-Element.py)
 - (Medium) LC-0165-Compare-Version-Numbers: [Python3](./Python3/LC-0165-Compare-Version-Numbers.py)
@@ -237,12 +238,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
 - (-Easy-) LC-0617-Merge-Two-Binary-Trees: [Python3](./Python3/LC-0617-Merge-Two-Binary-Trees.py)
 - (-Easy-) LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](./Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
+- (-Easy-) LC-0661-Image-Smoother: [Python3](./Python3/LC-0661-Image-Smoother.py)
 - (Medium) LC-0662-Maximum-Width-of-Binary-Tree: [Python3](./Python3/LC-0662-Maximum-Width-of-Binary-Tree.py)
 - (Medium) LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
 - (Medium) LC-0688-Knight-Probability-in-Chessboard: [Python3](./Python3/LC-0688-Knight-Probability-in-Chessboard.py)
@@ -279,7 +281,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
 - (-Easy-) LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
@@ -288,6 +290,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0856-Score-of-Parentheses: [Python3](./Python3/LC-0856-Score-of-Parentheses.py)
 - (Medium) LC-0875-Koko-Eating-Bananas: [Python3](./Python3/LC-0875-Koko-Eating-Bananas.py)
 - (-Easy-) LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
+- (Medium) LC-0881-Boats-to-Save-People: [Python3](./Python3/LC-0881-Boats-to-Save-People.py)
 - (-Easy-) LC-0884-Uncommon-Words-from-Two-Sentences: [Python3](./Python3/LC-0884-Uncommon-Words-from-Two-Sentences.py)
 - (-Hard-) LC-0895-Maximum-Frequency-Stack: [Python3](./Python3/LC-0895-Maximum-Frequency-Stack.py)
 
@@ -429,9 +432,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (0/100)</summary>
+<summary>Solution List (1/100)</summary>
 
-- 
+- (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
 
 </details>
 

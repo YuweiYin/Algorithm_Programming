@@ -56,9 +56,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Hard) LC-0025-Reverse-Nodes-in-k-Group: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0025-Reverse-Nodes-in-k-Group.py)
   - (Medium) LC-0143-Reorder-List: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0143-Reorder-List.py)
 - Day 14 - Stack / Queue
-  - 155. Min Stack
-  - 1249. Minimum Remove to Make Valid Parentheses
-  - 1823. Find the Winner of the Circular Game
+  - (Easy) LC-0155-Min-Stack: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0155-Min-Stack.py)
+  - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
+  - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
 - Day 15 - Tree
   - 108. Convert Sorted Array to Binary Search Tree
   - 105. Construct Binary Tree from Preorder and Inorder Traversal
