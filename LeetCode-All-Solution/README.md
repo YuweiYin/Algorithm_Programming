@@ -75,11 +75,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (45/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
+- (Medium) LC-0103-Binary-Tree-Zigzag-Level-Order-Traversal: [Python3](./Python3/LC-0103-Binary-Tree-Zigzag-Level-Order-Traversal.py)
 - (-Easy-) LC-0104-Maximum-Depth-of-Binary-Tree: [Python3](./Python3/LC-0104-Maximum-Depth-of-Binary-Tree.py)
+- (Medium) LC-0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal: [Python3](./Python3/LC-0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.py)
+- (-Easy-) LC-0108-Convert-Sorted-Array-to-Binary-Search-Tree: [Python3](./Python3/LC-0108-Convert-Sorted-Array-to-Binary-Search-Tree.py)
 - (-Easy-) LC-0112-Path-Sum: [Python3](./Python3/LC-0112-Path-Sum.py)
 - (Medium) LC-0116-Populating-Next-Right-Pointers-in-Each-Node: [Python3](./Python3/LC-0116-Populating-Next-Right-Pointers-in-Each-Node.py)
 - (Medium) LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II: [Python3](./Python3/LC-0117-Populating-Next-Right-Pointers-in-Each-Node-II.py)
@@ -112,6 +115,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0167-Two-Sum-II-Input-Array-Is-Sorted: [Python3](./Python3/LC-0167-Two-Sum-II-Input-Array-Is-Sorted.py)
 - (-Easy-) LC-0169-Majority-Element: [Python3](./Python3/LC-0169-Majority-Element.py)
 - (-Easy-) LC-0171-Excel-Sheet-Column-Number: [Python3](./Python3/LC-0171-Excel-Sheet-Column-Number.py)
+- (Medium) LC-0172-Factorial-Trailing-Zeroes: [Python3](./Python3/LC-0172-Factorial-Trailing-Zeroes.py)
 - (Medium) LC-0187-Repeated-DNA-Sequences: [Python3](./Python3/LC-0187-Repeated-DNA-Sequences.py)
 - (Medium) LC-0189-Rotate-Array: [Python3](./Python3/LC-0189-Rotate-Array.py)
 - (-Easy-) LC-0190-Reverse-Bits: [Python3](./Python3/LC-0190-Reverse-Bits.py)
@@ -319,7 +323,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1007-Minimum-Domino-Rotations-For-Equal-Row: [Python3](./Python3/LC-1007-Minimum-Domino-Rotations-For-Equal-Row.py)
@@ -328,6 +332,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1014-Best-Sightseeing-Pair: [Python3](./Python3/LC-1014-Best-Sightseeing-Pair.py)
 - (Medium) LC-1020-Number-of-Enclaves: [Python3](./Python3/LC-1020-Number-of-Enclaves.py)
 - (-Easy-) LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers: [Python3](./Python3/LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers.py)
+- (Medium) LC-1029-Two-City-Scheduling: [Python3](./Python3/LC-1029-Two-City-Scheduling.py)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
 - (Medium) LC-1041-Robot-Bounded-In-Circle: [Python3](./Python3/LC-1041-Robot-Bounded-In-Circle.py)
 - (Medium) LC-1081-Smallest-Subsequence-of-Distinct-Characters: [Python3](./Python3/LC-1081-Smallest-Subsequence-of-Distinct-Characters.py)

@@ -60,9 +60,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
   - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
 - Day 15 - Tree
-  - 108. Convert Sorted Array to Binary Search Tree
-  - 105. Construct Binary Tree from Preorder and Inorder Traversal
-  - 103. Binary Tree Zigzag Level Order Traversal
+  - (Easy) LC-0108-Convert-Sorted-Array-to-Binary-Search-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0108-Convert-Sorted-Array-to-Binary-Search-Tree.py)
+  - (Medium) LC-0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.py)
+  - (Medium) LC-0103-Binary-Tree-Zigzag-Level-Order-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0103-Binary-Tree-Zigzag-Level-Order-Traversal.py)
 - Day 16 - Tree
   - 199. Binary Tree Right Side View
   - 113. Path Sum II
