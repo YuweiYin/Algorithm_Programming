@@ -64,9 +64,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.py)
   - (Medium) LC-0103-Binary-Tree-Zigzag-Level-Order-Traversal: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0103-Binary-Tree-Zigzag-Level-Order-Traversal.py)
 - Day 16 - Tree
-  - 199. Binary Tree Right Side View
-  - 113. Path Sum II
-  - 450. Delete Node in a BST
+  - (Medium) LC-0199-Binary-Tree-Right-Side-View: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0199-Binary-Tree-Right-Side-View.py)
+  - (Medium) LC-0113-Path-Sum-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0113-Path-Sum-II.py)
+  - (Medium) LC-0450-Delete-Node-in-a-BST: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0450-Delete-Node-in-a-BST.py)
 - Day 17 - Tree
   - 230. Kth Smallest Element in a BST
   - 173. Binary Search Tree Iterator
