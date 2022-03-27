@@ -68,8 +68,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0113-Path-Sum-II: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0113-Path-Sum-II.py)
   - (Medium) LC-0450-Delete-Node-in-a-BST: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0450-Delete-Node-in-a-BST.py)
 - Day 17 - Tree
-  - 230. Kth Smallest Element in a BST
-  - 173. Binary Search Tree Iterator
+  - (Medium) LC-0230-Kth-Smallest-Element-in-a-BST: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0230-Kth-Smallest-Element-in-a-BST.py)
+  - (Medium) LC-0173-Binary-Search-Tree-Iterator: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0173-Binary-Search-Tree-Iterator.py)
 - Day 18 - Tree
   - 236. Lowest Common Ancestor of a Binary Tree
   - 297. Serialize and Deserialize Binary Tree

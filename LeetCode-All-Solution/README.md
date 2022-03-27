@@ -75,7 +75,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (47/100)</summary>
+<summary>Solution List (48/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -117,6 +117,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0169-Majority-Element: [Python3](./Python3/LC-0169-Majority-Element.py)
 - (-Easy-) LC-0171-Excel-Sheet-Column-Number: [Python3](./Python3/LC-0171-Excel-Sheet-Column-Number.py)
 - (Medium) LC-0172-Factorial-Trailing-Zeroes: [Python3](./Python3/LC-0172-Factorial-Trailing-Zeroes.py)
+- (Medium) LC-0173-Binary-Search-Tree-Iterator: [Python3](./Python3/LC-0173-Binary-Search-Tree-Iterator.py)
 - (Medium) LC-0187-Repeated-DNA-Sequences: [Python3](./Python3/LC-0187-Repeated-DNA-Sequences.py)
 - (Medium) LC-0189-Rotate-Array: [Python3](./Python3/LC-0189-Rotate-Array.py)
 - (-Easy-) LC-0190-Reverse-Bits: [Python3](./Python3/LC-0190-Reverse-Bits.py)
@@ -130,7 +131,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -145,6 +146,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0221-Maximal-Square: [Python3](./Python3/LC-0221-Maximal-Square.py)
 - (-Easy-) LC-0226-Invert-Binary-Tree: [Python3](./Python3/LC-0226-Invert-Binary-Tree.py)
 - (-Easy-) LC-0228-Summary-Ranges: [Python3](./Python3/LC-0228-Summary-Ranges.py)
+- (Medium) LC-0230-Kth-Smallest-Element-in-a-BST: [Python3](./Python3/LC-0230-Kth-Smallest-Element-in-a-BST.py)
 - (-Easy-) LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
 - (-Easy-) LC-0232-Implement-Queue-using-Stacks: [Python3](./Python3/LC-0232-Implement-Queue-using-Stacks.py)
 - (-Easy-) LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree: [Python3](./Python3/LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree.py)
@@ -373,10 +375,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (6/100)</summary>
+<summary>Solution List (7/100)</summary>
 
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
 - (-Easy-) LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
+- (-Easy-) LC-1337-The-K-Weakest-Rows-in-a-Matrix: [Python3](./Python3/LC-1337-The-K-Weakest-Rows-in-a-Matrix.py)
 - (-Easy-) LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero: [Python3](./Python3/LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
 - (-Hard-) LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
 - (-Hard-) LC-1359-Count-All-Valid-Pickup-and-Delivery-Options: [Python3](./Python3/LC-1359-Count-All-Valid-Pickup-and-Delivery-Options.py)
@@ -462,12 +465,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (16/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2013-Detect-Squares: [Python3](./Python3/LC-2013-Detect-Squares.py)
 - (-Easy-) LC-2016-Maximum-Difference-Between-Increasing-Elements: [Python3](./Python3/LC-2016-Maximum-Difference-Between-Increasing-Elements.py)
 - (-Easy-) LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
+- (Medium) LC-2028-Find-Missing-Observations: [Python3](./Python3/LC-2028-Find-Missing-Observations.py)
 - (Medium) LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
 - (Medium) LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)
 - (Medium) LC-2038-Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color: [Python3](./Python3/LC-2038-Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color.py)
