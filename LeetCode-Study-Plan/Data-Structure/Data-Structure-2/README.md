@@ -71,8 +71,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0230-Kth-Smallest-Element-in-a-BST: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0230-Kth-Smallest-Element-in-a-BST.py)
   - (Medium) LC-0173-Binary-Search-Tree-Iterator: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0173-Binary-Search-Tree-Iterator.py)
 - Day 18 - Tree
-  - 236. Lowest Common Ancestor of a Binary Tree
-  - 297. Serialize and Deserialize Binary Tree
+  - (Medium) LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree.py)
+  - (Hard) LC-0297-Serialize-and-Deserialize-Binary-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0297-Serialize-and-Deserialize-Binary-Tree.py)
 - Day 19 - Graph
   - 997. Find the Town Judge
   - 1557. Minimum Number of Vertices to Reach All Nodes

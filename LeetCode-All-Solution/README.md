@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (58/100)</summary>
+<summary>Solution List (59/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -59,6 +59,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0078-Subsets: [Python3](./Python3/LC-0078-Subsets.py)
 - (Medium) LC-0079-Word-Search: [Python3](./Python3/LC-0079-Word-Search.py)
 - (Medium) LC-0080-Remove-Duplicates-from-Sorted-Array-II: [Python3](./Python3/LC-0080-Remove-Duplicates-from-Sorted-Array-II.py)
+- (Medium) LC-0081-Search-in-Rotated-Sorted-Array-II: [Python3](./Python3/LC-0081-Search-in-Rotated-Sorted-Array-II.py)
 - (Medium) LC-0082-Remove-Duplicates-from-Sorted-List-II: [Python3](./Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
 - (-Easy-) LC-0083-Remove-Duplicates-from-Sorted-List: [Python3](./Python3/LC-0083-Remove-Duplicates-from-Sorted-List.py)
 - (-Hard-) LC-0084-Largest-Rectangle-in-Histogram: [Python3](./Python3/LC-0084-Largest-Rectangle-in-Histogram.py)
@@ -131,7 +132,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (27/100)</summary>
+<summary>Solution List (29/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -150,6 +151,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
 - (-Easy-) LC-0232-Implement-Queue-using-Stacks: [Python3](./Python3/LC-0232-Implement-Queue-using-Stacks.py)
 - (-Easy-) LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree: [Python3](./Python3/LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree.py)
+- (Medium) LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree: [Python3](./Python3/LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree.py)
 - (Medium) LC-0238-Product-of-Array-Except-Self: [Python3](./Python3/LC-0238-Product-of-Array-Except-Self.py)
 - (Medium) LC-0240-Search-a-2D-Matrix-II: [Python3](./Python3/LC-0240-Search-a-2D-Matrix-II.py)
 - (-Easy-) LC-0242-Valid-Anagram: [Python3](./Python3/LC-0242-Valid-Anagram.py)
@@ -159,6 +161,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0279-Perfect-Squares: [Python3](./Python3/LC-0279-Perfect-Squares.py)
 - (-Easy-) LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
 - (-Easy-) LC-0290-Word-Pattern: [Python3](./Python3/LC-0290-Word-Pattern.py)
+- (-Hard-) LC-0297-Serialize-and-Deserialize-Binary-Tree: [Python3](./Python3/LC-0297-Serialize-and-Deserialize-Binary-Tree.py)
 - (Medium) LC-0300-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0300-Longest-Increasing-Subsequence.py)
 
 </details>
@@ -247,7 +250,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -258,6 +261,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
 - (-Easy-) LC-0682-Baseball-Game: [Python3](./Python3/LC-0682-Baseball-Game.py)
 - (Medium) LC-0688-Knight-Probability-in-Chessboard: [Python3](./Python3/LC-0688-Knight-Probability-in-Chessboard.py)
+- (-Easy-) LC-0693-Binary-Number-with-Alternating-Bits: [Python3](./Python3/LC-0693-Binary-Number-with-Alternating-Bits.py)
 - (Medium) LC-0695-Max-Area-of-Island: [Python3](./Python3/LC-0695-Max-Area-of-Island.py)
 - (-Easy-) LC-0700-Search-in-a-Binary-Search-Tree: [Python3](./Python3/LC-0700-Search-in-a-Binary-Search-Tree.py)
 
