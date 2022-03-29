@@ -132,7 +132,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -160,6 +160,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
 - (Medium) LC-0279-Perfect-Squares: [Python3](./Python3/LC-0279-Perfect-Squares.py)
 - (-Easy-) LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
+- (Medium) LC-0287-Find-the-Duplicate-Number: [Python3](./Python3/LC-0287-Find-the-Duplicate-Number.py)
 - (-Easy-) LC-0290-Word-Pattern: [Python3](./Python3/LC-0290-Word-Pattern.py)
 - (-Hard-) LC-0297-Serialize-and-Deserialize-Binary-Tree: [Python3](./Python3/LC-0297-Serialize-and-Deserialize-Binary-Tree.py)
 - (Medium) LC-0300-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0300-Longest-Increasing-Subsequence.py)
@@ -295,9 +296,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
+- (Medium) LC-0841-Keys-and-Rooms: [Python3](./Python3/LC-0841-Keys-and-Rooms.py)
 - (-Easy-) LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
 - (-Hard-) LC-0847-Shortest-Path-Visiting-All-Nodes: [Python3](./Python3/LC-0847-Shortest-Path-Visiting-All-Nodes.py)
 - (Medium) LC-0849-Maximize-Distance-to-Closest-Person: [Python3](./Python3/LC-0849-Maximize-Distance-to-Closest-Person.py)
@@ -333,9 +335,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
+- (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
 - (Medium) LC-1007-Minimum-Domino-Rotations-For-Equal-Row: [Python3](./Python3/LC-1007-Minimum-Domino-Rotations-For-Equal-Row.py)
 - (-Easy-) LC-1009-Complement-of-Base-10-Integer: [Python3](./Python3/LC-1009-Complement-of-Base-10-Integer.py)
 - (Medium) LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60: [Python3](./Python3/LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60.py)
@@ -406,9 +409,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (3/100)</summary>
+<summary>Solution List (4/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
+- (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
 - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](./Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
 - (-Easy-) LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
 
@@ -469,12 +473,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2013-Detect-Squares: [Python3](./Python3/LC-2013-Detect-Squares.py)
 - (-Easy-) LC-2016-Maximum-Difference-Between-Increasing-Elements: [Python3](./Python3/LC-2016-Maximum-Difference-Between-Increasing-Elements.py)
 - (-Easy-) LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
+- (Medium) LC-2024-Maximize-the-Confusion-of-an-Exam: [Python3](./Python3/LC-2024-Maximize-the-Confusion-of-an-Exam.py)
 - (Medium) LC-2028-Find-Missing-Observations: [Python3](./Python3/LC-2028-Find-Missing-Observations.py)
 - (Medium) LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
 - (Medium) LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)

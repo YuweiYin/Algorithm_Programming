@@ -74,9 +74,9 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree.py)
   - (Hard) LC-0297-Serialize-and-Deserialize-Binary-Tree: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0297-Serialize-and-Deserialize-Binary-Tree.py)
 - Day 19 - Graph
-  - 997. Find the Town Judge
-  - 1557. Minimum Number of Vertices to Reach All Nodes
-  - 841. Keys and Rooms
+  - (Easy) LC-0997-Find-the-Town-Judge: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0997-Find-the-Town-Judge.py)
+  - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
+  - (Medium) LC-0841-Keys-and-Rooms: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0841-Keys-and-Rooms.py)
 - Day 20 - Heap (Priority Queue)
   - 215. Kth Largest Element in an Array
   - 347. Top K Frequent Elements
