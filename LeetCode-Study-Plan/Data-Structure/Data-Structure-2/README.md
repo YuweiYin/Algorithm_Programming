@@ -78,8 +78,8 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
   - (Medium) LC-0841-Keys-and-Rooms: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0841-Keys-and-Rooms.py)
 - Day 20 - Heap (Priority Queue)
-  - 215. Kth Largest Element in an Array
-  - 347. Top K Frequent Elements
+  - (Medium) LC-0215-Kth-Largest-Element-in-an-Array: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0215-Kth-Largest-Element-in-an-Array.py)
+  - (Medium) LC-0347-Top-K-Frequent-Elements: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0347-Top-K-Frequent-Elements.py)
 - Day 21 - Heap (Priority Queue)
   - 451. Sort Characters By Frequency
   - 973. K Closest Points to Origin
