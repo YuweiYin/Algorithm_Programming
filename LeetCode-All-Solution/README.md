@@ -201,10 +201,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
+- (-Hard-) LC-0410-Split-Array-Largest-Sum: [Python3](./Python3/LC-0410-Split-Array-Largest-Sum.py)
 - (Medium) LC-0413-Arithmetic-Slices: [Python3](./Python3/LC-0413-Arithmetic-Slices.py)
 - (-Easy-) LC-0415-Add-Strings: [Python3](./Python3/LC-0415-Add-Strings.py)
 - (Medium) LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array: [Python3](./Python3/LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array.py)
@@ -213,6 +214,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
 - (-Hard-) LC-0440-K-th-Smallest-in-Lexicographical-Order: [Python3](./Python3/LC-0440-K-th-Smallest-in-Lexicographical-Order.py)
 - (Medium) LC-0450-Delete-Node-in-a-BST: [Python3](./Python3/LC-0450-Delete-Node-in-a-BST.py)
+- (Medium) LC-0451-Sort-Characters-By-Frequency: [Python3](./Python3/LC-0451-Sort-Characters-By-Frequency.py)
 - (Medium) LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons: [Python3](./Python3/LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons.py)
 - (Medium) LC-0454-4Sum-II: [Python3](./Python3/LC-0454-4Sum-II.py)
 
@@ -273,7 +275,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
@@ -283,6 +285,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee: [Python3](./Python3/LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.py)
 - (-Easy-) LC-0717-1-bit-and-2-bit-Characters: [Python3](./Python3/LC-0717-1-bit-and-2-bit-Characters.py)
 - (Medium) LC-0720-Longest-Word-in-Dictionary: [Python3](./Python3/LC-0720-Longest-Word-in-Dictionary.py)
+- (-Easy-) LC-0728-Self-Dividing-Numbers: [Python3](./Python3/LC-0728-Self-Dividing-Numbers.py)
 - (-Easy-) LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - (Medium) LC-0740-Delete-and-Earn: [Python3](./Python3/LC-0740-Delete-and-Earn.py)
 - (-Easy-) LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
@@ -317,7 +320,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (-Hard-) LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
 - (-Easy-) LC-0917-Reverse-Only-Letters: [Python3](./Python3/LC-0917-Reverse-Only-Letters.py)
@@ -326,6 +329,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0941-Valid-Mountain-Array: [Python3](./Python3/LC-0941-Valid-Mountain-Array.py)
 - (Medium) LC-0946-Validate-Stack-Sequences: [Python3](./Python3/LC-0946-Validate-Stack-Sequences.py)
 - (Medium) LC-0969-Pancake-Sorting: [Python3](./Python3/LC-0969-Pancake-Sorting.py)
+- (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](./Python3/LC-0973-K-Closest-Points-to-Origin.py)
 - (-Easy-) LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
 - (Medium) LC-0986-Interval-List-Intersections: [Python3](./Python3/LC-0986-Interval-List-Intersections.py)
 - (Medium) LC-0991-Broken-Calculator: [Python3](./Python3/LC-0991-Broken-Calculator.py)

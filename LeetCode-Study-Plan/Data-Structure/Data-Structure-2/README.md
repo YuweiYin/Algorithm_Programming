@@ -81,11 +81,11 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0215-Kth-Largest-Element-in-an-Array: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0215-Kth-Largest-Element-in-an-Array.py)
   - (Medium) LC-0347-Top-K-Frequent-Elements: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0347-Top-K-Frequent-Elements.py)
 - Day 21 - Heap (Priority Queue)
-  - 451. Sort Characters By Frequency
-  - 973. K Closest Points to Origin
+  - (Medium) LC-0451-Sort-Characters-By-Frequency: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0451-Sort-Characters-By-Frequency.py)
+  - (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0973-K-Closest-Points-to-Origin.py)
 
 ## TODO
 
-- [ ] Finish all the study plans (data-structure-2).
+- [x] <s>Finish all the study plans (data-structure-2)</s>.
 
 ---
