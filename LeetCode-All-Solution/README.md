@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (60/100)</summary>
+<summary>Solution List (61/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -17,6 +17,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0004-Median-of-Two-Sorted-Arrays: [Python3](./Python3/LC-0004-Median-of-Two-Sorted-Arrays.py)
 - (Medium) LC-0005-Longest-Palindromic-Substring: [Python3](./Python3/LC-0005-Longest-Palindromic-Substring.py)
 - (Medium) LC-0006-Zigzag-Conversion: [Python3](./Python3/LC-0006-Zigzag-Conversion.py)
+- (Medium) LC-0007-Reverse-Integer: [Python3](./Python3/LC-0007-Reverse-Integer.py)
 - (Medium) LC-0008-String-to-Integer-atoi: [Python3](./Python3/LC-0008-String-to-Intege-atoi.py)
 - (Medium) LC-0011-Container-With-Most-Water: [Python3](./Python3/LC-0011-Container-With-Most-Water.py)
 - (Medium) LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
@@ -202,13 +203,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
 - (-Hard-) LC-0410-Split-Array-Largest-Sum: [Python3](./Python3/LC-0410-Split-Array-Largest-Sum.py)
 - (Medium) LC-0413-Arithmetic-Slices: [Python3](./Python3/LC-0413-Arithmetic-Slices.py)
 - (-Easy-) LC-0415-Add-Strings: [Python3](./Python3/LC-0415-Add-Strings.py)
+- (-Hard-) LC-0420-Strong-Password-Checker: [Python3](./Python3/LC-0420-Strong-Password-Checker.py)
 - (Medium) LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array: [Python3](./Python3/LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array.py)
 - (-Hard-) LC-0432-All-O-one-Data-Structure: [Python3](./Python3/LC-0432-All-O-one-Data-Structure.py)
 - (Medium) LC-0435-Non-overlapping-Intervals: [Python3](./Python3/LC-0435-Non-overlapping-Intervals.py)
@@ -256,7 +258,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -265,6 +267,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0661-Image-Smoother: [Python3](./Python3/LC-0661-Image-Smoother.py)
 - (Medium) LC-0662-Maximum-Width-of-Binary-Tree: [Python3](./Python3/LC-0662-Maximum-Width-of-Binary-Tree.py)
 - (Medium) LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
+- (-Easy-) LC-0680-Valid-Palindrome-II: [Python3](./Python3/LC-0680-Valid-Palindrome-II.py)
 - (-Easy-) LC-0682-Baseball-Game: [Python3](./Python3/LC-0682-Baseball-Game.py)
 - (Medium) LC-0688-Knight-Probability-in-Chessboard: [Python3](./Python3/LC-0688-Knight-Probability-in-Chessboard.py)
 - (-Easy-) LC-0693-Binary-Number-with-Alternating-Bits: [Python3](./Python3/LC-0693-Binary-Number-with-Alternating-Bits.py)
