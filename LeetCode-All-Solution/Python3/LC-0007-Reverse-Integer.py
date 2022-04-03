@@ -110,7 +110,7 @@ def main():
 
     # run & time
     start = time.process_time()
-    ans = solution._reverse(x)
+    ans = solution.reverse(x)
     end = time.process_time()
 
     # show answer

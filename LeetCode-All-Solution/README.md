@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (61/100)</summary>
+<summary>Solution List (63/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -19,6 +19,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0006-Zigzag-Conversion: [Python3](./Python3/LC-0006-Zigzag-Conversion.py)
 - (Medium) LC-0007-Reverse-Integer: [Python3](./Python3/LC-0007-Reverse-Integer.py)
 - (Medium) LC-0008-String-to-Integer-atoi: [Python3](./Python3/LC-0008-String-to-Intege-atoi.py)
+- (-Easy-) LC-0009-Palindrome-Number: [Python3](./Python3/LC-0009-Palindrome-Number.py)
 - (Medium) LC-0011-Container-With-Most-Water: [Python3](./Python3/LC-0011-Container-With-Most-Water.py)
 - (Medium) LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
 - (Medium) LC-0017-Letter-Combinations-of-a-Phone-Number: [Python3](./Python3/LC-0017-Letter-Combinations-of-a-Phone-Number.py)
@@ -29,6 +30,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0023-Merge-k-Sorted-Lists: [Python3](./Python3/LC-0023-Merge-k-Sorted-Lists.py)
 - (Medium) LC-0024-Swap-Nodes-in-Pairs: [Python3](./Python3/LC-0024-Swap-Nodes-in-Pairs.py)
 - (-Hard-) LC-0025-Reverse-Nodes-in-k-Group: [Python3](./Python3/LC-0025-Reverse-Nodes-in-k-Group.py)
+- (Medium) LC-0031-Next-Permutation: [Python3](./Python3/LC-0031-Next-Permutation.py)
 - (Medium) LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
 - (Medium) LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](./Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
 - (-Easy-) LC-0035-Search-Insert-Position: [Python3](./Python3/LC-0035-Search-Insert-Position.py)
@@ -279,7 +281,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
@@ -292,6 +294,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0728-Self-Dividing-Numbers: [Python3](./Python3/LC-0728-Self-Dividing-Numbers.py)
 - (-Easy-) LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - (Medium) LC-0740-Delete-and-Earn: [Python3](./Python3/LC-0740-Delete-and-Earn.py)
+- (-Easy-) LC-0744-Find-Smallest-Letter-Greater-Than-Target: [Python3](./Python3/LC-0744-Find-Smallest-Letter-Greater-Than-Target.py)
 - (-Easy-) LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - (-Easy-) LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - (Medium) LC-0763-Partition-Labels: [Python3](./Python3/LC-0763-Partition-Labels.py)
