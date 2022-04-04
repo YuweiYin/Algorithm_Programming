@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (63/100)</summary>
+<summary>Solution List (64/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -20,6 +20,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0007-Reverse-Integer: [Python3](./Python3/LC-0007-Reverse-Integer.py)
 - (Medium) LC-0008-String-to-Integer-atoi: [Python3](./Python3/LC-0008-String-to-Intege-atoi.py)
 - (-Easy-) LC-0009-Palindrome-Number: [Python3](./Python3/LC-0009-Palindrome-Number.py)
+- (-Hard-) LC-0010-Regular-Expression-Matching: [Python3](./Python3/LC-0010-Regular-Expression-Matching.py)
 - (Medium) LC-0011-Container-With-Most-Water: [Python3](./Python3/LC-0011-Container-With-Most-Water.py)
 - (Medium) LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
 - (Medium) LC-0017-Letter-Combinations-of-a-Phone-Number: [Python3](./Python3/LC-0017-Letter-Combinations-of-a-Phone-Number.py)
@@ -175,9 +176,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
+- (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
 - (Medium) LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown: [Python3](./Python3/LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py)
 - (-Hard-) LC-0312-Burst-Balloons: [Python3](./Python3/LC-0312-Burst-Balloons.py)
 - (Medium) LC-0316-Remove-Duplicate-Letters: [Python3](./Python3/LC-0316-Remove-Duplicate-Letters.py)
@@ -451,11 +453,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (8/100)</summary>
+<summary>Solution List (9/100)</summary>
 
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
 - (-Easy-) LC-1716-Calculate-Money-in-Leetcode-Bank: [Python3](./Python3/LC-1716-Calculate-Money-in-Leetcode-Bank.py)
 - (-Hard-) LC-1719-Number-Of-Ways-To-Reconstruct-A-Tree: [Python3](./Python3/LC-1719-Number-Of-Ways-To-Reconstruct-A-Tree.py)
+- (Medium) LC-1721-Swapping-Nodes-in-a-Linked-List: [Python3](./Python3/LC-1721-Swapping-Nodes-in-a-Linked-List.py)
 - (-Easy-) LC-1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square: [Python3](./Python3/LC-1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square.py)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
