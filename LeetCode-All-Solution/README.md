@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (65/100)</summary>
+<summary>Solution List (66/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -23,6 +23,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0010-Regular-Expression-Matching: [Python3](./Python3/LC-0010-Regular-Expression-Matching.py)
 - (Medium) LC-0011-Container-With-Most-Water: [Python3](./Python3/LC-0011-Container-With-Most-Water.py)
 - (Medium) LC-0012-Integer-to-Roman: [Python3](./Python3/LC-0012-Integer-to-Roman.py)
+- (-Easy-) LC-0013-Roman-to-Integer: [Python3](./Python3/LC-0013-Roman-to-Integer.py)
 - (Medium) LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
 - (Medium) LC-0017-Letter-Combinations-of-a-Phone-Number: [Python3](./Python3/LC-0017-Letter-Combinations-of-a-Phone-Number.py)
 - (Medium) LC-0019-Remove-Nth-Node-From-End-of-List: [Python3](./Python3/LC-0019-Remove-Nth-Node-From-End-of-List.py)
@@ -178,11 +179,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
 - (Medium) LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown: [Python3](./Python3/LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py)
+- (Medium) LC-0310-Minimum-Height-Trees: [Python3](./Python3/LC-0310-Minimum-Height-Trees.py)
 - (-Hard-) LC-0312-Burst-Balloons: [Python3](./Python3/LC-0312-Burst-Balloons.py)
 - (Medium) LC-0316-Remove-Duplicate-Letters: [Python3](./Python3/LC-0316-Remove-Duplicate-Letters.py)
 - (Medium) LC-0322-Coin-Change: [Python3](./Python3/LC-0322-Coin-Change.py)
@@ -332,11 +334,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (-Hard-) LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
 - (-Easy-) LC-0917-Reverse-Only-Letters: [Python3](./Python3/LC-0917-Reverse-Only-Letters.py)
 - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](./Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
+- (Medium) LC-0923-3Sum-With-Multiplicity: [Python3](./Python3/LC-0923-3Sum-With-Multiplicity.py)
 - (Medium) LC-0931-Minimum-Falling-Path-Sum: [Python3](./Python3/LC-0931-Minimum-Falling-Path-Sum.py)
 - (-Easy-) LC-0941-Valid-Mountain-Array: [Python3](./Python3/LC-0941-Valid-Mountain-Array.py)
 - (Medium) LC-0946-Validate-Stack-Sequences: [Python3](./Python3/LC-0946-Validate-Stack-Sequences.py)
