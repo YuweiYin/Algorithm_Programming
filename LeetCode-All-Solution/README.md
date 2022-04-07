@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (66/100)</summary>
+<summary>Solution List (67/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -24,6 +24,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0011-Container-With-Most-Water: [Python3](./Python3/LC-0011-Container-With-Most-Water.py)
 - (Medium) LC-0012-Integer-to-Roman: [Python3](./Python3/LC-0012-Integer-to-Roman.py)
 - (-Easy-) LC-0013-Roman-to-Integer: [Python3](./Python3/LC-0013-Roman-to-Integer.py)
+- (-Easy-) LC-0014-Longest-Common-Prefix: [Python3](./Python3/LC-0014-Longest-Common-Prefix.py)
 - (Medium) LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
 - (Medium) LC-0017-Letter-Combinations-of-a-Phone-Number: [Python3](./Python3/LC-0017-Letter-Combinations-of-a-Phone-Number.py)
 - (Medium) LC-0019-Remove-Nth-Node-From-End-of-List: [Python3](./Python3/LC-0019-Remove-Nth-Node-From-End-of-List.py)
@@ -287,7 +288,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
@@ -306,6 +307,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation: [Python3](./Python3/LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation.py)
 - (Medium) LC-0763-Partition-Labels: [Python3](./Python3/LC-0763-Partition-Labels.py)
 - (Medium) LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
+- (-Easy-) LC-0796-Rotate-String: [Python3](./Python3/LC-0796-Rotate-String.py)
 - (Medium) LC-0797-All-Paths-From-Source-to-Target: [Python3](./Python3/LC-0797-All-Paths-From-Source-to-Target.py)
 - (-Hard-) LC-0798-Smallest-Rotation-with-Highest-Score: [Python3](./Python3/LC-0798-Smallest-Rotation-with-Highest-Score.py)
 - (Medium) LC-0799-Champagne-Tower: [Python3](./Python3/LC-0799-Champagne-Tower.py)
@@ -357,7 +359,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -370,6 +372,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1029-Two-City-Scheduling: [Python3](./Python3/LC-1029-Two-City-Scheduling.py)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
 - (Medium) LC-1041-Robot-Bounded-In-Circle: [Python3](./Python3/LC-1041-Robot-Bounded-In-Circle.py)
+- (-Easy-) LC-1046-Last-Stone-Weight: [Python3](./Python3/LC-1046-Last-Stone-Weight.py)
 - (Medium) LC-1081-Smallest-Subsequence-of-Distinct-Characters: [Python3](./Python3/LC-1081-Smallest-Subsequence-of-Distinct-Characters.py)
 - (Medium) LC-1091-Shortest-Path-in-Binary-Matrix: [Python3](./Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
 - (Medium) LC-1094-Car-Pooling: [Python3](./Python3/LC-1094-Car-Pooling.py)
