@@ -212,7 +212,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (16/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -221,6 +221,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0415-Add-Strings: [Python3](./Python3/LC-0415-Add-Strings.py)
 - (-Hard-) LC-0420-Strong-Password-Checker: [Python3](./Python3/LC-0420-Strong-Password-Checker.py)
 - (Medium) LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array: [Python3](./Python3/LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array.py)
+- (Medium) LC-0429-N-ary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0429-N-ary-Tree-Level-Order-Traversal.py)
 - (-Hard-) LC-0432-All-O-one-Data-Structure: [Python3](./Python3/LC-0432-All-O-one-Data-Structure.py)
 - (Medium) LC-0435-Non-overlapping-Intervals: [Python3](./Python3/LC-0435-Non-overlapping-Intervals.py)
 - (Medium) LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
@@ -288,9 +289,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
+- (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
 - (-Easy-) LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
 - (-Easy-) LC-0706-Design-HashMap: [Python3](./Python3/LC-0706-Design-HashMap.py)
 - (Medium) LC-0707-Design-Linked-List: [Python3](./Python3/LC-0707-Design-Linked-List.py)
