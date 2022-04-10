@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (67/100)</summary>
+<summary>Solution List (68/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -26,6 +26,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0013-Roman-to-Integer: [Python3](./Python3/LC-0013-Roman-to-Integer.py)
 - (-Easy-) LC-0014-Longest-Common-Prefix: [Python3](./Python3/LC-0014-Longest-Common-Prefix.py)
 - (Medium) LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
+- (Medium) LC-0016-3Sum-Closest: [Python3](./Python3/LC-0016-3Sum-Closest.py)
 - (Medium) LC-0017-Letter-Combinations-of-a-Phone-Number: [Python3](./Python3/LC-0017-Letter-Combinations-of-a-Phone-Number.py)
 - (Medium) LC-0019-Remove-Nth-Node-From-End-of-List: [Python3](./Python3/LC-0019-Remove-Nth-Node-From-End-of-List.py)
 - (-Easy-) LC-0020-Valid-Parentheses: [Python3](./Python3/LC-0020-Valid-Parentheses.py)
@@ -320,8 +321,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
+- (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
 - (Medium) LC-0841-Keys-and-Rooms: [Python3](./Python3/LC-0841-Keys-and-Rooms.py)
 - (-Easy-) LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
