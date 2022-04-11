@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (68/100)</summary>
+<summary>Solution List (69/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -28,6 +28,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0015-3Sum: [Python3](./Python3/LC-0015-3Sum.py)
 - (Medium) LC-0016-3Sum-Closest: [Python3](./Python3/LC-0016-3Sum-Closest.py)
 - (Medium) LC-0017-Letter-Combinations-of-a-Phone-Number: [Python3](./Python3/LC-0017-Letter-Combinations-of-a-Phone-Number.py)
+- (Medium) LC-0018-4Sum: [Python3](./Python3/LC-0018-4Sum.py)
 - (Medium) LC-0019-Remove-Nth-Node-From-End-of-List: [Python3](./Python3/LC-0019-Remove-Nth-Node-From-End-of-List.py)
 - (-Easy-) LC-0020-Valid-Parentheses: [Python3](./Python3/LC-0020-Valid-Parentheses.py)
 - (-Easy-) LC-0021-Merge-Two-Sorted-Lists: [Python3](./Python3/LC-0021-Merge-Two-Sorted-Lists.py)
@@ -181,7 +182,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -196,6 +197,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0344-Reverse-String: [Python3](./Python3/LC-0344-Reverse-String.py)
 - (Medium) LC-0347-Top-K-Frequent-Elements: [Python3](./Python3/LC-0347-Top-K-Frequent-Elements.py)
 - (-Easy-) LC-0350-Intersection-of-Two-Arrays-II: [Python3](./Python3/LC-0350-Intersection-of-Two-Arrays-II.py)
+- (Medium) LC-0357-Count-Numbers-with-Unique-Digits: [Python3](./Python3/LC-0357-Count-Numbers-with-Unique-Digits.py)
 - (Medium) LC-0373-Find-K-Pairs-with-Smallest-Sums: [Python3](./Python3/LC-0373-Find-K-Pairs-with-Smallest-Sums.py)
 - (Medium) LC-0376-Wiggle-Subsequence: [Python3](./Python3/LC-0376-Wiggle-Subsequence.py)
 - (Medium) LC-0377-Combination-Sum-IV: [Python3](./Python3/LC-0377-Combination-Sum-IV.py)
@@ -399,11 +401,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (5/100)</summary>
+<summary>Solution List (6/100)</summary>
 
 - (Medium) LC-1219-Path-with-Maximum-Gold: [Python3](./Python3/LC-1219-Path-with-Maximum-Gold.py)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
+- (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
 - (Medium) LC-1288-Remove-Covered-Intervals: [Python3](./Python3/LC-1288-Remove-Covered-Intervals.py)
 - (Medium) LC-1291-Sequential-Digits: [Python3](./Python3/LC-1291-Sequential-Digits.py)
 
