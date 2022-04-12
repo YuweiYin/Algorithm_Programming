@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (69/100)</summary>
+<summary>Solution List (70/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -36,6 +36,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0023-Merge-k-Sorted-Lists: [Python3](./Python3/LC-0023-Merge-k-Sorted-Lists.py)
 - (Medium) LC-0024-Swap-Nodes-in-Pairs: [Python3](./Python3/LC-0024-Swap-Nodes-in-Pairs.py)
 - (-Hard-) LC-0025-Reverse-Nodes-in-k-Group: [Python3](./Python3/LC-0025-Reverse-Nodes-in-k-Group.py)
+- (-Easy-) LC-0026-Remove-Duplicates-from-Sorted-Array: [Python3](./Python3/LC-0026-Remove-Duplicates-from-Sorted-Array.py)
 - (Medium) LC-0031-Next-Permutation: [Python3](./Python3/LC-0031-Next-Permutation.py)
 - (Medium) LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
 - (Medium) LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](./Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
@@ -142,7 +143,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -173,6 +174,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0279-Perfect-Squares: [Python3](./Python3/LC-0279-Perfect-Squares.py)
 - (-Easy-) LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
 - (Medium) LC-0287-Find-the-Duplicate-Number: [Python3](./Python3/LC-0287-Find-the-Duplicate-Number.py)
+- (Medium) LC-0289-Game-of-Life: [Python3](./Python3/LC-0289-Game-of-Life.py)
 - (-Easy-) LC-0290-Word-Pattern: [Python3](./Python3/LC-0290-Word-Pattern.py)
 - (-Hard-) LC-0297-Serialize-and-Deserialize-Binary-Tree: [Python3](./Python3/LC-0297-Serialize-and-Deserialize-Binary-Tree.py)
 - (Medium) LC-0300-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0300-Longest-Increasing-Subsequence.py)
@@ -323,9 +325,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
+- (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
 - (Medium) LC-0841-Keys-and-Rooms: [Python3](./Python3/LC-0841-Keys-and-Rooms.py)
 - (-Easy-) LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
