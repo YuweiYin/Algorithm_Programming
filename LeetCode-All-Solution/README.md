@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (70/100)</summary>
+<summary>Solution List (71/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -37,6 +37,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0024-Swap-Nodes-in-Pairs: [Python3](./Python3/LC-0024-Swap-Nodes-in-Pairs.py)
 - (-Hard-) LC-0025-Reverse-Nodes-in-k-Group: [Python3](./Python3/LC-0025-Reverse-Nodes-in-k-Group.py)
 - (-Easy-) LC-0026-Remove-Duplicates-from-Sorted-Array: [Python3](./Python3/LC-0026-Remove-Duplicates-from-Sorted-Array.py)
+- (-Easy-) LC-0027-Remove-Element: [Python3](./Python3/LC-0027-Remove-Element.py)
 - (Medium) LC-0031-Next-Permutation: [Python3](./Python3/LC-0031-Next-Permutation.py)
 - (Medium) LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
 - (Medium) LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](./Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
@@ -184,7 +185,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -203,6 +204,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0373-Find-K-Pairs-with-Smallest-Sums: [Python3](./Python3/LC-0373-Find-K-Pairs-with-Smallest-Sums.py)
 - (Medium) LC-0376-Wiggle-Subsequence: [Python3](./Python3/LC-0376-Wiggle-Subsequence.py)
 - (Medium) LC-0377-Combination-Sum-IV: [Python3](./Python3/LC-0377-Combination-Sum-IV.py)
+- (Medium) LC-0380-Insert-Delete-GetRandom-O1: [Python3](./Python3/LC-0380-Insert-Delete-GetRandom-O1.py)
 - (Medium) LC-0382-Linked-List-Random-Node: [Python3](./Python3/LC-0382-Linked-List-Random-Node.py)
 - (-Easy-) LC-0383-Ransom-Note: [Python3](./Python3/LC-0383-Ransom-Note.py)
 - (Medium) LC-0384-Shuffle-an-Array: [Python3](./Python3/LC-0384-Shuffle-an-Array.py)

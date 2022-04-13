@@ -2,9 +2,9 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-0026-Remove-Duplicates-from-Sorted-Array.py
+@File    : LC-0027-Remove-Element.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
-@Date    : 2022-04-12
+@Date    : 2022-04-13
 =================================================================="""
 
 import sys
@@ -13,13 +13,12 @@ from typing import List
 # import functools
 
 """
-LeetCode - 0026 - (Easy) - Remove Duplicates from Sorted Array
-https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+LeetCode - 0027 - (Easy) - Remove Element
+https://leetcode.com/problems/remove-element/
 
 Description & Requirement:
-    Given an integer array nums sorted in non-decreasing order, 
-    remove the duplicates in-place such that each unique element appears only once. 
-    The relative order of the elements should be kept the same.
+    Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. 
+    The relative order of the elements may be changed.
 
     Since it is impossible to change the length of the array in some languages, 
     you must instead have the result be placed in the first part of the array nums. 
@@ -37,57 +36,59 @@ Custom Judge:
 
     ```python
     int[] nums = [...]; // Input array
-    int[] expectedNums = [...]; // The expected answer with correct length
-
-    int k = removeDuplicates(nums); // Calls your implementation
-
+    int val = ...; // Value to remove
+    int[] expectedNums = [...]; // The expected answer with correct length.
+                                // It is sorted with no values equaling val.
+    
+    int k = removeElement(nums, val); // Calls your implementation
     assert k == expectedNums.length;
-    for (int i = 0; i < k; i++) {
+    sort(nums, 0, k); // Sort the first k elements of nums
+    for (int i = 0; i < actualLength; i++) {
         assert nums[i] == expectedNums[i];
     }
     ```
     If all assertions pass, then your solution will be accepted.
 
 Example 1:
-    Input: nums = [1,1,2]
-    Output: 2, nums = [1,2,_]
+    Input: nums = [3,2,2,3], val = 3
+    Output: 2, nums = [2,2,_,_]
     Explanation: Your function should return k = 2, 
-        with the first two elements of nums being 1 and 2 respectively.
+        with the first two elements of nums being 2.
         It does not matter what you leave beyond the returned k (hence they are underscores).
 Example 2:
-    Input: nums = [0,0,1,1,1,2,2,3,3,4]
-    Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
+    Input: nums = [0,1,2,2,3,0,4,2], val = 2
+    Output: 5, nums = [0,1,4,0,3,_,_,_]
     Explanation: Your function should return k = 5, 
-        with the first five elements of nums being 0, 1, 2, 3, and 4 respectively.
+        with the first five elements of nums containing 0, 0, 1, 3, and 4.
+        Note that the five elements can be returned in any order.
         It does not matter what you leave beyond the returned k (hence they are underscores).
 
 Constraints:
-    1 <= nums.length <= 3 * 10^4
-    -100 <= nums[i] <= 100
-    nums is sorted in non-decreasing order.
+    0 <= nums.length <= 100
+    0 <= nums[i] <= 50
+    0 <= val <= 100
 """
 
 
 class Solution:
-    def removeDuplicates(self, nums: List[int]) -> int:
+    def removeElement(self, nums: List[int], val: int) -> int:
         # exception case
-        assert isinstance(nums, list) and len(nums) >= 1
+        assert isinstance(nums, list) and len(nums) >= 0
+        if len(nums) == 1:
+            return 0
         # main method: (fast/slow two pointer)
-        return self._removeDuplicates(nums)
+        return self._removeElement(nums, val)
 
-    def _removeDuplicates(self, nums: List[int]) -> int:
-        """
-        Runtime: 92 ms, faster than 86.94% of Python3 online submissions for Remove Duplicates from Sorted Array.
-        Memory Usage: 15.7 MB, less than 18.87% of Python3 online submissions for Remove Duplicates from Sorted Array.
-        """
+    def _removeElement(self, nums: List[int], val: int) -> int:
         len_nums = len(nums)
         assert len_nums >= 1
 
         slow_ptr = 0
         fast_ptr = 0
         while fast_ptr < len_nums:
-            while fast_ptr + 1 < len_nums and nums[fast_ptr] == nums[fast_ptr + 1]:  # skip the duplicated numbers
+            if nums[fast_ptr] == val:  # skip val
                 fast_ptr += 1
+                continue
             nums[slow_ptr] = nums[fast_ptr]
             slow_ptr += 1
             fast_ptr += 1
@@ -96,23 +97,25 @@ class Solution:
 
 
 def main():
-    # Example 1: Output: 2, nums = [1,2,_]
-    # nums = [1, 1, 2]
+    # Example 1: 2, nums = [2,2,_,_]
+    # nums = [3, 2, 2, 3]
+    # val = 3
 
-    # Example 2: Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
-    nums = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
+    # Example 2: 5, nums = [0,1,4,0,3,_,_,_]
+    nums = [0, 1, 2, 2, 3, 0, 4, 2]
+    val = 2
 
     # init instance
     solution = Solution()
 
     # run & time
     start = time.process_time()
-    ans = solution.removeDuplicates(nums)
+    ans = solution.removeElement(nums, val)
     end = time.process_time()
 
     # show answer
     print('\nAnswer:')
-    # print(ans)
+    print(ans)
     print(nums[0: ans])
 
     # show time consumption

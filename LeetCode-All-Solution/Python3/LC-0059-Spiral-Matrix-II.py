@@ -40,6 +40,10 @@ class Solution:
         return self._generateMatrix(n)
 
     def _generateMatrix(self, n: int) -> List[List[int]]:
+        """
+        Runtime: 23 ms, faster than 99.14% of Python3 online submissions for Spiral Matrix II.
+        Memory Usage: 14 MB, less than 9.09% of Python3 online submissions for Spiral Matrix II.
+        """
         assert isinstance(n, int) and n > 0
         res = [[0 for _ in range(n)] for _ in range(n)]
 
