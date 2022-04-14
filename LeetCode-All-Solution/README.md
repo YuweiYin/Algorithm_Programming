@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (71/100)</summary>
+<summary>Solution List (73/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -38,6 +38,8 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0025-Reverse-Nodes-in-k-Group: [Python3](./Python3/LC-0025-Reverse-Nodes-in-k-Group.py)
 - (-Easy-) LC-0026-Remove-Duplicates-from-Sorted-Array: [Python3](./Python3/LC-0026-Remove-Duplicates-from-Sorted-Array.py)
 - (-Easy-) LC-0027-Remove-Element: [Python3](./Python3/LC-0027-Remove-Element.py)
+- (-Easy-) LC-0028-Implement-strStr: [Python3](./Python3/LC-0028-Implement-strStr.py)
+- (Medium) LC-0029-Divide-Two-Integers: [Python3](./Python3/LC-0029-Divide-Two-Integers.py)
 - (Medium) LC-0031-Next-Permutation: [Python3](./Python3/LC-0031-Next-Permutation.py)
 - (Medium) LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
 - (Medium) LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](./Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
