@@ -187,7 +187,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -210,6 +210,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0382-Linked-List-Random-Node: [Python3](./Python3/LC-0382-Linked-List-Random-Node.py)
 - (-Easy-) LC-0383-Ransom-Note: [Python3](./Python3/LC-0383-Ransom-Note.py)
 - (Medium) LC-0384-Shuffle-an-Array: [Python3](./Python3/LC-0384-Shuffle-an-Array.py)
+- (Medium) LC-0385-Mini-Parser: [Python3](./Python3/LC-0385-Mini-Parser.py)
 - (-Easy-) LC-0387-First-Unique-Character-in-a-String: [Python3](./Python3/LC-0387-First-Unique-Character-in-a-String.py)
 - (-Easy-) LC-0389-Find-the-Difference: [Python3](./Python3/LC-0389-Find-the-Difference.py)
 - (Medium) LC-0390-Elimination-Game: [Python3](./Python3/LC-0390-Elimination-Game.py)
@@ -277,7 +278,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -285,6 +286,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](./Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
 - (-Easy-) LC-0661-Image-Smoother: [Python3](./Python3/LC-0661-Image-Smoother.py)
 - (Medium) LC-0662-Maximum-Width-of-Binary-Tree: [Python3](./Python3/LC-0662-Maximum-Width-of-Binary-Tree.py)
+- (Medium) LC-0669-Trim-a-Binary-Search-Tree: [Python3](./Python3/LC-0669-Trim-a-Binary-Search-Tree.py)
 - (Medium) LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
 - (-Easy-) LC-0680-Valid-Palindrome-II: [Python3](./Python3/LC-0680-Valid-Palindrome-II.py)
 - (-Easy-) LC-0682-Baseball-Game: [Python3](./Python3/LC-0682-Baseball-Game.py)
