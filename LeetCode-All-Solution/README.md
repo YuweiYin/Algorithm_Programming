@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (73/100)</summary>
+<summary>Solution List (74/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -40,6 +40,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0027-Remove-Element: [Python3](./Python3/LC-0027-Remove-Element.py)
 - (-Easy-) LC-0028-Implement-strStr: [Python3](./Python3/LC-0028-Implement-strStr.py)
 - (Medium) LC-0029-Divide-Two-Integers: [Python3](./Python3/LC-0029-Divide-Two-Integers.py)
+- (-Hard-) LC-0030-Substring-with-Concatenation-of-All-Words: [Python3](./Python3/LC-0030-Substring-with-Concatenation-of-All-Words.py)
 - (Medium) LC-0031-Next-Permutation: [Python3](./Python3/LC-0031-Next-Permutation.py)
 - (Medium) LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
 - (Medium) LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](./Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
@@ -187,7 +188,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (27/100)</summary>
+<summary>Solution List (28/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -211,6 +212,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0383-Ransom-Note: [Python3](./Python3/LC-0383-Ransom-Note.py)
 - (Medium) LC-0384-Shuffle-an-Array: [Python3](./Python3/LC-0384-Shuffle-an-Array.py)
 - (Medium) LC-0385-Mini-Parser: [Python3](./Python3/LC-0385-Mini-Parser.py)
+- (Medium) LC-0386-Lexicographical-Numbers: [Python3](./Python3/LC-0386-Lexicographical-Numbers.py)
 - (-Easy-) LC-0387-First-Unique-Character-in-a-String: [Python3](./Python3/LC-0387-First-Unique-Character-in-a-String.py)
 - (-Easy-) LC-0389-Find-the-Difference: [Python3](./Python3/LC-0389-Find-the-Difference.py)
 - (Medium) LC-0390-Elimination-Game: [Python3](./Python3/LC-0390-Elimination-Game.py)
