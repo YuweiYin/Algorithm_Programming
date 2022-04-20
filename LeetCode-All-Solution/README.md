@@ -189,7 +189,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (28/100)</summary>
+<summary>Solution List (29/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -215,6 +215,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0385-Mini-Parser: [Python3](./Python3/LC-0385-Mini-Parser.py)
 - (Medium) LC-0386-Lexicographical-Numbers: [Python3](./Python3/LC-0386-Lexicographical-Numbers.py)
 - (-Easy-) LC-0387-First-Unique-Character-in-a-String: [Python3](./Python3/LC-0387-First-Unique-Character-in-a-String.py)
+- (Medium) LC-0388-Longest-Absolute-File-Path: [Python3](./Python3/LC-0388-Longest-Absolute-File-Path.py)
 - (-Easy-) LC-0389-Find-the-Difference: [Python3](./Python3/LC-0389-Find-the-Difference.py)
 - (Medium) LC-0390-Elimination-Game: [Python3](./Python3/LC-0390-Elimination-Game.py)
 - (-Easy-) LC-0392-Is-Subsequence: [Python3](./Python3/LC-0392-Is-Subsequence.py)
