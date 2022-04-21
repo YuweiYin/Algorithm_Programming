@@ -306,11 +306,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
 - (-Easy-) LC-0704-Binary-Search: [Python3](./Python3/LC-0704-Binary-Search.py)
+- (-Easy-) LC-0705-Design-HashSet: [Python3](./Python3/LC-0705-Design-HashSet.py)
 - (-Easy-) LC-0706-Design-HashMap: [Python3](./Python3/LC-0706-Design-HashMap.py)
 - (Medium) LC-0707-Design-Linked-List: [Python3](./Python3/LC-0707-Design-Linked-List.py)
 - (Medium) LC-0713-Subarray-Product-Less-Than-K: [Python3](./Python3/LC-0713-Subarray-Product-Less-Than-K.py)
@@ -337,12 +338,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
 - (-Easy-) LC-0819-Most-Common-Word: [Python3](./Python3/LC-0819-Most-Common-Word.py)
 - (-Easy-) LC-0821-Shortest-Distance-to-a-Character: [Python3](./Python3/LC-0821-Shortest-Distance-to-a-Character.py)
+- (-Easy-) LC-0824-Goat-Latin: [Python3](./Python3/LC-0824-Goat-Latin.py)
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
 - (Medium) LC-0841-Keys-and-Rooms: [Python3](./Python3/LC-0841-Keys-and-Rooms.py)
 - (-Easy-) LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
