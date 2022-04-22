@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (75/100)</summary>
+<summary>Solution List (76/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -42,6 +42,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0029-Divide-Two-Integers: [Python3](./Python3/LC-0029-Divide-Two-Integers.py)
 - (-Hard-) LC-0030-Substring-with-Concatenation-of-All-Words: [Python3](./Python3/LC-0030-Substring-with-Concatenation-of-All-Words.py)
 - (Medium) LC-0031-Next-Permutation: [Python3](./Python3/LC-0031-Next-Permutation.py)
+- (-Hard-) LC-0032-Longest-Valid-Parentheses: [Python3](./Python3/LC-0032-Longest-Valid-Parentheses.py)
 - (Medium) LC-0033-Search-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0033-Search-in-Rotated-Sorted-Array.py)
 - (Medium) LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array: [Python3](./Python3/LC-0034-Find-First-and-Last-Position-of-Element-in-Sorted-Array.py)
 - (-Easy-) LC-0035-Search-Insert-Position: [Python3](./Python3/LC-0035-Search-Insert-Position.py)
@@ -189,7 +190,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -220,6 +221,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0390-Elimination-Game: [Python3](./Python3/LC-0390-Elimination-Game.py)
 - (-Easy-) LC-0392-Is-Subsequence: [Python3](./Python3/LC-0392-Is-Subsequence.py)
 - (Medium) LC-0393-UTF-8-Validation: [Python3](./Python3/LC-0393-UTF-8-Validation.py)
+- (Medium) LC-0396-Rotate-Function: [Python3](./Python3/LC-0396-Rotate-Function.py)
 
 </details>
 
