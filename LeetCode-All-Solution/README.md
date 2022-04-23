@@ -253,7 +253,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (-Easy-) LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
@@ -263,6 +263,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0521-Longest-Uncommon-Subsequence-I: [Python3](./Python3/LC-0521-Longest-Uncommon-Subsequence-I.py)
 - (Medium) LC-0525-Contiguous-Array: [Python3](./Python3/LC-0525-Contiguous-Array.py)
 - (Medium) LC-0532-K-diff-Pairs-in-an-Array: [Python3](./Python3/LC-0532-K-diff-Pairs-in-an-Array.py)
+- (Medium) LC-0535-Encode-and-Decode-TinyURL: [Python3](./Python3/LC-0535-Encode-and-Decode-TinyURL.py)
 - (Medium) LC-0537-Complex-Number-Multiplication: [Python3](./Python3/LC-0537-Complex-Number-Multiplication.py)
 - (Medium) LC-0538-Convert-BST-to-Greater-Tree: [Python3](./Python3/LC-0538-Convert-BST-to-Greater-Tree.py)
 - (Medium) LC-0539-Minimum-Time-Difference: [Python3](./Python3/LC-0539-Minimum-Time-Difference.py)
@@ -277,6 +278,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0567-Permutation-in-String: [Python3](./Python3/LC-0567-Permutation-in-String.py)
 - (-Easy-) LC-0572-Subtree-of-Another-Tree: [Python3](./Python3/LC-0572-Subtree-of-Another-Tree.py)
 - (Medium) LC-0583-Delete-Operation-for-Two-Strings: [Python3](./Python3/LC-0583-Delete-Operation-for-Two-Strings.py)
+- (-Hard-) LC-0587-Erect-the-Fence: [Python3](./Python3/LC-0587-Erect-the-Fence.py)
 - (-Easy-) LC-0589-N-ary-Tree-Preorder-Traversal: [Python3](./Python3/LC-0589-N-ary-Tree-Preorder-Traversal.py)
 - (-Easy-) LC-0590-N-ary-Tree-Postorder-Traversal: [Python3](./Python3/LC-0589-N-ary-Tree-Preorder-Traversal.py)
 - (-Easy-) LC-0599-Minimum-Index-Sum-of-Two-Lists: [Python3](./Python3/LC-0599-Minimum-Index-Sum-of-Two-Lists.py)
