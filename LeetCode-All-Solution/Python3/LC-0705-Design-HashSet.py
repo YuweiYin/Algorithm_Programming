@@ -67,7 +67,6 @@ class MyHashSet:
 
 def main():
     # Example 1: Output: [null, null, null, true, false, null, true, null, false]
-    # Example 1: Output: [null, null, null, 1, -1, null, 1, null, -1]
     command_list = ["MyHashSet", "add", "add", "contains", "contains", "add", "contains", "remove", "contains"]
     param_list = [[], [1], [2], [1], [3], [2], [2], [2], [2]]
 

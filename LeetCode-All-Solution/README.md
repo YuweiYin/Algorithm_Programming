@@ -149,7 +149,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (34/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -179,6 +179,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
 - (Medium) LC-0279-Perfect-Squares: [Python3](./Python3/LC-0279-Perfect-Squares.py)
 - (-Easy-) LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
+- (Medium) LC-0284-Peeking-Iterator: [Python3](./Python3/LC-0284-Peeking-Iterator.py)
 - (Medium) LC-0287-Find-the-Duplicate-Number: [Python3](./Python3/LC-0287-Find-the-Duplicate-Number.py)
 - (Medium) LC-0289-Game-of-Life: [Python3](./Python3/LC-0289-Game-of-Life.py)
 - (-Easy-) LC-0290-Word-Pattern: [Python3](./Python3/LC-0290-Word-Pattern.py)
@@ -190,7 +191,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -222,6 +223,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0392-Is-Subsequence: [Python3](./Python3/LC-0392-Is-Subsequence.py)
 - (Medium) LC-0393-UTF-8-Validation: [Python3](./Python3/LC-0393-UTF-8-Validation.py)
 - (Medium) LC-0396-Rotate-Function: [Python3](./Python3/LC-0396-Rotate-Function.py)
+- (Medium) LC-0398-Random-Pick-Index: [Python3](./Python3/LC-0398-Random-Pick-Index.py)
 
 </details>
 
