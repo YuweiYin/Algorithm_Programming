@@ -344,7 +344,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
@@ -361,6 +361,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0875-Koko-Eating-Bananas: [Python3](./Python3/LC-0875-Koko-Eating-Bananas.py)
 - (-Easy-) LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
 - (Medium) LC-0881-Boats-to-Save-People: [Python3](./Python3/LC-0881-Boats-to-Save-People.py)
+- (-Easy-) LC-0883-Projection-Area-of-3D-Shapes: [Python3](./Python3/LC-0883-Projection-Area-of-3D-Shapes.py)
 - (-Easy-) LC-0884-Uncommon-Words-from-Two-Sentences: [Python3](./Python3/LC-0884-Uncommon-Words-from-Two-Sentences.py)
 - (-Hard-) LC-0895-Maximum-Frequency-Stack: [Python3](./Python3/LC-0895-Maximum-Frequency-Stack.py)
 - (-Easy-) LC-0897-Increasing-Order-Search-Tree: [Python3](./Python3/LC-0897-Increasing-Order-Search-Tree.py)
@@ -471,12 +472,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (4/100)</summary>
+<summary>Solution List (5/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
 - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](./Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
 - (-Easy-) LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
+- (Medium) LC-1584-Min-Cost-to-Connect-All-Points: [Python3](./Python3/LC-1584-Min-Cost-to-Connect-All-Points.py)
 
 </details>
 
