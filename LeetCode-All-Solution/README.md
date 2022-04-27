@@ -230,13 +230,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
 - (-Hard-) LC-0410-Split-Array-Largest-Sum: [Python3](./Python3/LC-0410-Split-Array-Largest-Sum.py)
 - (Medium) LC-0413-Arithmetic-Slices: [Python3](./Python3/LC-0413-Arithmetic-Slices.py)
 - (-Easy-) LC-0415-Add-Strings: [Python3](./Python3/LC-0415-Add-Strings.py)
+- (Medium) LC-0417-Pacific-Atlantic-Water-Flow: [Python3](./Python3/LC-0417-Pacific-Atlantic-Water-Flow.py)
 - (-Hard-) LC-0420-Strong-Password-Checker: [Python3](./Python3/LC-0420-Strong-Password-Checker.py)
 - (Medium) LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array: [Python3](./Python3/LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array.py)
 - (Medium) LC-0429-N-ary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0429-N-ary-Tree-Level-Order-Traversal.py)
@@ -430,8 +431,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (6/100)</summary>
+<summary>Solution List (7/100)</summary>
 
+- (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (Medium) LC-1219-Path-with-Maximum-Gold: [Python3](./Python3/LC-1219-Path-with-Maximum-Gold.py)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
