@@ -230,7 +230,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -240,6 +240,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0417-Pacific-Atlantic-Water-Flow: [Python3](./Python3/LC-0417-Pacific-Atlantic-Water-Flow.py)
 - (-Hard-) LC-0420-Strong-Password-Checker: [Python3](./Python3/LC-0420-Strong-Password-Checker.py)
 - (Medium) LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array: [Python3](./Python3/LC-0421-Maximum-XOR-of-Two-Numbers-in-an-Array.py)
+- (Medium) LC-0427-Construct-Quad-Tree: [Python3](./Python3/LC-0427-Construct-Quad-Tree.py)
 - (Medium) LC-0429-N-ary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0429-N-ary-Tree-Level-Order-Traversal.py)
 - (-Hard-) LC-0432-All-O-one-Data-Structure: [Python3](./Python3/LC-0432-All-O-one-Data-Structure.py)
 - (Medium) LC-0435-Non-overlapping-Intervals: [Python3](./Python3/LC-0435-Non-overlapping-Intervals.py)
@@ -313,7 +314,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -335,6 +336,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0763-Partition-Labels: [Python3](./Python3/LC-0763-Partition-Labels.py)
 - (-Hard-) LC-0780-Reaching-Points: [Python3](./Python3/LC-0780-Reaching-Points.py)
 - (Medium) LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
+- (Medium) LC-0785-Is-Graph-Bipartite: [Python3](./Python3/LC-0785-Is-Graph-Bipartite.py)
 - (-Easy-) LC-0796-Rotate-String: [Python3](./Python3/LC-0796-Rotate-String.py)
 - (Medium) LC-0797-All-Paths-From-Source-to-Target: [Python3](./Python3/LC-0797-All-Paths-From-Source-to-Target.py)
 - (-Hard-) LC-0798-Smallest-Rotation-with-Highest-Score: [Python3](./Python3/LC-0798-Smallest-Rotation-with-Highest-Score.py)
