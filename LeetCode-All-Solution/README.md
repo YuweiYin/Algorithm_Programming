@@ -149,12 +149,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
 - (-Easy-) LC-0203-Remove-Linked-List-Elements: [Python3](./Python3/LC-0203-Remove-Linked-List-Elements.py)
 - (Medium) LC-0204-Count-Primes: [Python3](./Python3/LC-0204-Count-Primes.py)
+- (-Easy-) LC-0205-Isomorphic-Strings: [Python3](./Python3/LC-0205-Isomorphic-Strings.py)
 - (-Easy-) LC-0206-Reverse-Linked-List: [Python3](./Python3/LC-0206-Reverse-Linked-List.py)
 - (Medium) LC-0209-Minimum-Size-Subarray-Sum: [Python3](./Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
 - (Medium) LC-0211-Design-Add-and-Search-Words-Data-Structure: [Python3](./Python3/LC-0211-Design-Add-and-Search-Words-Data-Structure.py)
@@ -164,6 +165,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0217-Contains-Duplicate: [Python3](./Python3/LC-0217-Contains-Duplicate.py)
 - (-Easy-) LC-0219-Contains-Duplicate-II: [Python3](./Python3/LC-0219-Contains-Duplicate-II.py)
 - (Medium) LC-0221-Maximal-Square: [Python3](./Python3/LC-0221-Maximal-Square.py)
+- (-Easy-) LC-0225-Implement-Stack-using-Queues: [Python3](./Python3/LC-0225-Implement-Stack-using-Queues.py)
 - (-Easy-) LC-0226-Invert-Binary-Tree: [Python3](./Python3/LC-0226-Invert-Binary-Tree.py)
 - (-Easy-) LC-0228-Summary-Ranges: [Python3](./Python3/LC-0228-Summary-Ranges.py)
 - (Medium) LC-0230-Kth-Smallest-Element-in-a-BST: [Python3](./Python3/LC-0230-Kth-Smallest-Element-in-a-BST.py)
@@ -191,7 +193,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -224,6 +226,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0393-UTF-8-Validation: [Python3](./Python3/LC-0393-UTF-8-Validation.py)
 - (Medium) LC-0396-Rotate-Function: [Python3](./Python3/LC-0396-Rotate-Function.py)
 - (Medium) LC-0398-Random-Pick-Index: [Python3](./Python3/LC-0398-Random-Pick-Index.py)
+- (Medium) LC-0399-Evaluate-Division: [Python3](./Python3/LC-0399-Evaluate-Division.py)
 
 </details>
 
@@ -374,9 +377,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
+- (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
 - (-Hard-) LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
 - (-Easy-) LC-0917-Reverse-Only-Letters: [Python3](./Python3/LC-0917-Reverse-Only-Letters.py)
 - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](./Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
