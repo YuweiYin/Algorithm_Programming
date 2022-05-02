@@ -260,7 +260,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (27/100)</summary>
+<summary>Solution List (28/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (-Easy-) LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
@@ -288,6 +288,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0587-Erect-the-Fence: [Python3](./Python3/LC-0587-Erect-the-Fence.py)
 - (-Easy-) LC-0589-N-ary-Tree-Preorder-Traversal: [Python3](./Python3/LC-0589-N-ary-Tree-Preorder-Traversal.py)
 - (-Easy-) LC-0590-N-ary-Tree-Postorder-Traversal: [Python3](./Python3/LC-0589-N-ary-Tree-Preorder-Traversal.py)
+- (-Hard-) LC-0591-Tag-Validator: [Python3](./Python3/LC-0591-Tag-Validator.py)
 - (-Easy-) LC-0599-Minimum-Index-Sum-of-Two-Lists: [Python3](./Python3/LC-0599-Minimum-Index-Sum-of-Two-Lists.py)
 
 </details>
