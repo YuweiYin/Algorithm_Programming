@@ -260,7 +260,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (28/100)</summary>
+<summary>Solution List (29/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (-Easy-) LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
@@ -284,6 +284,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0566-Reshape-the-Matrix: [Python3](./Python3/LC-0566-Reshape-the-Matrix.py)
 - (Medium) LC-0567-Permutation-in-String: [Python3](./Python3/LC-0567-Permutation-in-String.py)
 - (-Easy-) LC-0572-Subtree-of-Another-Tree: [Python3](./Python3/LC-0572-Subtree-of-Another-Tree.py)
+- (Medium) LC-0581-Shortest-Unsorted-Continuous-Subarray: [Python3](./Python3/LC-0581-Shortest-Unsorted-Continuous-Subarray.py)
 - (Medium) LC-0583-Delete-Operation-for-Two-Strings: [Python3](./Python3/LC-0583-Delete-Operation-for-Two-Strings.py)
 - (-Hard-) LC-0587-Erect-the-Fence: [Python3](./Python3/LC-0587-Erect-the-Fence.py)
 - (-Easy-) LC-0589-N-ary-Tree-Preorder-Traversal: [Python3](./Python3/LC-0589-N-ary-Tree-Preorder-Traversal.py)
@@ -378,7 +379,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -387,6 +388,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](./Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
 - (Medium) LC-0923-3Sum-With-Multiplicity: [Python3](./Python3/LC-0923-3Sum-With-Multiplicity.py)
 - (Medium) LC-0931-Minimum-Falling-Path-Sum: [Python3](./Python3/LC-0931-Minimum-Falling-Path-Sum.py)
+- (-Easy-) LC-0937-Reorder-Data-in-Log-Files: [Python3](./Python3/LC-0937-Reorder-Data-in-Log-Files.py)
 - (-Easy-) LC-0941-Valid-Mountain-Array: [Python3](./Python3/LC-0941-Valid-Mountain-Array.py)
 - (Medium) LC-0946-Validate-Stack-Sequences: [Python3](./Python3/LC-0946-Validate-Stack-Sequences.py)
 - (Medium) LC-0954-Array-of-Doubled-Pairs: [Python3](./Python3/LC-0954-Array-of-Doubled-Pairs.py)
