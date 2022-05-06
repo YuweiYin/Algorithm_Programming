@@ -379,7 +379,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -388,6 +388,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](./Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
 - (Medium) LC-0923-3Sum-With-Multiplicity: [Python3](./Python3/LC-0923-3Sum-With-Multiplicity.py)
 - (Medium) LC-0931-Minimum-Falling-Path-Sum: [Python3](./Python3/LC-0931-Minimum-Falling-Path-Sum.py)
+- (-Easy-) LC-0933-Number-of-Recent-Calls: [Python3](./Python3/LC-0933-Number-of-Recent-Calls.py)
 - (-Easy-) LC-0937-Reorder-Data-in-Log-Files: [Python3](./Python3/LC-0937-Reorder-Data-in-Log-Files.py)
 - (-Easy-) LC-0941-Valid-Mountain-Array: [Python3](./Python3/LC-0941-Valid-Mountain-Array.py)
 - (Medium) LC-0946-Validate-Stack-Sequences: [Python3](./Python3/LC-0946-Validate-Stack-Sequences.py)
@@ -441,9 +442,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (7/100)</summary>
+<summary>Solution List (8/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
+- (Medium) LC-1209-Remove-All-Adjacent-Duplicates-in-String-II: [Python3](./Python3/LC-1209-Remove-All-Adjacent-Duplicates-in-String-II.py)
 - (Medium) LC-1219-Path-with-Maximum-Gold: [Python3](./Python3/LC-1219-Path-with-Maximum-Gold.py)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
