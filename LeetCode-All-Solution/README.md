@@ -193,7 +193,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -204,6 +204,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0322-Coin-Change: [Python3](./Python3/LC-0322-Coin-Change.py)
 - (Medium) LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
 - (-Easy-) LC-0338-Counting-Bits: [Python3](./Python3/LC-0338-Counting-Bits.py)
+- (Medium) LC-0341-Flatten-Nested-List-Iterator: [Python3](./Python3/LC-0341-Flatten-Nested-List-Iterator.py)
 - (Medium) LC-0343-Integer-Break: [Python3](./Python3/LC-0343-Integer-Break.py)
 - (-Easy-) LC-0344-Reverse-String: [Python3](./Python3/LC-0344-Reverse-String.py)
 - (Medium) LC-0347-Top-K-Frequent-Elements: [Python3](./Python3/LC-0347-Top-K-Frequent-Elements.py)
@@ -233,7 +234,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -250,6 +251,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0435-Non-overlapping-Intervals: [Python3](./Python3/LC-0435-Non-overlapping-Intervals.py)
 - (Medium) LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
 - (-Hard-) LC-0440-K-th-Smallest-in-Lexicographical-Order: [Python3](./Python3/LC-0440-K-th-Smallest-in-Lexicographical-Order.py)
+- (Medium) LC-0442-Find-All-Duplicates-in-an-Array: [Python3](./Python3/LC-0442-Find-All-Duplicates-in-an-Array.py)
 - (Medium) LC-0450-Delete-Node-in-a-BST: [Python3](./Python3/LC-0450-Delete-Node-in-a-BST.py)
 - (Medium) LC-0451-Sort-Characters-By-Frequency: [Python3](./Python3/LC-0451-Sort-Characters-By-Frequency.py)
 - (Medium) LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons: [Python3](./Python3/LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons.py)
