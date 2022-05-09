@@ -383,7 +383,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -395,6 +395,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0933-Number-of-Recent-Calls: [Python3](./Python3/LC-0933-Number-of-Recent-Calls.py)
 - (-Easy-) LC-0937-Reorder-Data-in-Log-Files: [Python3](./Python3/LC-0937-Reorder-Data-in-Log-Files.py)
 - (-Easy-) LC-0941-Valid-Mountain-Array: [Python3](./Python3/LC-0941-Valid-Mountain-Array.py)
+- (-Easy-) LC-0942-DI-String-Match: [Python3](./Python3/LC-0942-DI-String-Match.py)
 - (Medium) LC-0946-Validate-Stack-Sequences: [Python3](./Python3/LC-0946-Validate-Stack-Sequences.py)
 - (Medium) LC-0954-Array-of-Doubled-Pairs: [Python3](./Python3/LC-0954-Array-of-Doubled-Pairs.py)
 - (Medium) LC-0969-Pancake-Sorting: [Python3](./Python3/LC-0969-Pancake-Sorting.py)
