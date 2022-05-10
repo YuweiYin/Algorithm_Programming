@@ -522,13 +522,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
 - (-Easy-) LC-1716-Calculate-Money-in-Leetcode-Bank: [Python3](./Python3/LC-1716-Calculate-Money-in-Leetcode-Bank.py)
 - (-Hard-) LC-1719-Number-Of-Ways-To-Reconstruct-A-Tree: [Python3](./Python3/LC-1719-Number-Of-Ways-To-Reconstruct-A-Tree.py)
 - (Medium) LC-1721-Swapping-Nodes-in-a-Linked-List: [Python3](./Python3/LC-1721-Swapping-Nodes-in-a-Linked-List.py)
 - (-Easy-) LC-1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square: [Python3](./Python3/LC-1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square.py)
+- (-Hard-) LC-1728-Cat-and-Mouse-II: [Python3](./Python3/LC-1728-Cat-and-Mouse-II.py)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
