@@ -604,6 +604,15 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 </details>
 
+### LeetCode Other Types
+
+<details>
+<summary>Solution List (1/1)</summary>
+
+- (Medium) LC-INTERVIEW-0105-One-Away-LCCI: [Python3](./Python3/LC-INTERVIEW-0105-One-Away-LCCI.py)
+
+</details>
+
 ## TODO
 
 - [ ] Finish all LeetCode problems.
