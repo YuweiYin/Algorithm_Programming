@@ -302,7 +302,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -315,6 +315,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0680-Valid-Palindrome-II: [Python3](./Python3/LC-0680-Valid-Palindrome-II.py)
 - (-Easy-) LC-0682-Baseball-Game: [Python3](./Python3/LC-0682-Baseball-Game.py)
 - (Medium) LC-0688-Knight-Probability-in-Chessboard: [Python3](./Python3/LC-0688-Knight-Probability-in-Chessboard.py)
+- (-Hard-) LC-0691-Stickers-to-Spell-Word: [Python3](./Python3/LC-0691-Stickers-to-Spell-Word.py)
 - (-Easy-) LC-0693-Binary-Number-with-Alternating-Bits: [Python3](./Python3/LC-0693-Binary-Number-with-Alternating-Bits.py)
 - (Medium) LC-0695-Max-Area-of-Island: [Python3](./Python3/LC-0695-Max-Area-of-Island.py)
 - (-Easy-) LC-0700-Search-in-a-Binary-Search-Tree: [Python3](./Python3/LC-0700-Search-in-a-Binary-Search-Tree.py)
@@ -324,7 +325,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -339,6 +340,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0728-Self-Dividing-Numbers: [Python3](./Python3/LC-0728-Self-Dividing-Numbers.py)
 - (-Easy-) LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - (Medium) LC-0740-Delete-and-Earn: [Python3](./Python3/LC-0740-Delete-and-Earn.py)
+- (Medium) LC-0743-Network-Delay-Time: [Python3](./Python3/LC-0743-Network-Delay-Time.py)
 - (-Easy-) LC-0744-Find-Smallest-Letter-Greater-Than-Target: [Python3](./Python3/LC-0744-Find-Smallest-Letter-Greater-Than-Target.py)
 - (-Easy-) LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - (-Easy-) LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
