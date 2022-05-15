@@ -359,10 +359,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
+- (-Easy-) LC-0812-Largest-Triangle-Area: [Python3](./Python3/LC-0812-Largest-Triangle-Area.py)
 - (-Easy-) LC-0819-Most-Common-Word: [Python3](./Python3/LC-0819-Most-Common-Word.py)
 - (-Easy-) LC-0821-Shortest-Distance-to-a-Character: [Python3](./Python3/LC-0821-Shortest-Distance-to-a-Character.py)
 - (-Easy-) LC-0824-Goat-Latin: [Python3](./Python3/LC-0824-Goat-Latin.py)
@@ -467,8 +468,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (8/100)</summary>
+<summary>Solution List (9/100)</summary>
 
+- (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
 - (-Easy-) LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
 - (-Easy-) LC-1337-The-K-Weakest-Rows-in-a-Matrix: [Python3](./Python3/LC-1337-The-K-Weakest-Rows-in-a-Matrix.py)
