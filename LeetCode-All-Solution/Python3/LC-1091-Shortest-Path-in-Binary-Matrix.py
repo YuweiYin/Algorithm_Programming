@@ -61,8 +61,8 @@ class Solution:
 
     def _shortestPathBinaryMatrix(self, grid: List[List[int]]) -> int:
         """
-        Runtime: 484 ms, faster than 99.48% of Python3 online submissions for Shortest Path in Binary Matrix.
-        Memory Usage: 14.9 MB, less than 59.43% of Python3 online submissions for Shortest Path in Binary Matrix.
+        Runtime: 477 ms, faster than 99.93% of Python3 online submissions for Shortest Path in Binary Matrix.
+        Memory Usage: 14.3 MB, less than 79.31% of Python3 online submissions for Shortest Path in Binary Matrix.
         """
         n = len(grid)
         assert n > 0

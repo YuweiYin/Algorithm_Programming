@@ -611,9 +611,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode Other Types
 
 <details>
-<summary>Solution List (1/1)</summary>
+<summary>Solution List (2/2)</summary>
 
 - (Medium) LC-INTERVIEW-0105-One-Away-LCCI: [Python3](./Python3/LC-INTERVIEW-0105-One-Away-LCCI.py)
+- (Medium) LC-INTERVIEW-0406-Successor-LCCI: [Python3](./Python3/LC-INTERVIEW-0406-Successor-LCCI.py)
 
 </details>
 
