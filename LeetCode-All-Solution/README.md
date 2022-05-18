@@ -302,7 +302,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (16/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -310,6 +310,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](./Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
 - (-Easy-) LC-0661-Image-Smoother: [Python3](./Python3/LC-0661-Image-Smoother.py)
 - (Medium) LC-0662-Maximum-Width-of-Binary-Tree: [Python3](./Python3/LC-0662-Maximum-Width-of-Binary-Tree.py)
+- (-Hard-) LC-0668-Kth-Smallest-Number-in-Multiplication-Table: [Python3](./Python3/LC-0668-Kth-Smallest-Number-in-Multiplication-Table.py)
 - (Medium) LC-0669-Trim-a-Binary-Search-Tree: [Python3](./Python3/LC-0669-Trim-a-Binary-Search-Tree.py)
 - (Medium) LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
 - (-Easy-) LC-0680-Valid-Palindrome-II: [Python3](./Python3/LC-0680-Valid-Palindrome-II.py)
@@ -441,12 +442,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (4/100)</summary>
+<summary>Solution List (5/100)</summary>
 
 - (-Easy-) LC-1137-N-th-Tribonacci-Number: [Python3](./Python3/LC-1137-N-th-Tribonacci-Number.py)
 - (Medium) LC-1143-Longest-Common-Subsequence: [Python3](./Python3/LC-1143-Longest-Common-Subsequence.py)
 - (-Easy-) LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
 - (-Easy-) LC-1189-Maximum-Number-of-Balloons: [Python3](./Python3/LC-1189-Maximum-Number-of-Balloons.py)
+- (-Hard-) LC-1192-Critical-Connections-in-a-Network: [Python3](./Python3/LC-1192-Critical-Connections-in-a-Network.py)
 
 </details>
 
