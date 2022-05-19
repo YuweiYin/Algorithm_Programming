@@ -193,7 +193,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (34/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -202,6 +202,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0312-Burst-Balloons: [Python3](./Python3/LC-0312-Burst-Balloons.py)
 - (Medium) LC-0316-Remove-Duplicate-Letters: [Python3](./Python3/LC-0316-Remove-Duplicate-Letters.py)
 - (Medium) LC-0322-Coin-Change: [Python3](./Python3/LC-0322-Coin-Change.py)
+- (-Hard-) LC-0329-Longest-Increasing-Path-in-a-Matrix: [Python3](./Python3/LC-0329-Longest-Increasing-Path-in-a-Matrix.py)
 - (Medium) LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
 - (-Easy-) LC-0338-Counting-Bits: [Python3](./Python3/LC-0338-Counting-Bits.py)
 - (Medium) LC-0341-Flatten-Nested-List-Iterator: [Python3](./Python3/LC-0341-Flatten-Nested-List-Iterator.py)
@@ -234,7 +235,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -258,6 +259,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons: [Python3](./Python3/LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons.py)
 - (Medium) LC-0454-4Sum-II: [Python3](./Python3/LC-0454-4Sum-II.py)
 - (Medium) LC-0456-132-Pattern: [Python3](./Python3/LC-0456-132-Pattern.py)
+- (Medium) LC-0462-Minimum-Moves-to-Equal-Array-Elements-II: [Python3](./Python3/LC-0462-Minimum-Moves-to-Equal-Array-Elements-II.py)
 - (-Hard-) LC-0479-Largest-Palindrome-Product: [Python3](./Python3/LC-0479-Largest-Palindrome-Product.py)
 
 </details>
