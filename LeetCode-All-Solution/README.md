@@ -235,7 +235,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -250,6 +250,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0432-All-O-one-Data-Structure: [Python3](./Python3/LC-0432-All-O-one-Data-Structure.py)
 - (Medium) LC-0433-Minimum-Genetic-Mutation: [Python3](./Python3/LC-0433-Minimum-Genetic-Mutation.py)
 - (Medium) LC-0435-Non-overlapping-Intervals: [Python3](./Python3/LC-0435-Non-overlapping-Intervals.py)
+- (Medium) LC-0436-Find-Right-Interval: [Python3](./Python3/LC-0436-Find-Right-Interval.py)
 - (Medium) LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
 - (-Hard-) LC-0440-K-th-Smallest-in-Lexicographical-Order: [Python3](./Python3/LC-0440-K-th-Smallest-in-Lexicographical-Order.py)
 - (Medium) LC-0442-Find-All-Duplicates-in-an-Array: [Python3](./Python3/LC-0442-Find-All-Duplicates-in-an-Array.py)
