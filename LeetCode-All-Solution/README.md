@@ -391,7 +391,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -408,6 +408,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0946-Validate-Stack-Sequences: [Python3](./Python3/LC-0946-Validate-Stack-Sequences.py)
 - (-Easy-) LC-0953-Verifying-an-Alien-Dictionary: [Python3](./Python3/LC-0953-Verifying-an-Alien-Dictionary.py)
 - (Medium) LC-0954-Array-of-Doubled-Pairs: [Python3](./Python3/LC-0954-Array-of-Doubled-Pairs.py)
+- (-Easy-) LC-0961-N-Repeated-Element-in-Size-2N-Array: [Python3](./Python3/LC-0961-N-Repeated-Element-in-Size-2N-Array.py)
 - (Medium) LC-0969-Pancake-Sorting: [Python3](./Python3/LC-0969-Pancake-Sorting.py)
 - (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](./Python3/LC-0973-K-Closest-Points-to-Origin.py)
 - (-Easy-) LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
