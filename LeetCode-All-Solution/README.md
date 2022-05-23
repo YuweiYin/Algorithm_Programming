@@ -235,7 +235,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -262,6 +262,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0456-132-Pattern: [Python3](./Python3/LC-0456-132-Pattern.py)
 - (Medium) LC-0462-Minimum-Moves-to-Equal-Array-Elements-II: [Python3](./Python3/LC-0462-Minimum-Moves-to-Equal-Array-Elements-II.py)
 - (Medium) LC-0464-Can-I-Win: [Python3](./Python3/LC-0464-Can-I-Win.py)
+- (Medium) LC-0474-Ones-and-Zeroes: [Python3](./Python3/LC-0474-Ones-and-Zeroes.py)
 - (-Hard-) LC-0479-Largest-Palindrome-Product: [Python3](./Python3/LC-0479-Largest-Palindrome-Product.py)
 
 </details>
@@ -306,7 +307,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -318,6 +319,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0668-Kth-Smallest-Number-in-Multiplication-Table: [Python3](./Python3/LC-0668-Kth-Smallest-Number-in-Multiplication-Table.py)
 - (Medium) LC-0669-Trim-a-Binary-Search-Tree: [Python3](./Python3/LC-0669-Trim-a-Binary-Search-Tree.py)
 - (Medium) LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
+- (-Hard-) LC-0675-Cut-Off-Trees-for-Golf-Event: [Python3](./Python3/LC-0675-Cut-Off-Trees-for-Golf-Event.py)
 - (-Easy-) LC-0680-Valid-Palindrome-II: [Python3](./Python3/LC-0680-Valid-Palindrome-II.py)
 - (-Easy-) LC-0682-Baseball-Game: [Python3](./Python3/LC-0682-Baseball-Game.py)
 - (Medium) LC-0688-Knight-Probability-in-Chessboard: [Python3](./Python3/LC-0688-Knight-Probability-in-Chessboard.py)
