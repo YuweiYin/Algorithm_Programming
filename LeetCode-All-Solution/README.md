@@ -193,7 +193,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -210,6 +210,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0344-Reverse-String: [Python3](./Python3/LC-0344-Reverse-String.py)
 - (Medium) LC-0347-Top-K-Frequent-Elements: [Python3](./Python3/LC-0347-Top-K-Frequent-Elements.py)
 - (-Easy-) LC-0350-Intersection-of-Two-Arrays-II: [Python3](./Python3/LC-0350-Intersection-of-Two-Arrays-II.py)
+- (-Hard-) LC-0354-Russian-Doll-Envelopes: [Python3](./Python3/LC-0354-Russian-Doll-Envelopes.py)
 - (Medium) LC-0357-Count-Numbers-with-Unique-Digits: [Python3](./Python3/LC-0357-Count-Numbers-with-Unique-Digits.py)
 - (Medium) LC-0373-Find-K-Pairs-with-Smallest-Sums: [Python3](./Python3/LC-0373-Find-K-Pairs-with-Smallest-Sums.py)
 - (Medium) LC-0376-Wiggle-Subsequence: [Python3](./Python3/LC-0376-Wiggle-Subsequence.py)
@@ -235,7 +236,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (27/100)</summary>
+<summary>Solution List (28/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -262,6 +263,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0456-132-Pattern: [Python3](./Python3/LC-0456-132-Pattern.py)
 - (Medium) LC-0462-Minimum-Moves-to-Equal-Array-Elements-II: [Python3](./Python3/LC-0462-Minimum-Moves-to-Equal-Array-Elements-II.py)
 - (Medium) LC-0464-Can-I-Win: [Python3](./Python3/LC-0464-Can-I-Win.py)
+- (Medium) LC-0467-Unique-Substrings-in-Wraparound-String: [Python3](./Python3/LC-0467-Unique-Substrings-in-Wraparound-String.py)
 - (Medium) LC-0474-Ones-and-Zeroes: [Python3](./Python3/LC-0474-Ones-and-Zeroes.py)
 - (-Hard-) LC-0479-Largest-Palindrome-Product: [Python3](./Python3/LC-0479-Largest-Palindrome-Product.py)
 
