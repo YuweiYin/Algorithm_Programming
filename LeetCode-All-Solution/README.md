@@ -309,7 +309,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -328,6 +328,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0691-Stickers-to-Spell-Word: [Python3](./Python3/LC-0691-Stickers-to-Spell-Word.py)
 - (-Easy-) LC-0693-Binary-Number-with-Alternating-Bits: [Python3](./Python3/LC-0693-Binary-Number-with-Alternating-Bits.py)
 - (Medium) LC-0695-Max-Area-of-Island: [Python3](./Python3/LC-0695-Max-Area-of-Island.py)
+- (-Hard-) LC-0699-Falling-Squares: [Python3](./Python3/LC-0699-Falling-Squares.py)
 - (-Easy-) LC-0700-Search-in-a-Binary-Search-Tree: [Python3](./Python3/LC-0700-Search-in-a-Binary-Search-Tree.py)
 
 </details>
