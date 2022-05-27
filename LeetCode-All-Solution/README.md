@@ -631,6 +631,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - (Medium) LC-INTERVIEW-0105-One-Away-LCCI: [Python3](./Python3/LC-INTERVIEW-0105-One-Away-LCCI.py)
 - (Medium) LC-INTERVIEW-0406-Successor-LCCI: [Python3](./Python3/LC-INTERVIEW-0406-Successor-LCCI.py)
+- (Medium) LC-INTERVIEW-1711-Find-Closest-LCCI: [Python3](./Python3/LC-INTERVIEW-1711-Find-Closest-LCCI.py)
 
 </details>
 
