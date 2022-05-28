@@ -149,7 +149,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -178,6 +178,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0242-Valid-Anagram: [Python3](./Python3/LC-0242-Valid-Anagram.py)
 - (-Easy-) LC-0258-Add-Digits: [Python3](./Python3/LC-0258-Add-Digits.py)
 - (Medium) LC-0264-Ugly-Number-II: [Python3](./Python3/LC-0264-Ugly-Number-II.py)
+- (-Easy-) LC-0268-Missing-Number: [Python3](./Python3/LC-0268-Missing-Number.py)
 - (-Easy-) LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
 - (Medium) LC-0279-Perfect-Squares: [Python3](./Python3/LC-0279-Perfect-Squares.py)
 - (-Easy-) LC-0283-Move-Zeroes: [Python3](./Python3/LC-0283-Move-Zeroes.py)
@@ -430,7 +431,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -439,6 +440,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60: [Python3](./Python3/LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60.py)
 - (Medium) LC-1014-Best-Sightseeing-Pair: [Python3](./Python3/LC-1014-Best-Sightseeing-Pair.py)
 - (Medium) LC-1020-Number-of-Enclaves: [Python3](./Python3/LC-1020-Number-of-Enclaves.py)
+- (-Easy-) LC-1021-Remove-Outermost-Parentheses: [Python3](./Python3/LC-1021-Remove-Outermost-Parentheses.py)
 - (-Easy-) LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers: [Python3](./Python3/LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers.py)
 - (Medium) LC-1029-Two-City-Scheduling: [Python3](./Python3/LC-1029-Two-City-Scheduling.py)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
@@ -483,7 +485,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -584,7 +586,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2013-Detect-Squares: [Python3](./Python3/LC-2013-Detect-Squares.py)
@@ -627,7 +629,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode Other Types
 
 <details>
-<summary>Solution List (2/2)</summary>
+<summary>Solution List (3/3)</summary>
 
 - (Medium) LC-INTERVIEW-0105-One-Away-LCCI: [Python3](./Python3/LC-INTERVIEW-0105-One-Away-LCCI.py)
 - (Medium) LC-INTERVIEW-0406-Successor-LCCI: [Python3](./Python3/LC-INTERVIEW-0406-Successor-LCCI.py)
