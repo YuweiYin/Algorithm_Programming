@@ -267,6 +267,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0464-Can-I-Win: [Python3](./Python3/LC-0464-Can-I-Win.py)
 - (Medium) LC-0467-Unique-Substrings-in-Wraparound-String: [Python3](./Python3/LC-0467-Unique-Substrings-in-Wraparound-String.py)
 - (Medium) LC-0468-Validate-IP-Address: [Python3](./Python3/LC-0468-Validate-IP-Address.py)
+- (Medium) LC-0473-Matchsticks-to-Square: [Python3](./Python3/LC-0473-Matchsticks-to-Square.py)
 - (Medium) LC-0474-Ones-and-Zeroes: [Python3](./Python3/LC-0474-Ones-and-Zeroes.py)
 - (-Hard-) LC-0479-Largest-Palindrome-Product: [Python3](./Python3/LC-0479-Largest-Palindrome-Product.py)
 
@@ -505,13 +506,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (5/100)</summary>
+<summary>Solution List (6/100)</summary>
 
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
 - (Medium) LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K: [Python3](./Python3/LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.py)
 - (Medium) LC-1447-Simplified-Fractions: [Python3](./Python3/LC-1447-Simplified-Fractions.py)
 - (Medium) LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K: [Python3](./Python3/LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K.py)
 - (-Hard-) LC-1463-Cherry-Pickup-II: [Python3](./Python3/LC-1463-Cherry-Pickup-II.py)
+- (-Easy-) LC-1480-Running-Sum-of-1d-Array: [Python3](./Python3/LC-1480-Running-Sum-of-1d-Array.py)
 
 </details>
 
