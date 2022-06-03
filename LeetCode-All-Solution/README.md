@@ -374,7 +374,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
@@ -382,6 +382,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0819-Most-Common-Word: [Python3](./Python3/LC-0819-Most-Common-Word.py)
 - (-Easy-) LC-0821-Shortest-Distance-to-a-Character: [Python3](./Python3/LC-0821-Shortest-Distance-to-a-Character.py)
 - (-Easy-) LC-0824-Goat-Latin: [Python3](./Python3/LC-0824-Goat-Latin.py)
+- (-Hard-) LC-0829-Consecutive-Numbers-Sum: [Python3](./Python3/LC-0829-Consecutive-Numbers-Sum.py)
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
 - (Medium) LC-0841-Keys-and-Rooms: [Python3](./Python3/LC-0841-Keys-and-Rooms.py)
 - (-Easy-) LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
