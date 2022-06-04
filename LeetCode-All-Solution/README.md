@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (76/100)</summary>
+<summary>Solution List (77/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -56,6 +56,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0047-Permutations-II: [Python3](./Python3/LC-0047-Permutations-II.py)
 - (Medium) LC-0048-Rotate-Image: [Python3](./Python3/LC-0048-Rotate-Image.py)
 - (Medium) LC-0049-Group-Anagrams: [Python3](./Python3/LC-0049-Group-Anagrams.py)
+- (-Hard-) LC-0051-N-Queens: [Python3](./Python3/LC-0051-N-Queens.py)
 - (-Easy-) LC-0053-Maximum-Subarray: [Python3](./Python3/LC-0053-Maximum-Subarray.py)
 - (Medium) LC-0055-Jump-Game: [Python3](./Python3/LC-0055-Jump-Game.py)
 - (Medium) LC-0056-Merge-Intervals: [Python3](./Python3/LC-0056-Merge-Intervals.py)
@@ -404,7 +405,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -412,6 +413,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0917-Reverse-Only-Letters: [Python3](./Python3/LC-0917-Reverse-Only-Letters.py)
 - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](./Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
 - (Medium) LC-0923-3Sum-With-Multiplicity: [Python3](./Python3/LC-0923-3Sum-With-Multiplicity.py)
+- (-Easy-) LC-0929-Unique-Email-Addresses: [Python3](./Python3/LC-0929-Unique-Email-Addresses.py)
 - (Medium) LC-0931-Minimum-Falling-Path-Sum: [Python3](./Python3/LC-0931-Minimum-Falling-Path-Sum.py)
 - (-Easy-) LC-0933-Number-of-Recent-Calls: [Python3](./Python3/LC-0933-Number-of-Recent-Calls.py)
 - (-Easy-) LC-0937-Reorder-Data-in-Log-Files: [Python3](./Python3/LC-0937-Reorder-Data-in-Log-Files.py)
