@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (77/100)</summary>
+<summary>Solution List (78/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -57,6 +57,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0048-Rotate-Image: [Python3](./Python3/LC-0048-Rotate-Image.py)
 - (Medium) LC-0049-Group-Anagrams: [Python3](./Python3/LC-0049-Group-Anagrams.py)
 - (-Hard-) LC-0051-N-Queens: [Python3](./Python3/LC-0051-N-Queens.py)
+- (-Hard-) LC-0052-N-Queens-II: [Python3](./Python3/LC-0052-N-Queens-II.py)
 - (-Easy-) LC-0053-Maximum-Subarray: [Python3](./Python3/LC-0053-Maximum-Subarray.py)
 - (Medium) LC-0055-Jump-Game: [Python3](./Python3/LC-0055-Jump-Game.py)
 - (Medium) LC-0056-Merge-Intervals: [Python3](./Python3/LC-0056-Merge-Intervals.py)
@@ -239,7 +240,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -270,6 +271,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0468-Validate-IP-Address: [Python3](./Python3/LC-0468-Validate-IP-Address.py)
 - (Medium) LC-0473-Matchsticks-to-Square: [Python3](./Python3/LC-0473-Matchsticks-to-Square.py)
 - (Medium) LC-0474-Ones-and-Zeroes: [Python3](./Python3/LC-0474-Ones-and-Zeroes.py)
+- (Medium) LC-0478-Generate-Random-Point-in-a-Circle: [Python3](./Python3/LC-0478-Generate-Random-Point-in-a-Circle.py)
 - (-Hard-) LC-0479-Largest-Palindrome-Product: [Python3](./Python3/LC-0479-Largest-Palindrome-Product.py)
 
 </details>
