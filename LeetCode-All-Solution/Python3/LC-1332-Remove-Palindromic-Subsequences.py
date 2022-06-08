@@ -65,6 +65,10 @@ class Solution:
         return self._removePalindromeSub(s)
 
     def _removePalindromeSub(self, s: str) -> int:
+        """
+        Runtime: 23 ms, faster than 99.72% of Python3 online submissions for Remove Palindromic Subsequences.
+        Memory Usage: 13.9 MB, less than 53.87% of Python3 online submissions for Remove Palindromic Subsequences.
+        """
         len_s = len(s)
         assert len_s > 2
 
