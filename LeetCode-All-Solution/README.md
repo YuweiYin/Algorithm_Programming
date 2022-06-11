@@ -410,7 +410,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -418,6 +418,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0917-Reverse-Only-Letters: [Python3](./Python3/LC-0917-Reverse-Only-Letters.py)
 - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](./Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
 - (Medium) LC-0923-3Sum-With-Multiplicity: [Python3](./Python3/LC-0923-3Sum-With-Multiplicity.py)
+- (Medium) LC-0926-Flip-String-to-Monotone-Increasing: [Python3](./Python3/LC-0926-Flip-String-to-Monotone-Increasing.py)
 - (-Easy-) LC-0929-Unique-Email-Addresses: [Python3](./Python3/LC-0929-Unique-Email-Addresses.py)
 - (Medium) LC-0931-Minimum-Falling-Path-Sum: [Python3](./Python3/LC-0931-Minimum-Falling-Path-Sum.py)
 - (-Easy-) LC-0933-Number-of-Recent-Calls: [Python3](./Python3/LC-0933-Number-of-Recent-Calls.py)
@@ -543,7 +544,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -551,6 +552,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
 - (Medium) LC-1641-Count-Sorted-Vowel-Strings: [Python3](./Python3/LC-1641-Count-Sorted-Vowel-Strings.py)
+- (Medium) LC-1658-Minimum-Operations-to-Reduce-X-to-Zero: [Python3](./Python3/LC-1658-Minimum-Operations-to-Reduce-X-to-Zero.py)
 - (Medium) LC-1663-Smallest-String-With-A-Given-Numeric-Value: [Python3](./Python3/LC-1663-Smallest-String-With-A-Given-Numeric-Value.py)
 - (-Easy-) LC-1672-Richest-Customer-Wealth: [Python3](./Python3/LC-1672-Richest-Customer-Wealth.py)
 - (-Hard-) LC-1675-Minimize-Deviation-in-Array: [Python3](./Python3/LC-1675-Minimize-Deviation-in-Array.py)
