@@ -240,7 +240,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -274,6 +274,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0478-Generate-Random-Point-in-a-Circle: [Python3](./Python3/LC-0478-Generate-Random-Point-in-a-Circle.py)
 - (-Hard-) LC-0479-Largest-Palindrome-Product: [Python3](./Python3/LC-0479-Largest-Palindrome-Product.py)
 - (Medium) LC-0497-Random-Point-in-Non-overlapping-Rectangles: [Python3](./Python3/LC-0497-Random-Point-in-Non-overlapping-Rectangles.py)
+- (Medium) LC-0498-Diagonal-Traverse: [Python3](./Python3/LC-0498-Diagonal-Traverse.py)
 
 </details>
 

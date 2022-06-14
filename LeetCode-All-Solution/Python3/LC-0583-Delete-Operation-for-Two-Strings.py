@@ -49,6 +49,10 @@ class Solution:
         return self._minDistance(word1, word2)
 
     def _minDistance(self, word1: str, word2: str) -> int:
+        """
+        Runtime: 273 ms, faster than 89.63% of Python3 online submissions for Delete Operation for Two Strings.
+        Memory Usage: 16 MB, less than 63.87% of Python3 online submissions for Delete Operation for Two Strings.
+        """
         len_word1 = len(word1)
         len_word2 = len(word2)
         assert len_word1 >= 1 and len_word2 >= 1
