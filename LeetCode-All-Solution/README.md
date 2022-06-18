@@ -346,7 +346,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -366,6 +366,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0740-Delete-and-Earn: [Python3](./Python3/LC-0740-Delete-and-Earn.py)
 - (Medium) LC-0743-Network-Delay-Time: [Python3](./Python3/LC-0743-Network-Delay-Time.py)
 - (-Easy-) LC-0744-Find-Smallest-Letter-Greater-Than-Target: [Python3](./Python3/LC-0744-Find-Smallest-Letter-Greater-Than-Target.py)
+- (-Hard-) LC-0745-Prefix-and-Suffix-Search: [Python3](./Python3/LC-0745-Prefix-and-Suffix-Search.py)
 - (-Easy-) LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - (-Easy-) LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - (-Easy-) LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation: [Python3](./Python3/LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation.py)
@@ -664,8 +665,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 </details>
 
 <details>
-<summary>OFFER - Solution List (1/1)</summary>
+<summary>OFFER - Solution List (2/2)</summary>
 
+- (Medium) LC-OFFER-II-0029-Sorted-Circular-Linked-List: [Python3](./Python3/LC-OFFER-II-0029-Sorted-Circular-Linked-List.py)
 - (Hard) LC-OFFER-II-0114-Alien-Dictionary: [Python3](./Python3/LC-OFFER-II-0114-Alien-Dictionary.py)
 
 </details>
