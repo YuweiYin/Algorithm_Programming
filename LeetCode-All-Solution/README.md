@@ -282,9 +282,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
+- (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
 - (-Easy-) LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
 - (Medium) LC-0516-Longest-Palindromic-Subsequence: [Python3](./Python3/LC-0516-Longest-Palindromic-Subsequence.py)
 - (Medium) LC-0518-Coin-Change-2: [Python3](./Python3/LC-0518-Coin-Change-2.py)
@@ -492,7 +493,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (8/100)</summary>
+<summary>Solution List (9/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (Medium) LC-1209-Remove-All-Adjacent-Duplicates-in-String-II: [Python3](./Python3/LC-1209-Remove-All-Adjacent-Duplicates-in-String-II.py)
@@ -500,6 +501,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
 - (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
+- (Medium) LC-1268-Search-Suggestions-System: [Python3](./Python3/LC-1268-Search-Suggestions-System.py)
 - (Medium) LC-1288-Remove-Covered-Intervals: [Python3](./Python3/LC-1288-Remove-Covered-Intervals.py)
 - (Medium) LC-1291-Sequential-Digits: [Python3](./Python3/LC-1291-Sequential-Digits.py)
 
