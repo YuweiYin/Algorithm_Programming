@@ -347,7 +347,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -357,6 +357,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0707-Design-Linked-List: [Python3](./Python3/LC-0707-Design-Linked-List.py)
 - (Medium) LC-0713-Subarray-Product-Less-Than-K: [Python3](./Python3/LC-0713-Subarray-Product-Less-Than-K.py)
 - (Medium) LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee: [Python3](./Python3/LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.py)
+- (-Hard-) LC-0715-Range-Module: [Python3](./Python3/LC-0715-Range-Module.py)
 - (-Easy-) LC-0717-1-bit-and-2-bit-Characters: [Python3](./Python3/LC-0717-1-bit-and-2-bit-Characters.py)
 - (-Hard-) LC-0719-Find-K-th-Smallest-Pair-Distance: [Python3](./Python3/LC-0719-Find-K-th-Smallest-Pair-Distance.py)
 - (Medium) LC-0720-Longest-Word-in-Dictionary: [Python3](./Python3/LC-0720-Longest-Word-in-Dictionary.py)
@@ -385,12 +386,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
 - (-Easy-) LC-0812-Largest-Triangle-Area: [Python3](./Python3/LC-0812-Largest-Triangle-Area.py)
 - (-Easy-) LC-0819-Most-Common-Word: [Python3](./Python3/LC-0819-Most-Common-Word.py)
+- (Medium) LC-0820-Short-Encoding-of-Words: [Python3](./Python3/LC-0820-Short-Encoding-of-Words.py)
 - (-Easy-) LC-0821-Shortest-Distance-to-a-Character: [Python3](./Python3/LC-0821-Shortest-Distance-to-a-Character.py)
 - (-Easy-) LC-0824-Goat-Latin: [Python3](./Python3/LC-0824-Goat-Latin.py)
 - (-Hard-) LC-0829-Consecutive-Numbers-Sum: [Python3](./Python3/LC-0829-Consecutive-Numbers-Sum.py)
