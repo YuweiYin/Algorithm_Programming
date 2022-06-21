@@ -482,8 +482,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (5/100)</summary>
+<summary>Solution List (6/100)</summary>
 
+- (-Easy-) LC-1108-Defanging-an-IP-Address: [Python3](./Python3/LC-1108-Defanging-an-IP-Address.py)
 - (-Easy-) LC-1137-N-th-Tribonacci-Number: [Python3](./Python3/LC-1137-N-th-Tribonacci-Number.py)
 - (Medium) LC-1143-Longest-Common-Subsequence: [Python3](./Python3/LC-1143-Longest-Common-Subsequence.py)
 - (-Easy-) LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
@@ -557,7 +558,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -565,6 +566,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
 - (Medium) LC-1641-Count-Sorted-Vowel-Strings: [Python3](./Python3/LC-1641-Count-Sorted-Vowel-Strings.py)
+- (Medium) LC-1642-Furthest-Building-You-Can-Reach: [Python3](./Python3/LC-1642-Furthest-Building-You-Can-Reach.py)
 - (Medium) LC-1658-Minimum-Operations-to-Reduce-X-to-Zero: [Python3](./Python3/LC-1658-Minimum-Operations-to-Reduce-X-to-Zero.py)
 - (Medium) LC-1663-Smallest-String-With-A-Given-Numeric-Value: [Python3](./Python3/LC-1663-Smallest-String-With-A-Given-Numeric-Value.py)
 - (-Easy-) LC-1672-Richest-Customer-Wealth: [Python3](./Python3/LC-1672-Richest-Customer-Wealth.py)
