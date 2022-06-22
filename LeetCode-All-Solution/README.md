@@ -282,11 +282,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
 - (-Easy-) LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
+- (Medium) LC-0513-Find-Bottom-Left-Tree-Value: [Python3](./Python3/LC-0513-Find-Bottom-Left-Tree-Value.py)
 - (Medium) LC-0516-Longest-Palindromic-Subsequence: [Python3](./Python3/LC-0516-Longest-Palindromic-Subsequence.py)
 - (Medium) LC-0518-Coin-Change-2: [Python3](./Python3/LC-0518-Coin-Change-2.py)
 - (-Easy-) LC-0520-Detect-Capital: [Python3](./Python3/LC-0520-Detect-Capital.py)
