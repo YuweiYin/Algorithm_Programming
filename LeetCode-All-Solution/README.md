@@ -282,12 +282,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
 - (-Easy-) LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
 - (Medium) LC-0513-Find-Bottom-Left-Tree-Value: [Python3](./Python3/LC-0513-Find-Bottom-Left-Tree-Value.py)
+- (Medium) LC-0515-Find-Largest-Value-in-Each-Tree-Row: [Python3](./Python3/LC-0515-Find-Largest-Value-in-Each-Tree-Row.py)
 - (Medium) LC-0516-Longest-Palindromic-Subsequence: [Python3](./Python3/LC-0516-Longest-Palindromic-Subsequence.py)
 - (Medium) LC-0518-Coin-Change-2: [Python3](./Python3/LC-0518-Coin-Change-2.py)
 - (-Easy-) LC-0520-Detect-Capital: [Python3](./Python3/LC-0520-Detect-Capital.py)
@@ -515,7 +516,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -523,6 +524,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1337-The-K-Weakest-Rows-in-a-Matrix: [Python3](./Python3/LC-1337-The-K-Weakest-Rows-in-a-Matrix.py)
 - (-Easy-) LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero: [Python3](./Python3/LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
 - (-Hard-) LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
+- (-Hard-) LC-1354-Construct-Target-Array-With-Multiple-Sums: [Python3](./Python3/LC-1354-Construct-Target-Array-With-Multiple-Sums.py)
 - (-Hard-) LC-1359-Count-All-Valid-Pickup-and-Delivery-Options: [Python3](./Python3/LC-1359-Count-All-Valid-Pickup-and-Delivery-Options.py)
 - (Medium) LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree: [Python3](./Python3/LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py)
 - (-Easy-) LC-1380-Lucky-Numbers-in-a-Matrix: [Python3](./Python3/LC-1380-Lucky-Numbers-in-a-Matrix.py)
