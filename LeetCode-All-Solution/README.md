@@ -322,7 +322,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -332,6 +332,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](./Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
 - (-Easy-) LC-0661-Image-Smoother: [Python3](./Python3/LC-0661-Image-Smoother.py)
 - (Medium) LC-0662-Maximum-Width-of-Binary-Tree: [Python3](./Python3/LC-0662-Maximum-Width-of-Binary-Tree.py)
+- (Medium) LC-0665-Non-decreasing-Array: [Python3](./Python3/LC-0665-Non-decreasing-Array.py)
 - (-Hard-) LC-0668-Kth-Smallest-Number-in-Multiplication-Table: [Python3](./Python3/LC-0668-Kth-Smallest-Number-in-Multiplication-Table.py)
 - (Medium) LC-0669-Trim-a-Binary-Search-Tree: [Python3](./Python3/LC-0669-Trim-a-Binary-Search-Tree.py)
 - (Medium) LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
@@ -675,9 +676,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 </details>
 
 <details>
-<summary>OFFER - Solution List (2/2)</summary>
+<summary>OFFER - Solution List (3/3)</summary>
 
 - (Medium) LC-OFFER-II-0029-Sorted-Circular-Linked-List: [Python3](./Python3/LC-OFFER-II-0029-Sorted-Circular-Linked-List.py)
+- (Medium) LC-OFFER-II-0091-Painting-House: [Python3](./Python3/LC-OFFER-II-0091-Painting-House.py)
 - (Hard) LC-OFFER-II-0114-Alien-Dictionary: [Python3](./Python3/LC-OFFER-II-0114-Alien-Dictionary.py)
 
 </details>
