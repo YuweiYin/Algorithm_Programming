@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (78/100)</summary>
+<summary>Solution List (79/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -241,7 +241,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
@@ -282,7 +282,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
@@ -293,6 +293,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0518-Coin-Change-2: [Python3](./Python3/LC-0518-Coin-Change-2.py)
 - (-Easy-) LC-0520-Detect-Capital: [Python3](./Python3/LC-0520-Detect-Capital.py)
 - (-Easy-) LC-0521-Longest-Uncommon-Subsequence-I: [Python3](./Python3/LC-0521-Longest-Uncommon-Subsequence-I.py)
+- (Medium) LC-0522-Longest-Uncommon-Subsequence-II: [Python3](./Python3/LC-0522-Longest-Uncommon-Subsequence-II.py)
 - (Medium) LC-0525-Contiguous-Array: [Python3](./Python3/LC-0525-Contiguous-Array.py)
 - (Medium) LC-0532-K-diff-Pairs-in-an-Array: [Python3](./Python3/LC-0532-K-diff-Pairs-in-an-Array.py)
 - (Medium) LC-0535-Encode-and-Decode-TinyURL: [Python3](./Python3/LC-0535-Encode-and-Decode-TinyURL.py)
@@ -565,7 +566,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -580,6 +581,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1675-Minimize-Deviation-in-Array: [Python3](./Python3/LC-1675-Minimize-Deviation-in-Array.py)
 - (Medium) LC-1679-Max-Number-of-K-Sum-Pairs: [Python3](./Python3/LC-1679-Max-Number-of-K-Sum-Pairs.py)
 - (-Easy-) LC-1688-Count-of-Matches-in-Tournament: [Python3](./Python3/LC-1688-Count-of-Matches-in-Tournament.py)
+- (Medium) LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers: [Python3](./Python3/LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.py)
 - (Medium) LC-1695-Maximum-Erasure-Value: [Python3](./Python3/LC-1695-Maximum-Erasure-Value.py)
 
 </details>
