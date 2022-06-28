@@ -197,7 +197,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -207,6 +207,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0316-Remove-Duplicate-Letters: [Python3](./Python3/LC-0316-Remove-Duplicate-Letters.py)
 - (Medium) LC-0318-Maximum-Product-of-Word-Lengths: [Python3](./Python3/LC-0318-Maximum-Product-of-Word-Lengths.py)
 - (Medium) LC-0322-Coin-Change: [Python3](./Python3/LC-0322-Coin-Change.py)
+- (Medium) LC-0324-Wiggle-Sort-II: [Python3](./Python3/LC-0324-Wiggle-Sort-II.py)
 - (-Hard-) LC-0329-Longest-Increasing-Path-in-a-Matrix: [Python3](./Python3/LC-0329-Longest-Increasing-Path-in-a-Matrix.py)
 - (Medium) LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
 - (-Easy-) LC-0338-Counting-Bits: [Python3](./Python3/LC-0338-Counting-Bits.py)
@@ -566,7 +567,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (16/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -575,6 +576,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
 - (Medium) LC-1641-Count-Sorted-Vowel-Strings: [Python3](./Python3/LC-1641-Count-Sorted-Vowel-Strings.py)
 - (Medium) LC-1642-Furthest-Building-You-Can-Reach: [Python3](./Python3/LC-1642-Furthest-Building-You-Can-Reach.py)
+- (Medium) LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique: [Python3](./Python3/LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique.py)
 - (Medium) LC-1658-Minimum-Operations-to-Reduce-X-to-Zero: [Python3](./Python3/LC-1658-Minimum-Operations-to-Reduce-X-to-Zero.py)
 - (Medium) LC-1663-Smallest-String-With-A-Given-Numeric-Value: [Python3](./Python3/LC-1663-Smallest-String-With-A-Given-Numeric-Value.py)
 - (-Easy-) LC-1672-Richest-Customer-Wealth: [Python3](./Python3/LC-1672-Richest-Customer-Wealth.py)
