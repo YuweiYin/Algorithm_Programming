@@ -242,9 +242,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (34/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
+- (Medium) LC-0406-Queue-Reconstruction-by-Height: [Python3](./Python3/LC-0406-Queue-Reconstruction-by-Height.py)
 - (-Easy-) LC-0409-Longest-Palindrome: [Python3](./Python3/LC-0409-Longest-Palindrome.py)
 - (-Hard-) LC-0410-Split-Array-Largest-Sum: [Python3](./Python3/LC-0410-Split-Array-Largest-Sum.py)
 - (Medium) LC-0413-Arithmetic-Slices: [Python3](./Python3/LC-0413-Arithmetic-Slices.py)
