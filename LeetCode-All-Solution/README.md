@@ -152,7 +152,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -178,6 +178,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree: [Python3](./Python3/LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree.py)
 - (Medium) LC-0238-Product-of-Array-Except-Self: [Python3](./Python3/LC-0238-Product-of-Array-Except-Self.py)
 - (Medium) LC-0240-Search-a-2D-Matrix-II: [Python3](./Python3/LC-0240-Search-a-2D-Matrix-II.py)
+- (Medium) LC-0241-Different-Ways-to-Add-Parentheses: [Python3](./Python3/LC-0241-Different-Ways-to-Add-Parentheses.py)
 - (-Easy-) LC-0242-Valid-Anagram: [Python3](./Python3/LC-0242-Valid-Anagram.py)
 - (-Easy-) LC-0258-Add-Digits: [Python3](./Python3/LC-0258-Add-Digits.py)
 - (Medium) LC-0264-Ugly-Number-II: [Python3](./Python3/LC-0264-Ugly-Number-II.py)
@@ -593,9 +594,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
+- (-Easy-) LC-1710-Maximum-Units-on-a-Truck: [Python3](./Python3/LC-1710-Maximum-Units-on-a-Truck.py)
 - (-Easy-) LC-1716-Calculate-Money-in-Leetcode-Bank: [Python3](./Python3/LC-1716-Calculate-Money-in-Leetcode-Bank.py)
 - (-Hard-) LC-1719-Number-Of-Ways-To-Reconstruct-A-Tree: [Python3](./Python3/LC-1719-Number-Of-Ways-To-Reconstruct-A-Tree.py)
 - (Medium) LC-1721-Swapping-Nodes-in-a-Linked-List: [Python3](./Python3/LC-1721-Swapping-Nodes-in-a-Linked-List.py)
