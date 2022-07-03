@@ -69,8 +69,8 @@ class Solution:
 
     def _wiggleMaxLength(self, nums: List[int]) -> int:
         """
-        Runtime: 32 ms, faster than 91.83% of Python3 online submissions for Wiggle Subsequence.
-        Memory Usage: 14.1 MB, less than 68.42% of Python3 online submissions for Wiggle Subsequence.
+        Runtime: 24 ms, faster than 99.81% of Python3 online submissions for Wiggle Subsequence.
+        Memory Usage: 13.9 MB, less than 77.55% of Python3 online submissions for Wiggle Subsequence.
         """
         len_nums = len(nums)
         assert len_nums >= 3

@@ -285,7 +285,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (34/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
@@ -307,6 +307,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0542-01-Matrix: [Python3](./Python3/LC-0542-01-Matrix.py)
 - (Medium) LC-0547-Number-of-Provinces: [Python3](./Python3/LC-0547-Number-of-Provinces.py)
 - (Medium) LC-0553-Optimal-Division: [Python3](./Python3/LC-0553-Optimal-Division.py)
+- (Medium) LC-0556-Next-Greater-Element-III: [Python3](./Python3/LC-0556-Next-Greater-Element-III.py)
 - (-Easy-) LC-0557-Reverse-Words-in-a-String-III: [Python3](./Python3/LC-0557-Reverse-Words-in-a-String-III.py)
 - (Medium) LC-0560-Subarray-Sum-Equals-K: [Python3](./Python3/LC-0560-Subarray-Sum-Equals-K.py)
 - (-Hard-) LC-0564-Find-the-Closest-Palindrome: [Python3](./Python3/LC-0564-Find-the-Closest-Palindrome.py)
