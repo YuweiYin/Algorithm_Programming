@@ -96,7 +96,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (48/100)</summary>
+<summary>Solution List (49/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -118,6 +118,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
 - (Medium) LC-0133-Clone-Graph: [Python3](./Python3/LC-0133-Clone-Graph.py)
 - (Medium) LC-0134-Gas-Station: [Python3](./Python3/LC-0134-Gas-Station.py)
+- (-Hard-) LC-0135-Candy: [Python3](./Python3/LC-0135-Candy.py)
 - (-Easy-) LC-0136-Single-Number: [Python3](./Python3/LC-0136-Single-Number.py)
 - (Medium) LC-0138-Copy-List-with-Random-Pointer: [Python3](./Python3/LC-0138-Copy-List-with-Random-Pointer.py)
 - (Medium) LC-0139-Word-Break: [Python3](./Python3/LC-0139-Word-Break.py)
@@ -493,7 +494,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (7/100)</summary>
+<summary>Solution List (8/100)</summary>
 
 - (-Easy-) LC-1108-Defanging-an-IP-Address: [Python3](./Python3/LC-1108-Defanging-an-IP-Address.py)
 - (-Easy-) LC-1137-N-th-Tribonacci-Number: [Python3](./Python3/LC-1137-N-th-Tribonacci-Number.py)
@@ -502,6 +503,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
 - (-Easy-) LC-1189-Maximum-Number-of-Balloons: [Python3](./Python3/LC-1189-Maximum-Number-of-Balloons.py)
 - (-Hard-) LC-1192-Critical-Connections-in-a-Network: [Python3](./Python3/LC-1192-Critical-Connections-in-a-Network.py)
+- (-Easy-) LC-1200-Minimum-Absolute-Difference: [Python3](./Python3/LC-1200-Minimum-Absolute-Difference.py)
 
 </details>
 
