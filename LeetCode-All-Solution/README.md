@@ -96,7 +96,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (49/100)</summary>
+<summary>Solution List (50/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -114,6 +114,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](./Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
 - (Medium) LC-0122-Best-Time-to-Buy-and-Sell-Stock-II: [Python3](./Python3/LC-0122-Best-Time-to-Buy-and-Sell-Stock-II.py)
 - (-Hard-) LC-0127-Word-Ladder: [Python3](./Python3/LC-0127-Word-Ladder.py)
+- (Medium) LC-0128-Longest-Consecutive-Sequence: [Python3](./Python3/LC-0128-Longest-Consecutive-Sequence.py)
 - (Medium) LC-0130-Surrounded-Regions: [Python3](./Python3/LC-0130-Surrounded-Regions.py)
 - (Medium) LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
 - (Medium) LC-0133-Clone-Graph: [Python3](./Python3/LC-0133-Clone-Graph.py)
@@ -357,7 +358,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -373,6 +374,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0719-Find-K-th-Smallest-Pair-Distance: [Python3](./Python3/LC-0719-Find-K-th-Smallest-Pair-Distance.py)
 - (Medium) LC-0720-Longest-Word-in-Dictionary: [Python3](./Python3/LC-0720-Longest-Word-in-Dictionary.py)
 - (-Easy-) LC-0728-Self-Dividing-Numbers: [Python3](./Python3/LC-0728-Self-Dividing-Numbers.py)
+- (Medium) LC-0729-My-Calendar-I: [Python3](./Python3/LC-0729-My-Calendar-I.py)
 - (-Hard-) LC-0730-Count-Different-Palindromic-Subsequences: [Python3](./Python3/LC-0730-Count-Different-Palindromic-Subsequences.py)
 - (-Hard-) LC-0732-My-Calendar-III: [Python3](./Python3/LC-0732-My-Calendar-III.py)
 - (-Easy-) LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
