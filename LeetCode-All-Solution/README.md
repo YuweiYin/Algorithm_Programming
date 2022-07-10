@@ -360,7 +360,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -382,6 +382,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - (-Hard-) LC-0736-Parse-Lisp-Expression: [Python3](./Python3/LC-0736-Parse-Lisp-Expression.py)
 - (Medium) LC-0740-Delete-and-Earn: [Python3](./Python3/LC-0740-Delete-and-Earn.py)
+- (-Hard-) LC-0741-Cherry-Pickup: [Python3](./Python3/LC-0741-Cherry-Pickup.py)
 - (Medium) LC-0743-Network-Delay-Time: [Python3](./Python3/LC-0743-Network-Delay-Time.py)
 - (-Easy-) LC-0744-Find-Smallest-Letter-Greater-Than-Target: [Python3](./Python3/LC-0744-Find-Smallest-Letter-Greater-Than-Target.py)
 - (-Hard-) LC-0745-Prefix-and-Suffix-Search: [Python3](./Python3/LC-0745-Prefix-and-Suffix-Search.py)
