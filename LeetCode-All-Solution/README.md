@@ -518,7 +518,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (Medium) LC-1209-Remove-All-Adjacent-Duplicates-in-String-II: [Python3](./Python3/LC-1209-Remove-All-Adjacent-Duplicates-in-String-II.py)
@@ -526,6 +526,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position: [Python3](./Python3/LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position.py)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
+- (-Easy-) LC-1252-Cells-with-Odd-Values-in-a-Matrix: [Python3](./Python3/LC-1252-Cells-with-Odd-Values-in-a-Matrix.py)
 - (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
 - (Medium) LC-1268-Search-Suggestions-System: [Python3](./Python3/LC-1268-Search-Suggestions-System.py)
 - (Medium) LC-1288-Remove-Covered-Intervals: [Python3](./Python3/LC-1288-Remove-Covered-Intervals.py)
