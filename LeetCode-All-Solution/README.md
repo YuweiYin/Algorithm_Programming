@@ -361,7 +361,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (35/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -381,6 +381,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0730-Count-Different-Palindromic-Subsequences: [Python3](./Python3/LC-0730-Count-Different-Palindromic-Subsequences.py)
 - (-Hard-) LC-0732-My-Calendar-III: [Python3](./Python3/LC-0732-My-Calendar-III.py)
 - (-Easy-) LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
+- (Medium) LC-0735-Asteroid-Collision: [Python3](./Python3/LC-0735-Asteroid-Collision.py)
 - (-Hard-) LC-0736-Parse-Lisp-Expression: [Python3](./Python3/LC-0736-Parse-Lisp-Expression.py)
 - (Medium) LC-0740-Delete-and-Earn: [Python3](./Python3/LC-0740-Delete-and-Earn.py)
 - (-Hard-) LC-0741-Cherry-Pickup: [Python3](./Python3/LC-0741-Cherry-Pickup.py)
