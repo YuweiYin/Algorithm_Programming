@@ -288,7 +288,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (35/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
@@ -318,6 +318,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0566-Reshape-the-Matrix: [Python3](./Python3/LC-0566-Reshape-the-Matrix.py)
 - (Medium) LC-0567-Permutation-in-String: [Python3](./Python3/LC-0567-Permutation-in-String.py)
 - (-Easy-) LC-0572-Subtree-of-Another-Tree: [Python3](./Python3/LC-0572-Subtree-of-Another-Tree.py)
+- (Medium) LC-0576-Out-of-Boundary-Paths: [Python3](./Python3/LC-0572-Subtree-of-Another-Tree.py)
 - (Medium) LC-0581-Shortest-Unsorted-Continuous-Subarray: [Python3](./Python3/LC-0581-Shortest-Unsorted-Continuous-Subarray.py)
 - (Medium) LC-0583-Delete-Operation-for-Two-Strings: [Python3](./Python3/LC-0583-Delete-Operation-for-Two-Strings.py)
 - (-Hard-) LC-0587-Erect-the-Fence: [Python3](./Python3/LC-0587-Erect-the-Fence.py)
@@ -705,11 +706,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 </details>
 
 <details>
-<summary>OFFER - Solution List (3/3)</summary>
+<summary>OFFER - Solution List (4/4)</summary>
 
 - (Medium) LC-OFFER-II-0029-Sorted-Circular-Linked-List: [Python3](./Python3/LC-OFFER-II-0029-Sorted-Circular-Linked-List.py)
+- (-Easy-) LC-OFFER-II-0041-Average-of-Sliding-Window: [Python3](./Python3/LC-OFFER-II-0041-Average-of-Sliding-Window.py)
 - (Medium) LC-OFFER-II-0091-Painting-House: [Python3](./Python3/LC-OFFER-II-0091-Painting-House.py)
-- (Hard) LC-OFFER-II-0114-Alien-Dictionary: [Python3](./Python3/LC-OFFER-II-0114-Alien-Dictionary.py)
+- (-Hard-) LC-OFFER-II-0114-Alien-Dictionary: [Python3](./Python3/LC-OFFER-II-0114-Alien-Dictionary.py)
 
 </details>
 
