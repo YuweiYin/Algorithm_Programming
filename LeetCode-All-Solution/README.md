@@ -288,7 +288,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
@@ -315,6 +315,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0558-Logical-OR-of-Two-Binary-Grids-Represented-as-Quad-Trees: [Python3](./Python3/LC-0558-Logical-OR-of-Two-Binary-Grids-Represented-as-Quad-Trees.py)
 - (Medium) LC-0560-Subarray-Sum-Equals-K: [Python3](./Python3/LC-0560-Subarray-Sum-Equals-K.py)
 - (-Hard-) LC-0564-Find-the-Closest-Palindrome: [Python3](./Python3/LC-0564-Find-the-Closest-Palindrome.py)
+- (Medium) LC-0565-Array-Nesting: [Python3](./Python3/LC-0565-Array-Nesting.py)
 - (-Easy-) LC-0566-Reshape-the-Matrix: [Python3](./Python3/LC-0566-Reshape-the-Matrix.py)
 - (Medium) LC-0567-Permutation-in-String: [Python3](./Python3/LC-0567-Permutation-in-String.py)
 - (-Easy-) LC-0572-Subtree-of-Another-Tree: [Python3](./Python3/LC-0572-Subtree-of-Another-Tree.py)
@@ -332,11 +333,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
 - (-Easy-) LC-0617-Merge-Two-Binary-Trees: [Python3](./Python3/LC-0617-Merge-Two-Binary-Trees.py)
+- (-Hard-) LC-0629-K-Inverse-Pairs-Array: [Python3](./Python3/LC-0629-K-Inverse-Pairs-Array.py)
 - (-Hard-) LC-0630-Course-Schedule-III: [Python3](./Python3/LC-0630-Course-Schedule-III.py)
 - (Medium) LC-0647-Palindromic-Substrings: [Python3](./Python3/LC-0647-Palindromic-Substrings.py)
 - (Medium) LC-0648-Replace-Words: [Python3](./Python3/LC-0648-Replace-Words.py)
