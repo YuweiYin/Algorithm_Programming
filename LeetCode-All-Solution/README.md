@@ -365,7 +365,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -394,6 +394,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0745-Prefix-and-Suffix-Search: [Python3](./Python3/LC-0745-Prefix-and-Suffix-Search.py)
 - (-Easy-) LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - (-Easy-) LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
+- (-Hard-) LC-0749-Contain-Virus: [Python3](./Python3/LC-0749-Contain-Virus.py)
 - (-Easy-) LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation: [Python3](./Python3/LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation.py)
 - (Medium) LC-0763-Partition-Labels: [Python3](./Python3/LC-0763-Partition-Labels.py)
 - (-Hard-) LC-0780-Reaching-Points: [Python3](./Python3/LC-0780-Reaching-Points.py)
@@ -478,7 +479,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -497,6 +498,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1046-Last-Stone-Weight: [Python3](./Python3/LC-1046-Last-Stone-Weight.py)
 - (Medium) LC-1048-Longest-String-Chain: [Python3](./Python3/LC-1048-Longest-String-Chain.py)
 - (-Easy-) LC-1051-Height-Checker: [Python3](./Python3/LC-1051-Height-Checker.py)
+- (-Hard-) LC-1074-Number-of-Submatrices-That-Sum-to-Target: [Python3](./Python3/LC-1074-Number-of-Submatrices-That-Sum-to-Target.py)
 - (Medium) LC-1081-Smallest-Subsequence-of-Distinct-Characters: [Python3](./Python3/LC-1081-Smallest-Subsequence-of-Distinct-Characters.py)
 - (-Easy-) LC-1089-Duplicate-Zeros: [Python3](./Python3/LC-1089-Duplicate-Zeros.py)
 - (Medium) LC-1091-Shortest-Path-in-Binary-Matrix: [Python3](./Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
