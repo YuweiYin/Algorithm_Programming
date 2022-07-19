@@ -365,7 +365,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -383,6 +383,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0728-Self-Dividing-Numbers: [Python3](./Python3/LC-0728-Self-Dividing-Numbers.py)
 - (Medium) LC-0729-My-Calendar-I: [Python3](./Python3/LC-0729-My-Calendar-I.py)
 - (-Hard-) LC-0730-Count-Different-Palindromic-Subsequences: [Python3](./Python3/LC-0730-Count-Different-Palindromic-Subsequences.py)
+- (Medium) LC-0731-My-Calendar-II: [Python3](./Python3/LC-0731-My-Calendar-II.py)
 - (-Hard-) LC-0732-My-Calendar-III: [Python3](./Python3/LC-0732-My-Calendar-III.py)
 - (-Easy-) LC-0733-Flood-Fill: [Python3](./Python3/LC-0733-Flood-Fill.py)
 - (Medium) LC-0735-Asteroid-Collision: [Python3](./Python3/LC-0735-Asteroid-Collision.py)
