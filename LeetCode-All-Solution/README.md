@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (80/100)</summary>
+<summary>Solution List (81/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -86,6 +86,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
 - (Medium) LC-0090-Subsets-II: [Python3](./Python3/LC-0090-Subsets-II.py)
 - (Medium) LC-0091-Decode-Ways: [Python3](./Python3/LC-0091-Decode-Ways.py)
+- (Medium) LC-0092-Reverse-Linked-List-II: [Python3](./Python3/LC-0092-Reverse-Linked-List-II.py)
 - (-Easy-) LC-0094-Binary-Tree-Inorder-Traversal: [Python3](./Python3/LC-0094-Binary-Tree-Inorder-Traversal.py)
 - (Medium) LC-0096-Unique-Binary-Search-Trees: [Python3](./Python3/LC-0096-Unique-Binary-Search-Trees.py)
 - (Medium) LC-0097-Interleaving-String: [Python3](./Python3/LC-0097-Interleaving-String.py)
@@ -412,11 +413,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
 - (-Easy-) LC-0812-Largest-Triangle-Area: [Python3](./Python3/LC-0812-Largest-Triangle-Area.py)
+- (Medium) LC-0814-Binary-Tree-Pruning: [Python3](./Python3/LC-0814-Binary-Tree-Pruning.py)
 - (-Easy-) LC-0819-Most-Common-Word: [Python3](./Python3/LC-0819-Most-Common-Word.py)
 - (Medium) LC-0820-Short-Encoding-of-Words: [Python3](./Python3/LC-0820-Short-Encoding-of-Words.py)
 - (-Easy-) LC-0821-Shortest-Distance-to-a-Character: [Python3](./Python3/LC-0821-Shortest-Distance-to-a-Character.py)
