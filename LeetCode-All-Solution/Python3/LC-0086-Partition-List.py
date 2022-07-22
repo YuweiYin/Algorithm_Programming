@@ -2,9 +2,9 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-0092-Reverse-Linked-List-II.py
+@File    : LC-0086-Partition-List.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
-@Date    : 2022-07-21
+@Date    : 2022-07-22
 =================================================================="""
 
 import sys
@@ -13,28 +13,26 @@ from typing import List, Optional
 # import functools
 
 """
-LeetCode - 0092 - (Medium) - Reverse Linked List II
-https://leetcode.com/problems/reverse-linked-list-ii/
+LeetCode - 0086 - (Medium) - Partition List
+https://leetcode.com/problems/partition-list/
 
 Description & Requirement:
-    Given the head of a singly linked list and two integers left and right where left <= right, 
-    reverse the nodes of the list from position left to position right, and return the reversed list.
+    Given the head of a linked list and a value x, partition it such that 
+    all nodes less than x come before nodes greater than or equal to x.
+
+    You should preserve the original relative order of the nodes in each of the two partitions.
 
 Example 1:
-    Input: head = [1,2,3,4,5], left = 2, right = 4
-    Output: [1,4,3,2,5]
+    Input: head = [1,4,3,2,5,2], x = 3
+    Output: [1,2,2,4,3,5]
 Example 2:
-    Input: head = [5], left = 1, right = 1
-    Output: [5]
+    Input: head = [2,1], x = 2
+    Output: [1,2]
 
 Constraints:
-    The number of nodes in the list is n.
-    1 <= n <= 500
-    -500 <= Node.val <= 500
-    1 <= left <= right <= n
-
-Follow up:
-    Could you do it in one pass?
+    The number of nodes in the list is in the range [0, 200].
+    -100 <= Node.val <= 100
+    -200 <= x <= 200
 """
 
 
@@ -94,62 +92,69 @@ class ListNode:
 
 
 class Solution:
-    def reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
+    def partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
         # exception case
         if not isinstance(head, ListNode):
             return None
-        assert isinstance(left, int) and isinstance(right, int) and 1 <= left <= right
-        # main method: (scan and change links)
-        return self._reverseBetween(head, left, right)
+        assert isinstance(x, int)
+        # main method: (record values in a list/array and then deal with it)
+        return self._partition(head, x)
 
-    def _reverseBetween(self, head: Optional[ListNode], left: int, right: int) -> Optional[ListNode]:
+    def _partition(self, head: Optional[ListNode], x: int) -> Optional[ListNode]:
         """
-        Runtime: 30 ms, faster than 96.39% of Python3 online submissions for Reverse Linked List II.
-        Memory Usage: 14 MB, less than 87.01% of Python3 online submissions for Reverse Linked List II.
+        Runtime: 32 ms, faster than 97.86% of Python3 online submissions for Partition List.
+        Memory Usage: 14 MB, less than 31.57% of Python3 online submissions for Partition List.
         """
-        assert isinstance(head, ListNode)
-        assert isinstance(left, int) and isinstance(right, int) and 1 <= left <= right
+        assert isinstance(head, ListNode) and isinstance(x, int)
 
-        pseudo_head = ListNode(next=head)
-        ptr = pseudo_head
-        for _ in range(left - 1):
+        all_val = []
+        ptr = head
+        while isinstance(ptr, ListNode):
+            all_val.append(ptr.val)
             ptr = ptr.next
 
-        ptr_next = ptr.next
-        for _ in range(right - left):
-            ptr_next_next = ptr_next.next
-            ptr_next.next = ptr_next_next.next
-            ptr_next_next.next = ptr.next
-            ptr.next = ptr_next_next
+        left_val = []
+        right_val = []
+        for val in all_val:
+            if val < x:
+                left_val.append(val)
+            else:
+                right_val.append(val)
 
-        return pseudo_head.next
+        all_val = left_val + right_val
+        ptr = head
+        idx = 0
+        while isinstance(ptr, ListNode):
+            ptr.val = all_val[idx]
+            ptr = ptr.next
+            idx += 1
+
+        return head
 
 
 def main():
-    # Example 1: Output: [1,4,3,2,5]
-    head = [1, 2, 3, 4, 5]
-    left = 2
-    right = 4
+    # Example 1: Output: [1,2,2,4,3,5]
+    head = [1, 4, 3, 2, 5, 2]
+    x = 3
 
-    # Example 2: Output: [5]
-    # head = [5]
-    # left = 1
-    # right = 1
+    # Example 2: Output: [1,2]
+    # head = [2, 1]
+    # x = 2
 
-    head_node = ListNode.build_singly_linked_list(head)
+    head = ListNode.build_singly_linked_list(head)
 
     # init instance
     solution = Solution()
 
     # run & time
     start = time.process_time()
-    ans = solution.reverseBetween(head_node, left, right)
+    ans = solution.partition(head, x)
     end = time.process_time()
 
     # show answer
     print('\nAnswer:')
     # print(ans)
-    ListNode.show_val_singly_linked_list(ans)
+    ListNode.show_val_singly_linked_list(head)
 
     # show time consumption
     print('Running Time: %.5f ms' % ((end - start) * 1000))

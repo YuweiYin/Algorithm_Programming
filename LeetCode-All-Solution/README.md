@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (81/100)</summary>
+<summary>Solution List (82/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -82,6 +82,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0082-Remove-Duplicates-from-Sorted-List-II: [Python3](./Python3/LC-0082-Remove-Duplicates-from-Sorted-List-II.py)
 - (-Easy-) LC-0083-Remove-Duplicates-from-Sorted-List: [Python3](./Python3/LC-0083-Remove-Duplicates-from-Sorted-List.py)
 - (-Hard-) LC-0084-Largest-Rectangle-in-Histogram: [Python3](./Python3/LC-0084-Largest-Rectangle-in-Histogram.py)
+- (Medium) LC-0086-Partition-List: [Python3](./Python3/LC-0086-Partition-List.py)
 - (-Easy-) LC-0088-Merge-Sorted-Array: [Python3](./Python3/LC-0088-Merge-Sorted-Array.py)
 - (Medium) LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
 - (Medium) LC-0090-Subsets-II: [Python3](./Python3/LC-0090-Subsets-II.py)
@@ -366,7 +367,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (39/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -397,6 +398,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - (-Easy-) LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - (-Hard-) LC-0749-Contain-Virus: [Python3](./Python3/LC-0749-Contain-Virus.py)
+- (-Hard-) LC-0757-Set-Intersection-Size-At-Least-Two: [Python3](./Python3/LC-0757-Set-Intersection-Size-At-Least-Two.py)
 - (-Easy-) LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation: [Python3](./Python3/LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation.py)
 - (Medium) LC-0763-Partition-Labels: [Python3](./Python3/LC-0763-Partition-Labels.py)
 - (-Hard-) LC-0780-Reaching-Points: [Python3](./Python3/LC-0780-Reaching-Points.py)
