@@ -203,13 +203,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
 - (Medium) LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown: [Python3](./Python3/LC-0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown.py)
 - (Medium) LC-0310-Minimum-Height-Trees: [Python3](./Python3/LC-0310-Minimum-Height-Trees.py)
 - (-Hard-) LC-0312-Burst-Balloons: [Python3](./Python3/LC-0312-Burst-Balloons.py)
+- (-Hard-) LC-0315-Count-of-Smaller-Numbers-After-Self: [Python3](./Python3/LC-0315-Count-of-Smaller-Numbers-After-Self.py)
 - (Medium) LC-0316-Remove-Duplicate-Letters: [Python3](./Python3/LC-0316-Remove-Duplicate-Letters.py)
 - (Medium) LC-0318-Maximum-Product-of-Word-Lengths: [Python3](./Python3/LC-0318-Maximum-Product-of-Word-Lengths.py)
 - (Medium) LC-0322-Coin-Change: [Python3](./Python3/LC-0322-Coin-Change.py)
@@ -716,12 +717,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 </details>
 
 <details>
-<summary>OFFER - Solution List (4/4)</summary>
+<summary>OFFER - Solution List (5/5)</summary>
 
 - (Medium) LC-OFFER-II-0029-Sorted-Circular-Linked-List: [Python3](./Python3/LC-OFFER-II-0029-Sorted-Circular-Linked-List.py)
 - (-Easy-) LC-OFFER-II-0041-Average-of-Sliding-Window: [Python3](./Python3/LC-OFFER-II-0041-Average-of-Sliding-Window.py)
 - (Medium) LC-OFFER-II-0091-Painting-House: [Python3](./Python3/LC-OFFER-II-0091-Painting-House.py)
 - (-Hard-) LC-OFFER-II-0114-Alien-Dictionary: [Python3](./Python3/LC-OFFER-II-0114-Alien-Dictionary.py)
+- (Medium) LC-OFFER-II-0115-Sequence-Reconstruction: [Python3](./Python3/LC-OFFER-II-0115-Sequence-Reconstruction.py)
 
 </details>
 
