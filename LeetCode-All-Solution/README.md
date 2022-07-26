@@ -534,9 +534,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
+- (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
 - (Medium) LC-1209-Remove-All-Adjacent-Duplicates-in-String-II: [Python3](./Python3/LC-1209-Remove-All-Adjacent-Duplicates-in-String-II.py)
 - (Medium) LC-1219-Path-with-Maximum-Gold: [Python3](./Python3/LC-1219-Path-with-Maximum-Gold.py)
 - (-Easy-) LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position: [Python3](./Python3/LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position.py)
