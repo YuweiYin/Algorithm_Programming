@@ -55,6 +55,10 @@ class Solution:
         return self._findAndReplacePattern(words, pattern)
 
     def _findAndReplacePattern(self, words: List[str], pattern: str) -> List[str]:
+        """
+        Runtime: 35 ms, faster than 91.18% of Python3 online submissions for Find and Replace Pattern.
+        Memory Usage: 14 MB, less than 28.72% of Python3 online submissions for Find and Replace Pattern.
+        """
         assert isinstance(words, list) and len(words) >= 1
         assert isinstance(pattern, str) and len(pattern) >= 1
 

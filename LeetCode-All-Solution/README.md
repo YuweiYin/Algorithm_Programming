@@ -292,7 +292,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (39/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
@@ -331,6 +331,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0590-N-ary-Tree-Postorder-Traversal: [Python3](./Python3/LC-0589-N-ary-Tree-Preorder-Traversal.py)
 - (-Hard-) LC-0591-Tag-Validator: [Python3](./Python3/LC-0591-Tag-Validator.py)
 - (Medium) LC-0592-Fraction-Addition-and-Subtraction: [Python3](./Python3/LC-0592-Fraction-Addition-and-Subtraction.py)
+- (Medium) LC-0593-Valid-Square: [Python3](./Python3/LC-0593-Valid-Square.py)
 - (-Easy-) LC-0599-Minimum-Index-Sum-of-Two-Lists: [Python3](./Python3/LC-0599-Minimum-Index-Sum-of-Two-Lists.py)
 
 </details>
