@@ -454,11 +454,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (28/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
 - (-Hard-) LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
+- (Medium) LC-0916-Word-Subsets: [Python3](./Python3/LC-0916-Word-Subsets.py)
 - (-Easy-) LC-0917-Reverse-Only-Letters: [Python3](./Python3/LC-0917-Reverse-Only-Letters.py)
 - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](./Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
 - (Medium) LC-0919-Complete-Binary-Tree-Inserter: [Python3](./Python3/LC-0919-Complete-Binary-Tree-Inserter.py)
@@ -472,6 +473,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0942-DI-String-Match: [Python3](./Python3/LC-0942-DI-String-Match.py)
 - (-Easy-) LC-0944-Delete-Columns-to-Make-Sorted: [Python3](./Python3/LC-0944-Delete-Columns-to-Make-Sorted.py)
 - (Medium) LC-0946-Validate-Stack-Sequences: [Python3](./Python3/LC-0946-Validate-Stack-Sequences.py)
+- (-Hard-) LC-0952-Largest-Component-Size-by-Common-Factor: [Python3](./Python3/LC-0952-Largest-Component-Size-by-Common-Factor.py)
 - (-Easy-) LC-0953-Verifying-an-Alien-Dictionary: [Python3](./Python3/LC-0953-Verifying-an-Alien-Dictionary.py)
 - (Medium) LC-0954-Array-of-Doubled-Pairs: [Python3](./Python3/LC-0954-Array-of-Doubled-Pairs.py)
 - (-Easy-) LC-0961-N-Repeated-Element-in-Size-2N-Array: [Python3](./Python3/LC-0961-N-Repeated-Element-in-Size-2N-Array.py)
