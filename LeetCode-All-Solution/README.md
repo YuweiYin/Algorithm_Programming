@@ -560,7 +560,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -571,6 +571,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
 - (-Hard-) LC-1354-Construct-Target-Array-With-Multiple-Sums: [Python3](./Python3/LC-1354-Construct-Target-Array-With-Multiple-Sums.py)
 - (-Hard-) LC-1359-Count-All-Valid-Pickup-and-Delivery-Options: [Python3](./Python3/LC-1359-Count-All-Valid-Pickup-and-Delivery-Options.py)
+- (-Easy-) LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts: [Python3](./Python3/LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts.py)
 - (Medium) LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree: [Python3](./Python3/LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py)
 - (-Easy-) LC-1380-Lucky-Numbers-in-a-Matrix: [Python3](./Python3/LC-1380-Lucky-Numbers-in-a-Matrix.py)
 - (Medium) LC-1396-Design-Underground-System: [Python3](./Python3/LC-1396-Design-Underground-System.py)
