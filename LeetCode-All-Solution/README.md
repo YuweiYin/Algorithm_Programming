@@ -204,7 +204,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (39/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -229,6 +229,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0373-Find-K-Pairs-with-Smallest-Sums: [Python3](./Python3/LC-0373-Find-K-Pairs-with-Smallest-Sums.py)
 - (Medium) LC-0376-Wiggle-Subsequence: [Python3](./Python3/LC-0376-Wiggle-Subsequence.py)
 - (Medium) LC-0377-Combination-Sum-IV: [Python3](./Python3/LC-0377-Combination-Sum-IV.py)
+- (Medium) LC-0378-Kth-Smallest-Element-in-a-Sorted-Matrix: [Python3](./Python3/LC-0378-Kth-Smallest-Element-in-a-Sorted-Matrix.py)
 - (Medium) LC-0380-Insert-Delete-GetRandom-O1: [Python3](./Python3/LC-0380-Insert-Delete-GetRandom-O1.py)
 - (Medium) LC-0382-Linked-List-Random-Node: [Python3](./Python3/LC-0382-Linked-List-Random-Node.py)
 - (-Easy-) LC-0383-Ransom-Note: [Python3](./Python3/LC-0383-Ransom-Note.py)
@@ -339,11 +340,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
 - (-Easy-) LC-0617-Merge-Two-Binary-Trees: [Python3](./Python3/LC-0617-Merge-Two-Binary-Trees.py)
+- (Medium) LC-0622-Design-Circular-Queue: [Python3](./Python3/LC-0622-Design-Circular-Queue.py)
 - (-Hard-) LC-0629-K-Inverse-Pairs-Array: [Python3](./Python3/LC-0629-K-Inverse-Pairs-Array.py)
 - (-Hard-) LC-0630-Course-Schedule-III: [Python3](./Python3/LC-0630-Course-Schedule-III.py)
 - (Medium) LC-0647-Palindromic-Substrings: [Python3](./Python3/LC-0647-Palindromic-Substrings.py)
