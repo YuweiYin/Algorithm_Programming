@@ -421,7 +421,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
@@ -450,6 +450,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0890-Find-and-Replace-Pattern: [Python3](./Python3/LC-0890-Find-and-Replace-Pattern.py)
 - (-Hard-) LC-0895-Maximum-Frequency-Stack: [Python3](./Python3/LC-0895-Maximum-Frequency-Stack.py)
 - (-Easy-) LC-0897-Increasing-Order-Search-Tree: [Python3](./Python3/LC-0897-Increasing-Order-Search-Tree.py)
+- (-Hard-) LC-0899-Orderly-Queue: [Python3](./Python3/LC-0899-Orderly-Queue.py)
 
 </details>
 
