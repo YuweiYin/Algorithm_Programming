@@ -29,7 +29,8 @@ Description & Requirement:
 Example 1:
     Input: tree = [7,4,3,null,null,6,19], target = 3
     Output: 3
-    Explanation: In all examples the original and cloned trees are shown. The target node is a green node from the original tree. The answer is the yellow node from the cloned tree.
+    Explanation: In all examples the original and cloned trees are shown. 
+        The target node is a green node from the original tree. The answer is the yellow node from the cloned tree.
 Example 2:
     Input: tree = [7], target =  7
     Output: 7
