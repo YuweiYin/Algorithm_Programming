@@ -101,6 +101,10 @@ class Solution:
         return res[0]
 
     def _combinationSum4Dp(self, nums: List[int], target: int) -> int:
+        """
+        Runtime: 49 ms, faster than 80.57% of Python3 online submissions for Combination Sum IV.
+        Memory Usage: 14 MB, less than 48.19% of Python3 online submissions for Combination Sum IV.
+        """
         len_nums = len(nums)
         assert len_nums > 0
 

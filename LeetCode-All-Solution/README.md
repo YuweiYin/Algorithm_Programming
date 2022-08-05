@@ -340,12 +340,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
 - (-Easy-) LC-0617-Merge-Two-Binary-Trees: [Python3](./Python3/LC-0617-Merge-Two-Binary-Trees.py)
 - (Medium) LC-0622-Design-Circular-Queue: [Python3](./Python3/LC-0622-Design-Circular-Queue.py)
+- (Medium) LC-0623-Add-One-Row-to-Tree: [Python3](./Python3/LC-0623-Add-One-Row-to-Tree.py)
 - (-Hard-) LC-0629-K-Inverse-Pairs-Array: [Python3](./Python3/LC-0629-K-Inverse-Pairs-Array.py)
 - (-Hard-) LC-0630-Course-Schedule-III: [Python3](./Python3/LC-0630-Course-Schedule-III.py)
 - (Medium) LC-0647-Palindromic-Substrings: [Python3](./Python3/LC-0647-Palindromic-Substrings.py)
