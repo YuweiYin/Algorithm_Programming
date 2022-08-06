@@ -251,7 +251,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (Medium) LC-0406-Queue-Reconstruction-by-Height: [Python3](./Python3/LC-0406-Queue-Reconstruction-by-Height.py)
@@ -277,6 +277,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons: [Python3](./Python3/LC-0452-Minimum-Number-of-Arrows-to-Burst-Balloons.py)
 - (Medium) LC-0454-4Sum-II: [Python3](./Python3/LC-0454-4Sum-II.py)
 - (Medium) LC-0456-132-Pattern: [Python3](./Python3/LC-0456-132-Pattern.py)
+- (-Hard-) LC-0458-Poor-Pigs: [Python3](./Python3/LC-0458-Poor-Pigs.py)
 - (Medium) LC-0462-Minimum-Moves-to-Equal-Array-Elements-II: [Python3](./Python3/LC-0462-Minimum-Moves-to-Equal-Array-Elements-II.py)
 - (Medium) LC-0464-Can-I-Win: [Python3](./Python3/LC-0464-Can-I-Win.py)
 - (Medium) LC-0467-Unique-Substrings-in-Wraparound-String: [Python3](./Python3/LC-0467-Unique-Substrings-in-Wraparound-String.py)
@@ -586,10 +587,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
+- (-Easy-) LC-1408-String-Matching-in-an-Array: [Python3](./Python3/LC-1408-String-Matching-in-an-Array.py)
 - (Medium) LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K: [Python3](./Python3/LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.py)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
 - (Medium) LC-1447-Simplified-Fractions: [Python3](./Python3/LC-1447-Simplified-Fractions.py)
