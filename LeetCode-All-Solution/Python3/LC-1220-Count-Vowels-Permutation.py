@@ -68,6 +68,10 @@ class Solution:
         return self._countVowelPermutationDP(n)
 
     def _countVowelPermutationDFS(self, n: int) -> int:
+        """
+        Runtime: 208 ms, faster than 90.05% of Python3 online submissions for Count Vowels Permutation.
+        Memory Usage: 13.9 MB, less than 85.82% of Python3 online submissions for Count Vowels Permutation.
+        """
         assert n > 1
         sys.setrecursionlimit(200000)  # in this problem, n <= 20000
 
