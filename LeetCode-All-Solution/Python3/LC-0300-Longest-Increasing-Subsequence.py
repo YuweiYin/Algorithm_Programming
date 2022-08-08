@@ -66,6 +66,8 @@ class Solution:
     def _lengthOfLISdp(self, nums: List[int]) -> int:
         """
         Time: O(n^2);  Space: O(n).
+        Runtime: 88 ms, faster than 94.55% of Python3 online submissions for Longest Increasing Subsequence.
+        Memory Usage: 14.3 MB, less than 13.84% of Python3 online submissions for Longest Increasing Subsequence.
         """
         len_nums = len(nums)
         assert len_nums >= 3
