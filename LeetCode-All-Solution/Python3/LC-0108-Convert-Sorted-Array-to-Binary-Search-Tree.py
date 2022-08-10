@@ -119,6 +119,10 @@ class Solution:
         return self._sortedArrayToBST(nums)
 
     def _sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
+        """
+        Runtime: 53 ms, faster than 99.73% of Python3 submissions for Convert Sorted Array to Binary Search Tree.
+        Memory Usage: 15.6 MB, less than 32.22% of Python3 submissions for Convert Sorted Array to Binary Search Tree.
+        """
         assert isinstance(nums, list) and len(nums) > 1
 
         def __dfs(left_idx: int, right_idx: int) -> Optional[TreeNode]:
