@@ -591,13 +591,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
 - (-Easy-) LC-1408-String-Matching-in-an-Array: [Python3](./Python3/LC-1408-String-Matching-in-an-Array.py)
 - (-Easy-) LC-1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum: [Python3](./Python3/LC-1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum.py)
 - (Medium) LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K: [Python3](./Python3/LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.py)
+- (-Easy-) LC-1417-Reformat-The-String: [Python3](./Python3/LC-1417-Reformat-The-String.py)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
 - (Medium) LC-1447-Simplified-Fractions: [Python3](./Python3/LC-1447-Simplified-Fractions.py)
 - (Medium) LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K: [Python3](./Python3/LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K.py)
