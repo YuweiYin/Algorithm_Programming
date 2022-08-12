@@ -182,6 +182,10 @@ class Solution:
 
     def _lowestCommonAncestor(self, root: Optional[TreeNode],
                               p: Optional[TreeNode], q: Optional[TreeNode]) -> Optional[TreeNode]:
+        """
+        Runtime: 93 ms, faster than 80.80% of Python3 submissions for LCA of a Binary Search Tree.
+        Memory Usage: 18.8 MB, less than 68.62% of Python3 submissions for LCA of a Binary Search Tree.
+        """
 
         def __root_to_node_path(cur_node: Optional[TreeNode], target_node: Optional[TreeNode],
                                 cur_path: List[TreeNode]) -> List[TreeNode]:

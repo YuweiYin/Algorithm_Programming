@@ -550,7 +550,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -562,6 +562,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1252-Cells-with-Odd-Values-in-a-Matrix: [Python3](./Python3/LC-1252-Cells-with-Odd-Values-in-a-Matrix.py)
 - (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
 - (Medium) LC-1268-Search-Suggestions-System: [Python3](./Python3/LC-1268-Search-Suggestions-System.py)
+- (Medium) LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To: [Python3](./Python3/LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To.py)
 - (Medium) LC-1288-Remove-Covered-Intervals: [Python3](./Python3/LC-1288-Remove-Covered-Intervals.py)
 - (Medium) LC-1291-Sequential-Digits: [Python3](./Python3/LC-1291-Sequential-Digits.py)
 
