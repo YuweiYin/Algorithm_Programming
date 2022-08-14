@@ -99,7 +99,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (51/100)</summary>
+<summary>Solution List (52/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -117,6 +117,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
 - (-Easy-) LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](./Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
 - (Medium) LC-0122-Best-Time-to-Buy-and-Sell-Stock-II: [Python3](./Python3/LC-0122-Best-Time-to-Buy-and-Sell-Stock-II.py)
+- (-Hard-) LC-0126-Word-Ladder-II: [Python3](./Python3/LC-0126-Word-Ladder-II.py)
 - (-Hard-) LC-0127-Word-Ladder: [Python3](./Python3/LC-0127-Word-Ladder.py)
 - (Medium) LC-0128-Longest-Consecutive-Sequence: [Python3](./Python3/LC-0128-Longest-Consecutive-Sequence.py)
 - (Medium) LC-0130-Surrounded-Regions: [Python3](./Python3/LC-0130-Surrounded-Regions.py)
@@ -593,7 +594,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
@@ -601,6 +602,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum: [Python3](./Python3/LC-1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum.py)
 - (Medium) LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K: [Python3](./Python3/LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.py)
 - (-Easy-) LC-1417-Reformat-The-String: [Python3](./Python3/LC-1417-Reformat-The-String.py)
+- (-Easy-) LC-1422-Maximum-Score-After-Splitting-a-String: [Python3](./Python3/LC-1422-Maximum-Score-After-Splitting-a-String.py)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
 - (Medium) LC-1447-Simplified-Fractions: [Python3](./Python3/LC-1447-Simplified-Fractions.py)
 - (Medium) LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K: [Python3](./Python3/LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K.py)
