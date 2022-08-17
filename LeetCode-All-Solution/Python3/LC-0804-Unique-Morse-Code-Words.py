@@ -62,6 +62,10 @@ class Solution:
         return self._uniqueMorseRepresentations(words)
 
     def _uniqueMorseRepresentations(self, words: List[str]) -> int:
+        """
+        Runtime: 35 ms, faster than 95.85% of Python3 online submissions for Unique Morse Code Words.
+        Memory Usage: 13.9 MB, less than 24.27% of Python3 online submissions for Unique Morse Code Words.
+        """
         len_words = len(words)
         assert len_words >= 1
 
