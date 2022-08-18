@@ -553,7 +553,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -561,6 +561,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1219-Path-with-Maximum-Gold: [Python3](./Python3/LC-1219-Path-with-Maximum-Gold.py)
 - (-Easy-) LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position: [Python3](./Python3/LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position.py)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
+- (-Hard-) LC-1224-Maximum-Equal-Frequency: [Python3](./Python3/LC-1224-Maximum-Equal-Frequency.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
 - (-Easy-) LC-1252-Cells-with-Odd-Values-in-a-Matrix: [Python3](./Python3/LC-1252-Cells-with-Odd-Values-in-a-Matrix.py)
 - (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
@@ -574,13 +575,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
 - (-Easy-) LC-1331-Rank-Transform-of-an-Array: [Python3](./Python3/LC-1331-Rank-Transform-of-an-Array.py)
 - (-Easy-) LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
 - (-Easy-) LC-1337-The-K-Weakest-Rows-in-a-Matrix: [Python3](./Python3/LC-1337-The-K-Weakest-Rows-in-a-Matrix.py)
+- (Medium) LC-1338-Reduce-Array-Size-to-The-Half: [Python3](./Python3/LC-1338-Reduce-Array-Size-to-The-Half.py)
 - (-Easy-) LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero: [Python3](./Python3/LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
 - (-Hard-) LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
 - (-Hard-) LC-1354-Construct-Target-Array-With-Multiple-Sums: [Python3](./Python3/LC-1354-Construct-Target-Array-With-Multiple-Sums.py)
