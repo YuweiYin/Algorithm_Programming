@@ -342,7 +342,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -357,6 +357,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0647-Palindromic-Substrings: [Python3](./Python3/LC-0647-Palindromic-Substrings.py)
 - (Medium) LC-0648-Replace-Words: [Python3](./Python3/LC-0648-Replace-Words.py)
 - (-Easy-) LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](./Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
+- (Medium) LC-0659-Split-Array-into-Consecutive-Subsequences: [Python3](./Python3/LC-0659-Split-Array-into-Consecutive-Subsequences.py)
 - (-Easy-) LC-0661-Image-Smoother: [Python3](./Python3/LC-0661-Image-Smoother.py)
 - (Medium) LC-0662-Maximum-Width-of-Binary-Tree: [Python3](./Python3/LC-0662-Maximum-Width-of-Binary-Tree.py)
 - (Medium) LC-0665-Non-decreasing-Array: [Python3](./Python3/LC-0665-Non-decreasing-Array.py)
@@ -597,7 +598,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
@@ -608,6 +609,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1422-Maximum-Score-After-Splitting-a-String: [Python3](./Python3/LC-1422-Maximum-Score-After-Splitting-a-String.py)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
 - (Medium) LC-1447-Simplified-Fractions: [Python3](./Python3/LC-1447-Simplified-Fractions.py)
+- (-Easy-) LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time: [Python3](./Python3/LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time.py)
 - (Medium) LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K: [Python3](./Python3/LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K.py)
 - (-Hard-) LC-1463-Cherry-Pickup-II: [Python3](./Python3/LC-1463-Cherry-Pickup-II.py)
 - (Medium) LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts: [Python3](./Python3/LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts.py)
