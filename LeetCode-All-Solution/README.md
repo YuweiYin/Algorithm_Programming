@@ -205,7 +205,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (39/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -221,6 +221,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
 - (-Easy-) LC-0338-Counting-Bits: [Python3](./Python3/LC-0338-Counting-Bits.py)
 - (Medium) LC-0341-Flatten-Nested-List-Iterator: [Python3](./Python3/LC-0341-Flatten-Nested-List-Iterator.py)
+- (-Easy-) LC-0342-Power-of-Four: [Python3](./Python3/LC-0342-Power-of-Four.py)
 - (Medium) LC-0343-Integer-Break: [Python3](./Python3/LC-0343-Integer-Break.py)
 - (-Easy-) LC-0344-Reverse-String: [Python3](./Python3/LC-0344-Reverse-String.py)
 - (Medium) LC-0347-Top-K-Frequent-Elements: [Python3](./Python3/LC-0347-Top-K-Frequent-Elements.py)
@@ -342,7 +343,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -358,6 +359,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0648-Replace-Words: [Python3](./Python3/LC-0648-Replace-Words.py)
 - (-Easy-) LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](./Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
 - (Medium) LC-0654-Maximum-Binary-Tree: [Python3](./Python3/LC-0654-Maximum-Binary-Tree.py)
+- (Medium) LC-0655-Print-Binary-Tree: [Python3](./Python3/LC-0655-Print-Binary-Tree.py)
 - (Medium) LC-0659-Split-Array-into-Consecutive-Subsequences: [Python3](./Python3/LC-0659-Split-Array-into-Consecutive-Subsequences.py)
 - (-Easy-) LC-0661-Image-Smoother: [Python3](./Python3/LC-0661-Image-Smoother.py)
 - (Medium) LC-0662-Maximum-Width-of-Binary-Tree: [Python3](./Python3/LC-0662-Maximum-Width-of-Binary-Tree.py)
