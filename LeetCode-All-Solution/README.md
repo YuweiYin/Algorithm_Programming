@@ -159,7 +159,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (39/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -181,6 +181,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0230-Kth-Smallest-Element-in-a-BST: [Python3](./Python3/LC-0230-Kth-Smallest-Element-in-a-BST.py)
 - (-Easy-) LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
 - (-Easy-) LC-0232-Implement-Queue-using-Stacks: [Python3](./Python3/LC-0232-Implement-Queue-using-Stacks.py)
+- (-Easy-) LC-0234-Palindrome-Linked-List: [Python3](./Python3/LC-0234-Palindrome-Linked-List.py)
 - (-Easy-) LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree: [Python3](./Python3/LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree.py)
 - (Medium) LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree: [Python3](./Python3/LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree.py)
 - (Medium) LC-0238-Product-of-Array-Except-Self: [Python3](./Python3/LC-0238-Product-of-Array-Except-Self.py)
@@ -383,7 +384,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (42/100)</summary>
+<summary>Solution List (43/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -420,6 +421,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0763-Partition-Labels: [Python3](./Python3/LC-0763-Partition-Labels.py)
 - (-Hard-) LC-0768-Max-Chunks-To-Make-Sorted-II: [Python3](./Python3/LC-0768-Max-Chunks-To-Make-Sorted-II.py)
 - (-Hard-) LC-0780-Reaching-Points: [Python3](./Python3/LC-0780-Reaching-Points.py)
+- (-Hard-) LC-0782-Transform-to-Chessboard: [Python3](./Python3/LC-0782-Transform-to-Chessboard.py)
 - (Medium) LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
 - (Medium) LC-0785-Is-Graph-Bipartite: [Python3](./Python3/LC-0785-Is-Graph-Bipartite.py)
 - (Medium) LC-0792-Number-of-Matching-Subsequences: [Python3](./Python3/LC-0792-Number-of-Matching-Subsequences.py)
