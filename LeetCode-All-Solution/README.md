@@ -437,7 +437,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
@@ -458,6 +458,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0858-Mirror-Reflection: [Python3](./Python3/LC-0858-Mirror-Reflection.py)
 - (-Easy-) LC-0868-Binary-Gap: [Python3](./Python3/LC-0868-Binary-Gap.py)
 - (-Easy-) LC-0867-Transpose-Matrix: [Python3](./Python3/LC-0867-Transpose-Matrix.py)
+- (Medium) LC-0869-Reordered-Power-of-2: [Python3](./Python3/LC-0869-Reordered-Power-of-2.py)
 - (-Hard-) LC-0871-Minimum-Number-of-Refueling-Stops: [Python3](./Python3/LC-0871-Minimum-Number-of-Refueling-Stops.py)
 - (Medium) LC-0873-Length-of-Longest-Fibonacci-Subsequence: [Python3](./Python3/LC-0873-Length-of-Longest-Fibonacci-Subsequence.py)
 - (Medium) LC-0875-Koko-Eating-Bananas: [Python3](./Python3/LC-0875-Koko-Eating-Bananas.py)
@@ -606,7 +607,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
@@ -622,6 +623,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays: [Python3](./Python3/LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays.py)
 - (Medium) LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K: [Python3](./Python3/LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K.py)
 - (-Hard-) LC-1463-Cherry-Pickup-II: [Python3](./Python3/LC-1463-Cherry-Pickup-II.py)
+- (-Easy-) LC-1464-Maximum-Product-of-Two-Elements-in-an-Array: [Python3](./Python3/LC-1464-Maximum-Product-of-Two-Elements-in-an-Array.py)
 - (Medium) LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts: [Python3](./Python3/LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts.py)
 - (-Hard-) LC-1473-Paint-House-III: [Python3](./Python3/LC-1473-Paint-House-III.py)
 - (-Easy-) LC-1480-Running-Sum-of-1d-Array: [Python3](./Python3/LC-1480-Running-Sum-of-1d-Array.py)
