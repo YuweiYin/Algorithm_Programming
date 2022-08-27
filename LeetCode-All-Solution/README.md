@@ -206,7 +206,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (42/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -230,6 +230,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0350-Intersection-of-Two-Arrays-II: [Python3](./Python3/LC-0350-Intersection-of-Two-Arrays-II.py)
 - (-Hard-) LC-0354-Russian-Doll-Envelopes: [Python3](./Python3/LC-0354-Russian-Doll-Envelopes.py)
 - (Medium) LC-0357-Count-Numbers-with-Unique-Digits: [Python3](./Python3/LC-0357-Count-Numbers-with-Unique-Digits.py)
+- (-Hard-) LC-0363-Max-Sum-of-Rectangle-No-Larger-Than-K: [Python3](./Python3/LC-0363-Max-Sum-of-Rectangle-No-Larger-Than-K.py)
 - (Medium) LC-0373-Find-K-Pairs-with-Smallest-Sums: [Python3](./Python3/LC-0373-Find-K-Pairs-with-Smallest-Sums.py)
 - (Medium) LC-0376-Wiggle-Subsequence: [Python3](./Python3/LC-0376-Wiggle-Subsequence.py)
 - (Medium) LC-0377-Combination-Sum-IV: [Python3](./Python3/LC-0377-Combination-Sum-IV.py)
