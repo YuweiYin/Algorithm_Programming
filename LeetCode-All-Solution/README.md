@@ -387,7 +387,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (43/100)</summary>
+<summary>Solution List (44/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -428,6 +428,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
 - (Medium) LC-0785-Is-Graph-Bipartite: [Python3](./Python3/LC-0785-Is-Graph-Bipartite.py)
 - (Medium) LC-0792-Number-of-Matching-Subsequences: [Python3](./Python3/LC-0792-Number-of-Matching-Subsequences.py)
+- (-Hard-) LC-0793-Preimage-Size-of-Factorial-Zeroes-Function: [Python3](./Python3/LC-0793-Preimage-Size-of-Factorial-Zeroes-Function.py)
 - (-Easy-) LC-0796-Rotate-String: [Python3](./Python3/LC-0796-Rotate-String.py)
 - (Medium) LC-0797-All-Paths-From-Source-to-Target: [Python3](./Python3/LC-0797-All-Paths-From-Source-to-Target.py)
 - (-Hard-) LC-0798-Smallest-Rotation-with-Highest-Score: [Python3](./Python3/LC-0798-Smallest-Rotation-with-Highest-Score.py)
@@ -586,10 +587,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (16/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
+- (Medium) LC-1329-Sort-the-Matrix-Diagonally: [Python3](./Python3/LC-1329-Sort-the-Matrix-Diagonally.py)
 - (-Easy-) LC-1331-Rank-Transform-of-an-Array: [Python3](./Python3/LC-1331-Rank-Transform-of-an-Array.py)
 - (-Easy-) LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
 - (-Easy-) LC-1337-The-K-Weakest-Rows-in-a-Matrix: [Python3](./Python3/LC-1337-The-K-Weakest-Rows-in-a-Matrix.py)
