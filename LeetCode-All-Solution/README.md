@@ -478,7 +478,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -511,6 +511,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0991-Broken-Calculator: [Python3](./Python3/LC-0991-Broken-Calculator.py)
 - (Medium) LC-0994-Rotting-Oranges: [Python3](./Python3/LC-0994-Rotting-Oranges.py)
 - (-Easy-) LC-0997-Find-the-Town-Judge: [Python3](./Python3/LC-0997-Find-the-Town-Judge.py)
+- (Medium) LC-0998-Maximum-Binary-Tree-II: [Python3](./Python3/LC-0998-Maximum-Binary-Tree-II.py)
 
 </details>
 

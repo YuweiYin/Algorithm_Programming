@@ -51,6 +51,10 @@ class Solution:
         self._rotate(matrix)
 
     def _rotate(self, matrix: List[List[int]]) -> None:
+        """
+        Runtime: 50 ms, faster than 64.22% of Python3 online submissions for Rotate Image.
+        Memory Usage: 13.7 MB, less than 98.34% of Python3 online submissions for Rotate Image.
+        """
         n = len(matrix)
         assert n > 0
         if n == 1:
