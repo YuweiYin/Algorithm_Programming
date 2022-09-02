@@ -347,7 +347,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -357,6 +357,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0629-K-Inverse-Pairs-Array: [Python3](./Python3/LC-0629-K-Inverse-Pairs-Array.py)
 - (-Hard-) LC-0630-Course-Schedule-III: [Python3](./Python3/LC-0630-Course-Schedule-III.py)
 - (Medium) LC-0636-Exclusive-Time-of-Functions: [Python3](./Python3/LC-0636-Exclusive-Time-of-Functions.py)
+- (-Easy-) LC-0637-Average-of-Levels-in-Binary-Tree: [Python3](./Python3/LC-0637-Average-of-Levels-in-Binary-Tree.py)
 - (Medium) LC-0640-Solve-the-Equation: [Python3](./Python3/LC-0640-Solve-the-Equation.py)
 - (Medium) LC-0641-Design-Circular-Deque: [Python3](./Python3/LC-0641-Design-Circular-Deque.py)
 - (Medium) LC-0647-Palindromic-Substrings: [Python3](./Python3/LC-0647-Palindromic-Substrings.py)
@@ -376,6 +377,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0676-Implement-Magic-Dictionary: [Python3](./Python3/LC-0676-Implement-Magic-Dictionary.py)
 - (-Easy-) LC-0680-Valid-Palindrome-II: [Python3](./Python3/LC-0680-Valid-Palindrome-II.py)
 - (-Easy-) LC-0682-Baseball-Game: [Python3](./Python3/LC-0682-Baseball-Game.py)
+- (Medium) LC-0687-Longest-Univalue-Path: [Python3](./Python3/LC-0687-Longest-Univalue-Path.py)
 - (Medium) LC-0688-Knight-Probability-in-Chessboard: [Python3](./Python3/LC-0688-Knight-Probability-in-Chessboard.py)
 - (-Hard-) LC-0691-Stickers-to-Spell-Word: [Python3](./Python3/LC-0691-Stickers-to-Spell-Word.py)
 - (-Easy-) LC-0693-Binary-Number-with-Alternating-Bits: [Python3](./Python3/LC-0693-Binary-Number-with-Alternating-Bits.py)
