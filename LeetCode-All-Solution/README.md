@@ -347,7 +347,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (35/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -360,6 +360,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0637-Average-of-Levels-in-Binary-Tree: [Python3](./Python3/LC-0637-Average-of-Levels-in-Binary-Tree.py)
 - (Medium) LC-0640-Solve-the-Equation: [Python3](./Python3/LC-0640-Solve-the-Equation.py)
 - (Medium) LC-0641-Design-Circular-Deque: [Python3](./Python3/LC-0641-Design-Circular-Deque.py)
+- (Medium) LC-0646-Maximum-Length-of-Pair-Chain: [Python3](./Python3/LC-0646-Maximum-Length-of-Pair-Chain.py)
 - (Medium) LC-0647-Palindromic-Substrings: [Python3](./Python3/LC-0647-Palindromic-Substrings.py)
 - (Medium) LC-0648-Replace-Words: [Python3](./Python3/LC-0648-Replace-Words.py)
 - (-Easy-) LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](./Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
@@ -481,7 +482,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -506,6 +507,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0954-Array-of-Doubled-Pairs: [Python3](./Python3/LC-0954-Array-of-Doubled-Pairs.py)
 - (-Easy-) LC-0961-N-Repeated-Element-in-Size-2N-Array: [Python3](./Python3/LC-0961-N-Repeated-Element-in-Size-2N-Array.py)
 - (-Easy-) LC-0965-Univalued-Binary-Tree: [Python3](./Python3/LC-0965-Univalued-Binary-Tree.py)
+- (Medium) LC-0967-Numbers-With-Same-Consecutive-Differences: [Python3](./Python3/LC-0967-Numbers-With-Same-Consecutive-Differences.py)
 - (-Hard-) LC-0968-Binary-Tree-Cameras: [Python3](./Python3/LC-0968-Binary-Tree-Cameras.py)
 - (Medium) LC-0969-Pancake-Sorting: [Python3](./Python3/LC-0969-Pancake-Sorting.py)
 - (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](./Python3/LC-0973-K-Closest-Points-to-Origin.py)
