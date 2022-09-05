@@ -347,7 +347,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -363,6 +363,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0646-Maximum-Length-of-Pair-Chain: [Python3](./Python3/LC-0646-Maximum-Length-of-Pair-Chain.py)
 - (Medium) LC-0647-Palindromic-Substrings: [Python3](./Python3/LC-0647-Palindromic-Substrings.py)
 - (Medium) LC-0648-Replace-Words: [Python3](./Python3/LC-0648-Replace-Words.py)
+- (Medium) LC-0652-Find-Duplicate-Subtrees: [Python3](./Python3/LC-0652-Find-Duplicate-Subtrees.py)
 - (-Easy-) LC-0653-Two-Sum-IV-Input-is-a-BST: [Python3](./Python3/LC-0653-Two-Sum-IV-Input-is-a-BST.py)
 - (Medium) LC-0654-Maximum-Binary-Tree: [Python3](./Python3/LC-0654-Maximum-Binary-Tree.py)
 - (Medium) LC-0655-Print-Binary-Tree: [Python3](./Python3/LC-0655-Print-Binary-Tree.py)
