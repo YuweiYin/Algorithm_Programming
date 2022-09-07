@@ -648,7 +648,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (6/100)</summary>
+<summary>Solution List (7/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
@@ -656,6 +656,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
 - (-Easy-) LC-1582-Special-Positions-in-a-Binary-Matrix: [Python3](./Python3/LC-1582-Special-Positions-in-a-Binary-Matrix.py)
 - (Medium) LC-1584-Min-Cost-to-Connect-All-Points: [Python3](./Python3/LC-1584-Min-Cost-to-Connect-All-Points.py)
+- (-Easy-) LC-1592-Rearrange-Spaces-Between-Words: [Python3](./Python3/LC-1592-Rearrange-Spaces-Between-Words.py)
 
 </details>
 
