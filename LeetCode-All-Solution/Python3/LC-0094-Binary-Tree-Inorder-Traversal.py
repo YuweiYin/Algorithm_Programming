@@ -114,6 +114,10 @@ class Solution:
         return self._inorderTraversal(root)
 
     def _inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        """
+        Runtime: 34 ms, faster than 88.55% of Python3 online submissions for Binary Tree Inorder Traversal.
+        Memory Usage: 13.8 MB, less than 60.15% of Python3 online submissions for Binary Tree Inorder Traversal.
+        """
         assert isinstance(root, TreeNode)
         res = []
 
