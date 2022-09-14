@@ -625,7 +625,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
@@ -639,6 +639,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1448-Count-Good-Nodes-in-Binary-Tree: [Python3](./Python3/LC-1448-Count-Good-Nodes-in-Binary-Tree.py)
 - (-Easy-) LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time: [Python3](./Python3/LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time.py)
 - (-Easy-) LC-1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence: [Python3](./Python3/LC-1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence.py)
+- (Medium) LC-1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree: [Python3](./Python3/LC-1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree.py)
 - (-Easy-) LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays: [Python3](./Python3/LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays.py)
 - (Medium) LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K: [Python3](./Python3/LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K.py)
 - (-Hard-) LC-1463-Cherry-Pickup-II: [Python3](./Python3/LC-1463-Cherry-Pickup-II.py)
@@ -670,12 +671,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
 - (-Easy-) LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X: [Python3](./Python3/LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X.py)
 - (-Easy-) LC-1614-Maximum-Nesting-Depth-of-the-Parentheses: [Python3](./Python3/LC-1614-Maximum-Nesting-Depth-of-the-Parentheses.py)
+- (-Easy-) LC-1619-Mean-of-Array-After-Removing-Some-Elements: [Python3](./Python3/LC-1619-Mean-of-Array-After-Removing-Some-Elements.py)
 - (-Easy-) LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
 - (Medium) LC-1641-Count-Sorted-Vowel-Strings: [Python3](./Python3/LC-1641-Count-Sorted-Vowel-Strings.py)
