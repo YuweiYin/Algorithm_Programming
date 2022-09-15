@@ -348,7 +348,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (39/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -377,6 +377,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0668-Kth-Smallest-Number-in-Multiplication-Table: [Python3](./Python3/LC-0668-Kth-Smallest-Number-in-Multiplication-Table.py)
 - (Medium) LC-0669-Trim-a-Binary-Search-Tree: [Python3](./Python3/LC-0669-Trim-a-Binary-Search-Tree.py)
 - (Medium) LC-0670-Maximum-Swap: [Python3](./Python3/LC-0670-Maximum-Swap.py)
+- (Medium) LC-0672-Bulb-Switcher-II: [Python3](./Python3/LC-0672-Bulb-Switcher-II.py)
 - (Medium) LC-0673-Number-of-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0673-Number-of-Longest-Increasing-Subsequence.py)
 - (-Hard-) LC-0675-Cut-Off-Trees-for-Golf-Event: [Python3](./Python3/LC-0675-Cut-Off-Trees-for-Golf-Event.py)
 - (Medium) LC-0676-Implement-Magic-Dictionary: [Python3](./Python3/LC-0676-Implement-Magic-Dictionary.py)
@@ -739,9 +740,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
+- (Medium) LC-2007-Find-Original-Array-From-Doubled-Array: [Python3](./Python3/LC-2007-Find-Original-Array-From-Doubled-Array.py)
 - (Medium) LC-2013-Detect-Squares: [Python3](./Python3/LC-2013-Detect-Squares.py)
 - (-Easy-) LC-2016-Maximum-Difference-Between-Increasing-Elements: [Python3](./Python3/LC-2016-Maximum-Difference-Between-Increasing-Elements.py)
 - (-Easy-) LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
