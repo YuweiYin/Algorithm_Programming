@@ -448,7 +448,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
@@ -466,6 +466,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
 - (-Hard-) LC-0847-Shortest-Path-Visiting-All-Nodes: [Python3](./Python3/LC-0847-Shortest-Path-Visiting-All-Nodes.py)
 - (Medium) LC-0849-Maximize-Distance-to-Closest-Person: [Python3](./Python3/LC-0849-Maximize-Distance-to-Closest-Person.py)
+- (-Hard-) LC-0850-Rectangle-Area-II: [Python3](./Python3/LC-0850-Rectangle-Area-II.py)
 - (Medium) LC-0856-Score-of-Parentheses: [Python3](./Python3/LC-0856-Score-of-Parentheses.py)
 - (-Hard-) LC-0857-Minimum-Cost-to-Hire-K-Workers: [Python3](./Python3/LC-0857-Minimum-Cost-to-Hire-K-Workers.py)
 - (Medium) LC-0858-Mirror-Reflection: [Python3](./Python3/LC-0858-Mirror-Reflection.py)
@@ -700,7 +701,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
 - (-Easy-) LC-1710-Maximum-Units-on-a-Truck: [Python3](./Python3/LC-1710-Maximum-Units-on-a-Truck.py)
@@ -712,6 +713,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
+- (Medium) LC-1770-Maximum-Score-from-Performing-Multiplication-Operations: [Python3](./Python3/LC-1770-Maximum-Score-from-Performing-Multiplication-Operations.py)
 - (-Easy-) LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
 
 </details>
