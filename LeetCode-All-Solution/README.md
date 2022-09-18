@@ -449,7 +449,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
@@ -460,6 +460,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0821-Shortest-Distance-to-a-Character: [Python3](./Python3/LC-0821-Shortest-Distance-to-a-Character.py)
 - (Medium) LC-0823-Binary-Trees-With-Factors: [Python3](./Python3/LC-0823-Binary-Trees-With-Factors.py)
 - (-Easy-) LC-0824-Goat-Latin: [Python3](./Python3/LC-0824-Goat-Latin.py)
+- (-Hard-) LC-0827-Making-A-Large-Island: [Python3](./Python3/LC-0827-Making-A-Large-Island.py)
 - (-Hard-) LC-0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String: [Python3](./Python3/LC-0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String.py)
 - (-Hard-) LC-0829-Consecutive-Numbers-Sum: [Python3](./Python3/LC-0829-Consecutive-Numbers-Sum.py)
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
