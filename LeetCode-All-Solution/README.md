@@ -349,10 +349,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (40/100)</summary>
+<summary>Solution List (41/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
+- (Medium) LC-0609-Find-Duplicate-File-in-System: [Python3](./Python3/LC-0609-Find-Duplicate-File-in-System.py)
 - (-Easy-) LC-0617-Merge-Two-Binary-Trees: [Python3](./Python3/LC-0617-Merge-Two-Binary-Trees.py)
 - (Medium) LC-0622-Design-Circular-Queue: [Python3](./Python3/LC-0622-Design-Circular-Queue.py)
 - (Medium) LC-0623-Add-One-Row-to-Tree: [Python3](./Python3/LC-0623-Add-One-Row-to-Tree.py)
@@ -675,7 +676,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -685,6 +686,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1624-Largest-Substring-Between-Two-Equal-Characters: [Python3](./Python3/LC-1624-Largest-Substring-Between-Two-Equal-Characters.py)
 - (-Easy-) LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
+- (-Easy-) LC-1636-Sort-Array-by-Increasing-Frequency: [Python3](./Python3/LC-1636-Sort-Array-by-Increasing-Frequency.py)
 - (Medium) LC-1641-Count-Sorted-Vowel-Strings: [Python3](./Python3/LC-1641-Count-Sorted-Vowel-Strings.py)
 - (Medium) LC-1642-Furthest-Building-You-Can-Reach: [Python3](./Python3/LC-1642-Furthest-Building-You-Can-Reach.py)
 - (Medium) LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique: [Python3](./Python3/LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique.py)
