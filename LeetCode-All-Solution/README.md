@@ -349,7 +349,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (42/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -390,6 +390,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0691-Stickers-to-Spell-Word: [Python3](./Python3/LC-0691-Stickers-to-Spell-Word.py)
 - (-Easy-) LC-0693-Binary-Number-with-Alternating-Bits: [Python3](./Python3/LC-0693-Binary-Number-with-Alternating-Bits.py)
 - (Medium) LC-0695-Max-Area-of-Island: [Python3](./Python3/LC-0695-Max-Area-of-Island.py)
+- (Medium) LC-0698-Partition-to-K-Equal-Sum-Subsets: [Python3](./Python3/LC-0698-Partition-to-K-Equal-Sum-Subsets.py)
 - (-Hard-) LC-0699-Falling-Squares: [Python3](./Python3/LC-0699-Falling-Squares.py)
 - (-Easy-) LC-0700-Search-in-a-Binary-Search-Tree: [Python3](./Python3/LC-0700-Search-in-a-Binary-Search-Tree.py)
 
@@ -398,7 +399,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (44/100)</summary>
+<summary>Solution List (45/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -411,6 +412,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee: [Python3](./Python3/LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.py)
 - (-Hard-) LC-0715-Range-Module: [Python3](./Python3/LC-0715-Range-Module.py)
 - (-Easy-) LC-0717-1-bit-and-2-bit-Characters: [Python3](./Python3/LC-0717-1-bit-and-2-bit-Characters.py)
+- (Medium) LC-0718-Maximum-Length-of-Repeated-Subarray: [Python3](./Python3/LC-0718-Maximum-Length-of-Repeated-Subarray.py)
 - (-Hard-) LC-0719-Find-K-th-Smallest-Pair-Distance: [Python3](./Python3/LC-0719-Find-K-th-Smallest-Pair-Distance.py)
 - (Medium) LC-0720-Longest-Word-in-Dictionary: [Python3](./Python3/LC-0720-Longest-Word-in-Dictionary.py)
 - (-Easy-) LC-0728-Self-Dividing-Numbers: [Python3](./Python3/LC-0728-Self-Dividing-Numbers.py)
