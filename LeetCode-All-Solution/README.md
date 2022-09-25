@@ -399,7 +399,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (45/100)</summary>
+<summary>Solution List (46/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -440,6 +440,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0782-Transform-to-Chessboard: [Python3](./Python3/LC-0782-Transform-to-Chessboard.py)
 - (Medium) LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
 - (Medium) LC-0785-Is-Graph-Bipartite: [Python3](./Python3/LC-0785-Is-Graph-Bipartite.py)
+- (Medium) LC-0788-Rotated-Digits: [Python3](./Python3/LC-0788-Rotated-Digits.py)
 - (Medium) LC-0792-Number-of-Matching-Subsequences: [Python3](./Python3/LC-0792-Number-of-Matching-Subsequences.py)
 - (-Hard-) LC-0793-Preimage-Size-of-Factorial-Zeroes-Function: [Python3](./Python3/LC-0793-Preimage-Size-of-Factorial-Zeroes-Function.py)
 - (-Easy-) LC-0796-Rotate-String: [Python3](./Python3/LC-0796-Rotate-String.py)

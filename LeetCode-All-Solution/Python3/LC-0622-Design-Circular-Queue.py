@@ -65,6 +65,10 @@ Constraints:
 
 
 class MyCircularQueue:
+    """
+    Runtime: 62 ms, faster than 99.49% of Python3 online submissions for Design Circular Queue.
+    Memory Usage: 14.7 MB, less than 21.40% of Python3 online submissions for Design Circular Queue.
+    """
 
     def __init__(self, k: int):
         self.front = self.rear = 0
