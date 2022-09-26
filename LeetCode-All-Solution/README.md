@@ -497,7 +497,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -531,6 +531,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0985-Sum-of-Even-Numbers-After-Queries: [Python3](./Python3/LC-0985-Sum-of-Even-Numbers-After-Queries.py)
 - (Medium) LC-0986-Interval-List-Intersections: [Python3](./Python3/LC-0986-Interval-List-Intersections.py)
 - (-Hard-) LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree: [Python3](./Python3/LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree.py)
+- (Medium) LC-0990-Satisfiability-of-Equality-Equations: [Python3](./Python3/LC-0990-Satisfiability-of-Equality-Equations.py)
 - (Medium) LC-0991-Broken-Calculator: [Python3](./Python3/LC-0991-Broken-Calculator.py)
 - (Medium) LC-0994-Rotting-Oranges: [Python3](./Python3/LC-0994-Rotting-Oranges.py)
 - (-Easy-) LC-0997-Find-the-Town-Judge: [Python3](./Python3/LC-0997-Find-the-Town-Judge.py)
@@ -799,11 +800,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode Other Types
 
 <details>
-<summary>INTERVIEW - Solution List (3/3)</summary>
+<summary>INTERVIEW - Solution List (4/4)</summary>
 
 - (Medium) LC-INTERVIEW-0105-One-Away-LCCI: [Python3](./Python3/LC-INTERVIEW-0105-One-Away-LCCI.py)
 - (Medium) LC-INTERVIEW-0406-Successor-LCCI: [Python3](./Python3/LC-INTERVIEW-0406-Successor-LCCI.py)
 - (Medium) LC-INTERVIEW-1711-Find-Closest-LCCI: [Python3](./Python3/LC-INTERVIEW-1711-Find-Closest-LCCI.py)
+- (-Hard-) LC-INTERVIEW-1719-Missing-Two-LCCI: [Python3](./Python3/LC-INTERVIEW-1719-Missing-Two-LCCI.py)
 
 </details>
 
