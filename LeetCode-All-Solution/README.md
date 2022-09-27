@@ -800,11 +800,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode Other Types
 
 <details>
-<summary>INTERVIEW - Solution List (4/4)</summary>
+<summary>INTERVIEW - Solution List (5/5)</summary>
 
+- (-Easy-) LC-INTERVIEW-0102-Check-Permutation-LCCI: [Python3](./Python3/LC-INTERVIEW-0102-Check-Permutation-LCCI.py)
 - (Medium) LC-INTERVIEW-0105-One-Away-LCCI: [Python3](./Python3/LC-INTERVIEW-0105-One-Away-LCCI.py)
 - (Medium) LC-INTERVIEW-0406-Successor-LCCI: [Python3](./Python3/LC-INTERVIEW-0406-Successor-LCCI.py)
-- (Medium) LC-INTERVIEW-1711-Find-Closest-LCCI: [Python3](./Python3/LC-INTERVIEW-1711-Find-Closest-LCCI.py)
+- (Medium) LC-INTERVIEW-1719-Missing-Two-Numbers: [Python3](./Python3/LC-INTERVIEW-1719-Missing-Two-Numbers.py)
 - (-Hard-) LC-INTERVIEW-1719-Missing-Two-LCCI: [Python3](./Python3/LC-INTERVIEW-1719-Missing-Two-LCCI.py)
 
 </details>
