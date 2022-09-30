@@ -161,7 +161,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (39/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -175,6 +175,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0215-Kth-Largest-Element-in-an-Array: [Python3](./Python3/LC-0215-Kth-Largest-Element-in-an-Array.py)
 - (Medium) LC-0216-Combination-Sum-III: [Python3](./Python3/LC-0216-Combination-Sum-III.py)
 - (-Easy-) LC-0217-Contains-Duplicate: [Python3](./Python3/LC-0217-Contains-Duplicate.py)
+- (-Hard-) LC-0218-The-Skyline-Problem: [Python3](./Python3/LC-0218-The-Skyline-Problem.py)
 - (-Easy-) LC-0219-Contains-Duplicate-II: [Python3](./Python3/LC-0219-Contains-Duplicate-II.py)
 - (Medium) LC-0221-Maximal-Square: [Python3](./Python3/LC-0221-Maximal-Square.py)
 - (-Easy-) LC-0225-Implement-Stack-using-Queues: [Python3](./Python3/LC-0225-Implement-Stack-using-Queues.py)
@@ -800,10 +801,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode Other Types
 
 <details>
-<summary>INTERVIEW - Solution List (7/7)</summary>
+<summary>INTERVIEW - Solution List (8/8)</summary>
 
 - (-Easy-) LC-INTERVIEW-0102-Check-Permutation-LCCI: [Python3](./Python3/LC-INTERVIEW-0102-Check-Permutation-LCCI.py)
 - (Medium) LC-INTERVIEW-0105-One-Away-LCCI: [Python3](./Python3/LC-INTERVIEW-0105-One-Away-LCCI.py)
+- (Medium) LC-INTERVIEW-0108-Zero-Matrix-LCCI: [Python3](./Python3/LC-INTERVIEW-0108-Zero-Matrix-LCCI.py)
 - (-Easy-) LC-INTERVIEW-0109-String-Rotation-LCCI: [Python3](./Python3/LC-INTERVIEW-0109-String-Rotation-LCCI.py)
 - (Medium) LC-INTERVIEW-0406-Successor-LCCI: [Python3](./Python3/LC-INTERVIEW-0406-Successor-LCCI.py)
 - (Medium) LC-INTERVIEW-1709-Get-Kth-Magic-Number-LCCI: [Python3](./Python3/LC-INTERVIEW-1709-Get-Kth-Magic-Number-LCCI.py)
