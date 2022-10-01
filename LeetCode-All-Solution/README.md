@@ -683,7 +683,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -708,6 +708,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1680-Concatenation-of-Consecutive-Binary-Numbers: [Python3](./Python3/LC-1680-Concatenation-of-Consecutive-Binary-Numbers.py)
 - (-Easy-) LC-1688-Count-of-Matches-in-Tournament: [Python3](./Python3/LC-1688-Count-of-Matches-in-Tournament.py)
 - (Medium) LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers: [Python3](./Python3/LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.py)
+- (-Easy-) LC-1694-Reformat-Phone-Number: [Python3](./Python3/LC-1694-Reformat-Phone-Number.py)
 - (Medium) LC-1695-Maximum-Erasure-Value: [Python3](./Python3/LC-1695-Maximum-Erasure-Value.py)
 - (Medium) LC-1696-Jump-Game-VI: [Python3](./Python3/LC-1696-Jump-Game-VI.py)
 
