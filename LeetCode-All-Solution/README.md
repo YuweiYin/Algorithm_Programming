@@ -499,7 +499,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -508,6 +508,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0917-Reverse-Only-Letters: [Python3](./Python3/LC-0917-Reverse-Only-Letters.py)
 - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](./Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
 - (Medium) LC-0919-Complete-Binary-Tree-Inserter: [Python3](./Python3/LC-0919-Complete-Binary-Tree-Inserter.py)
+- (Medium) LC-0921-Minimum-Add-to-Make-Parentheses-Valid: [Python3](./Python3/LC-0921-Minimum-Add-to-Make-Parentheses-Valid.py)
 - (Medium) LC-0923-3Sum-With-Multiplicity: [Python3](./Python3/LC-0923-3Sum-With-Multiplicity.py)
 - (Medium) LC-0926-Flip-String-to-Monotone-Increasing: [Python3](./Python3/LC-0926-Flip-String-to-Monotone-Increasing.py)
 - (-Easy-) LC-0929-Unique-Email-Addresses: [Python3](./Python3/LC-0929-Unique-Email-Addresses.py)
