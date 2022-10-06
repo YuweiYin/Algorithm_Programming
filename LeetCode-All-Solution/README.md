@@ -500,7 +500,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -512,6 +512,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0921-Minimum-Add-to-Make-Parentheses-Valid: [Python3](./Python3/LC-0921-Minimum-Add-to-Make-Parentheses-Valid.py)
 - (Medium) LC-0923-3Sum-With-Multiplicity: [Python3](./Python3/LC-0923-3Sum-With-Multiplicity.py)
 - (Medium) LC-0926-Flip-String-to-Monotone-Increasing: [Python3](./Python3/LC-0926-Flip-String-to-Monotone-Increasing.py)
+- (-Hard-) LC-0927-Three-Equal-Parts: [Python3](./Python3/LC-0927-Three-Equal-Parts.py)
 - (-Easy-) LC-0929-Unique-Email-Addresses: [Python3](./Python3/LC-0929-Unique-Email-Addresses.py)
 - (Medium) LC-0931-Minimum-Falling-Path-Sum: [Python3](./Python3/LC-0931-Minimum-Falling-Path-Sum.py)
 - (-Easy-) LC-0933-Number-of-Recent-Calls: [Python3](./Python3/LC-0933-Number-of-Recent-Calls.py)
@@ -532,6 +533,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0969-Pancake-Sorting: [Python3](./Python3/LC-0969-Pancake-Sorting.py)
 - (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](./Python3/LC-0973-K-Closest-Points-to-Origin.py)
 - (-Easy-) LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
+- (Medium) LC-0981-Time-Based-Key-Value-Store: [Python3](./Python3/LC-0981-Time-Based-Key-Value-Store.py)
 - (Medium) LC-0985-Sum-of-Even-Numbers-After-Queries: [Python3](./Python3/LC-0985-Sum-of-Even-Numbers-After-Queries.py)
 - (Medium) LC-0986-Interval-List-Intersections: [Python3](./Python3/LC-0986-Interval-List-Intersections.py)
 - (-Hard-) LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree: [Python3](./Python3/LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree.py)
