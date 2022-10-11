@@ -727,7 +727,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
 - (-Easy-) LC-1710-Maximum-Units-on-a-Truck: [Python3](./Python3/LC-1710-Maximum-Units-on-a-Truck.py)
@@ -741,6 +741,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
 - (Medium) LC-1770-Maximum-Score-from-Performing-Multiplication-Operations: [Python3](./Python3/LC-1770-Maximum-Score-from-Performing-Multiplication-Operations.py)
 - (-Easy-) LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones: [Python3](./Python3/LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)
+- (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
 - (-Easy-) LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
 - (-Easy-) LC-1800-Maximum-Ascending-Subarray-Sum: [Python3](./Python3/LC-1800-Maximum-Ascending-Subarray-Sum.py)
 

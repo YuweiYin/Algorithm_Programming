@@ -49,6 +49,10 @@ class Solution:
         return self._increasingTriplet(nums)
 
     def _increasingTriplet(self, nums: List[int]) -> bool:
+        """
+        Runtime: 695 ms, faster than 80.98% of Python3 online submissions for Increasing Triplet Subsequence.
+        Memory Usage: 24.7 MB, less than 18.64% of Python3 online submissions for Increasing Triplet Subsequence.
+        """
         len_nums = len(nums)
         assert len_nums > 3
 
