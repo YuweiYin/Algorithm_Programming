@@ -455,7 +455,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -463,6 +463,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0811-Subdomain-Visit-Count: [Python3](./Python3/LC-0811-Subdomain-Visit-Count.py)
 - (-Easy-) LC-0812-Largest-Triangle-Area: [Python3](./Python3/LC-0812-Largest-Triangle-Area.py)
 - (Medium) LC-0814-Binary-Tree-Pruning: [Python3](./Python3/LC-0814-Binary-Tree-Pruning.py)
+- (Medium) LC-0817-Linked-List-Components: [Python3](./Python3/LC-0817-Linked-List-Components.py)
 - (-Easy-) LC-0819-Most-Common-Word: [Python3](./Python3/LC-0819-Most-Common-Word.py)
 - (Medium) LC-0820-Short-Encoding-of-Words: [Python3](./Python3/LC-0820-Short-Encoding-of-Words.py)
 - (-Easy-) LC-0821-Shortest-Distance-to-a-Character: [Python3](./Python3/LC-0821-Shortest-Distance-to-a-Character.py)
@@ -502,7 +503,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (40/100)</summary>
+<summary>Solution List (41/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -534,6 +535,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0968-Binary-Tree-Cameras: [Python3](./Python3/LC-0968-Binary-Tree-Cameras.py)
 - (Medium) LC-0969-Pancake-Sorting: [Python3](./Python3/LC-0969-Pancake-Sorting.py)
 - (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](./Python3/LC-0973-K-Closest-Points-to-Origin.py)
+- (-Easy-) LC-0976-Largest-Perimeter-Triangle: [Python3](./Python3/LC-0976-Largest-Perimeter-Triangle.py)
 - (-Easy-) LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
 - (Medium) LC-0981-Time-Based-Key-Value-Store: [Python3](./Python3/LC-0981-Time-Based-Key-Value-Store.py)
 - (Medium) LC-0985-Sum-of-Even-Numbers-After-Queries: [Python3](./Python3/LC-0985-Sum-of-Even-Numbers-After-Queries.py)
