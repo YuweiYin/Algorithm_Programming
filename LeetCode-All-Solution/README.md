@@ -161,7 +161,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (40/100)</summary>
+<summary>Solution List (41/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -187,6 +187,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0234-Palindrome-Linked-List: [Python3](./Python3/LC-0234-Palindrome-Linked-List.py)
 - (-Easy-) LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree: [Python3](./Python3/LC-0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree.py)
 - (Medium) LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree: [Python3](./Python3/LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree.py)
+- (Medium) LC-0237-Delete-Node-in-a-Linked-List: [Python3](./Python3/LC-0237-Delete-Node-in-a-Linked-List.py)
 - (Medium) LC-0238-Product-of-Array-Except-Self: [Python3](./Python3/LC-0238-Product-of-Array-Except-Self.py)
 - (Medium) LC-0240-Search-a-2D-Matrix-II: [Python3](./Python3/LC-0240-Search-a-2D-Matrix-II.py)
 - (Medium) LC-0241-Different-Ways-to-Add-Parentheses: [Python3](./Python3/LC-0241-Different-Ways-to-Add-Parentheses.py)
@@ -400,7 +401,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (47/100)</summary>
+<summary>Solution List (48/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -437,6 +438,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation: [Python3](./Python3/LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation.py)
 - (Medium) LC-0763-Partition-Labels: [Python3](./Python3/LC-0763-Partition-Labels.py)
 - (-Hard-) LC-0768-Max-Chunks-To-Make-Sorted-II: [Python3](./Python3/LC-0768-Max-Chunks-To-Make-Sorted-II.py)
+- (Medium) LC-0769-Max-Chunks-To-Make-Sorted: [Python3](./Python3/LC-0769-Max-Chunks-To-Make-Sorted.py)
 - (Medium) LC-0777-Swap-Adjacent-in-LR-String: [Python3](./Python3/LC-0777-Swap-Adjacent-in-LR-String.py)
 - (-Hard-) LC-0780-Reaching-Points: [Python3](./Python3/LC-0780-Reaching-Points.py)
 - (-Hard-) LC-0782-Transform-to-Chessboard: [Python3](./Python3/LC-0782-Transform-to-Chessboard.py)
