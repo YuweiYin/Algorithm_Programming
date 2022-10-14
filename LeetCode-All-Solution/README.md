@@ -505,7 +505,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (42/100)</summary>
 
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
@@ -523,6 +523,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0933-Number-of-Recent-Calls: [Python3](./Python3/LC-0933-Number-of-Recent-Calls.py)
 - (-Hard-) LC-0936-Stamping-The-Sequence: [Python3](./Python3/LC-0936-Stamping-The-Sequence.py)
 - (-Easy-) LC-0937-Reorder-Data-in-Log-Files: [Python3](./Python3/LC-0937-Reorder-Data-in-Log-Files.py)
+- (-Hard-) LC-0940-Distinct-Subsequences-II: [Python3](./Python3/LC-0940-Distinct-Subsequences-II.py)
 - (-Easy-) LC-0941-Valid-Mountain-Array: [Python3](./Python3/LC-0941-Valid-Mountain-Array.py)
 - (-Easy-) LC-0942-DI-String-Match: [Python3](./Python3/LC-0942-DI-String-Match.py)
 - (-Easy-) LC-0944-Delete-Columns-to-Make-Sorted: [Python3](./Python3/LC-0944-Delete-Columns-to-Make-Sorted.py)
@@ -775,7 +776,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2007-Find-Original-Array-From-Doubled-Array: [Python3](./Python3/LC-2007-Find-Original-Array-From-Doubled-Array.py)
@@ -794,6 +795,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2047-Number-of-Valid-Words-in-a-Sentence: [Python3](./Python3/LC-2047-Number-of-Valid-Words-in-a-Sentence.py)
 - (Medium) LC-2049-Count-Nodes-With-the-Highest-Score: [Python3](./Python3/LC-2049-Count-Nodes-With-the-Highest-Score.py)
 - (Medium) LC-2055-Plates-Between-Candles: [Python3](./Python3/LC-2055-Plates-Between-Candles.py)
+- (Medium) LC-2095-Delete-the-Middle-Node-of-a-Linked-List: [Python3](./Python3/LC-2095-Delete-the-Middle-Node-of-a-Linked-List.py)
 - (Medium) LC-2100-Find-Good-Days-to-Rob-the-Bank: [Python3](./Python3/LC-2100-Find-Good-Days-to-Rob-the-Bank.py)
 
 </details>
