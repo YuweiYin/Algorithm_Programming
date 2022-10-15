@@ -651,7 +651,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
@@ -661,6 +661,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1417-Reformat-The-String: [Python3](./Python3/LC-1417-Reformat-The-String.py)
 - (-Easy-) LC-1422-Maximum-Score-After-Splitting-a-String: [Python3](./Python3/LC-1422-Maximum-Score-After-Splitting-a-String.py)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
+- (Medium) LC-1441-Build-an-Array-With-Stack-Operations: [Python3](./Python3/LC-1441-Build-an-Array-With-Stack-Operations.py)
 - (Medium) LC-1447-Simplified-Fractions: [Python3](./Python3/LC-1447-Simplified-Fractions.py)
 - (Medium) LC-1448-Count-Good-Nodes-in-Binary-Tree: [Python3](./Python3/LC-1448-Count-Good-Nodes-in-Binary-Tree.py)
 - (-Easy-) LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time: [Python3](./Python3/LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time.py)
@@ -681,9 +682,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
+- (-Hard-) LC-1531-String-Compression-II: [Python3](./Python3/LC-1531-String-Compression-II.py)
 - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
 - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](./Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
 - (-Easy-) LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
