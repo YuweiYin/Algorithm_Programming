@@ -457,7 +457,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -495,6 +495,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0881-Boats-to-Save-People: [Python3](./Python3/LC-0881-Boats-to-Save-People.py)
 - (-Easy-) LC-0883-Projection-Area-of-3D-Shapes: [Python3](./Python3/LC-0883-Projection-Area-of-3D-Shapes.py)
 - (-Easy-) LC-0884-Uncommon-Words-from-Two-Sentences: [Python3](./Python3/LC-0884-Uncommon-Words-from-Two-Sentences.py)
+- (Medium) LC-0886-Possible-Bipartition: [Python3](./Python3/LC-0886-Possible-Bipartition.py)
 - (Medium) LC-0890-Find-and-Replace-Pattern: [Python3](./Python3/LC-0890-Find-and-Replace-Pattern.py)
 - (-Hard-) LC-0895-Maximum-Frequency-Stack: [Python3](./Python3/LC-0895-Maximum-Frequency-Stack.py)
 - (-Easy-) LC-0897-Increasing-Order-Search-Tree: [Python3](./Python3/LC-0897-Increasing-Order-Search-Tree.py)
@@ -626,7 +627,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -634,6 +635,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1329-Sort-the-Matrix-Diagonally: [Python3](./Python3/LC-1329-Sort-the-Matrix-Diagonally.py)
 - (-Easy-) LC-1331-Rank-Transform-of-an-Array: [Python3](./Python3/LC-1331-Rank-Transform-of-an-Array.py)
 - (-Easy-) LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
+- (Medium) LC-1335-Minimum-Difficulty-of-a-Job-Schedule: [Python3](./Python3/LC-1335-Minimum-Difficulty-of-a-Job-Schedule.py)
 - (-Easy-) LC-1337-The-K-Weakest-Rows-in-a-Matrix: [Python3](./Python3/LC-1337-The-K-Weakest-Rows-in-a-Matrix.py)
 - (Medium) LC-1338-Reduce-Array-Size-to-The-Half: [Python3](./Python3/LC-1338-Reduce-Array-Size-to-The-Half.py)
 - (-Easy-) LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero: [Python3](./Python3/LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
