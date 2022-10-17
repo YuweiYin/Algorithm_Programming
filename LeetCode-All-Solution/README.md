@@ -506,8 +506,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (42/100)</summary>
+<summary>Solution List (43/100)</summary>
 
+- (Medium) LC-0904-Fruit-Into-Baskets: [Python3](./Python3/LC-0904-Fruit-Into-Baskets.py)
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
 - (-Hard-) LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
@@ -759,9 +760,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (1/100)</summary>
+<summary>Solution List (2/100)</summary>
 
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
+- (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
 
 </details>
 
