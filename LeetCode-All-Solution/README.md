@@ -351,7 +351,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (42/100)</summary>
+<summary>Solution List (43/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -390,6 +390,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0687-Longest-Univalue-Path: [Python3](./Python3/LC-0687-Longest-Univalue-Path.py)
 - (Medium) LC-0688-Knight-Probability-in-Chessboard: [Python3](./Python3/LC-0688-Knight-Probability-in-Chessboard.py)
 - (-Hard-) LC-0691-Stickers-to-Spell-Word: [Python3](./Python3/LC-0691-Stickers-to-Spell-Word.py)
+- (Medium) LC-0692-Top-K-Frequent-Words: [Python3](./Python3/LC-0692-Top-K-Frequent-Words.py)
 - (-Easy-) LC-0693-Binary-Number-with-Alternating-Bits: [Python3](./Python3/LC-0693-Binary-Number-with-Alternating-Bits.py)
 - (Medium) LC-0695-Max-Area-of-Island: [Python3](./Python3/LC-0695-Max-Area-of-Island.py)
 - (Medium) LC-0698-Partition-to-K-Equal-Sum-Subsets: [Python3](./Python3/LC-0698-Partition-to-K-Equal-Sum-Subsets.py)
@@ -704,7 +705,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -732,6 +733,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1694-Reformat-Phone-Number: [Python3](./Python3/LC-1694-Reformat-Phone-Number.py)
 - (Medium) LC-1695-Maximum-Erasure-Value: [Python3](./Python3/LC-1695-Maximum-Erasure-Value.py)
 - (Medium) LC-1696-Jump-Game-VI: [Python3](./Python3/LC-1696-Jump-Game-VI.py)
+- (-Easy-) LC-1700-Number-of-Students-Unable-to-Eat-Lunch: [Python3](./Python3/LC-1700-Number-of-Students-Unable-to-Eat-Lunch.py)
 
 </details>
 
