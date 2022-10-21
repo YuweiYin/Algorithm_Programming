@@ -50,6 +50,10 @@ class Solution:
         return self._containsNearbyDuplicate(nums, k)
 
     def _containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
+        """
+        Runtime: 653 ms, faster than 90.41% of Python3 online submissions for Contains Duplicate II.
+        Memory Usage: 27.5 MB, less than 19.24% of Python3 online submissions for Contains Duplicate II.
+        """
         len_nums = len(nums)
         assert len_nums > 2 and k >= 1
 
