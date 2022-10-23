@@ -352,7 +352,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (43/100)</summary>
+<summary>Solution List (44/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -366,6 +366,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0637-Average-of-Levels-in-Binary-Tree: [Python3](./Python3/LC-0637-Average-of-Levels-in-Binary-Tree.py)
 - (Medium) LC-0640-Solve-the-Equation: [Python3](./Python3/LC-0640-Solve-the-Equation.py)
 - (Medium) LC-0641-Design-Circular-Deque: [Python3](./Python3/LC-0641-Design-Circular-Deque.py)
+- (-Easy-) LC-0645-Set-Mismatch: [Python3](./Python3/LC-0645-Set-Mismatch.py)
 - (Medium) LC-0646-Maximum-Length-of-Pair-Chain: [Python3](./Python3/LC-0646-Maximum-Length-of-Pair-Chain.py)
 - (Medium) LC-0647-Palindromic-Substrings: [Python3](./Python3/LC-0647-Palindromic-Substrings.py)
 - (Medium) LC-0648-Replace-Words: [Python3](./Python3/LC-0648-Replace-Words.py)
@@ -744,7 +745,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
 - (-Easy-) LC-1710-Maximum-Units-on-a-Truck: [Python3](./Python3/LC-1710-Maximum-Units-on-a-Truck.py)
@@ -756,6 +757,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
+- (-Easy-) LC-1768-Merge-Strings-Alternately: [Python3](./Python3/LC-1768-Merge-Strings-Alternately.py)
 - (Medium) LC-1770-Maximum-Score-from-Performing-Multiplication-Operations: [Python3](./Python3/LC-1770-Maximum-Score-from-Performing-Multiplication-Operations.py)
 - (-Easy-) LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones: [Python3](./Python3/LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
