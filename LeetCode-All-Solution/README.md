@@ -305,7 +305,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (39/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
@@ -317,6 +317,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0520-Detect-Capital: [Python3](./Python3/LC-0520-Detect-Capital.py)
 - (-Easy-) LC-0521-Longest-Uncommon-Subsequence-I: [Python3](./Python3/LC-0521-Longest-Uncommon-Subsequence-I.py)
 - (Medium) LC-0522-Longest-Uncommon-Subsequence-II: [Python3](./Python3/LC-0522-Longest-Uncommon-Subsequence-II.py)
+- (Medium) LC-0523-Continuous-Subarray-Sum: [Python3](./Python3/LC-0523-Continuous-Subarray-Sum.py)
 - (Medium) LC-0525-Contiguous-Array: [Python3](./Python3/LC-0525-Contiguous-Array.py)
 - (Medium) LC-0532-K-diff-Pairs-in-an-Array: [Python3](./Python3/LC-0532-K-diff-Pairs-in-an-Array.py)
 - (Medium) LC-0535-Encode-and-Decode-TinyURL: [Python3](./Python3/LC-0535-Encode-and-Decode-TinyURL.py)
@@ -461,7 +462,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -478,6 +479,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0827-Making-A-Large-Island: [Python3](./Python3/LC-0827-Making-A-Large-Island.py)
 - (-Hard-) LC-0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String: [Python3](./Python3/LC-0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String.py)
 - (-Hard-) LC-0829-Consecutive-Numbers-Sum: [Python3](./Python3/LC-0829-Consecutive-Numbers-Sum.py)
+- (Medium) LC-0835-Image-Overlap: [Python3](./Python3/LC-0835-Image-Overlap.py)
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
 - (Medium) LC-0841-Keys-and-Rooms: [Python3](./Python3/LC-0841-Keys-and-Rooms.py)
 - (-Easy-) LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
@@ -488,6 +490,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0856-Score-of-Parentheses: [Python3](./Python3/LC-0856-Score-of-Parentheses.py)
 - (-Hard-) LC-0857-Minimum-Cost-to-Hire-K-Workers: [Python3](./Python3/LC-0857-Minimum-Cost-to-Hire-K-Workers.py)
 - (Medium) LC-0858-Mirror-Reflection: [Python3](./Python3/LC-0858-Mirror-Reflection.py)
+- (-Hard-) LC-0862-Shortest-Subarray-with-Sum-at-Least-K: [Python3](./Python3/LC-0862-Shortest-Subarray-with-Sum-at-Least-K.py)
 - (-Easy-) LC-0868-Binary-Gap: [Python3](./Python3/LC-0868-Binary-Gap.py)
 - (-Easy-) LC-0867-Transpose-Matrix: [Python3](./Python3/LC-0867-Transpose-Matrix.py)
 - (Medium) LC-0869-Reordered-Power-of-2: [Python3](./Python3/LC-0869-Reordered-Power-of-2.py)
@@ -773,8 +776,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (2/100)</summary>
+<summary>Solution List (3/100)</summary>
 
+- (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
 
