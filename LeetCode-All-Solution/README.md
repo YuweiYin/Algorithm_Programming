@@ -513,12 +513,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (47/100)</summary>
+<summary>Solution List (48/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
 - (Medium) LC-0904-Fruit-Into-Baskets: [Python3](./Python3/LC-0904-Fruit-Into-Baskets.py)
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
+- (Medium) LC-0907-Sum-of-Subarray-Minimums: [Python3](./Python3/LC-0907-Sum-of-Subarray-Minimums.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
 - (-Hard-) LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
 - (Medium) LC-0915-Partition-Array-into-Disjoint-Intervals: [Python3](./Python3/LC-0915-Partition-Array-into-Disjoint-Intervals.py)
@@ -766,6 +767,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
 - (-Easy-) LC-1768-Merge-Strings-Alternately: [Python3](./Python3/LC-1768-Merge-Strings-Alternately.py)
 - (Medium) LC-1770-Maximum-Score-from-Performing-Multiplication-Operations: [Python3](./Python3/LC-1770-Maximum-Score-from-Performing-Multiplication-Operations.py)
+- (-Easy-) LC-1773-Count-Items-Matching-a-Rule: [Python3](./Python3/LC-1773-Count-Items-Matching-a-Rule.py)
 - (-Easy-) LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones: [Python3](./Python3/LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
 - (-Easy-) LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
@@ -829,6 +831,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <summary>Solution List (1/100)</summary>
 
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
+- (-Hard-) LC-2136-Earliest-Possible-Day-of-Full-Bloom: [Python3](./Python3/LC-2136-Earliest-Possible-Day-of-Full-Bloom.py)
 
 </details>
 
