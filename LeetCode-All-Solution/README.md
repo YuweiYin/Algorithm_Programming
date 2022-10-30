@@ -618,7 +618,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -636,6 +636,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To: [Python3](./Python3/LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To.py)
 - (Medium) LC-1288-Remove-Covered-Intervals: [Python3](./Python3/LC-1288-Remove-Covered-Intervals.py)
 - (Medium) LC-1291-Sequential-Digits: [Python3](./Python3/LC-1291-Sequential-Digits.py)
+- (-Hard-) LC-1293-Shortest-Path-in-a-Grid-with-Obstacles-Elimination: [Python3](./Python3/LC-1293-Shortest-Path-in-a-Grid-with-Obstacles-Elimination.py)
 
 </details>
 
