@@ -262,7 +262,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (35/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (Medium) LC-0406-Queue-Reconstruction-by-Height: [Python3](./Python3/LC-0406-Queue-Reconstruction-by-Height.py)
@@ -297,6 +297,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0474-Ones-and-Zeroes: [Python3](./Python3/LC-0474-Ones-and-Zeroes.py)
 - (Medium) LC-0478-Generate-Random-Point-in-a-Circle: [Python3](./Python3/LC-0478-Generate-Random-Point-in-a-Circle.py)
 - (-Hard-) LC-0479-Largest-Palindrome-Product: [Python3](./Python3/LC-0479-Largest-Palindrome-Product.py)
+- (Medium) LC-0481-Magical-String: [Python3](./Python3/LC-0481-Magical-String.py)
 - (Medium) LC-0497-Random-Point-in-Non-overlapping-Rectangles: [Python3](./Python3/LC-0497-Random-Point-in-Non-overlapping-Rectangles.py)
 - (Medium) LC-0498-Diagonal-Traverse: [Python3](./Python3/LC-0498-Diagonal-Traverse.py)
 
@@ -405,7 +406,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (49/100)</summary>
+<summary>Solution List (50/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -441,6 +442,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0761-Special-Binary-String: [Python3](./Python3/LC-0761-Special-Binary-String.py)
 - (-Easy-) LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation: [Python3](./Python3/LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation.py)
 - (Medium) LC-0763-Partition-Labels: [Python3](./Python3/LC-0763-Partition-Labels.py)
+- (-Easy-) LC-0766-Toeplitz-Matrix: [Python3](./Python3/LC-0766-Toeplitz-Matrix.py)
 - (-Hard-) LC-0768-Max-Chunks-To-Make-Sorted-II: [Python3](./Python3/LC-0768-Max-Chunks-To-Make-Sorted-II.py)
 - (Medium) LC-0769-Max-Chunks-To-Make-Sorted: [Python3](./Python3/LC-0769-Max-Chunks-To-Make-Sorted.py)
 - (Medium) LC-0777-Swap-Adjacent-in-LR-String: [Python3](./Python3/LC-0777-Swap-Adjacent-in-LR-String.py)
