@@ -74,6 +74,10 @@ class Solution:
         return self._findBall(grid)
 
     def _findBall(self, grid: List[List[int]]) -> List[int]:
+        """
+        Runtime: 201 ms, faster than 94.72% of Python3 online submissions for Where Will the Ball Fall.
+        Memory Usage: 14.4 MB, less than 30.84% of Python3 online submissions for Where Will the Ball Fall.
+        """
         max_row = len(grid)
         assert max_row > 0
         max_col = len(grid[0])
