@@ -720,7 +720,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -741,6 +741,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1658-Minimum-Operations-to-Reduce-X-to-Zero: [Python3](./Python3/LC-1658-Minimum-Operations-to-Reduce-X-to-Zero.py)
 - (-Easy-) LC-1662-Check-If-Two-String-Arrays-are-Equivalent: [Python3](./Python3/LC-1662-Check-If-Two-String-Arrays-are-Equivalent.py)
 - (Medium) LC-1663-Smallest-String-With-A-Given-Numeric-Value: [Python3](./Python3/LC-1663-Smallest-String-With-A-Given-Numeric-Value.py)
+- (-Easy-) LC-1668-Maximum-Repeating-Substring: [Python3](./Python3/LC-1668-Maximum-Repeating-Substring.py)
 - (-Easy-) LC-1672-Richest-Customer-Wealth: [Python3](./Python3/LC-1672-Richest-Customer-Wealth.py)
 - (-Hard-) LC-1675-Minimize-Deviation-in-Array: [Python3](./Python3/LC-1675-Minimize-Deviation-in-Array.py)
 - (Medium) LC-1679-Max-Number-of-K-Sum-Pairs: [Python3](./Python3/LC-1679-Max-Number-of-K-Sum-Pairs.py)
@@ -832,9 +833,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2101 - 2200
 
 <details>
-<summary>Solution List (1/100)</summary>
+<summary>Solution List (3/100)</summary>
 
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
+- (Medium) LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words: [Python3](./Python3/LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py)
 - (-Hard-) LC-2136-Earliest-Possible-Day-of-Full-Bloom: [Python3](./Python3/LC-2136-Earliest-Possible-Day-of-Full-Bloom.py)
 
 </details>
