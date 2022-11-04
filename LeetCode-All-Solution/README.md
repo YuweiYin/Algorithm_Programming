@@ -211,7 +211,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (43/100)</summary>
+<summary>Solution List (44/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -232,6 +232,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0342-Power-of-Four: [Python3](./Python3/LC-0342-Power-of-Four.py)
 - (Medium) LC-0343-Integer-Break: [Python3](./Python3/LC-0343-Integer-Break.py)
 - (-Easy-) LC-0344-Reverse-String: [Python3](./Python3/LC-0344-Reverse-String.py)
+- (-Easy-) LC-0345-Reverse-Vowels-of-a-String: [Python3](./Python3/LC-0345-Reverse-Vowels-of-a-String.py)
 - (Medium) LC-0347-Top-K-Frequent-Elements: [Python3](./Python3/LC-0347-Top-K-Frequent-Elements.py)
 - (-Easy-) LC-0350-Intersection-of-Two-Arrays-II: [Python3](./Python3/LC-0350-Intersection-of-Two-Arrays-II.py)
 - (-Hard-) LC-0354-Russian-Doll-Envelopes: [Python3](./Python3/LC-0354-Russian-Doll-Envelopes.py)
@@ -406,7 +407,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (50/100)</summary>
+<summary>Solution List (51/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -438,6 +439,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - (-Easy-) LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - (-Hard-) LC-0749-Contain-Virus: [Python3](./Python3/LC-0749-Contain-Virus.py)
+- (Medium) LC-0754-Reach-a-Number: [Python3](./Python3/LC-0754-Reach-a-Number.py)
 - (-Hard-) LC-0757-Set-Intersection-Size-At-Least-Two: [Python3](./Python3/LC-0757-Set-Intersection-Size-At-Least-Two.py)
 - (-Hard-) LC-0761-Special-Binary-String: [Python3](./Python3/LC-0761-Special-Binary-String.py)
 - (-Easy-) LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation: [Python3](./Python3/LC-0762-Prime-Number-of-Set-Bits-in-Binary-Representation.py)
