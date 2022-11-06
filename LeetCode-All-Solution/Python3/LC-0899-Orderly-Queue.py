@@ -52,6 +52,10 @@ class Solution:
         return self._orderlyQueue(s, k)
 
     def _orderlyQueue(self, s: str, k: int) -> str:
+        """
+        Runtime: 34 ms, faster than 97.62% of Python3 online submissions for Orderly Queue.
+        Memory Usage: 13.9 MB, less than 39.29% of Python3 online submissions for Orderly Queue.
+        """
         assert isinstance(k, int) and k >= 1
         assert isinstance(s, str) and len(s) >= k
 
