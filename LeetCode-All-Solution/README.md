@@ -467,7 +467,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (40/100)</summary>
+<summary>Solution List (41/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -475,6 +475,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0811-Subdomain-Visit-Count: [Python3](./Python3/LC-0811-Subdomain-Visit-Count.py)
 - (-Easy-) LC-0812-Largest-Triangle-Area: [Python3](./Python3/LC-0812-Largest-Triangle-Area.py)
 - (Medium) LC-0814-Binary-Tree-Pruning: [Python3](./Python3/LC-0814-Binary-Tree-Pruning.py)
+- (Medium) LC-0816-Ambiguous-Coordinates: [Python3](./Python3/LC-0816-Ambiguous-Coordinates.py)
 - (Medium) LC-0817-Linked-List-Components: [Python3](./Python3/LC-0817-Linked-List-Components.py)
 - (-Easy-) LC-0819-Most-Common-Word: [Python3](./Python3/LC-0819-Most-Common-Word.py)
 - (Medium) LC-0820-Short-Encoding-of-Words: [Python3](./Python3/LC-0820-Short-Encoding-of-Words.py)
@@ -649,10 +650,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
+- (-Easy-) LC-1323-Maximum-69-Number: [Python3](./Python3/LC-1323-Maximum-69-Number.py)
 - (Medium) LC-1328-Break-a-Palindrome: [Python3](./Python3/LC-1328-Break-a-Palindrome.py)
 - (Medium) LC-1329-Sort-the-Matrix-Diagonally: [Python3](./Python3/LC-1329-Sort-the-Matrix-Diagonally.py)
 - (-Easy-) LC-1331-Rank-Transform-of-an-Array: [Python3](./Python3/LC-1331-Rank-Transform-of-an-Array.py)
