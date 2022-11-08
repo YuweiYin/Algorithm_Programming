@@ -708,10 +708,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (-Hard-) LC-1531-String-Compression-II: [Python3](./Python3/LC-1531-String-Compression-II.py)
+- (-Easy-) LC-1544-Make-The-String-Great: [Python3](./Python3/LC-1544-Make-The-String-Great.py)
 - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
 - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](./Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
 - (-Easy-) LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
@@ -726,7 +727,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -753,6 +754,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1678-Goal-Parser-Interpretation: [Python3](./Python3/LC-1678-Goal-Parser-Interpretation.py)
 - (Medium) LC-1679-Max-Number-of-K-Sum-Pairs: [Python3](./Python3/LC-1679-Max-Number-of-K-Sum-Pairs.py)
 - (Medium) LC-1680-Concatenation-of-Consecutive-Binary-Numbers: [Python3](./Python3/LC-1680-Concatenation-of-Consecutive-Binary-Numbers.py)
+- (-Easy-) LC-1684-Count-the-Number-of-Consistent-Strings: [Python3](./Python3/LC-1684-Count-the-Number-of-Consistent-Strings.py)
 - (-Easy-) LC-1688-Count-of-Matches-in-Tournament: [Python3](./Python3/LC-1688-Count-of-Matches-in-Tournament.py)
 - (Medium) LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers: [Python3](./Python3/LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.py)
 - (-Easy-) LC-1694-Reformat-Phone-Number: [Python3](./Python3/LC-1694-Reformat-Phone-Number.py)
