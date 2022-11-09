@@ -61,6 +61,10 @@ class StockSpanner:
         self.idx = -1
 
     def next(self, price: int) -> int:
+        """
+        Runtime: 416 ms, faster than 96.84% of Python3 online submissions for Online Stock Span.
+        Memory Usage: 19.5 MB, less than 70.93% of Python3 online submissions for Online Stock Span.
+        """
         # method: monotonous stack
         self.idx += 1
         while price >= self.stack[-1][1]:
