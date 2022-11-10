@@ -468,7 +468,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (42/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -498,6 +498,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0857-Minimum-Cost-to-Hire-K-Workers: [Python3](./Python3/LC-0857-Minimum-Cost-to-Hire-K-Workers.py)
 - (Medium) LC-0858-Mirror-Reflection: [Python3](./Python3/LC-0858-Mirror-Reflection.py)
 - (-Hard-) LC-0862-Shortest-Subarray-with-Sum-at-Least-K: [Python3](./Python3/LC-0862-Shortest-Subarray-with-Sum-at-Least-K.py)
+- (-Hard-) LC-0864-Shortest-Path-to-Get-All-Keys: [Python3](./Python3/LC-0864-Shortest-Path-to-Get-All-Keys.py)
 - (-Easy-) LC-0868-Binary-Gap: [Python3](./Python3/LC-0868-Binary-Gap.py)
 - (-Easy-) LC-0867-Transpose-Matrix: [Python3](./Python3/LC-0867-Transpose-Matrix.py)
 - (Medium) LC-0869-Reordered-Power-of-2: [Python3](./Python3/LC-0869-Reordered-Power-of-2.py)
@@ -576,7 +577,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -593,6 +594,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree: [Python3](./Python3/LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree.py)
 - (Medium) LC-1041-Robot-Bounded-In-Circle: [Python3](./Python3/LC-1041-Robot-Bounded-In-Circle.py)
 - (-Easy-) LC-1046-Last-Stone-Weight: [Python3](./Python3/LC-1046-Last-Stone-Weight.py)
+- (-Easy-) LC-1047-Remove-All-Adjacent-Duplicates-In-String: [Python3](./Python3/LC-1047-Remove-All-Adjacent-Duplicates-In-String.py)
 - (Medium) LC-1048-Longest-String-Chain: [Python3](./Python3/LC-1048-Longest-String-Chain.py)
 - (-Easy-) LC-1051-Height-Checker: [Python3](./Python3/LC-1051-Height-Checker.py)
 - (-Hard-) LC-1074-Number-of-Submatrices-That-Sum-to-Target: [Python3](./Python3/LC-1074-Number-of-Submatrices-That-Sum-to-Target.py)
