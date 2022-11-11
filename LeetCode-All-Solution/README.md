@@ -770,8 +770,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (16/100)</summary>
 
+- (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
 - (-Easy-) LC-1710-Maximum-Units-on-a-Truck: [Python3](./Python3/LC-1710-Maximum-Units-on-a-Truck.py)
 - (-Easy-) LC-1716-Calculate-Money-in-Leetcode-Bank: [Python3](./Python3/LC-1716-Calculate-Money-in-Leetcode-Bank.py)
