@@ -162,7 +162,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (42/100)</summary>
+<summary>Solution List (43/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -204,6 +204,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0287-Find-the-Duplicate-Number: [Python3](./Python3/LC-0287-Find-the-Duplicate-Number.py)
 - (Medium) LC-0289-Game-of-Life: [Python3](./Python3/LC-0289-Game-of-Life.py)
 - (-Easy-) LC-0290-Word-Pattern: [Python3](./Python3/LC-0290-Word-Pattern.py)
+- (-Hard-) LC-0295-Find-Median-from-Data-Stream: [Python3](./Python3/LC-0295-Find-Median-from-Data-Stream.py)
 - (-Hard-) LC-0297-Serialize-and-Deserialize-Binary-Tree: [Python3](./Python3/LC-0297-Serialize-and-Deserialize-Binary-Tree.py)
 - (Medium) LC-0300-Longest-Increasing-Subsequence: [Python3](./Python3/LC-0300-Longest-Increasing-Subsequence.py)
 
@@ -408,7 +409,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (52/100)</summary>
+<summary>Solution List (53/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -456,6 +457,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
 - (Medium) LC-0785-Is-Graph-Bipartite: [Python3](./Python3/LC-0785-Is-Graph-Bipartite.py)
 - (Medium) LC-0788-Rotated-Digits: [Python3](./Python3/LC-0788-Rotated-Digits.py)
+- (Medium) LC-0790-Domino-and-Tromino-Tiling: [Python3](./Python3/LC-0790-Domino-and-Tromino-Tiling.py)
 - (Medium) LC-0792-Number-of-Matching-Subsequences: [Python3](./Python3/LC-0792-Number-of-Matching-Subsequences.py)
 - (-Hard-) LC-0793-Preimage-Size-of-Factorial-Zeroes-Function: [Python3](./Python3/LC-0793-Preimage-Size-of-Factorial-Zeroes-Function.py)
 - (-Easy-) LC-0796-Rotate-String: [Python3](./Python3/LC-0796-Rotate-String.py)
