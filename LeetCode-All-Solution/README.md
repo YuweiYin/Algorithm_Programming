@@ -472,10 +472,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (42/100)</summary>
+<summary>Solution List (43/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
+- (-Hard-) LC-0805-Split-Array-With-Same-Average: [Python3](./Python3/LC-0805-Split-Array-With-Same-Average.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
 - (Medium) LC-0811-Subdomain-Visit-Count: [Python3](./Python3/LC-0811-Subdomain-Visit-Count.py)
 - (-Easy-) LC-0812-Largest-Triangle-Area: [Python3](./Python3/LC-0812-Largest-Triangle-Area.py)
@@ -525,7 +526,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (48/100)</summary>
+<summary>Solution List (49/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -554,6 +555,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0942-DI-String-Match: [Python3](./Python3/LC-0942-DI-String-Match.py)
 - (-Easy-) LC-0944-Delete-Columns-to-Make-Sorted: [Python3](./Python3/LC-0944-Delete-Columns-to-Make-Sorted.py)
 - (Medium) LC-0946-Validate-Stack-Sequences: [Python3](./Python3/LC-0946-Validate-Stack-Sequences.py)
+- (Medium) LC-0947-Most-Stones-Removed-with-Same-Row-or-Column: [Python3](./Python3/LC-0947-Most-Stones-Removed-with-Same-Row-or-Column.py)
 - (Medium) LC-0948-Bag-of-Tokens: [Python3](./Python3/LC-0948-Bag-of-Tokens.py)
 - (-Hard-) LC-0952-Largest-Component-Size-by-Common-Factor: [Python3](./Python3/LC-0952-Largest-Component-Size-by-Common-Factor.py)
 - (-Easy-) LC-0953-Verifying-an-Alien-Dictionary: [Python3](./Python3/LC-0953-Verifying-an-Alien-Dictionary.py)
