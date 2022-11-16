@@ -215,7 +215,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (44/100)</summary>
+<summary>Solution List (45/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -243,6 +243,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0357-Count-Numbers-with-Unique-Digits: [Python3](./Python3/LC-0357-Count-Numbers-with-Unique-Digits.py)
 - (-Hard-) LC-0363-Max-Sum-of-Rectangle-No-Larger-Than-K: [Python3](./Python3/LC-0363-Max-Sum-of-Rectangle-No-Larger-Than-K.py)
 - (Medium) LC-0373-Find-K-Pairs-with-Smallest-Sums: [Python3](./Python3/LC-0373-Find-K-Pairs-with-Smallest-Sums.py)
+- (-Easy-) LC-0374-Guess-Number-Higher-or-Lower: [Python3](./Python3/LC-0374-Guess-Number-Higher-or-Lower.py)
 - (Medium) LC-0376-Wiggle-Subsequence: [Python3](./Python3/LC-0376-Wiggle-Subsequence.py)
 - (Medium) LC-0377-Combination-Sum-IV: [Python3](./Python3/LC-0377-Combination-Sum-IV.py)
 - (Medium) LC-0378-Kth-Smallest-Element-in-a-Sorted-Matrix: [Python3](./Python3/LC-0378-Kth-Smallest-Element-in-a-Sorted-Matrix.py)
@@ -411,7 +412,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (54/100)</summary>
+<summary>Solution List (55/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -452,6 +453,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0766-Toeplitz-Matrix: [Python3](./Python3/LC-0766-Toeplitz-Matrix.py)
 - (-Hard-) LC-0768-Max-Chunks-To-Make-Sorted-II: [Python3](./Python3/LC-0768-Max-Chunks-To-Make-Sorted-II.py)
 - (Medium) LC-0769-Max-Chunks-To-Make-Sorted: [Python3](./Python3/LC-0769-Max-Chunks-To-Make-Sorted.py)
+- (Medium) LC-0775-Global-and-Local-Inversions: [Python3](./Python3/LC-0775-Global-and-Local-Inversions.py)
 - (Medium) LC-0777-Swap-Adjacent-in-LR-String: [Python3](./Python3/LC-0777-Swap-Adjacent-in-LR-String.py)
 - (Medium) LC-0779-K-th-Symbol-in-Grammar: [Python3](./Python3/LC-0779-K-th-Symbol-in-Grammar.py)
 - (-Hard-) LC-0780-Reaching-Points: [Python3](./Python3/LC-0780-Reaching-Points.py)
