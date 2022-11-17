@@ -163,7 +163,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (44/100)</summary>
+<summary>Solution List (45/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -182,6 +182,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0219-Contains-Duplicate-II: [Python3](./Python3/LC-0219-Contains-Duplicate-II.py)
 - (Medium) LC-0221-Maximal-Square: [Python3](./Python3/LC-0221-Maximal-Square.py)
 - (Medium) LC-0222-Count-Complete-Tree-Nodes: [Python3](./Python3/LC-0222-Count-Complete-Tree-Nodes.py)
+- (Medium) LC-0223-Rectangle-Area: [Python3](./Python3/LC-0223-Rectangle-Area.py)
 - (-Easy-) LC-0225-Implement-Stack-using-Queues: [Python3](./Python3/LC-0225-Implement-Stack-using-Queues.py)
 - (-Easy-) LC-0226-Invert-Binary-Tree: [Python3](./Python3/LC-0226-Invert-Binary-Tree.py)
 - (-Easy-) LC-0228-Summary-Ranges: [Python3](./Python3/LC-0228-Summary-Ranges.py)
