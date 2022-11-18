@@ -163,7 +163,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (45/100)</summary>
+<summary>Solution List (46/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -198,6 +198,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0241-Different-Ways-to-Add-Parentheses: [Python3](./Python3/LC-0241-Different-Ways-to-Add-Parentheses.py)
 - (-Easy-) LC-0242-Valid-Anagram: [Python3](./Python3/LC-0242-Valid-Anagram.py)
 - (-Easy-) LC-0258-Add-Digits: [Python3](./Python3/LC-0258-Add-Digits.py)
+- (-Easy-) LC-0263-Ugly-Number: [Python3](./Python3/LC-0263-Ugly-Number.py)
 - (Medium) LC-0264-Ugly-Number-II: [Python3](./Python3/LC-0264-Ugly-Number-II.py)
 - (-Easy-) LC-0268-Missing-Number: [Python3](./Python3/LC-0268-Missing-Number.py)
 - (-Easy-) LC-0278-First-Bad-Version: [Python3](./Python3/LC-0278-First-Bad-Version.py)
@@ -476,7 +477,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (43/100)</summary>
+<summary>Solution List (44/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -521,6 +522,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0884-Uncommon-Words-from-Two-Sentences: [Python3](./Python3/LC-0884-Uncommon-Words-from-Two-Sentences.py)
 - (Medium) LC-0886-Possible-Bipartition: [Python3](./Python3/LC-0886-Possible-Bipartition.py)
 - (Medium) LC-0890-Find-and-Replace-Pattern: [Python3](./Python3/LC-0890-Find-and-Replace-Pattern.py)
+- (-Hard-) LC-0891-Sum-of-Subsequence-Widths: [Python3](./Python3/LC-0891-Sum-of-Subsequence-Widths.py)
 - (-Hard-) LC-0895-Maximum-Frequency-Stack: [Python3](./Python3/LC-0895-Maximum-Frequency-Stack.py)
 - (-Easy-) LC-0897-Increasing-Order-Search-Tree: [Python3](./Python3/LC-0897-Increasing-Order-Search-Tree.py)
 - (-Hard-) LC-0899-Orderly-Queue: [Python3](./Python3/LC-0899-Orderly-Queue.py)
