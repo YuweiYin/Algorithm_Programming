@@ -478,12 +478,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (44/100)</summary>
+<summary>Solution List (45/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Hard-) LC-0805-Split-Array-With-Same-Average: [Python3](./Python3/LC-0805-Split-Array-With-Same-Average.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
+- (Medium) LC-0808-Soup-Servings: [Python3](./Python3/LC-0808-Soup-Servings.py)
 - (Medium) LC-0811-Subdomain-Visit-Count: [Python3](./Python3/LC-0811-Subdomain-Visit-Count.py)
 - (-Easy-) LC-0812-Largest-Triangle-Area: [Python3](./Python3/LC-0812-Largest-Triangle-Area.py)
 - (Medium) LC-0814-Binary-Tree-Pruning: [Python3](./Python3/LC-0814-Binary-Tree-Pruning.py)
@@ -821,8 +822,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1901 - 2000
 
 <details>
-<summary>Solution List (4/100)</summary>
+<summary>Solution List (5/100)</summary>
 
+- (Medium) LC-1926-Nearest-Exit-from-Entrance-in-Maze: [Python3](./Python3/LC-1926-Nearest-Exit-from-Entrance-in-Maze.py)
 - (-Easy-) LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores: [Python3](./Python3/LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.py)
 - (-Hard-) LC-1994-The-Number-of-Good-Subsets: [Python3](./Python3/LC-1994-The-Number-of-Good-Subsets.py)
 - (Medium) LC-1996-The-Number-of-Weak-Characters-in-the-Game: [Python3](./Python3/LC-1996-The-Number-of-Weak-Characters-in-the-Game.py)
