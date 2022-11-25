@@ -415,7 +415,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (55/100)</summary>
+<summary>Solution List (56/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -468,6 +468,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0791-Custom-Sort-String: [Python3](./Python3/LC-0791-Custom-Sort-String.py)
 - (Medium) LC-0792-Number-of-Matching-Subsequences: [Python3](./Python3/LC-0792-Number-of-Matching-Subsequences.py)
 - (-Hard-) LC-0793-Preimage-Size-of-Factorial-Zeroes-Function: [Python3](./Python3/LC-0793-Preimage-Size-of-Factorial-Zeroes-Function.py)
+- (Medium) LC-0795-Number-of-Subarrays-with-Bounded-Maximum: [Python3](./Python3/LC-0795-Number-of-Subarrays-with-Bounded-Maximum.py)
 - (-Easy-) LC-0796-Rotate-String: [Python3](./Python3/LC-0796-Rotate-String.py)
 - (Medium) LC-0797-All-Paths-From-Source-to-Target: [Python3](./Python3/LC-0797-All-Paths-From-Source-to-Target.py)
 - (-Hard-) LC-0798-Smallest-Rotation-with-Highest-Score: [Python3](./Python3/LC-0798-Smallest-Rotation-with-Highest-Score.py)
@@ -478,13 +479,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (46/100)</summary>
+<summary>Solution List (47/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Hard-) LC-0805-Split-Array-With-Same-Average: [Python3](./Python3/LC-0805-Split-Array-With-Same-Average.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
 - (Medium) LC-0808-Soup-Servings: [Python3](./Python3/LC-0808-Soup-Servings.py)
+- (Medium) LC-0809-Expressive-Words: [Python3](./Python3/LC-0809-Expressive-Words.py)
 - (Medium) LC-0811-Subdomain-Visit-Count: [Python3](./Python3/LC-0811-Subdomain-Visit-Count.py)
 - (-Easy-) LC-0812-Largest-Triangle-Area: [Python3](./Python3/LC-0812-Largest-Triangle-Area.py)
 - (Medium) LC-0814-Binary-Tree-Pruning: [Python3](./Python3/LC-0814-Binary-Tree-Pruning.py)

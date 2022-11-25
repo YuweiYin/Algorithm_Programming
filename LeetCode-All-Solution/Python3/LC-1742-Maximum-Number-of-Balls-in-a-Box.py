@@ -4,7 +4,7 @@
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
 @File    : LC-1742-Maximum-Number-of-Balls-in-a-Box.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
-@Date    : 2022-11-22
+@Date    : 2022-11-23
 =================================================================="""
 
 import sys
