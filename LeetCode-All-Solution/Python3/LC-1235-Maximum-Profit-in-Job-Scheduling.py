@@ -60,6 +60,10 @@ class Solution:
         return self._jobScheduling(startTime, endTime, profit)
 
     def _jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
+        """
+        Runtime: 848 ms, faster than 77.69% of Python3 online submissions for Maximum Profit in Job Scheduling.
+        Memory Usage: 26.4 MB, less than 77.51% of Python3 online submissions for Maximum Profit in Job Scheduling.
+        """
         assert isinstance(startTime, list) and len(startTime) >= 1
         assert isinstance(endTime, list) and len(startTime) == len(endTime)
         assert isinstance(profit, list) and len(startTime) == len(profit)
