@@ -271,7 +271,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (Medium) LC-0406-Queue-Reconstruction-by-Height: [Python3](./Python3/LC-0406-Queue-Reconstruction-by-Height.py)
@@ -291,6 +291,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
 - (-Hard-) LC-0440-K-th-Smallest-in-Lexicographical-Order: [Python3](./Python3/LC-0440-K-th-Smallest-in-Lexicographical-Order.py)
 - (Medium) LC-0442-Find-All-Duplicates-in-an-Array: [Python3](./Python3/LC-0442-Find-All-Duplicates-in-an-Array.py)
+- (-Hard-) LC-0446-Arithmetic-Slices-II-Subsequence: [Python3](./Python3/LC-0446-Arithmetic-Slices-II-Subsequence.py)
 - (Medium) LC-0449-Serialize-and-Deserialize-BST: [Python3](./Python3/LC-0449-Serialize-and-Deserialize-BST.py)
 - (Medium) LC-0450-Delete-Node-in-a-BST: [Python3](./Python3/LC-0450-Delete-Node-in-a-BST.py)
 - (Medium) LC-0451-Sort-Characters-By-Frequency: [Python3](./Python3/LC-0451-Sort-Characters-By-Frequency.py)
@@ -479,7 +480,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (48/100)</summary>
+<summary>Solution List (49/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -489,6 +490,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0809-Expressive-Words: [Python3](./Python3/LC-0809-Expressive-Words.py)
 - (Medium) LC-0811-Subdomain-Visit-Count: [Python3](./Python3/LC-0811-Subdomain-Visit-Count.py)
 - (-Easy-) LC-0812-Largest-Triangle-Area: [Python3](./Python3/LC-0812-Largest-Triangle-Area.py)
+- (Medium) LC-0813-Largest-Sum-of-Averages: [Python3](./Python3/LC-0813-Largest-Sum-of-Averages.py)
 - (Medium) LC-0814-Binary-Tree-Pruning: [Python3](./Python3/LC-0814-Binary-Tree-Pruning.py)
 - (Medium) LC-0816-Ambiguous-Coordinates: [Python3](./Python3/LC-0816-Ambiguous-Coordinates.py)
 - (Medium) LC-0817-Linked-List-Components: [Python3](./Python3/LC-0817-Linked-List-Components.py)
@@ -788,7 +790,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
@@ -801,6 +803,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1732-Find-the-Highest-Altitude: [Python3](./Python3/LC-1732-Find-the-Highest-Altitude.py)
 - (-Easy-) LC-1742-Maximum-Number-of-Balls-in-a-Box: [Python3](./Python3/LC-1742-Maximum-Number-of-Balls-in-a-Box.py)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
+- (-Easy-) LC-1752-Check-if-Array-Is-Sorted-and-Rotated: [Python3](./Python3/LC-1752-Check-if-Array-Is-Sorted-and-Rotated.py)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
 - (-Easy-) LC-1768-Merge-Strings-Alternately: [Python3](./Python3/LC-1768-Merge-Strings-Alternately.py)
@@ -878,9 +881,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (0/100)</summary>
+<summary>Solution List (1/100)</summary>
 
-- 
+- (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 
 </details>
 
