@@ -790,7 +790,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
@@ -804,6 +804,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1742-Maximum-Number-of-Balls-in-a-Box: [Python3](./Python3/LC-1742-Maximum-Number-of-Balls-in-a-Box.py)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
 - (-Easy-) LC-1752-Check-if-Array-Is-Sorted-and-Rotated: [Python3](./Python3/LC-1752-Check-if-Array-Is-Sorted-and-Rotated.py)
+- (-Easy-) LC-1758-Minimum-Changes-To-Make-Alternating-Binary-String: [Python3](./Python3/LC-1758-Minimum-Changes-To-Make-Alternating-Binary-String.py)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
 - (-Easy-) LC-1768-Merge-Strings-Alternately: [Python3](./Python3/LC-1768-Merge-Strings-Alternately.py)
