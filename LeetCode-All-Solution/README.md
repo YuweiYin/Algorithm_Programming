@@ -751,7 +751,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -769,6 +769,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique: [Python3](./Python3/LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique.py)
 - (-Easy-) LC-1652-Defuse-the-Bomb: [Python3](./Python3/LC-1652-Defuse-the-Bomb.py)
 - (-Easy-) LC-1656-Design-an-Ordered-Stream: [Python3](./Python3/LC-1656-Design-an-Ordered-Stream.py)
+- (Medium) LC-1657-Determine-if-Two-Strings-Are-Close: [Python3](./Python3/LC-1657-Determine-if-Two-Strings-Are-Close.py)
 - (Medium) LC-1658-Minimum-Operations-to-Reduce-X-to-Zero: [Python3](./Python3/LC-1658-Minimum-Operations-to-Reduce-X-to-Zero.py)
 - (-Easy-) LC-1662-Check-If-Two-String-Arrays-are-Equivalent: [Python3](./Python3/LC-1662-Check-If-Two-String-Arrays-are-Equivalent.py)
 - (Medium) LC-1663-Smallest-String-With-A-Given-Numeric-Value: [Python3](./Python3/LC-1663-Smallest-String-With-A-Given-Numeric-Value.py)
@@ -791,7 +792,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
@@ -809,6 +810,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
 - (-Easy-) LC-1768-Merge-Strings-Alternately: [Python3](./Python3/LC-1768-Merge-Strings-Alternately.py)
+- (Medium) LC-1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box: [Python3](./Python3/LC-1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box.py)
 - (Medium) LC-1770-Maximum-Score-from-Performing-Multiplication-Operations: [Python3](./Python3/LC-1770-Maximum-Score-from-Performing-Multiplication-Operations.py)
 - (-Easy-) LC-1773-Count-Items-Matching-a-Rule: [Python3](./Python3/LC-1773-Count-Items-Matching-a-Rule.py)
 - (-Easy-) LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate: [Python3](./Python3/LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)
