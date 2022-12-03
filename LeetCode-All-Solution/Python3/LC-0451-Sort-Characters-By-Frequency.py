@@ -53,6 +53,10 @@ class Solution:
         return self._frequencySort(s)
 
     def _frequencySort(self, s: str) -> str:
+        """
+        Runtime: 44 ms, faster than 94.03% of Python3 online submissions for Sort Characters By Frequency.
+        Memory Usage: 15.4 MB, less than 36.17% of Python3 online submissions for Sort Characters By Frequency.
+        """
         freq_counter = dict({})
         for ch in s:
             if ch not in freq_counter:

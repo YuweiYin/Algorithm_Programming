@@ -817,6 +817,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones: [Python3](./Python3/LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
 - (-Easy-) LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
+- (-Easy-) LC-1796-Second-Largest-Digit-in-a-String: [Python3](./Python3/LC-1796-Second-Largest-Digit-in-a-String.py)
 - (-Easy-) LC-1800-Maximum-Ascending-Subarray-Sum: [Python3](./Python3/LC-1800-Maximum-Ascending-Subarray-Sum.py)
 
 </details>
