@@ -813,6 +813,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box: [Python3](./Python3/LC-1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box.py)
 - (Medium) LC-1770-Maximum-Score-from-Performing-Multiplication-Operations: [Python3](./Python3/LC-1770-Maximum-Score-from-Performing-Multiplication-Operations.py)
 - (-Easy-) LC-1773-Count-Items-Matching-a-Rule: [Python3](./Python3/LC-1773-Count-Items-Matching-a-Rule.py)
+- (Medium) LC-1774-Closest-Dessert-Cost: [Python3](./Python3/LC-1774-Closest-Dessert-Cost.py)
 - (-Easy-) LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate: [Python3](./Python3/LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)
 - (-Easy-) LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones: [Python3](./Python3/LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
@@ -887,9 +888,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (1/100)</summary>
+<summary>Solution List (2/100)</summary>
 
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
+- (Medium) LC-2256-Minimum-Average-Difference: [Python3](./Python3/LC-2256-Minimum-Average-Difference.py)
 
 </details>
 
