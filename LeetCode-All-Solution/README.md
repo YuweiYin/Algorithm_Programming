@@ -751,7 +751,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (34/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -780,6 +780,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1679-Max-Number-of-K-Sum-Pairs: [Python3](./Python3/LC-1679-Max-Number-of-K-Sum-Pairs.py)
 - (Medium) LC-1680-Concatenation-of-Consecutive-Binary-Numbers: [Python3](./Python3/LC-1680-Concatenation-of-Consecutive-Binary-Numbers.py)
 - (-Easy-) LC-1684-Count-the-Number-of-Consistent-Strings: [Python3](./Python3/LC-1684-Count-the-Number-of-Consistent-Strings.py)
+- (-Hard-) LC-1687-Delivering-Boxes-from-Storage-to-Ports: [Python3](./Python3/LC-1687-Delivering-Boxes-from-Storage-to-Ports.py)
 - (-Easy-) LC-1688-Count-of-Matches-in-Tournament: [Python3](./Python3/LC-1688-Count-of-Matches-in-Tournament.py)
 - (Medium) LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers: [Python3](./Python3/LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.py)
 - (-Easy-) LC-1694-Reformat-Phone-Number: [Python3](./Python3/LC-1694-Reformat-Phone-Number.py)
