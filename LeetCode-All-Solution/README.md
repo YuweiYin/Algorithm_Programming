@@ -218,7 +218,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (45/100)</summary>
+<summary>Solution List (46/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -231,6 +231,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0322-Coin-Change: [Python3](./Python3/LC-0322-Coin-Change.py)
 - (Medium) LC-0324-Wiggle-Sort-II: [Python3](./Python3/LC-0324-Wiggle-Sort-II.py)
 - (-Easy-) LC-0326-Power-of-Three: [Python3](./Python3/LC-0326-Power-of-Three.py)
+- (Medium) LC-0328-Odd-Even-Linked-List: [Python3](./Python3/LC-0328-Odd-Even-Linked-List.py)
 - (-Hard-) LC-0329-Longest-Increasing-Path-in-a-Matrix: [Python3](./Python3/LC-0329-Longest-Increasing-Path-in-a-Matrix.py)
 - (Medium) LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
 - (-Hard-) LC-0336-Palindrome-Pairs: [Python3](./Python3/LC-0336-Palindrome-Pairs.py)
@@ -827,8 +828,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (3/100)</summary>
+<summary>Solution List (4/100)</summary>
 
+- (-Easy-) LC-1805-Number-of-Different-Integers-in-a-String: [Python3](./Python3/LC-1805-Number-of-Different-Integers-in-a-String.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
