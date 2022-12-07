@@ -541,7 +541,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (49/100)</summary>
+<summary>Solution List (50/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -565,6 +565,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0934-Shortest-Bridge: [Python3](./Python3/LC-0934-Shortest-Bridge.py)
 - (-Hard-) LC-0936-Stamping-The-Sequence: [Python3](./Python3/LC-0936-Stamping-The-Sequence.py)
 - (-Easy-) LC-0937-Reorder-Data-in-Log-Files: [Python3](./Python3/LC-0937-Reorder-Data-in-Log-Files.py)
+- (-Easy-) LC-0938-Range-Sum-of-BST: [Python3](./Python3/LC-0938-Range-Sum-of-BST.py)
 - (-Hard-) LC-0940-Distinct-Subsequences-II: [Python3](./Python3/LC-0940-Distinct-Subsequences-II.py)
 - (-Easy-) LC-0941-Valid-Mountain-Array: [Python3](./Python3/LC-0941-Valid-Mountain-Array.py)
 - (-Easy-) LC-0942-DI-String-Match: [Python3](./Python3/LC-0942-DI-String-Match.py)
@@ -794,7 +795,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
@@ -816,6 +817,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1770-Maximum-Score-from-Performing-Multiplication-Operations: [Python3](./Python3/LC-1770-Maximum-Score-from-Performing-Multiplication-Operations.py)
 - (-Easy-) LC-1773-Count-Items-Matching-a-Rule: [Python3](./Python3/LC-1773-Count-Items-Matching-a-Rule.py)
 - (Medium) LC-1774-Closest-Dessert-Cost: [Python3](./Python3/LC-1774-Closest-Dessert-Cost.py)
+- (Medium) LC-1775-Equal-Sum-Arrays-With-Minimum-Number-of-Operations: [Python3](./Python3/LC-1775-Equal-Sum-Arrays-With-Minimum-Number-of-Operations.py)
 - (-Easy-) LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate: [Python3](./Python3/LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)
 - (-Easy-) LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones: [Python3](./Python3/LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
