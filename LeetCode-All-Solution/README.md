@@ -481,7 +481,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (49/100)</summary>
+<summary>Solution List (50/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -521,6 +521,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0869-Reordered-Power-of-2: [Python3](./Python3/LC-0869-Reordered-Power-of-2.py)
 - (Medium) LC-0870-Advantage-Shuffle: [Python3](./Python3/LC-0870-Advantage-Shuffle.py)
 - (-Hard-) LC-0871-Minimum-Number-of-Refueling-Stops: [Python3](./Python3/LC-0871-Minimum-Number-of-Refueling-Stops.py)
+- (-Easy-) LC-0872-Leaf-Similar-Trees: [Python3](./Python3/LC-0872-Leaf-Similar-Trees.py)
 - (Medium) LC-0873-Length-of-Longest-Fibonacci-Subsequence: [Python3](./Python3/LC-0873-Length-of-Longest-Fibonacci-Subsequence.py)
 - (Medium) LC-0875-Koko-Eating-Bananas: [Python3](./Python3/LC-0875-Koko-Eating-Bananas.py)
 - (-Easy-) LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
@@ -830,9 +831,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (4/100)</summary>
+<summary>Solution List (5/100)</summary>
 
 - (-Easy-) LC-1805-Number-of-Different-Integers-in-a-String: [Python3](./Python3/LC-1805-Number-of-Different-Integers-in-a-String.py)
+- (-Easy-) LC-1812-Determine-Color-of-a-Chessboard-Square: [Python3](./Python3/LC-1812-Determine-Color-of-a-Chessboard-Square.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
