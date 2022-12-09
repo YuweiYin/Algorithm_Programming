@@ -600,7 +600,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -611,6 +611,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1020-Number-of-Enclaves: [Python3](./Python3/LC-1020-Number-of-Enclaves.py)
 - (-Easy-) LC-1021-Remove-Outermost-Parentheses: [Python3](./Python3/LC-1021-Remove-Outermost-Parentheses.py)
 - (-Easy-) LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers: [Python3](./Python3/LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers.py)
+- (Medium) LC-1026-Maximum-Difference-Between-Node-and-Ancestor: [Python3](./Python3/LC-1026-Maximum-Difference-Between-Node-and-Ancestor.py)
 - (Medium) LC-1029-Two-City-Scheduling: [Python3](./Python3/LC-1029-Two-City-Scheduling.py)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
 - (-Easy-) LC-1037-Valid-Boomerang: [Python3](./Python3/LC-1037-Valid-Boomerang.py)
@@ -796,7 +797,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
@@ -820,6 +821,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1774-Closest-Dessert-Cost: [Python3](./Python3/LC-1774-Closest-Dessert-Cost.py)
 - (Medium) LC-1775-Equal-Sum-Arrays-With-Minimum-Number-of-Operations: [Python3](./Python3/LC-1775-Equal-Sum-Arrays-With-Minimum-Number-of-Operations.py)
 - (-Easy-) LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate: [Python3](./Python3/LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)
+- (Medium) LC-1780-Check-if-Number-is-a-Sum-of-Powers-of-Three: [Python3](./Python3/LC-1780-Check-if-Number-is-a-Sum-of-Powers-of-Three.py)
 - (-Easy-) LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones: [Python3](./Python3/LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
 - (-Easy-) LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
