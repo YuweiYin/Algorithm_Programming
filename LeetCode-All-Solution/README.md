@@ -678,7 +678,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -690,6 +690,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1335-Minimum-Difficulty-of-a-Job-Schedule: [Python3](./Python3/LC-1335-Minimum-Difficulty-of-a-Job-Schedule.py)
 - (-Easy-) LC-1337-The-K-Weakest-Rows-in-a-Matrix: [Python3](./Python3/LC-1337-The-K-Weakest-Rows-in-a-Matrix.py)
 - (Medium) LC-1338-Reduce-Array-Size-to-The-Half: [Python3](./Python3/LC-1338-Reduce-Array-Size-to-The-Half.py)
+- (Medium) LC-1339-Maximum-Product-of-Splitted-Binary-Tree: [Python3](./Python3/LC-1339-Maximum-Product-of-Splitted-Binary-Tree.py)
 - (-Easy-) LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero: [Python3](./Python3/LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
 - (-Hard-) LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
 - (-Hard-) LC-1354-Construct-Target-Array-With-Multiple-Sums: [Python3](./Python3/LC-1354-Construct-Target-Array-With-Multiple-Sums.py)
@@ -755,7 +756,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -787,6 +788,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1687-Delivering-Boxes-from-Storage-to-Ports: [Python3](./Python3/LC-1687-Delivering-Boxes-from-Storage-to-Ports.py)
 - (-Easy-) LC-1688-Count-of-Matches-in-Tournament: [Python3](./Python3/LC-1688-Count-of-Matches-in-Tournament.py)
 - (Medium) LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers: [Python3](./Python3/LC-1689-Partitioning-Into-Minimum-Number-Of-Deci-Binary-Numbers.py)
+- (-Hard-) LC-1691-Maximum-Height-by-Stacking-Cuboids: [Python3](./Python3/LC-1691-Maximum-Height-by-Stacking-Cuboids.py)
 - (-Easy-) LC-1694-Reformat-Phone-Number: [Python3](./Python3/LC-1694-Reformat-Phone-Number.py)
 - (Medium) LC-1695-Maximum-Erasure-Value: [Python3](./Python3/LC-1695-Maximum-Erasure-Value.py)
 - (Medium) LC-1696-Jump-Game-VI: [Python3](./Python3/LC-1696-Jump-Game-VI.py)
