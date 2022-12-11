@@ -101,7 +101,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (54/100)</summary>
+<summary>Solution List (55/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -119,6 +119,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
 - (-Easy-) LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](./Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
 - (Medium) LC-0122-Best-Time-to-Buy-and-Sell-Stock-II: [Python3](./Python3/LC-0122-Best-Time-to-Buy-and-Sell-Stock-II.py)
+- (-Hard-) LC-0124-Binary-Tree-Maximum-Path-Sum: [Python3](./Python3/LC-0124-Binary-Tree-Maximum-Path-Sum.py)
 - (-Hard-) LC-0126-Word-Ladder-II: [Python3](./Python3/LC-0126-Word-Ladder-II.py)
 - (-Hard-) LC-0127-Word-Ladder: [Python3](./Python3/LC-0127-Word-Ladder.py)
 - (Medium) LC-0128-Longest-Consecutive-Sequence: [Python3](./Python3/LC-0128-Longest-Consecutive-Sequence.py)
@@ -835,12 +836,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (5/100)</summary>
+<summary>Solution List (6/100)</summary>
 
 - (-Easy-) LC-1805-Number-of-Different-Integers-in-a-String: [Python3](./Python3/LC-1805-Number-of-Different-Integers-in-a-String.py)
 - (-Easy-) LC-1812-Determine-Color-of-a-Chessboard-Square: [Python3](./Python3/LC-1812-Determine-Color-of-a-Chessboard-Square.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
+- (-Easy-) LC-1827-Minimum-Operations-to-Make-the-Array-Increasing: [Python3](./Python3/LC-1827-Minimum-Operations-to-Make-the-Array-Increasing.py)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
 
 </details>
