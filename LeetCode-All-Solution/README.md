@@ -757,7 +757,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (35/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -793,6 +793,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1694-Reformat-Phone-Number: [Python3](./Python3/LC-1694-Reformat-Phone-Number.py)
 - (Medium) LC-1695-Maximum-Erasure-Value: [Python3](./Python3/LC-1695-Maximum-Erasure-Value.py)
 - (Medium) LC-1696-Jump-Game-VI: [Python3](./Python3/LC-1696-Jump-Game-VI.py)
+- (-Hard-) LC-1697-Checking-Existence-of-Edge-Length-Limited-Paths: [Python3](./Python3/LC-1697-Checking-Existence-of-Edge-Length-Limited-Paths.py)
 - (-Easy-) LC-1700-Number-of-Students-Unable-to-Eat-Lunch: [Python3](./Python3/LC-1700-Number-of-Students-Unable-to-Eat-Lunch.py)
 
 </details>
