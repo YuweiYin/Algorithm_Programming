@@ -2,9 +2,9 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-1781-Sum-of-Beauty-of-All-Substrings.py
+@File    : LC-1697-Checking-Existence-of-Edge-Length-Limited-Paths.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
-@Date    : 2022-12-13
+@Date    : 2022-12-14
 =================================================================="""
 
 import sys
