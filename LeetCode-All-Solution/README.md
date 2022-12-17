@@ -101,7 +101,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (55/100)</summary>
+<summary>Solution List (56/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -138,6 +138,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0145-Binary-Tree-Postorder-Traversal: [Python3](./Python3/LC-0145-Binary-Tree-Postorder-Traversal.py)
 - (Medium) LC-0148-Sort-List: [Python3](./Python3/LC-0148-Sort-List.py)
 - (-Hard-) LC-0149-Max-Points-on-a-Line: [Python3](./Python3/LC-0149-Max-Points-on-a-Line.py)
+- (Medium) LC-0150-Evaluate-Reverse-Polish-Notation: [Python3](./Python3/LC-0150-Evaluate-Reverse-Polish-Notation.py)
 - (Medium) LC-0151-Reverse-Words-in-a-String: [Python3](./Python3/LC-0151-Reverse-Words-in-a-String.py)
 - (Medium) LC-0152-Maximum-Product-Subarray: [Python3](./Python3/LC-0152-Maximum-Product-Subarray.py)
 - (Medium) LC-0153-Find-Minimum-in-Rotated-Sorted-Array: [Python3](./Python3/LC-0153-Find-Minimum-in-Rotated-Sorted-Array.py)
@@ -801,7 +802,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
 - (Medium) LC-1706-Where-Will-the-Ball-Fall: [Python3](./Python3/LC-1706-Where-Will-the-Ball-Fall.py)
@@ -817,6 +818,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1752-Check-if-Array-Is-Sorted-and-Rotated: [Python3](./Python3/LC-1752-Check-if-Array-Is-Sorted-and-Rotated.py)
 - (-Easy-) LC-1758-Minimum-Changes-To-Make-Alternating-Binary-String: [Python3](./Python3/LC-1758-Minimum-Changes-To-Make-Alternating-Binary-String.py)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
+- (Medium) LC-1764-Form-Array-by-Concatenating-Subarrays-of-Another-Array: [Python3](./Python3/LC-1764-Form-Array-by-Concatenating-Subarrays-of-Another-Array.py)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
 - (-Easy-) LC-1768-Merge-Strings-Alternately: [Python3](./Python3/LC-1768-Merge-Strings-Alternately.py)
 - (Medium) LC-1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box: [Python3](./Python3/LC-1769-Minimum-Number-of-Operations-to-Move-All-Balls-to-Each-Box.py)
@@ -828,6 +830,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1780-Check-if-Number-is-a-Sum-of-Powers-of-Three: [Python3](./Python3/LC-1780-Check-if-Number-is-a-Sum-of-Powers-of-Three.py)
 - (Medium) LC-1781-Sum-of-Beauty-of-All-Substrings: [Python3](./Python3/LC-1781-Sum-of-Beauty-of-All-Substrings.py)
 - (-Easy-) LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones: [Python3](./Python3/LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)
+- (Medium) LC-1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum: [Python3](./Python3/LC-1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum.py)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
 - (-Easy-) LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
 - (-Easy-) LC-1796-Second-Largest-Digit-in-a-String: [Python3](./Python3/LC-1796-Second-Largest-Digit-in-a-String.py)
