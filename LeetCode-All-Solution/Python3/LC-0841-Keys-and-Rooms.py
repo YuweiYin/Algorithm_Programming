@@ -60,8 +60,8 @@ class Solution:
 
     def _canVisitAllRooms(self, rooms: List[List[int]]) -> bool:
         """
-        Runtime: 72 ms, faster than 82.59% of Python3 online submissions for Keys and Rooms.
-        Memory Usage: 14.5 MB, less than 35.54% of Python3 online submissions for Keys and Rooms.
+        Runtime: 67 ms, faster than 93.24% of Python3 online submissions for Keys and Rooms.
+        Memory Usage: 14.4 MB, less than 87.64% of Python3 online submissions for Keys and Rooms.
         """
         bfs_queue = collections.deque()
         visited = set()
