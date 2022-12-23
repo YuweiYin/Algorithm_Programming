@@ -71,6 +71,9 @@ class Solution:
         return self._maxProfit(prices)
 
     def _maxProfit(self, prices: List[int]) -> int:
+        """
+        Time: beats 98.36%; Space: beats 46.18%
+        """
         len_prices = len(prices)
         assert len_prices >= 2
 

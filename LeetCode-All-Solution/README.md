@@ -876,10 +876,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2007-Find-Original-Array-From-Doubled-Array: [Python3](./Python3/LC-2007-Find-Original-Array-From-Doubled-Array.py)
+- (-Easy-) LC-2011-Final-Value-of-Variable-After-Performing-Operations: [Python3](./Python3/LC-2011-Final-Value-of-Variable-After-Performing-Operations.py)
 - (Medium) LC-2013-Detect-Squares: [Python3](./Python3/LC-2013-Detect-Squares.py)
 - (-Easy-) LC-2016-Maximum-Difference-Between-Increasing-Elements: [Python3](./Python3/LC-2016-Maximum-Difference-Between-Increasing-Elements.py)
 - (-Easy-) LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
