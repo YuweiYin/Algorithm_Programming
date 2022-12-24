@@ -804,7 +804,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (-Hard-) LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones: [Python3](./Python3/LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones.py)
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
@@ -820,6 +820,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
 - (-Easy-) LC-1752-Check-if-Array-Is-Sorted-and-Rotated: [Python3](./Python3/LC-1752-Check-if-Array-Is-Sorted-and-Rotated.py)
 - (Medium) LC-1753-Maximum-Score-From-Removing-Stones: [Python3](./Python3/LC-1753-Maximum-Score-From-Removing-Stones.py)
+- (Medium) LC-1754-Largest-Merge-Of-Two-Strings: [Python3](./Python3/LC-1754-Largest-Merge-Of-Two-Strings.py)
 - (-Easy-) LC-1758-Minimum-Changes-To-Make-Alternating-Binary-String: [Python3](./Python3/LC-1758-Minimum-Changes-To-Make-Alternating-Binary-String.py)
 - (Medium) LC-1760-Minimum-Limit-of-Balls-in-a-Bag: [Python3](./Python3/LC-1760-Minimum-Limit-of-Balls-in-a-Bag.py)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)

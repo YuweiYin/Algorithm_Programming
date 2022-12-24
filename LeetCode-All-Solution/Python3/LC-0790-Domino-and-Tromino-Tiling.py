@@ -48,6 +48,9 @@ class Solution:
         return self._numTilings(n)
 
     def _numTilings(self, n: int) -> int:
+        """
+        Time: beats 74.29%; Space: beats 60.63%
+        """
         assert isinstance(n, int) and n >= 1
 
         MOD = int(1e9+7)
