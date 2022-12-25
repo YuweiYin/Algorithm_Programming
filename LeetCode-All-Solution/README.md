@@ -804,7 +804,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (-Hard-) LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones: [Python3](./Python3/LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones.py)
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
@@ -816,6 +816,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square: [Python3](./Python3/LC-1725-Number-Of-Rectangles-That-Can-Form-The-Largest-Square.py)
 - (-Hard-) LC-1728-Cat-and-Mouse-II: [Python3](./Python3/LC-1728-Cat-and-Mouse-II.py)
 - (-Easy-) LC-1732-Find-the-Highest-Altitude: [Python3](./Python3/LC-1732-Find-the-Highest-Altitude.py)
+- (-Hard-) LC-1739-Building-Boxes: [Python3](./Python3/LC-1739-Building-Boxes.py)
 - (-Easy-) LC-1742-Maximum-Number-of-Balls-in-a-Box: [Python3](./Python3/LC-1742-Maximum-Number-of-Balls-in-a-Box.py)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
 - (-Easy-) LC-1752-Check-if-Array-Is-Sorted-and-Rotated: [Python3](./Python3/LC-1752-Check-if-Array-Is-Sorted-and-Rotated.py)
@@ -920,6 +921,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (Medium) LC-2256-Minimum-Average-Difference: [Python3](./Python3/LC-2256-Minimum-Average-Difference.py)
+
+### LeetCode 2301 - 2400
+
+<details>
+<summary>Solution List (1/100)</summary>
+
+- (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
 
 </details>
 
