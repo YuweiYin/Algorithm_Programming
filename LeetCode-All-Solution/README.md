@@ -879,7 +879,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2007-Find-Original-Array-From-Doubled-Array: [Python3](./Python3/LC-2007-Find-Original-Array-From-Doubled-Array.py)
@@ -888,6 +888,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2016-Maximum-Difference-Between-Increasing-Elements: [Python3](./Python3/LC-2016-Maximum-Difference-Between-Increasing-Elements.py)
 - (-Easy-) LC-2022-Convert-1D-Array-Into-2D-Array: [Python3](./Python3/LC-2022-Convert-1D-Array-Into-2D-Array.py)
 - (Medium) LC-2024-Maximize-the-Confusion-of-an-Exam: [Python3](./Python3/LC-2024-Maximize-the-Confusion-of-an-Exam.py)
+- (-Easy-) LC-2027-Minimum-Moves-to-Convert-String: [Python3](./Python3/LC-2027-Minimum-Moves-to-Convert-String.py)
 - (Medium) LC-2028-Find-Missing-Observations: [Python3](./Python3/LC-2028-Find-Missing-Observations.py)
 - (Medium) LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
 - (Medium) LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)
@@ -918,10 +919,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (2/100)</summary>
+<summary>Solution List (3/100)</summary>
 
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (Medium) LC-2256-Minimum-Average-Difference: [Python3](./Python3/LC-2256-Minimum-Average-Difference.py)
+- (Medium) LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks: [Python3](./Python3/LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks.py)
 
 ### LeetCode 2301 - 2400
 
