@@ -804,7 +804,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (34/100)</summary>
 
 - (-Hard-) LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones: [Python3](./Python3/LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones.py)
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
@@ -819,6 +819,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1739-Building-Boxes: [Python3](./Python3/LC-1739-Building-Boxes.py)
 - (-Easy-) LC-1742-Maximum-Number-of-Balls-in-a-Box: [Python3](./Python3/LC-1742-Maximum-Number-of-Balls-in-a-Box.py)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
+- (Medium) LC-1750-Minimum-Length-of-String-After-Deleting-Similar-Ends: [Python3](./Python3/LC-1750-Minimum-Length-of-String-After-Deleting-Similar-Ends.py)
 - (-Easy-) LC-1752-Check-if-Array-Is-Sorted-and-Rotated: [Python3](./Python3/LC-1752-Check-if-Array-Is-Sorted-and-Rotated.py)
 - (Medium) LC-1753-Maximum-Score-From-Removing-Stones: [Python3](./Python3/LC-1753-Maximum-Score-From-Removing-Stones.py)
 - (Medium) LC-1754-Largest-Merge-Of-Two-Strings: [Python3](./Python3/LC-1754-Largest-Merge-Of-Two-Strings.py)
@@ -864,10 +865,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1901 - 2000
 
 <details>
-<summary>Solution List (7/100)</summary>
+<summary>Solution List (8/100)</summary>
 
 - (Medium) LC-1926-Nearest-Exit-from-Entrance-in-Maze: [Python3](./Python3/LC-1926-Nearest-Exit-from-Entrance-in-Maze.py)
 - (-Easy-) LC-1945-Sum-of-Digits-of-String-After-Convert: [Python3](./Python3/LC-1945-Sum-of-Digits-of-String-After-Convert.py)
+- (Medium) LC-1962-Remove-Stones-to-Minimize-the-Total: [Python3](./Python3/LC-1962-Remove-Stones-to-Minimize-the-Total.py)
 - (-Easy-) LC-1971-Find-if-Path-Exists-in-Graph: [Python3](./Python3/LC-1971-Find-if-Path-Exists-in-Graph.py)
 - (-Easy-) LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores: [Python3](./Python3/LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.py)
 - (-Hard-) LC-1994-The-Number-of-Good-Subsets: [Python3](./Python3/LC-1994-The-Number-of-Good-Subsets.py)
