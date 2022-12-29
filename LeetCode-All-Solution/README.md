@@ -851,7 +851,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (6/100)</summary>
+<summary>Solution List (7/100)</summary>
 
 - (-Easy-) LC-1805-Number-of-Different-Integers-in-a-String: [Python3](./Python3/LC-1805-Number-of-Different-Integers-in-a-String.py)
 - (-Easy-) LC-1812-Determine-Color-of-a-Chessboard-Square: [Python3](./Python3/LC-1812-Determine-Color-of-a-Chessboard-Square.py)
@@ -859,6 +859,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
 - (-Easy-) LC-1827-Minimum-Operations-to-Make-the-Array-Increasing: [Python3](./Python3/LC-1827-Minimum-Operations-to-Make-the-Array-Increasing.py)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
+- (Medium) LC-1834-Single-Threaded-CPU: [Python3](./Python3/LC-1834-Single-Threaded-CPU.py)
 
 </details>
 
@@ -881,7 +882,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2007-Find-Original-Array-From-Doubled-Array: [Python3](./Python3/LC-2007-Find-Original-Array-From-Doubled-Array.py)
@@ -893,6 +894,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2027-Minimum-Moves-to-Convert-String: [Python3](./Python3/LC-2027-Minimum-Moves-to-Convert-String.py)
 - (Medium) LC-2028-Find-Missing-Observations: [Python3](./Python3/LC-2028-Find-Missing-Observations.py)
 - (Medium) LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
+- (-Easy-) LC-2032-Two-Out-of-Three: [Python3](./Python3/LC-2032-Two-Out-of-Three.py)
 - (Medium) LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)
 - (Medium) LC-2038-Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color: [Python3](./Python3/LC-2038-Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color.py)
 - (Medium) LC-2039-The-Time-When-the-Network-Becomes-Idle: [Python3](./Python3/LC-2039-The-Time-When-the-Network-Becomes-Idle.py)
