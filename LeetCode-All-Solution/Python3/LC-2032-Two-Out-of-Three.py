@@ -2,7 +2,7 @@
 # -*- coding:utf-8 -*-
 """=================================================================
 @Project : Algorithm_YuweiYin/LeetCode-All-Solution/Python3
-@File    : LC-2032-Two-Out-of-Three:.py
+@File    : LC-2032-Two-Out-of-Three.py
 @Author  : [YuweiYin](https://github.com/YuweiYin)
 @Date    : 2022-12-29
 =================================================================="""

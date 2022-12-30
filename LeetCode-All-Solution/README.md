@@ -484,7 +484,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (51/100)</summary>
+<summary>Solution List (52/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -515,6 +515,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0849-Maximize-Distance-to-Closest-Person: [Python3](./Python3/LC-0849-Maximize-Distance-to-Closest-Person.py)
 - (-Hard-) LC-0850-Rectangle-Area-II: [Python3](./Python3/LC-0850-Rectangle-Area-II.py)
 - (-Hard-) LC-0854-K-Similar-Strings: [Python3](./Python3/LC-0854-K-Similar-Strings.py)
+- (Medium) LC-0855-Exam-Room: [Python3](./Python3/LC-0855-Exam-Room.py)
 - (Medium) LC-0856-Score-of-Parentheses: [Python3](./Python3/LC-0856-Score-of-Parentheses.py)
 - (-Hard-) LC-0857-Minimum-Cost-to-Hire-K-Workers: [Python3](./Python3/LC-0857-Minimum-Cost-to-Hire-K-Workers.py)
 - (Medium) LC-0858-Mirror-Reflection: [Python3](./Python3/LC-0858-Mirror-Reflection.py)
