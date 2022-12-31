@@ -547,7 +547,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (50/100)</summary>
+<summary>Solution List (51/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -590,6 +590,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](./Python3/LC-0973-K-Closest-Points-to-Origin.py)
 - (-Easy-) LC-0976-Largest-Perimeter-Triangle: [Python3](./Python3/LC-0976-Largest-Perimeter-Triangle.py)
 - (-Easy-) LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
+- (-Hard-) LC-0980-Unique-Paths-III: [Python3](./Python3/LC-0980-Unique-Paths-III.py)
 - (Medium) LC-0981-Time-Based-Key-Value-Store: [Python3](./Python3/LC-0981-Time-Based-Key-Value-Store.py)
 - (Medium) LC-0985-Sum-of-Even-Numbers-After-Queries: [Python3](./Python3/LC-0985-Sum-of-Even-Numbers-After-Queries.py)
 - (Medium) LC-0986-Interval-List-Intersections: [Python3](./Python3/LC-0986-Interval-List-Intersections.py)
@@ -883,7 +884,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2007-Find-Original-Array-From-Doubled-Array: [Python3](./Python3/LC-2007-Find-Original-Array-From-Doubled-Array.py)
@@ -897,6 +898,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2029-Stone-Game-IX: [Python3](./Python3/LC-2029-Stone-Game-IX.py)
 - (-Easy-) LC-2032-Two-Out-of-Three: [Python3](./Python3/LC-2032-Two-Out-of-Three.py)
 - (Medium) LC-2034-Stock-Price-Fluctuation: [Python3](./Python3/LC-2034-Stock-Price-Fluctuation.py)
+- (-Easy-) LC-2037-Minimum-Number-of-Moves-to-Seat-Everyone: [Python3](./Python3/LC-2037-Minimum-Number-of-Moves-to-Seat-Everyone.py)
 - (Medium) LC-2038-Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color: [Python3](./Python3/LC-2038-Remove-Colored-Pieces-if-Both-Neighbors-are-the-Same-Color.py)
 - (Medium) LC-2039-The-Time-When-the-Network-Becomes-Idle: [Python3](./Python3/LC-2039-The-Time-When-the-Network-Becomes-Idle.py)
 - (Medium) LC-2043-Simple-Bank-System: [Python3](./Python3/LC-2043-Simple-Bank-System.py)
