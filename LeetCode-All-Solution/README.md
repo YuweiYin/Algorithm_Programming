@@ -853,8 +853,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (7/100)</summary>
+<summary>Solution List (8/100)</summary>
 
+- (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (-Easy-) LC-1805-Number-of-Different-Integers-in-a-String: [Python3](./Python3/LC-1805-Number-of-Different-Integers-in-a-String.py)
 - (-Easy-) LC-1812-Determine-Color-of-a-Chessboard-Square: [Python3](./Python3/LC-1812-Determine-Color-of-a-Chessboard-Square.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
