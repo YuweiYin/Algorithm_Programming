@@ -853,9 +853,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (8/100)</summary>
+<summary>Solution List (9/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
+- (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
 - (-Easy-) LC-1805-Number-of-Different-Integers-in-a-String: [Python3](./Python3/LC-1805-Number-of-Different-Integers-in-a-String.py)
 - (-Easy-) LC-1812-Determine-Color-of-a-Chessboard-Square: [Python3](./Python3/LC-1812-Determine-Color-of-a-Chessboard-Square.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
@@ -928,9 +929,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (3/100)</summary>
+<summary>Solution List (4/100)</summary>
 
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
+- (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
 - (Medium) LC-2256-Minimum-Average-Difference: [Python3](./Python3/LC-2256-Minimum-Average-Difference.py)
 - (Medium) LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks: [Python3](./Python3/LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks.py)
 
