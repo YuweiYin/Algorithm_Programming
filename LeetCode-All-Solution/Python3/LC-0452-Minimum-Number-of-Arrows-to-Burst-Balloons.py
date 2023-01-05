@@ -69,6 +69,9 @@ class Solution:
         return self._findMinArrowShots(points)
 
     def _findMinArrowShots(self, points: List[List[int]]) -> int:
+        """
+        Time: beats 84.86%; Space: beats 70.29%
+        """
         len_points = len(points)
         assert len_points > 1
 
