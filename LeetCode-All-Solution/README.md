@@ -853,7 +853,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -864,6 +864,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
 - (-Easy-) LC-1827-Minimum-Operations-to-Make-the-Array-Increasing: [Python3](./Python3/LC-1827-Minimum-Operations-to-Make-the-Array-Increasing.py)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
+- (Medium) LC-1833-Maximum-Ice-Cream-Bars: [Python3](./Python3/LC-1833-Maximum-Ice-Cream-Bars.py)
 - (Medium) LC-1834-Single-Threaded-CPU: [Python3](./Python3/LC-1834-Single-Threaded-CPU.py)
 
 </details>
@@ -919,11 +920,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2101 - 2200
 
 <details>
-<summary>Solution List (3/100)</summary>
+<summary>Solution List (4/100)</summary>
 
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
 - (Medium) LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words: [Python3](./Python3/LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py)
 - (-Hard-) LC-2136-Earliest-Possible-Day-of-Full-Bloom: [Python3](./Python3/LC-2136-Earliest-Possible-Day-of-Full-Bloom.py)
+- (-Easy-) LC-2180-Count-Integers-With-Even-Digit-Sum: [Python3](./Python3/LC-2180-Count-Integers-With-Even-Digit-Sum.py)
 
 </details>
 
