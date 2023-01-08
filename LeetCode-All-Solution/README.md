@@ -921,12 +921,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2101 - 2200
 
 <details>
-<summary>Solution List (4/100)</summary>
+<summary>Solution List (5/100)</summary>
 
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
 - (Medium) LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words: [Python3](./Python3/LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py)
 - (-Hard-) LC-2136-Earliest-Possible-Day-of-Full-Bloom: [Python3](./Python3/LC-2136-Earliest-Possible-Day-of-Full-Bloom.py)
 - (-Easy-) LC-2180-Count-Integers-With-Even-Digit-Sum: [Python3](./Python3/LC-2180-Count-Integers-With-Even-Digit-Sum.py)
+- (-Easy-) LC-2185-Counting-Words-With-a-Given-Prefix: [Python3](./Python3/LC-2185-Counting-Words-With-a-Given-Prefix.py)
 
 </details>
 
