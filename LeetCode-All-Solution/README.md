@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (83/100)</summary>
+<summary>Solution List (84/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -96,6 +96,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0097-Interleaving-String: [Python3](./Python3/LC-0097-Interleaving-String.py)
 - (Medium) LC-0098-Validate-Binary-Search-Tree: [Python3](./Python3/LC-0098-Validate-Binary-Search-Tree.py)
 - (Medium) LC-0099-Recover-Binary-Search-Tree: [Python3](./Python3/LC-0099-Recover-Binary-Search-Tree.py)
+- (-Easy-) LC-0100-Same-Tree: [Python3](./Python3/LC-0100-Same-Tree.py)
 
 </details>
 
@@ -420,7 +421,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (57/100)</summary>
+<summary>Solution List (58/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -453,6 +454,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0746-Min-Cost-Climbing-Stairs: [Python3](./Python3/LC-0746-Min-Cost-Climbing-Stairs.py)
 - (-Easy-) LC-0747-Largest-Number-At-Least-Twice-of-Others: [Python3](./Python3/LC-0747-Largest-Number-At-Least-Twice-of-Others.py)
 - (-Hard-) LC-0749-Contain-Virus: [Python3](./Python3/LC-0749-Contain-Virus.py)
+- (-Hard-) LC-0753-Cracking-the-Safe: [Python3](./Python3/LC-0753-Cracking-the-Safe.py)
 - (Medium) LC-0754-Reach-a-Number: [Python3](./Python3/LC-0754-Reach-a-Number.py)
 - (-Hard-) LC-0757-Set-Intersection-Size-At-Least-Two: [Python3](./Python3/LC-0757-Set-Intersection-Size-At-Least-Two.py)
 - (-Hard-) LC-0761-Special-Binary-String: [Python3](./Python3/LC-0761-Special-Binary-String.py)
