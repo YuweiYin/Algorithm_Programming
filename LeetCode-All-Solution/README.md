@@ -715,7 +715,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
@@ -726,6 +726,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1422-Maximum-Score-After-Splitting-a-String: [Python3](./Python3/LC-1422-Maximum-Score-After-Splitting-a-String.py)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
 - (Medium) LC-1441-Build-an-Array-With-Stack-Operations: [Python3](./Python3/LC-1441-Build-an-Array-With-Stack-Operations.py)
+- (Medium) LC-1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree: [Python3](./Python3/LC-1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree.py)
 - (Medium) LC-1447-Simplified-Fractions: [Python3](./Python3/LC-1447-Simplified-Fractions.py)
 - (Medium) LC-1448-Count-Good-Nodes-in-Binary-Tree: [Python3](./Python3/LC-1448-Count-Good-Nodes-in-Binary-Tree.py)
 - (-Easy-) LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time: [Python3](./Python3/LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time.py)
@@ -937,12 +938,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (4/100)</summary>
+<summary>Solution List (5/100)</summary>
 
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
 - (Medium) LC-2256-Minimum-Average-Difference: [Python3](./Python3/LC-2256-Minimum-Average-Difference.py)
 - (Medium) LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks: [Python3](./Python3/LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks.py)
+- (-Easy-) LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value: [Python3](./Python3/LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value.py)
 
 ### LeetCode 2301 - 2400
 
