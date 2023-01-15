@@ -609,7 +609,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -630,6 +630,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1047-Remove-All-Adjacent-Duplicates-In-String: [Python3](./Python3/LC-1047-Remove-All-Adjacent-Duplicates-In-String.py)
 - (Medium) LC-1048-Longest-String-Chain: [Python3](./Python3/LC-1048-Longest-String-Chain.py)
 - (-Easy-) LC-1051-Height-Checker: [Python3](./Python3/LC-1051-Height-Checker.py)
+- (Medium) LC-1061-Lexicographically-Smallest-Equivalent-String: [Python3](./Python3/LC-1061-Lexicographically-Smallest-Equivalent-String.py)
 - (-Hard-) LC-1074-Number-of-Submatrices-That-Sum-to-Target: [Python3](./Python3/LC-1074-Number-of-Submatrices-That-Sum-to-Target.py)
 - (Medium) LC-1081-Smallest-Subsequence-of-Distinct-Characters: [Python3](./Python3/LC-1081-Smallest-Subsequence-of-Distinct-Characters.py)
 - (-Easy-) LC-1089-Duplicate-Zeros: [Python3](./Python3/LC-1089-Duplicate-Zeros.py)
@@ -858,7 +859,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -867,6 +868,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation: [Python3](./Python3/LC-1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation.py)
 - (Medium) LC-1807-Evaluate-the-Bracket-Pairs-of-a-String: [Python3](./Python3/LC-1807-Evaluate-the-Bracket-Pairs-of-a-String.py)
 - (-Easy-) LC-1812-Determine-Color-of-a-Chessboard-Square: [Python3](./Python3/LC-1812-Determine-Color-of-a-Chessboard-Square.py)
+- (-Hard-) LC-1819-Number-of-Different-Subsequences-GCDs: [Python3](./Python3/LC-1819-Number-of-Different-Subsequences-GCDs.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
 - (-Easy-) LC-1827-Minimum-Operations-to-Make-the-Array-Increasing: [Python3](./Python3/LC-1827-Minimum-Operations-to-Make-the-Array-Increasing.py)
@@ -940,7 +942,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (7/100)</summary>
+<summary>Solution List (8/100)</summary>
 
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
@@ -949,6 +951,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks: [Python3](./Python3/LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks.py)
 - (-Easy-) LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value: [Python3](./Python3/LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value.py)
 - (-Easy-) LC-2287-Rearrange-Characters-to-Make-Target-String: [Python3](./Python3/LC-2287-Rearrange-Characters-to-Make-Target-String.py)
+- (-Easy-) LC-2293-Min-Max-Game: [Python3](./Python3/LC-2293-Min-Max-Game.py)
 
 ### LeetCode 2301 - 2400
 
@@ -957,6 +960,15 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - (-Easy-) LC-2351-First-Letter-to-Appear-Twice: [Python3](./Python3/LC-2351-First-Letter-to-Appear-Twice.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
+
+</details>
+
+### LeetCode 2401 - 2500
+
+<details>
+<summary>Solution List (1/100)</summary>
+
+- (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
 
 </details>
 
