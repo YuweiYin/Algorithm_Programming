@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (84/100)</summary>
+<summary>Solution List (85/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -64,6 +64,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0053-Maximum-Subarray: [Python3](./Python3/LC-0053-Maximum-Subarray.py)
 - (Medium) LC-0055-Jump-Game: [Python3](./Python3/LC-0055-Jump-Game.py)
 - (Medium) LC-0056-Merge-Intervals: [Python3](./Python3/LC-0056-Merge-Intervals.py)
+- (Medium) LC-0057-Insert-Interval: [Python3](./Python3/LC-0057-Insert-Interval.py)
 - (Medium) LC-0059-Spiral-Matrix-II: [Python3](./Python3/LC-0059-Spiral-Matrix-II.py)
 - (Medium) LC-0061-Rotate-List: [Python3](./Python3/LC-0061-Rotate-List.py)
 - (Medium) LC-0062-Unique-Paths: [Python3](./Python3/LC-0062-Unique-Paths.py)
@@ -859,7 +860,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -868,6 +869,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation: [Python3](./Python3/LC-1806-Minimum-Number-of-Operations-to-Reinitialize-a-Permutation.py)
 - (Medium) LC-1807-Evaluate-the-Bracket-Pairs-of-a-String: [Python3](./Python3/LC-1807-Evaluate-the-Bracket-Pairs-of-a-String.py)
 - (-Easy-) LC-1812-Determine-Color-of-a-Chessboard-Square: [Python3](./Python3/LC-1812-Determine-Color-of-a-Chessboard-Square.py)
+- (Medium) LC-1813-Sentence-Similarity-III: [Python3](./Python3/LC-1813-Sentence-Similarity-III.py)
 - (-Hard-) LC-1819-Number-of-Different-Subsequences-GCDs: [Python3](./Python3/LC-1819-Number-of-Different-Subsequences-GCDs.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
