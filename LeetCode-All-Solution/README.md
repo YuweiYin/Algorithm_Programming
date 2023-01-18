@@ -860,7 +860,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -874,6 +874,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1819-Number-of-Different-Subsequences-GCDs: [Python3](./Python3/LC-1819-Number-of-Different-Subsequences-GCDs.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
+- (-Hard-) LC-1825-Finding-MK-Average: [Python3](./Python3/LC-1825-Finding-MK-Average.py)
 - (-Easy-) LC-1827-Minimum-Operations-to-Make-the-Array-Increasing: [Python3](./Python3/LC-1827-Minimum-Operations-to-Make-the-Array-Increasing.py)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
 - (Medium) LC-1833-Maximum-Ice-Cream-Bars: [Python3](./Python3/LC-1833-Maximum-Ice-Cream-Bars.py)
