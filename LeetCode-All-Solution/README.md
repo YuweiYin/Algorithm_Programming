@@ -551,7 +551,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (51/100)</summary>
+<summary>Solution List (52/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -592,6 +592,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0968-Binary-Tree-Cameras: [Python3](./Python3/LC-0968-Binary-Tree-Cameras.py)
 - (Medium) LC-0969-Pancake-Sorting: [Python3](./Python3/LC-0969-Pancake-Sorting.py)
 - (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](./Python3/LC-0973-K-Closest-Points-to-Origin.py)
+- (Medium) LC-0974-Subarray-Sums-Divisible-by-K: [Python3](./Python3/LC-0974-Subarray-Sums-Divisible-by-K.py)
 - (-Easy-) LC-0976-Largest-Perimeter-Triangle: [Python3](./Python3/LC-0976-Largest-Perimeter-Triangle.py)
 - (-Easy-) LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
 - (-Hard-) LC-0980-Unique-Paths-III: [Python3](./Python3/LC-0980-Unique-Paths-III.py)
@@ -946,7 +947,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (8/100)</summary>
+<summary>Solution List (9/100)</summary>
 
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
@@ -956,6 +957,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value: [Python3](./Python3/LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value.py)
 - (-Easy-) LC-2287-Rearrange-Characters-to-Make-Target-String: [Python3](./Python3/LC-2287-Rearrange-Characters-to-Make-Target-String.py)
 - (-Easy-) LC-2293-Min-Max-Game: [Python3](./Python3/LC-2293-Min-Max-Game.py)
+- (-Easy-) LC-2299-Strong-Password-Checker-II: [Python3](./Python3/LC-2299-Strong-Password-Checker-II.py)
 
 ### LeetCode 2301 - 2400
 
