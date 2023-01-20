@@ -277,7 +277,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (Medium) LC-0406-Queue-Reconstruction-by-Height: [Python3](./Python3/LC-0406-Queue-Reconstruction-by-Height.py)
@@ -314,6 +314,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0478-Generate-Random-Point-in-a-Circle: [Python3](./Python3/LC-0478-Generate-Random-Point-in-a-Circle.py)
 - (-Hard-) LC-0479-Largest-Palindrome-Product: [Python3](./Python3/LC-0479-Largest-Palindrome-Product.py)
 - (Medium) LC-0481-Magical-String: [Python3](./Python3/LC-0481-Magical-String.py)
+- (Medium) LC-0491-Non-decreasing-Subsequences: [Python3](./Python3/LC-0491-Non-decreasing-Subsequences.py)
 - (Medium) LC-0497-Random-Point-in-Non-overlapping-Rectangles: [Python3](./Python3/LC-0497-Random-Point-in-Non-overlapping-Rectangles.py)
 - (Medium) LC-0498-Diagonal-Traverse: [Python3](./Python3/LC-0498-Diagonal-Traverse.py)
 
@@ -861,7 +862,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -872,6 +873,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1812-Determine-Color-of-a-Chessboard-Square: [Python3](./Python3/LC-1812-Determine-Color-of-a-Chessboard-Square.py)
 - (Medium) LC-1813-Sentence-Similarity-III: [Python3](./Python3/LC-1813-Sentence-Similarity-III.py)
 - (Medium) LC-1814-Count-Nice-Pairs-in-an-Array: [Python3](./Python3/LC-1814-Count-Nice-Pairs-in-an-Array.py)
+- (Medium) LC-1817-Finding-the-Users-Active-Minutes: [Python3](./Python3/LC-1817-Finding-the-Users-Active-Minutes.py)
 - (-Hard-) LC-1819-Number-of-Different-Subsequences-GCDs: [Python3](./Python3/LC-1819-Number-of-Different-Subsequences-GCDs.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
