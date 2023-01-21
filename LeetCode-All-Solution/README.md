@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (85/100)</summary>
+<summary>Solution List (86/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -92,6 +92,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0090-Subsets-II: [Python3](./Python3/LC-0090-Subsets-II.py)
 - (Medium) LC-0091-Decode-Ways: [Python3](./Python3/LC-0091-Decode-Ways.py)
 - (Medium) LC-0092-Reverse-Linked-List-II: [Python3](./Python3/LC-0092-Reverse-Linked-List-II.py)
+- (Medium) LC-0093-Restore-IP-Addresses: [Python3](./Python3/LC-0093-Restore-IP-Addresses.py)
 - (-Easy-) LC-0094-Binary-Tree-Inorder-Traversal: [Python3](./Python3/LC-0094-Binary-Tree-Inorder-Traversal.py)
 - (Medium) LC-0096-Unique-Binary-Search-Trees: [Python3](./Python3/LC-0096-Unique-Binary-Search-Trees.py)
 - (Medium) LC-0097-Interleaving-String: [Python3](./Python3/LC-0097-Interleaving-String.py)
@@ -862,7 +863,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -877,6 +878,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1819-Number-of-Different-Subsequences-GCDs: [Python3](./Python3/LC-1819-Number-of-Different-Subsequences-GCDs.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
 - (Medium) LC-1823-Find-the-Winner-of-the-Circular-Game: [Python3](./Python3/LC-1823-Find-the-Winner-of-the-Circular-Game.py)
+- (Medium) LC-1824-Minimum-Sideway-Jumps: [Python3](./Python3/LC-1824-Minimum-Sideway-Jumps.py)
 - (-Hard-) LC-1825-Finding-MK-Average: [Python3](./Python3/LC-1825-Finding-MK-Average.py)
 - (-Easy-) LC-1827-Minimum-Operations-to-Make-the-Array-Increasing: [Python3](./Python3/LC-1827-Minimum-Operations-to-Make-the-Array-Increasing.py)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
