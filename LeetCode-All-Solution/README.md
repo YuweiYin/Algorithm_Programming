@@ -863,7 +863,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -874,6 +874,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1812-Determine-Color-of-a-Chessboard-Square: [Python3](./Python3/LC-1812-Determine-Color-of-a-Chessboard-Square.py)
 - (Medium) LC-1813-Sentence-Similarity-III: [Python3](./Python3/LC-1813-Sentence-Similarity-III.py)
 - (Medium) LC-1814-Count-Nice-Pairs-in-an-Array: [Python3](./Python3/LC-1814-Count-Nice-Pairs-in-an-Array.py)
+- (-Hard-) LC-1815-Maximum-Number-of-Groups-Getting-Fresh-Donuts: [Python3](./Python3/LC-1815-Maximum-Number-of-Groups-Getting-Fresh-Donuts.py)
 - (Medium) LC-1817-Finding-the-Users-Active-Minutes: [Python3](./Python3/LC-1817-Finding-the-Users-Active-Minutes.py)
 - (-Hard-) LC-1819-Number-of-Different-Subsequences-GCDs: [Python3](./Python3/LC-1819-Number-of-Different-Subsequences-GCDs.py)
 - (-Easy-) LC-1822-Sign-of-the-Product-of-an-Array: [Python3](./Python3/LC-1822-Sign-of-the-Product-of-an-Array.py)
