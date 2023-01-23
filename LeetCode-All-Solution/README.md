@@ -967,8 +967,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (2/100)</summary>
+<summary>Solution List (3/100)</summary>
 
+- (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Easy-) LC-2351-First-Letter-to-Appear-Twice: [Python3](./Python3/LC-2351-First-Letter-to-Appear-Twice.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
 
