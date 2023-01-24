@@ -553,7 +553,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (52/100)</summary>
+<summary>Solution List (53/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -561,6 +561,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0905-Sort-Array-By-Parity: [Python3](./Python3/LC-0905-Sort-Array-By-Parity.py)
 - (Medium) LC-0907-Sum-of-Subarray-Minimums: [Python3](./Python3/LC-0907-Sum-of-Subarray-Minimums.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
+- (Medium) LC-0909-Snakes-and-Ladders: [Python3](./Python3/LC-0909-Snakes-and-Ladders.py)
 - (-Hard-) LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
 - (Medium) LC-0915-Partition-Array-into-Disjoint-Intervals: [Python3](./Python3/LC-0915-Partition-Array-into-Disjoint-Intervals.py)
 - (Medium) LC-0916-Word-Subsets: [Python3](./Python3/LC-0916-Word-Subsets.py)
@@ -863,7 +864,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -882,6 +883,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1824-Minimum-Sideway-Jumps: [Python3](./Python3/LC-1824-Minimum-Sideway-Jumps.py)
 - (-Hard-) LC-1825-Finding-MK-Average: [Python3](./Python3/LC-1825-Finding-MK-Average.py)
 - (-Easy-) LC-1827-Minimum-Operations-to-Make-the-Array-Increasing: [Python3](./Python3/LC-1827-Minimum-Operations-to-Make-the-Array-Increasing.py)
+- (Medium) LC-1828-Queries-on-Number-of-Points-Inside-a-Circle: [Python3](./Python3/LC-1828-Queries-on-Number-of-Points-Inside-a-Circle.py)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
 - (Medium) LC-1833-Maximum-Ice-Cream-Bars: [Python3](./Python3/LC-1833-Maximum-Ice-Cream-Bars.py)
 - (Medium) LC-1834-Single-Threaded-CPU: [Python3](./Python3/LC-1834-Single-Threaded-CPU.py)
