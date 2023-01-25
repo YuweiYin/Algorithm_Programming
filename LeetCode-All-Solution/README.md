@@ -773,7 +773,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -784,6 +784,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1624-Largest-Substring-Between-Two-Equal-Characters: [Python3](./Python3/LC-1624-Largest-Substring-Between-Two-Equal-Characters.py)
 - (-Easy-) LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
+- (-Hard-) LC-1632-Rank-Transform-of-a-Matrix: [Python3](./Python3/LC-1632-Rank-Transform-of-a-Matrix.py)
 - (-Easy-) LC-1636-Sort-Array-by-Increasing-Frequency: [Python3](./Python3/LC-1636-Sort-Array-by-Increasing-Frequency.py)
 - (-Easy-) LC-1640-Check-Array-Formation-Through-Concatenation: [Python3](./Python3/LC-1640-Check-Array-Formation-Through-Concatenation.py)
 - (Medium) LC-1641-Count-Sorted-Vowel-Strings: [Python3](./Python3/LC-1641-Count-Sorted-Vowel-Strings.py)
@@ -969,10 +970,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (3/100)</summary>
+<summary>Solution List (4/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Easy-) LC-2351-First-Letter-to-Appear-Twice: [Python3](./Python3/LC-2351-First-Letter-to-Appear-Twice.py)
+- (Medium) LC-2359-Find-Closest-Node-to-Given-Two-Nodes: [Python3](./Python3/LC-2359-Find-Closest-Node-to-Given-Two-Nodes.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
 
 </details>
