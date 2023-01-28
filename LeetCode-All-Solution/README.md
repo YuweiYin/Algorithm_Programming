@@ -224,7 +224,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (46/100)</summary>
+<summary>Solution List (47/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -249,6 +249,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0345-Reverse-Vowels-of-a-String: [Python3](./Python3/LC-0345-Reverse-Vowels-of-a-String.py)
 - (Medium) LC-0347-Top-K-Frequent-Elements: [Python3](./Python3/LC-0347-Top-K-Frequent-Elements.py)
 - (-Easy-) LC-0350-Intersection-of-Two-Arrays-II: [Python3](./Python3/LC-0350-Intersection-of-Two-Arrays-II.py)
+- (-Hard-) LC-0352-Data-Stream-as-Disjoint-Intervals: [Python3](./Python3/LC-0352-Data-Stream-as-Disjoint-Intervals.py)
 - (-Hard-) LC-0354-Russian-Doll-Envelopes: [Python3](./Python3/LC-0354-Russian-Doll-Envelopes.py)
 - (Medium) LC-0357-Count-Numbers-with-Unique-Digits: [Python3](./Python3/LC-0357-Count-Numbers-with-Unique-Digits.py)
 - (-Hard-) LC-0363-Max-Sum-of-Rectangle-No-Larger-Than-K: [Python3](./Python3/LC-0363-Max-Sum-of-Rectangle-No-Larger-Than-K.py)
@@ -775,7 +776,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -798,6 +799,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1658-Minimum-Operations-to-Reduce-X-to-Zero: [Python3](./Python3/LC-1658-Minimum-Operations-to-Reduce-X-to-Zero.py)
 - (-Easy-) LC-1662-Check-If-Two-String-Arrays-are-Equivalent: [Python3](./Python3/LC-1662-Check-If-Two-String-Arrays-are-Equivalent.py)
 - (Medium) LC-1663-Smallest-String-With-A-Given-Numeric-Value: [Python3](./Python3/LC-1663-Smallest-String-With-A-Given-Numeric-Value.py)
+- (Medium) LC-1664-Ways-to-Make-a-Fair-Array: [Python3](./Python3/LC-1664-Ways-to-Make-a-Fair-Array.py)
 - (-Easy-) LC-1668-Maximum-Repeating-Substring: [Python3](./Python3/LC-1668-Maximum-Repeating-Substring.py)
 - (-Easy-) LC-1672-Richest-Customer-Wealth: [Python3](./Python3/LC-1672-Richest-Customer-Wealth.py)
 - (-Hard-) LC-1675-Minimize-Deviation-in-Array: [Python3](./Python3/LC-1675-Minimize-Deviation-in-Array.py)
