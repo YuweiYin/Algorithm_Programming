@@ -777,7 +777,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (39/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -802,6 +802,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1663-Smallest-String-With-A-Given-Numeric-Value: [Python3](./Python3/LC-1663-Smallest-String-With-A-Given-Numeric-Value.py)
 - (Medium) LC-1664-Ways-to-Make-a-Fair-Array: [Python3](./Python3/LC-1664-Ways-to-Make-a-Fair-Array.py)
 - (-Easy-) LC-1668-Maximum-Repeating-Substring: [Python3](./Python3/LC-1668-Maximum-Repeating-Substring.py)
+- (Medium) LC-1669-Merge-In-Between-Linked-Lists: [Python3](./Python3/LC-1669-Merge-In-Between-Linked-Lists.py)
 - (-Easy-) LC-1672-Richest-Customer-Wealth: [Python3](./Python3/LC-1672-Richest-Customer-Wealth.py)
 - (-Hard-) LC-1675-Minimize-Deviation-in-Array: [Python3](./Python3/LC-1675-Minimize-Deviation-in-Array.py)
 - (-Easy-) LC-1678-Goal-Parser-Interpretation: [Python3](./Python3/LC-1678-Goal-Parser-Interpretation.py)
