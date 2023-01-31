@@ -777,7 +777,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (39/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -786,6 +786,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1619-Mean-of-Array-After-Removing-Some-Elements: [Python3](./Python3/LC-1619-Mean-of-Array-After-Removing-Some-Elements.py)
 - (Medium) LC-1620-Coordinate-With-Maximum-Network-Quality: [Python3](./Python3/LC-1620-Coordinate-With-Maximum-Network-Quality.py)
 - (-Easy-) LC-1624-Largest-Substring-Between-Two-Equal-Characters: [Python3](./Python3/LC-1624-Largest-Substring-Between-Two-Equal-Characters.py)
+- (Medium) LC-1626-Best-Team-With-No-Conflicts: [Python3](./Python3/LC-1626-Best-Team-With-No-Conflicts.py)
 - (-Easy-) LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
 - (-Hard-) LC-1632-Rank-Transform-of-a-Matrix: [Python3](./Python3/LC-1632-Rank-Transform-of-a-Matrix.py)
@@ -976,11 +977,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (6/100)</summary>
+<summary>Solution List (7/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Easy-) LC-2309-Greatest-English-Letter-in-Upper-and-Lower-Case: [Python3](./Python3/LC-2309-Greatest-English-Letter-in-Upper-and-Lower-Case.py)
 - (-Easy-) LC-2315-Count-Asterisks: [Python3](./Python3/LC-2315-Count-Asterisks.py)
+- (-Easy-) LC-2319-Check-if-Matrix-Is-X-Matrix: [Python3](./Python3/LC-2319-Check-if-Matrix-Is-X-Matrix.py)
 - (-Easy-) LC-2351-First-Letter-to-Appear-Twice: [Python3](./Python3/LC-2351-First-Letter-to-Appear-Twice.py)
 - (Medium) LC-2359-Find-Closest-Node-to-Given-Two-Nodes: [Python3](./Python3/LC-2359-Find-Closest-Node-to-Given-Two-Nodes.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
