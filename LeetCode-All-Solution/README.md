@@ -652,10 +652,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
 - (-Easy-) LC-1108-Defanging-an-IP-Address: [Python3](./Python3/LC-1108-Defanging-an-IP-Address.py)
+- (Medium) LC-1129-Shortest-Path-with-Alternating-Colors: [Python3](./Python3/LC-1129-Shortest-Path-with-Alternating-Colors.py)
 - (-Easy-) LC-1137-N-th-Tribonacci-Number: [Python3](./Python3/LC-1137-N-th-Tribonacci-Number.py)
 - (Medium) LC-1143-Longest-Common-Subsequence: [Python3](./Python3/LC-1143-Longest-Common-Subsequence.py)
 - (Medium) LC-1155-Number-of-Dice-Rolls-With-Target-Sum: [Python3](./Python3/LC-1155-Number-of-Dice-Rolls-With-Target-Sum.py)
