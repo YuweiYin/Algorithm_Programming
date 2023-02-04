@@ -828,7 +828,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (-Hard-) LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones: [Python3](./Python3/LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones.py)
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
@@ -867,6 +867,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
 - (-Easy-) LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
 - (-Easy-) LC-1796-Second-Largest-Digit-in-a-String: [Python3](./Python3/LC-1796-Second-Largest-Digit-in-a-String.py)
+- (Medium) LC-1798-Maximum-Number-of-Consecutive-Values-You-Can-Make: [Python3](./Python3/LC-1798-Maximum-Number-of-Consecutive-Values-You-Can-Make.py)
 - (-Hard-) LC-1799-Maximize-Score-After-N-Operations: [Python3](./Python3/LC-1799-Maximize-Score-After-N-Operations.py)
 - (-Easy-) LC-1800-Maximum-Ascending-Subarray-Sum: [Python3](./Python3/LC-1800-Maximum-Ascending-Subarray-Sum.py)
 
