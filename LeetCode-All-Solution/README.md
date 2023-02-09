@@ -870,6 +870,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
 - (-Easy-) LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
 - (-Easy-) LC-1796-Second-Largest-Digit-in-a-String: [Python3](./Python3/LC-1796-Second-Largest-Digit-in-a-String.py)
+- (Medium) LC-1797-Design-Authentication-Manager: [Python3](./Python3/LC-1797-Design-Authentication-Manager.py)
 - (Medium) LC-1798-Maximum-Number-of-Consecutive-Values-You-Can-Make: [Python3](./Python3/LC-1798-Maximum-Number-of-Consecutive-Values-You-Can-Make.py)
 - (-Hard-) LC-1799-Maximize-Score-After-N-Operations: [Python3](./Python3/LC-1799-Maximize-Score-After-N-Operations.py)
 - (-Easy-) LC-1800-Maximum-Ascending-Subarray-Sum: [Python3](./Python3/LC-1800-Maximum-Ascending-Subarray-Sum.py)
@@ -984,9 +985,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
+- (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
 - (-Easy-) LC-2309-Greatest-English-Letter-in-Upper-and-Lower-Case: [Python3](./Python3/LC-2309-Greatest-English-Letter-in-Upper-and-Lower-Case.py)
 - (-Easy-) LC-2315-Count-Asterisks: [Python3](./Python3/LC-2315-Count-Asterisks.py)
 - (-Easy-) LC-2319-Check-if-Matrix-Is-X-Matrix: [Python3](./Python3/LC-2319-Check-if-Matrix-Is-X-Matrix.py)
