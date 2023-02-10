@@ -652,7 +652,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
 - (-Easy-) LC-1108-Defanging-an-IP-Address: [Python3](./Python3/LC-1108-Defanging-an-IP-Address.py)
@@ -662,6 +662,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1145-Binary-Tree-Coloring-Game: [Python3](./Python3/LC-1145-Binary-Tree-Coloring-Game.py)
 - (Medium) LC-1155-Number-of-Dice-Rolls-With-Target-Sum: [Python3](./Python3/LC-1155-Number-of-Dice-Rolls-With-Target-Sum.py)
 - (Medium) LC-1161-Maximum-Level-Sum-of-a-Binary-Tree: [Python3](./Python3/LC-1161-Maximum-Level-Sum-of-a-Binary-Tree.py)
+- (Medium) LC-1162-As-Far-from-Land-as-Possible: [Python3](./Python3/LC-1162-As-Far-from-Land-as-Possible.py)
 - (-Easy-) LC-1175-Prime-Arrangements: [Python3](./Python3/LC-1175-Prime-Arrangements.py)
 - (-Easy-) LC-1184-Distance-Between-Bus-Stops: [Python3](./Python3/LC-1184-Distance-Between-Bus-Stops.py)
 - (-Easy-) LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
@@ -674,7 +675,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -684,6 +685,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1219-Path-with-Maximum-Gold: [Python3](./Python3/LC-1219-Path-with-Maximum-Gold.py)
 - (-Easy-) LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position: [Python3](./Python3/LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position.py)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
+- (-Hard-) LC-1223-Dice-Roll-Simulation: [Python3](./Python3/LC-1223-Dice-Roll-Simulation.py)
 - (-Hard-) LC-1224-Maximum-Equal-Frequency: [Python3](./Python3/LC-1224-Maximum-Equal-Frequency.py)
 - (Medium) LC-1233-Remove-Sub-Folders-from-the-Filesystem: [Python3](./Python3/LC-1233-Remove-Sub-Folders-from-the-Filesystem.py)
 - (-Hard-) LC-1235-Maximum-Profit-in-Job-Scheduling: [Python3](./Python3/LC-1235-Maximum-Profit-in-Job-Scheduling.py)
