@@ -676,7 +676,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -689,6 +689,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1223-Dice-Roll-Simulation: [Python3](./Python3/LC-1223-Dice-Roll-Simulation.py)
 - (-Hard-) LC-1224-Maximum-Equal-Frequency: [Python3](./Python3/LC-1224-Maximum-Equal-Frequency.py)
 - (Medium) LC-1233-Remove-Sub-Folders-from-the-Filesystem: [Python3](./Python3/LC-1233-Remove-Sub-Folders-from-the-Filesystem.py)
+- (Medium) LC-1234-Replace-the-Substring-for-Balanced-String: [Python3](./Python3/LC-1234-Replace-the-Substring-for-Balanced-String.py)
 - (-Hard-) LC-1235-Maximum-Profit-in-Job-Scheduling: [Python3](./Python3/LC-1235-Maximum-Profit-in-Job-Scheduling.py)
 - (Medium) LC-1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters: [Python3](./Python3/LC-1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
@@ -765,10 +766,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
+- (-Easy-) LC-1523-Count-Odd-Numbers-in-an-Interval-Range: [Python3](./Python3/LC-1523-Count-Odd-Numbers-in-an-Interval-Range.py)
 - (-Hard-) LC-1531-String-Compression-II: [Python3](./Python3/LC-1531-String-Compression-II.py)
 - (-Easy-) LC-1544-Make-The-String-Great: [Python3](./Python3/LC-1544-Make-The-String-Great.py)
 - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
