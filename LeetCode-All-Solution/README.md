@@ -557,7 +557,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (53/100)</summary>
+<summary>Solution List (54/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -607,6 +607,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0985-Sum-of-Even-Numbers-After-Queries: [Python3](./Python3/LC-0985-Sum-of-Even-Numbers-After-Queries.py)
 - (Medium) LC-0986-Interval-List-Intersections: [Python3](./Python3/LC-0986-Interval-List-Intersections.py)
 - (-Hard-) LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree: [Python3](./Python3/LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree.py)
+- (-Easy-) LC-0989-Add-to-Array-Form-of-Integer: [Python3](./Python3/LC-0989-Add-to-Array-Form-of-Integer.py)
 - (Medium) LC-0990-Satisfiability-of-Equality-Equations: [Python3](./Python3/LC-0990-Satisfiability-of-Equality-Equations.py)
 - (Medium) LC-0991-Broken-Calculator: [Python3](./Python3/LC-0991-Broken-Calculator.py)
 - (Medium) LC-0994-Rotting-Oranges: [Python3](./Python3/LC-0994-Rotting-Oranges.py)
@@ -677,7 +678,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -694,6 +695,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1235-Maximum-Profit-in-Job-Scheduling: [Python3](./Python3/LC-1235-Maximum-Profit-in-Job-Scheduling.py)
 - (Medium) LC-1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters: [Python3](./Python3/LC-1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
+- (-Hard-) LC-1250-Check-If-It-Is-a-Good-Array: [Python3](./Python3/LC-1250-Check-If-It-Is-a-Good-Array.py)
 - (-Easy-) LC-1252-Cells-with-Odd-Values-in-a-Matrix: [Python3](./Python3/LC-1252-Cells-with-Odd-Values-in-a-Matrix.py)
 - (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
 - (Medium) LC-1268-Search-Suggestions-System: [Python3](./Python3/LC-1268-Search-Suggestions-System.py)
