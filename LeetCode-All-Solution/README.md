@@ -427,7 +427,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (59/100)</summary>
+<summary>Solution List (60/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -475,6 +475,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0779-K-th-Symbol-in-Grammar: [Python3](./Python3/LC-0779-K-th-Symbol-in-Grammar.py)
 - (-Hard-) LC-0780-Reaching-Points: [Python3](./Python3/LC-0780-Reaching-Points.py)
 - (-Hard-) LC-0782-Transform-to-Chessboard: [Python3](./Python3/LC-0782-Transform-to-Chessboard.py)
+- (-Easy-) LC-0783-Minimum-Distance-Between-BST-Nodes: [Python3](./Python3/LC-0783-Minimum-Distance-Between-BST-Nodes.py)
 - (Medium) LC-0784-Letter-Case-Permutation: [Python3](./Python3/LC-0784-Letter-Case-Permutation.py)
 - (Medium) LC-0785-Is-Graph-Bipartite: [Python3](./Python3/LC-0785-Is-Graph-Bipartite.py)
 - (Medium) LC-0787-Cheapest-Flights-Within-K-Stops: [Python3](./Python3/LC-0787-Cheapest-Flights-Within-K-Stops.py)
@@ -653,7 +654,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
 - (-Easy-) LC-1108-Defanging-an-IP-Address: [Python3](./Python3/LC-1108-Defanging-an-IP-Address.py)
@@ -661,6 +662,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1129-Shortest-Path-with-Alternating-Colors: [Python3](./Python3/LC-1129-Shortest-Path-with-Alternating-Colors.py)
 - (-Easy-) LC-1137-N-th-Tribonacci-Number: [Python3](./Python3/LC-1137-N-th-Tribonacci-Number.py)
 - (Medium) LC-1138-Alphabet-Board-Path: [Python3](./Python3/LC-1138-Alphabet-Board-Path.py)
+- (Medium) LC-1139-Largest-1-Bordered-Square: [Python3](./Python3/LC-1139-Largest-1-Bordered-Square.py)
 - (Medium) LC-1143-Longest-Common-Subsequence: [Python3](./Python3/LC-1143-Longest-Common-Subsequence.py)
 - (Medium) LC-1145-Binary-Tree-Coloring-Game: [Python3](./Python3/LC-1145-Binary-Tree-Coloring-Game.py)
 - (Medium) LC-1155-Number-of-Dice-Rolls-With-Target-Sum: [Python3](./Python3/LC-1155-Number-of-Dice-Rolls-With-Target-Sum.py)

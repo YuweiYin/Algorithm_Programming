@@ -15,7 +15,7 @@ import collections
 
 """
 LeetCode - 2341 - (Easy) - Maximum Number of Pairs in Array
-https://leetcode.com/problems/maximum-number-of-pairs-in-array/description/
+https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 
 Description & Requirement:
     You are given a 0-indexed integer array nums. In one operation, you may do the following:
