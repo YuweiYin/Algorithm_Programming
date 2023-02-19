@@ -842,7 +842,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (35/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (-Hard-) LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones: [Python3](./Python3/LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones.py)
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
@@ -880,6 +880,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum: [Python3](./Python3/LC-1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum.py)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
 - (-Easy-) LC-1791-Find-Center-of-Star-Graph: [Python3](./Python3/LC-1791-Find-Center-of-Star-Graph.py)
+- (Medium) LC-1792-Maximum-Average-Pass-Ratio: [Python3](./Python3/LC-1792-Maximum-Average-Pass-Ratio.py)
 - (-Easy-) LC-1796-Second-Largest-Digit-in-a-String: [Python3](./Python3/LC-1796-Second-Largest-Digit-in-a-String.py)
 - (Medium) LC-1797-Design-Authentication-Manager: [Python3](./Python3/LC-1797-Design-Authentication-Manager.py)
 - (Medium) LC-1798-Maximum-Number-of-Consecutive-Values-You-Can-Make: [Python3](./Python3/LC-1798-Maximum-Number-of-Consecutive-Values-You-Can-Make.py)
