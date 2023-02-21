@@ -712,11 +712,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
 - (-Easy-) LC-1323-Maximum-69-Number: [Python3](./Python3/LC-1323-Maximum-69-Number.py)
+- (-Hard-) LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden: [Python3](./Python3/LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden.py)
 - (Medium) LC-1328-Break-a-Palindrome: [Python3](./Python3/LC-1328-Break-a-Palindrome.py)
 - (Medium) LC-1329-Sort-the-Matrix-Diagonally: [Python3](./Python3/LC-1329-Sort-the-Matrix-Diagonally.py)
 - (-Easy-) LC-1331-Rank-Transform-of-an-Array: [Python3](./Python3/LC-1331-Rank-Transform-of-an-Array.py)
