@@ -620,13 +620,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
 - (Medium) LC-1007-Minimum-Domino-Rotations-For-Equal-Row: [Python3](./Python3/LC-1007-Minimum-Domino-Rotations-For-Equal-Row.py)
 - (-Easy-) LC-1009-Complement-of-Base-10-Integer: [Python3](./Python3/LC-1009-Complement-of-Base-10-Integer.py)
 - (Medium) LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60: [Python3](./Python3/LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60.py)
+- (Medium) LC-1011-Capacity-To-Ship-Packages-Within-D-Days: [Python3](./Python3/LC-1011-Capacity-To-Ship-Packages-Within-D-Days.py)
 - (Medium) LC-1014-Best-Sightseeing-Pair: [Python3](./Python3/LC-1014-Best-Sightseeing-Pair.py)
 - (Medium) LC-1020-Number-of-Enclaves: [Python3](./Python3/LC-1020-Number-of-Enclaves.py)
 - (-Easy-) LC-1021-Remove-Outermost-Parentheses: [Python3](./Python3/LC-1021-Remove-Outermost-Parentheses.py)
@@ -654,7 +655,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
 - (-Easy-) LC-1108-Defanging-an-IP-Address: [Python3](./Python3/LC-1108-Defanging-an-IP-Address.py)
@@ -663,6 +664,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1137-N-th-Tribonacci-Number: [Python3](./Python3/LC-1137-N-th-Tribonacci-Number.py)
 - (Medium) LC-1138-Alphabet-Board-Path: [Python3](./Python3/LC-1138-Alphabet-Board-Path.py)
 - (Medium) LC-1139-Largest-1-Bordered-Square: [Python3](./Python3/LC-1139-Largest-1-Bordered-Square.py)
+- (Medium) LC-1140-Stone-Game-II: [Python3](./Python3/LC-1140-Stone-Game-II.py)
 - (Medium) LC-1143-Longest-Common-Subsequence: [Python3](./Python3/LC-1143-Longest-Common-Subsequence.py)
 - (Medium) LC-1145-Binary-Tree-Coloring-Game: [Python3](./Python3/LC-1145-Binary-Tree-Coloring-Game.py)
 - (Medium) LC-1155-Number-of-Dice-Rolls-With-Target-Sum: [Python3](./Python3/LC-1155-Number-of-Dice-Rolls-With-Target-Sum.py)
