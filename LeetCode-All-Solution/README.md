@@ -327,8 +327,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (40/100)</summary>
+<summary>Solution List (41/100)</summary>
 
+- (-Hard-) LC-0502-IPO: [Python3](./Python3/LC-0502-IPO.py)
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
 - (Medium) LC-0508-Most-Frequent-Subtree-Sum: [Python3](./Python3/LC-0508-Most-Frequent-Subtree-Sum.py)
 - (-Easy-) LC-0509-Fibonacci-Number: [Python3](./Python3/LC-0509-Fibonacci-Number.py)
@@ -682,7 +683,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -698,6 +699,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1234-Replace-the-Substring-for-Balanced-String: [Python3](./Python3/LC-1234-Replace-the-Substring-for-Balanced-String.py)
 - (-Hard-) LC-1235-Maximum-Profit-in-Job-Scheduling: [Python3](./Python3/LC-1235-Maximum-Profit-in-Job-Scheduling.py)
 - (Medium) LC-1237-Find-Positive-Integer-Solution-for-a-Given-Equation: [Python3](./Python3/LC-1237-Find-Positive-Integer-Solution-for-a-Given-Equation.py)
+- (Medium) LC-1238-Circular-Permutation-in-Binary-Representation: [Python3](./Python3/LC-1238-Circular-Permutation-in-Binary-Representation.py)
 - (Medium) LC-1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters: [Python3](./Python3/LC-1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
 - (-Hard-) LC-1250-Check-If-It-Is-a-Good-Array: [Python3](./Python3/LC-1250-Check-If-It-Is-a-Good-Array.py)
