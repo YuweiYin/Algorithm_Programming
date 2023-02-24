@@ -1002,7 +1002,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1015,6 +1015,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2341-Maximum-Number-of-Pairs-in-Array: [Python3](./Python3/LC-2341-Maximum-Number-of-Pairs-in-Array.py)
 - (-Easy-) LC-2347-Best-Poker-Hand: [Python3](./Python3/LC-2347-Best-Poker-Hand.py)
 - (-Easy-) LC-2351-First-Letter-to-Appear-Twice: [Python3](./Python3/LC-2351-First-Letter-to-Appear-Twice.py)
+- (-Easy-) LC-2357-Make-Array-Zero-by-Subtracting-Equal-Amounts: [Python3](./Python3/LC-2357-Make-Array-Zero-by-Subtracting-Equal-Amounts.py)
 - (Medium) LC-2359-Find-Closest-Node-to-Given-Two-Nodes: [Python3](./Python3/LC-2359-Find-Closest-Node-to-Given-Two-Nodes.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
 
