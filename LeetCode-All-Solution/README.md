@@ -683,7 +683,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -705,6 +705,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
 - (-Hard-) LC-1250-Check-If-It-Is-a-Good-Array: [Python3](./Python3/LC-1250-Check-If-It-Is-a-Good-Array.py)
 - (-Easy-) LC-1252-Cells-with-Odd-Values-in-a-Matrix: [Python3](./Python3/LC-1252-Cells-with-Odd-Values-in-a-Matrix.py)
+- (-Hard-) LC-1255-Maximum-Score-Words-Formed-by-Letters: [Python3](./Python3/LC-1255-Maximum-Score-Words-Formed-by-Letters.py)
 - (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
 - (Medium) LC-1268-Search-Suggestions-System: [Python3](./Python3/LC-1268-Search-Suggestions-System.py)
 - (Medium) LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To: [Python3](./Python3/LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To.py)
