@@ -559,7 +559,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (54/100)</summary>
+<summary>Solution List (55/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -568,6 +568,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0907-Sum-of-Subarray-Minimums: [Python3](./Python3/LC-0907-Sum-of-Subarray-Minimums.py)
 - (-Easy-) LC-0908-Smallest-Range-I: [Python3](./Python3/LC-0908-Smallest-Range-I.py)
 - (Medium) LC-0909-Snakes-and-Ladders: [Python3](./Python3/LC-0909-Snakes-and-Ladders.py)
+- (Medium) LC-0912-Sort-an-Array: [Python3](./Python3/LC-0912-Sort-an-Array.py)
 - (-Hard-) LC-0913-Cat-and-Mouse: [Python3](./Python3/LC-0913-Cat-and-Mouse.py)
 - (Medium) LC-0915-Partition-Array-into-Disjoint-Intervals: [Python3](./Python3/LC-0915-Partition-Array-into-Disjoint-Intervals.py)
 - (Medium) LC-0916-Word-Subsets: [Python3](./Python3/LC-0916-Word-Subsets.py)
@@ -1005,7 +1006,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (16/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1021,6 +1022,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2357-Make-Array-Zero-by-Subtracting-Equal-Amounts: [Python3](./Python3/LC-2357-Make-Array-Zero-by-Subtracting-Equal-Amounts.py)
 - (Medium) LC-2359-Find-Closest-Node-to-Given-Two-Nodes: [Python3](./Python3/LC-2359-Find-Closest-Node-to-Given-Two-Nodes.py)
 - (-Easy-) LC-2363-Merge-Similar-Items: [Python3](./Python3/LC-2363-Merge-Similar-Items.py)
+- (-Easy-) LC-2373-Largest-Local-Values-in-a-Matrix: [Python3](./Python3/LC-2373-Largest-Local-Values-in-a-Matrix.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
 
 </details>
