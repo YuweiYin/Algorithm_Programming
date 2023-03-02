@@ -279,7 +279,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (40/100)</summary>
+<summary>Solution List (41/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (Medium) LC-0406-Queue-Reconstruction-by-Height: [Python3](./Python3/LC-0406-Queue-Reconstruction-by-Height.py)
@@ -299,6 +299,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0438-Find-All-Anagrams-in-a-String: [Python3](./Python3/LC-0438-Find-All-Anagrams-in-a-String.py)
 - (-Hard-) LC-0440-K-th-Smallest-in-Lexicographical-Order: [Python3](./Python3/LC-0440-K-th-Smallest-in-Lexicographical-Order.py)
 - (Medium) LC-0442-Find-All-Duplicates-in-an-Array: [Python3](./Python3/LC-0442-Find-All-Duplicates-in-an-Array.py)
+- (Medium) LC-0443-String-Compression: [Python3](./Python3/LC-0443-String-Compression.py)
 - (-Hard-) LC-0446-Arithmetic-Slices-II-Subsequence: [Python3](./Python3/LC-0446-Arithmetic-Slices-II-Subsequence.py)
 - (Medium) LC-0449-Serialize-and-Deserialize-BST: [Python3](./Python3/LC-0449-Serialize-and-Deserialize-BST.py)
 - (Medium) LC-0450-Delete-Node-in-a-BST: [Python3](./Python3/LC-0450-Delete-Node-in-a-BST.py)
@@ -1040,13 +1041,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode Other Types
 
 <details>
-<summary>INTERVIEW - Solution List (8/8)</summary>
+<summary>INTERVIEW - Solution List (9/9)</summary>
 
 - (-Easy-) LC-INTERVIEW-0102-Check-Permutation-LCCI: [Python3](./Python3/LC-INTERVIEW-0102-Check-Permutation-LCCI.py)
 - (Medium) LC-INTERVIEW-0105-One-Away-LCCI: [Python3](./Python3/LC-INTERVIEW-0105-One-Away-LCCI.py)
 - (Medium) LC-INTERVIEW-0108-Zero-Matrix-LCCI: [Python3](./Python3/LC-INTERVIEW-0108-Zero-Matrix-LCCI.py)
 - (-Easy-) LC-INTERVIEW-0109-String-Rotation-LCCI: [Python3](./Python3/LC-INTERVIEW-0109-String-Rotation-LCCI.py)
 - (Medium) LC-INTERVIEW-0406-Successor-LCCI: [Python3](./Python3/LC-INTERVIEW-0406-Successor-LCCI.py)
+- (Medium) LC-INTERVIEW-0502-Binary-Number-to-String-LCCI: [Python3](./Python3/LC-INTERVIEW-0502-Binary-Number-to-String-LCCI.py)
 - (Medium) LC-INTERVIEW-1709-Get-Kth-Magic-Number-LCCI: [Python3](./Python3/LC-INTERVIEW-1709-Get-Kth-Magic-Number-LCCI.py)
 - (Medium) LC-INTERVIEW-1711-Find-Closest-LCCI: [Python3](./Python3/LC-INTERVIEW-1711-Find-Closest-LCCI.py)
 - (-Hard-) LC-INTERVIEW-1719-Missing-Two-Numbers: [Python3](./Python3/LC-INTERVIEW-1719-Missing-Two-Numbers.py)
