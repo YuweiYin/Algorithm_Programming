@@ -560,7 +560,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (55/100)</summary>
+<summary>Solution List (56/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -608,6 +608,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
 - (-Hard-) LC-0980-Unique-Paths-III: [Python3](./Python3/LC-0980-Unique-Paths-III.py)
 - (Medium) LC-0981-Time-Based-Key-Value-Store: [Python3](./Python3/LC-0981-Time-Based-Key-Value-Store.py)
+- (-Hard-) LC-0982-Triples-with-Bitwise-AND-Equal-To-Zero: [Python3](./Python3/LC-0982-Triples-with-Bitwise-AND-Equal-To-Zero.py)
 - (Medium) LC-0985-Sum-of-Even-Numbers-After-Queries: [Python3](./Python3/LC-0985-Sum-of-Even-Numbers-After-Queries.py)
 - (Medium) LC-0986-Interval-List-Intersections: [Python3](./Python3/LC-0986-Interval-List-Intersections.py)
 - (-Hard-) LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree: [Python3](./Python3/LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree.py)
@@ -783,7 +784,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
@@ -798,6 +799,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1584-Min-Cost-to-Connect-All-Points: [Python3](./Python3/LC-1584-Min-Cost-to-Connect-All-Points.py)
 - (-Easy-) LC-1592-Rearrange-Spaces-Between-Words: [Python3](./Python3/LC-1592-Rearrange-Spaces-Between-Words.py)
 - (-Easy-) LC-1598-Crawler-Log-Folder: [Python3](./Python3/LC-1598-Crawler-Log-Folder.py)
+- (Medium) LC-1599-Maximum-Profit-of-Operating-a-Centennial-Wheel: [Python3](./Python3/LC-1599-Maximum-Profit-of-Operating-a-Centennial-Wheel.py)
 
 </details>
 
@@ -1032,9 +1034,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (1/100)</summary>
+<summary>Solution List (3/100)</summary>
 
 - (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
+- (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
 
 </details>
