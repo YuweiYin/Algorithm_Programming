@@ -784,12 +784,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
 - (-Easy-) LC-1523-Count-Odd-Numbers-in-an-Interval-Range: [Python3](./Python3/LC-1523-Count-Odd-Numbers-in-an-Interval-Range.py)
 - (-Hard-) LC-1531-String-Compression-II: [Python3](./Python3/LC-1531-String-Compression-II.py)
+- (-Easy-) LC-1539-Kth-Missing-Positive-Number: [Python3](./Python3/LC-1539-Kth-Missing-Positive-Number.py)
 - (-Easy-) LC-1544-Make-The-String-Great: [Python3](./Python3/LC-1544-Make-The-String-Great.py)
 - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
 - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](./Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
@@ -806,7 +807,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (42/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
@@ -826,6 +827,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1642-Furthest-Building-You-Can-Reach: [Python3](./Python3/LC-1642-Furthest-Building-You-Can-Reach.py)
 - (Medium) LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique: [Python3](./Python3/LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique.py)
 - (-Easy-) LC-1652-Defuse-the-Bomb: [Python3](./Python3/LC-1652-Defuse-the-Bomb.py)
+- (Medium) LC-1653-Minimum-Deletions-to-Make-String-Balanced: [Python3](./Python3/LC-1653-Minimum-Deletions-to-Make-String-Balanced.py)
 - (-Easy-) LC-1656-Design-an-Ordered-Stream: [Python3](./Python3/LC-1656-Design-an-Ordered-Stream.py)
 - (Medium) LC-1657-Determine-if-Two-Strings-Are-Close: [Python3](./Python3/LC-1657-Determine-if-Two-Strings-Are-Close.py)
 - (Medium) LC-1658-Minimum-Operations-to-Reduce-X-to-Zero: [Python3](./Python3/LC-1658-Minimum-Operations-to-Reduce-X-to-Zero.py)
