@@ -1014,7 +1014,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1031,6 +1031,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2359-Find-Closest-Node-to-Given-Two-Nodes: [Python3](./Python3/LC-2359-Find-Closest-Node-to-Given-Two-Nodes.py)
 - (-Easy-) LC-2363-Merge-Similar-Items: [Python3](./Python3/LC-2363-Merge-Similar-Items.py)
 - (-Easy-) LC-2373-Largest-Local-Values-in-a-Matrix: [Python3](./Python3/LC-2373-Largest-Local-Values-in-a-Matrix.py)
+- (-Easy-) LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks: [Python3](./Python3/LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
 
 </details>
