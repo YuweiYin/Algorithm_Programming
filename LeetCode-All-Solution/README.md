@@ -785,7 +785,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (16/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
@@ -799,6 +799,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1578-Minimum-Time-to-Make-Rope-Colorful: [Python3](./Python3/LC-1578-Minimum-Time-to-Make-Rope-Colorful.py)
 - (-Easy-) LC-1582-Special-Positions-in-a-Binary-Matrix: [Python3](./Python3/LC-1582-Special-Positions-in-a-Binary-Matrix.py)
 - (Medium) LC-1584-Min-Cost-to-Connect-All-Points: [Python3](./Python3/LC-1584-Min-Cost-to-Connect-All-Points.py)
+- (Medium) LC-1590-Make-Sum-Divisible-by-P: [Python3](./Python3/LC-1590-Make-Sum-Divisible-by-P.py)
 - (-Easy-) LC-1592-Rearrange-Spaces-Between-Words: [Python3](./Python3/LC-1592-Rearrange-Spaces-Between-Words.py)
 - (-Easy-) LC-1598-Crawler-Log-Folder: [Python3](./Python3/LC-1598-Crawler-Log-Folder.py)
 - (Medium) LC-1599-Maximum-Profit-of-Operating-a-Centennial-Wheel: [Python3](./Python3/LC-1599-Maximum-Profit-of-Operating-a-Centennial-Wheel.py)
