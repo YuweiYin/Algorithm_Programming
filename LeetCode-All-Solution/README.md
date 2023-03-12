@@ -810,13 +810,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (42/100)</summary>
+<summary>Solution List (43/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
 - (-Easy-) LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X: [Python3](./Python3/LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X.py)
 - (-Easy-) LC-1614-Maximum-Nesting-Depth-of-the-Parentheses: [Python3](./Python3/LC-1614-Maximum-Nesting-Depth-of-the-Parentheses.py)
+- (-Hard-) LC-1617-Count-Subtrees-With-Max-Distance-Between-Cities: [Python3](./Python3/LC-1617-Count-Subtrees-With-Max-Distance-Between-Cities.py)
 - (-Easy-) LC-1619-Mean-of-Array-After-Removing-Some-Elements: [Python3](./Python3/LC-1619-Mean-of-Array-After-Removing-Some-Elements.py)
 - (Medium) LC-1620-Coordinate-With-Maximum-Network-Quality: [Python3](./Python3/LC-1620-Coordinate-With-Maximum-Network-Quality.py)
 - (-Easy-) LC-1624-Largest-Substring-Between-Two-Equal-Characters: [Python3](./Python3/LC-1624-Largest-Substring-Between-Two-Equal-Characters.py)
