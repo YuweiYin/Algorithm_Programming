@@ -105,7 +105,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (57/100)</summary>
+<summary>Solution List (58/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -128,6 +128,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0126-Word-Ladder-II: [Python3](./Python3/LC-0126-Word-Ladder-II.py)
 - (-Hard-) LC-0127-Word-Ladder: [Python3](./Python3/LC-0127-Word-Ladder.py)
 - (Medium) LC-0128-Longest-Consecutive-Sequence: [Python3](./Python3/LC-0128-Longest-Consecutive-Sequence.py)
+- (Medium) LC-0129-Sum-Root-to-Leaf-Numbers: [Python3](./Python3/LC-0129-Sum-Root-to-Leaf-Numbers.py)
 - (Medium) LC-0130-Surrounded-Regions: [Python3](./Python3/LC-0130-Surrounded-Regions.py)
 - (Medium) LC-0131-Palindrome-Partitioning: [Python3](./Python3/LC-0131-Palindrome-Partitioning.py)
 - (Medium) LC-0133-Clone-Graph: [Python3](./Python3/LC-0133-Clone-Graph.py)
@@ -810,10 +811,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (43/100)</summary>
+<summary>Solution List (44/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
+- (Medium) LC-1605-Find-Valid-Matrix-Given-Row-and-Column-Sums: [Python3](./Python3/LC-1605-Find-Valid-Matrix-Given-Row-and-Column-Sums.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
 - (-Easy-) LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X: [Python3](./Python3/LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X.py)
 - (-Easy-) LC-1614-Maximum-Nesting-Depth-of-the-Parentheses: [Python3](./Python3/LC-1614-Maximum-Nesting-Depth-of-the-Parentheses.py)
@@ -1017,7 +1019,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1035,6 +1037,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2363-Merge-Similar-Items: [Python3](./Python3/LC-2363-Merge-Similar-Items.py)
 - (-Easy-) LC-2373-Largest-Local-Values-in-a-Matrix: [Python3](./Python3/LC-2373-Largest-Local-Values-in-a-Matrix.py)
 - (-Easy-) LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks: [Python3](./Python3/LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks.py)
+- (-Easy-) LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition: [Python3](./Python3/LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
 
 </details>
