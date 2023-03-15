@@ -562,7 +562,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (56/100)</summary>
+<summary>Solution List (57/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -599,6 +599,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0952-Largest-Component-Size-by-Common-Factor: [Python3](./Python3/LC-0952-Largest-Component-Size-by-Common-Factor.py)
 - (-Easy-) LC-0953-Verifying-an-Alien-Dictionary: [Python3](./Python3/LC-0953-Verifying-an-Alien-Dictionary.py)
 - (Medium) LC-0954-Array-of-Doubled-Pairs: [Python3](./Python3/LC-0954-Array-of-Doubled-Pairs.py)
+- (Medium) LC-0958-Check-Completeness-of-a-Binary-Tree: [Python3](./Python3/LC-0958-Check-Completeness-of-a-Binary-Tree.py)
 - (-Easy-) LC-0961-N-Repeated-Element-in-Size-2N-Array: [Python3](./Python3/LC-0961-N-Repeated-Element-in-Size-2N-Array.py)
 - (-Easy-) LC-0965-Univalued-Binary-Tree: [Python3](./Python3/LC-0965-Univalued-Binary-Tree.py)
 - (Medium) LC-0967-Numbers-With-Same-Consecutive-Differences: [Python3](./Python3/LC-0967-Numbers-With-Same-Consecutive-Differences.py)
@@ -811,7 +812,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (44/100)</summary>
+<summary>Solution List (45/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
@@ -819,6 +820,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
 - (-Easy-) LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X: [Python3](./Python3/LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X.py)
 - (-Easy-) LC-1614-Maximum-Nesting-Depth-of-the-Parentheses: [Python3](./Python3/LC-1614-Maximum-Nesting-Depth-of-the-Parentheses.py)
+- (Medium) LC-1615-Maximal-Network-Rank: [Python3](./Python3/LC-1615-Maximal-Network-Rank.py)
 - (-Hard-) LC-1617-Count-Subtrees-With-Max-Distance-Between-Cities: [Python3](./Python3/LC-1617-Count-Subtrees-With-Max-Distance-Between-Cities.py)
 - (-Easy-) LC-1619-Mean-of-Array-After-Removing-Some-Elements: [Python3](./Python3/LC-1619-Mean-of-Array-After-Removing-Some-Elements.py)
 - (Medium) LC-1620-Coordinate-With-Maximum-Network-Quality: [Python3](./Python3/LC-1620-Coordinate-With-Maximum-Network-Quality.py)
