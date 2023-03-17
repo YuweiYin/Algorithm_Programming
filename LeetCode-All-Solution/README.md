@@ -105,13 +105,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (58/100)</summary>
+<summary>Solution List (59/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
 - (Medium) LC-0103-Binary-Tree-Zigzag-Level-Order-Traversal: [Python3](./Python3/LC-0103-Binary-Tree-Zigzag-Level-Order-Traversal.py)
 - (-Easy-) LC-0104-Maximum-Depth-of-Binary-Tree: [Python3](./Python3/LC-0104-Maximum-Depth-of-Binary-Tree.py)
 - (Medium) LC-0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal: [Python3](./Python3/LC-0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal.py)
+- (Medium) LC-0106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal: [Python3](./Python3/LC-0106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal.py)
 - (-Easy-) LC-0108-Convert-Sorted-Array-to-Binary-Search-Tree: [Python3](./Python3/LC-0108-Convert-Sorted-Array-to-Binary-Search-Tree.py)
 - (Medium) LC-0109-Convert-Sorted-List-to-Binary-Search-Tree: [Python3](./Python3/LC-0109-Convert-Sorted-List-to-Binary-Search-Treepy)
 - (-Easy-) LC-0112-Path-Sum: [Python3](./Python3/LC-0112-Path-Sum.py)
@@ -171,7 +172,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (47/100)</summary>
+<summary>Solution List (48/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -179,6 +180,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0204-Count-Primes: [Python3](./Python3/LC-0204-Count-Primes.py)
 - (-Easy-) LC-0205-Isomorphic-Strings: [Python3](./Python3/LC-0205-Isomorphic-Strings.py)
 - (-Easy-) LC-0206-Reverse-Linked-List: [Python3](./Python3/LC-0206-Reverse-Linked-List.py)
+- (Medium) LC-0208-Implement-Trie-Prefix-Tree: [Python3](./Python3/LC-0208-Implement-Trie-Prefix-Tree.py)
 - (Medium) LC-0209-Minimum-Size-Subarray-Sum: [Python3](./Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
 - (Medium) LC-0211-Design-Add-and-Search-Words-Data-Structure: [Python3](./Python3/LC-0211-Design-Add-and-Search-Words-Data-Structure.py)
 - (-Hard-) LC-0212-Word-Search-II: [Python3](./Python3/LC-0212-Word-Search-II.py)
@@ -1047,11 +1049,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (3/100)</summary>
+<summary>Solution List (4/100)</summary>
 
 - (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
+- (-Hard-) LC-2488-Count-Subarrays-With-Median-K: [Python3](./Python3/LC-2488-Count-Subarrays-With-Median-K.py)
 
 </details>
 
