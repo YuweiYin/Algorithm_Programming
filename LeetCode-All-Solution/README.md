@@ -757,7 +757,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
@@ -780,6 +780,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1464-Maximum-Product-of-Two-Elements-in-an-Array: [Python3](./Python3/LC-1464-Maximum-Product-of-Two-Elements-in-an-Array.py)
 - (Medium) LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts: [Python3](./Python3/LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts.py)
 - (-Easy-) LC-1470-Shuffle-the-Array: [Python3](./Python3/LC-1470-Shuffle-the-Array.py)
+- (Medium) LC-1472-Design-Browser-History: [Python3](./Python3/LC-1472-Design-Browser-History.py)
 - (-Hard-) LC-1473-Paint-House-III: [Python3](./Python3/LC-1473-Paint-House-III.py)
 - (-Easy-) LC-1475-Final-Prices-With-a-Special-Discount-in-a-Shop: [Python3](./Python3/LC-1475-Final-Prices-With-a-Special-Discount-in-a-Shop.py)
 - (-Easy-) LC-1480-Running-Sum-of-1d-Array: [Python3](./Python3/LC-1480-Running-Sum-of-1d-Array.py)
@@ -814,7 +815,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (45/100)</summary>
+<summary>Solution List (46/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
@@ -823,6 +824,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X: [Python3](./Python3/LC-1608-Special-Array-With-X-Elements-Greater-Than-or-Equal-X.py)
 - (-Easy-) LC-1614-Maximum-Nesting-Depth-of-the-Parentheses: [Python3](./Python3/LC-1614-Maximum-Nesting-Depth-of-the-Parentheses.py)
 - (Medium) LC-1615-Maximal-Network-Rank: [Python3](./Python3/LC-1615-Maximal-Network-Rank.py)
+- (Medium) LC-1616-Split-Two-Strings-to-Make-Palindrome: [Python3](./Python3/LC-1616-Split-Two-Strings-to-Make-Palindrome.py)
 - (-Hard-) LC-1617-Count-Subtrees-With-Max-Distance-Between-Cities: [Python3](./Python3/LC-1617-Count-Subtrees-With-Max-Distance-Between-Cities.py)
 - (-Easy-) LC-1619-Mean-of-Array-After-Removing-Some-Elements: [Python3](./Python3/LC-1619-Mean-of-Array-After-Removing-Some-Elements.py)
 - (Medium) LC-1620-Coordinate-With-Maximum-Network-Quality: [Python3](./Python3/LC-1620-Coordinate-With-Maximum-Network-Quality.py)
