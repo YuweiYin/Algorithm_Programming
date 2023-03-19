@@ -815,7 +815,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (46/100)</summary>
+<summary>Solution List (47/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
@@ -829,6 +829,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1619-Mean-of-Array-After-Removing-Some-Elements: [Python3](./Python3/LC-1619-Mean-of-Array-After-Removing-Some-Elements.py)
 - (Medium) LC-1620-Coordinate-With-Maximum-Network-Quality: [Python3](./Python3/LC-1620-Coordinate-With-Maximum-Network-Quality.py)
 - (-Easy-) LC-1624-Largest-Substring-Between-Two-Equal-Characters: [Python3](./Python3/LC-1624-Largest-Substring-Between-Two-Equal-Characters.py)
+- (Medium) LC-1625-Lexicographically-Smallest-String-After-Applying-Operations: [Python3](./Python3/LC-1625-Lexicographically-Smallest-String-After-Applying-Operations.py)
 - (Medium) LC-1626-Best-Team-With-No-Conflicts: [Python3](./Python3/LC-1626-Best-Team-With-No-Conflicts.py)
 - (-Easy-) LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
