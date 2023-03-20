@@ -629,7 +629,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (28/100)</summary>
+<summary>Solution List (29/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -637,6 +637,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1009-Complement-of-Base-10-Integer: [Python3](./Python3/LC-1009-Complement-of-Base-10-Integer.py)
 - (Medium) LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60: [Python3](./Python3/LC-1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60.py)
 - (Medium) LC-1011-Capacity-To-Ship-Packages-Within-D-Days: [Python3](./Python3/LC-1011-Capacity-To-Ship-Packages-Within-D-Days.py)
+- (-Hard-) LC-1012-Numbers-With-Repeated-Digits: [Python3](./Python3/LC-1012-Numbers-With-Repeated-Digits.py)
 - (Medium) LC-1014-Best-Sightseeing-Pair: [Python3](./Python3/LC-1014-Best-Sightseeing-Pair.py)
 - (Medium) LC-1020-Number-of-Enclaves: [Python3](./Python3/LC-1020-Number-of-Enclaves.py)
 - (-Easy-) LC-1021-Remove-Outermost-Parentheses: [Python3](./Python3/LC-1021-Remove-Outermost-Parentheses.py)
