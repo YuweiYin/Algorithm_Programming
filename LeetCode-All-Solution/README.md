@@ -729,10 +729,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
+- (Medium) LC-1319-Number-of-Operations-to-Make-Network-Connected: [Python3](./Python3/LC-1319-Number-of-Operations-to-Make-Network-Connected.py)
 - (-Easy-) LC-1323-Maximum-69-Number: [Python3](./Python3/LC-1323-Maximum-69-Number.py)
 - (-Hard-) LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden: [Python3](./Python3/LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden.py)
 - (Medium) LC-1328-Break-a-Palindrome: [Python3](./Python3/LC-1328-Break-a-Palindrome.py)
@@ -816,7 +817,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (47/100)</summary>
+<summary>Solution List (48/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
@@ -833,6 +834,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1625-Lexicographically-Smallest-String-After-Applying-Operations: [Python3](./Python3/LC-1625-Lexicographically-Smallest-String-After-Applying-Operations.py)
 - (Medium) LC-1626-Best-Team-With-No-Conflicts: [Python3](./Python3/LC-1626-Best-Team-With-No-Conflicts.py)
 - (-Easy-) LC-1629-Slowest-Key: [Python3](./Python3/LC-1629-Slowest-Key.py)
+- (Medium) LC-1630-Arithmetic-Subarrays: [Python3](./Python3/LC-1630-Arithmetic-Subarrays.py)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
 - (-Hard-) LC-1632-Rank-Transform-of-a-Matrix: [Python3](./Python3/LC-1632-Rank-Transform-of-a-Matrix.py)
 - (-Easy-) LC-1636-Sort-Array-by-Increasing-Frequency: [Python3](./Python3/LC-1636-Sort-Array-by-Increasing-Frequency.py)
