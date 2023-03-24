@@ -629,7 +629,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -644,6 +644,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers: [Python3](./Python3/LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers.py)
 - (Medium) LC-1026-Maximum-Difference-Between-Node-and-Ancestor: [Python3](./Python3/LC-1026-Maximum-Difference-Between-Node-and-Ancestor.py)
 - (Medium) LC-1029-Two-City-Scheduling: [Python3](./Python3/LC-1029-Two-City-Scheduling.py)
+- (-Hard-) LC-1032-Stream-of-Characters: [Python3](./Python3/LC-1032-Stream-of-Characters.py)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
 - (-Easy-) LC-1037-Valid-Boomerang: [Python3](./Python3/LC-1037-Valid-Boomerang.py)
 - (Medium) LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree: [Python3](./Python3/LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree.py)
@@ -759,7 +760,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
@@ -781,6 +782,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1463-Cherry-Pickup-II: [Python3](./Python3/LC-1463-Cherry-Pickup-II.py)
 - (-Easy-) LC-1464-Maximum-Product-of-Two-Elements-in-an-Array: [Python3](./Python3/LC-1464-Maximum-Product-of-Two-Elements-in-an-Array.py)
 - (Medium) LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts: [Python3](./Python3/LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts.py)
+- (Medium) LC-1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero: [Python3](./Python3/LC-1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero.py)
 - (-Easy-) LC-1470-Shuffle-the-Array: [Python3](./Python3/LC-1470-Shuffle-the-Array.py)
 - (Medium) LC-1472-Design-Browser-History: [Python3](./Python3/LC-1472-Design-Browser-History.py)
 - (-Hard-) LC-1473-Paint-House-III: [Python3](./Python3/LC-1473-Paint-House-III.py)
