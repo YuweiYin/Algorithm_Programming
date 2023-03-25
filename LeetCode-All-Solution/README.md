@@ -795,7 +795,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
@@ -805,6 +805,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1544-Make-The-String-Great: [Python3](./Python3/LC-1544-Make-The-String-Great.py)
 - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
 - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](./Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
+- (Medium) LC-1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted: [Python3](./Python3/LC-1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted.py)
 - (-Easy-) LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
 - (Medium) LC-1578-Minimum-Time-to-Make-Rope-Colorful: [Python3](./Python3/LC-1578-Minimum-Time-to-Make-Rope-Colorful.py)
 - (-Easy-) LC-1582-Special-Positions-in-a-Binary-Matrix: [Python3](./Python3/LC-1582-Special-Positions-in-a-Binary-Matrix.py)
@@ -1016,8 +1017,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
+- (Medium) LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph: [Python3](./Python3/LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph.py)
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
 - (-Hard-) LC-2246-Longest-Path-With-Different-Adjacent-Characters: [Python3](./Python3/LC-2246-Longest-Path-With-Different-Adjacent-Characters.py)
