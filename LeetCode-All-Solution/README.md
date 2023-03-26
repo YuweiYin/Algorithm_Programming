@@ -1033,7 +1033,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1049,11 +1049,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2351-First-Letter-to-Appear-Twice: [Python3](./Python3/LC-2351-First-Letter-to-Appear-Twice.py)
 - (-Easy-) LC-2357-Make-Array-Zero-by-Subtracting-Equal-Amounts: [Python3](./Python3/LC-2357-Make-Array-Zero-by-Subtracting-Equal-Amounts.py)
 - (Medium) LC-2359-Find-Closest-Node-to-Given-Two-Nodes: [Python3](./Python3/LC-2359-Find-Closest-Node-to-Given-Two-Nodes.py)
+- (-Hard-) LC-2360-Longest-Cycle-in-a-Graph: [Python3](./Python3/LC-2360-Longest-Cycle-in-a-Graph.py)
 - (-Easy-) LC-2363-Merge-Similar-Items: [Python3](./Python3/LC-2363-Merge-Similar-Items.py)
 - (-Easy-) LC-2373-Largest-Local-Values-in-a-Matrix: [Python3](./Python3/LC-2373-Largest-Local-Values-in-a-Matrix.py)
 - (-Easy-) LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks: [Python3](./Python3/LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks.py)
 - (-Easy-) LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition: [Python3](./Python3/LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
+- (-Easy-) LC-2395-Find-Subarrays-With-Equal-Sum: [Python3](./Python3/LC-2395-Find-Subarrays-With-Equal-Sum.py)
 
 </details>
 
