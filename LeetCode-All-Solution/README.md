@@ -820,7 +820,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (48/100)</summary>
+<summary>Solution List (49/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
@@ -841,6 +841,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
 - (-Hard-) LC-1632-Rank-Transform-of-a-Matrix: [Python3](./Python3/LC-1632-Rank-Transform-of-a-Matrix.py)
 - (-Easy-) LC-1636-Sort-Array-by-Increasing-Frequency: [Python3](./Python3/LC-1636-Sort-Array-by-Increasing-Frequency.py)
+- (Medium) LC-1638-Count-Substrings-That-Differ-by-One-Character: [Python3](./Python3/LC-1638-Count-Substrings-That-Differ-by-One-Character.py)
 - (-Easy-) LC-1640-Check-Array-Formation-Through-Concatenation: [Python3](./Python3/LC-1640-Check-Array-Formation-Through-Concatenation.py)
 - (Medium) LC-1641-Count-Sorted-Vowel-Strings: [Python3](./Python3/LC-1641-Count-Sorted-Vowel-Strings.py)
 - (Medium) LC-1642-Furthest-Building-You-Can-Reach: [Python3](./Python3/LC-1642-Furthest-Building-You-Can-Reach.py)
