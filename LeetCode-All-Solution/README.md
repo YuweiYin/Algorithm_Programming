@@ -564,7 +564,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (57/100)</summary>
+<summary>Solution List (58/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -614,6 +614,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0980-Unique-Paths-III: [Python3](./Python3/LC-0980-Unique-Paths-III.py)
 - (Medium) LC-0981-Time-Based-Key-Value-Store: [Python3](./Python3/LC-0981-Time-Based-Key-Value-Store.py)
 - (-Hard-) LC-0982-Triples-with-Bitwise-AND-Equal-To-Zero: [Python3](./Python3/LC-0982-Triples-with-Bitwise-AND-Equal-To-Zero.py)
+- (Medium) LC-0983-Minimum-Cost-For-Tickets: [Python3](./Python3/LC-0983-Minimum-Cost-For-Tickets.py)
 - (Medium) LC-0985-Sum-of-Even-Numbers-After-Queries: [Python3](./Python3/LC-0985-Sum-of-Even-Numbers-After-Queries.py)
 - (Medium) LC-0986-Interval-List-Intersections: [Python3](./Python3/LC-0986-Interval-List-Intersections.py)
 - (-Hard-) LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree: [Python3](./Python3/LC-0987-Vertical-Order-Traversal-of-a-Binary-Tree.py)
@@ -629,7 +630,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -659,6 +660,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1081-Smallest-Subsequence-of-Distinct-Characters: [Python3](./Python3/LC-1081-Smallest-Subsequence-of-Distinct-Characters.py)
 - (-Easy-) LC-1089-Duplicate-Zeros: [Python3](./Python3/LC-1089-Duplicate-Zeros.py)
 - (Medium) LC-1091-Shortest-Path-in-Binary-Matrix: [Python3](./Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
+- (-Hard-) LC-1092-Shortest-Common-Supersequence: [Python3](./Python3/LC-1092-Shortest-Common-Supersequence.py)
 - (Medium) LC-1094-Car-Pooling: [Python3](./Python3/LC-1094-Car-Pooling.py)
 - (-Hard-) LC-1096-Brace-Expansion-II: [Python3](./Python3/LC-1096-Brace-Expansion-II.py)
 
