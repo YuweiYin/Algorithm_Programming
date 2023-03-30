@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (86/100)</summary>
+<summary>Solution List (87/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -87,6 +87,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0083-Remove-Duplicates-from-Sorted-List: [Python3](./Python3/LC-0083-Remove-Duplicates-from-Sorted-List.py)
 - (-Hard-) LC-0084-Largest-Rectangle-in-Histogram: [Python3](./Python3/LC-0084-Largest-Rectangle-in-Histogram.py)
 - (Medium) LC-0086-Partition-List: [Python3](./Python3/LC-0086-Partition-List.py)
+- (-Hard-) LC-0087-Scramble-String: [Python3](./Python3/LC-0087-Scramble-String.py)
 - (-Easy-) LC-0088-Merge-Sorted-Array: [Python3](./Python3/LC-0088-Merge-Sorted-Array.py)
 - (Medium) LC-0089-Gray-Code: [Python3](./Python3/LC-0089-Gray-Code.py)
 - (Medium) LC-0090-Subsets-II: [Python3](./Python3/LC-0090-Subsets-II.py)
@@ -762,8 +763,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
+- (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
 - (-Easy-) LC-1408-String-Matching-in-an-Array: [Python3](./Python3/LC-1408-String-Matching-in-an-Array.py)
@@ -822,7 +824,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (49/100)</summary>
+<summary>Solution List (50/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
@@ -843,6 +845,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1631-Path-With-Minimum-Effort: [Python3](./Python3/LC-1631-Path-With-Minimum-Effort.py)
 - (-Hard-) LC-1632-Rank-Transform-of-a-Matrix: [Python3](./Python3/LC-1632-Rank-Transform-of-a-Matrix.py)
 - (-Easy-) LC-1636-Sort-Array-by-Increasing-Frequency: [Python3](./Python3/LC-1636-Sort-Array-by-Increasing-Frequency.py)
+- (Medium) LC-1637-Widest-Vertical-Area-Between-Two-Points-Containing-No-Points: [Python3](./Python3/LC-1637-Widest-Vertical-Area-Between-Two-Points-Containing-No-Points.py)
 - (Medium) LC-1638-Count-Substrings-That-Differ-by-One-Character: [Python3](./Python3/LC-1638-Count-Substrings-That-Differ-by-One-Character.py)
 - (-Easy-) LC-1640-Check-Array-Formation-Through-Concatenation: [Python3](./Python3/LC-1640-Check-Array-Formation-Through-Concatenation.py)
 - (Medium) LC-1641-Count-Sorted-Vowel-Strings: [Python3](./Python3/LC-1641-Count-Sorted-Vowel-Strings.py)
