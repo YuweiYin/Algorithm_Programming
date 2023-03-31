@@ -763,7 +763,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
@@ -776,6 +776,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
 - (Medium) LC-1441-Build-an-Array-With-Stack-Operations: [Python3](./Python3/LC-1441-Build-an-Array-With-Stack-Operations.py)
 - (Medium) LC-1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree: [Python3](./Python3/LC-1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree.py)
+- (-Hard-) LC-1444-Number-of-Ways-of-Cutting-a-Pizza: [Python3](./Python3/LC-1444-Number-of-Ways-of-Cutting-a-Pizza.py)
 - (Medium) LC-1447-Simplified-Fractions: [Python3](./Python3/LC-1447-Simplified-Fractions.py)
 - (Medium) LC-1448-Count-Good-Nodes-in-Binary-Tree: [Python3](./Python3/LC-1448-Count-Good-Nodes-in-Binary-Tree.py)
 - (-Easy-) LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time: [Python3](./Python3/LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time.py)
@@ -1039,7 +1040,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1057,6 +1058,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2359-Find-Closest-Node-to-Given-Two-Nodes: [Python3](./Python3/LC-2359-Find-Closest-Node-to-Given-Two-Nodes.py)
 - (-Hard-) LC-2360-Longest-Cycle-in-a-Graph: [Python3](./Python3/LC-2360-Longest-Cycle-in-a-Graph.py)
 - (-Easy-) LC-2363-Merge-Similar-Items: [Python3](./Python3/LC-2363-Merge-Similar-Items.py)
+- (-Easy-) LC-2367-Number-of-Arithmetic-Triplets: [Python3](./Python3/LC-2367-Number-of-Arithmetic-Triplets.py)
 - (-Easy-) LC-2373-Largest-Local-Values-in-a-Matrix: [Python3](./Python3/LC-2373-Largest-Local-Values-in-a-Matrix.py)
 - (-Easy-) LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks: [Python3](./Python3/LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks.py)
 - (-Easy-) LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition: [Python3](./Python3/LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition.py)
