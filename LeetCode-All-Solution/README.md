@@ -502,7 +502,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (52/100)</summary>
+<summary>Solution List (53/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -524,6 +524,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0827-Making-A-Large-Island: [Python3](./Python3/LC-0827-Making-A-Large-Island.py)
 - (-Hard-) LC-0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String: [Python3](./Python3/LC-0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String.py)
 - (-Hard-) LC-0829-Consecutive-Numbers-Sum: [Python3](./Python3/LC-0829-Consecutive-Numbers-Sum.py)
+- (Medium) LC-0831-Masking-Personal-Information: [Python3](./Python3/LC-0831-Masking-Personal-Information.py)
 - (-Hard-) LC-0834-Sum-of-Distances-in-Tree: [Python3](./Python3/LC-0834-Sum-of-Distances-in-Tree.py)
 - (Medium) LC-0835-Image-Overlap: [Python3](./Python3/LC-0835-Image-Overlap.py)
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
