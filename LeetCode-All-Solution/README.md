@@ -632,7 +632,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -651,6 +651,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
 - (-Easy-) LC-1037-Valid-Boomerang: [Python3](./Python3/LC-1037-Valid-Boomerang.py)
 - (Medium) LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree: [Python3](./Python3/LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree.py)
+- (Medium) LC-1039-Minimum-Score-Triangulation-of-Polygon: [Python3](./Python3/LC-1039-Minimum-Score-Triangulation-of-Polygon.py)
 - (Medium) LC-1041-Robot-Bounded-In-Circle: [Python3](./Python3/LC-1041-Robot-Bounded-In-Circle.py)
 - (-Easy-) LC-1046-Last-Stone-Weight: [Python3](./Python3/LC-1046-Last-Stone-Weight.py)
 - (-Easy-) LC-1047-Remove-All-Adjacent-Duplicates-In-String: [Python3](./Python3/LC-1047-Remove-All-Adjacent-Duplicates-In-String.py)
@@ -1025,7 +1026,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
 - (Medium) LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph: [Python3](./Python3/LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph.py)
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
@@ -1037,6 +1038,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2287-Rearrange-Characters-to-Make-Target-String: [Python3](./Python3/LC-2287-Rearrange-Characters-to-Make-Target-String.py)
 - (-Easy-) LC-2293-Min-Max-Game: [Python3](./Python3/LC-2293-Min-Max-Game.py)
 - (-Easy-) LC-2299-Strong-Password-Checker-II: [Python3](./Python3/LC-2299-Strong-Password-Checker-II.py)
+- (Medium) LC-2300-Successful-Pairs-of-Spells-and-Potions: [Python3](./Python3/LC-2300-Successful-Pairs-of-Spells-and-Potions.py)
 
 ### LeetCode 2301 - 2400
 
