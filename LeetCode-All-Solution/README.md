@@ -566,7 +566,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (58/100)</summary>
+<summary>Solution List (59/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -626,6 +626,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0994-Rotting-Oranges: [Python3](./Python3/LC-0994-Rotting-Oranges.py)
 - (-Easy-) LC-0997-Find-the-Town-Judge: [Python3](./Python3/LC-0997-Find-the-Town-Judge.py)
 - (Medium) LC-0998-Maximum-Binary-Tree-II: [Python3](./Python3/LC-0998-Maximum-Binary-Tree-II.py)
+- (-Hard-) LC-1000-Minimum-Cost-to-Merge-Stones: [Python3](./Python3/LC-1000-Minimum-Cost-to-Merge-Stones.py)
 
 </details>
 
@@ -1074,8 +1075,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (5/100)</summary>
+<summary>Solution List (6/100)</summary>
 
+- (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
 - (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
