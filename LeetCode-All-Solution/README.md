@@ -1075,10 +1075,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (6/100)</summary>
+<summary>Solution List (8/100)</summary>
 
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
 - (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
+- (-Easy-) LC-2427-Number-of-Common-Factors: [Python3](./Python3/LC-2427-Number-of-Common-Factors.py)
+- (Medium) LC-2439-Minimize-Maximum-of-Array: [Python3](./Python3/LC-2439-Minimize-Maximum-of-Array.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
