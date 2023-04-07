@@ -633,7 +633,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -654,6 +654,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1037-Valid-Boomerang: [Python3](./Python3/LC-1037-Valid-Boomerang.py)
 - (Medium) LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree: [Python3](./Python3/LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree.py)
 - (Medium) LC-1039-Minimum-Score-Triangulation-of-Polygon: [Python3](./Python3/LC-1039-Minimum-Score-Triangulation-of-Polygon.py)
+- (Medium) LC-1040-Moving-Stones-Until-Consecutive-II: [Python3](./Python3/LC-1040-Moving-Stones-Until-Consecutive-II.py)
 - (Medium) LC-1041-Robot-Bounded-In-Circle: [Python3](./Python3/LC-1041-Robot-Bounded-In-Circle.py)
 - (-Easy-) LC-1046-Last-Stone-Weight: [Python3](./Python3/LC-1046-Last-Stone-Weight.py)
 - (-Easy-) LC-1047-Remove-All-Adjacent-Duplicates-In-String: [Python3](./Python3/LC-1047-Remove-All-Adjacent-Duplicates-In-String.py)
