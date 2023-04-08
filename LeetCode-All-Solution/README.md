@@ -676,11 +676,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
 - (-Easy-) LC-1108-Defanging-an-IP-Address: [Python3](./Python3/LC-1108-Defanging-an-IP-Address.py)
 - (Medium) LC-1124-Longest-Well-Performing-Interval: [Python3](./Python3/LC-1124-Longest-Well-Performing-Interval.py)
+- (-Hard-) LC-1125-Smallest-Sufficient-Team: [Python3](./Python3/LC-1125-Smallest-Sufficient-Team.py)
 - (Medium) LC-1129-Shortest-Path-with-Alternating-Colors: [Python3](./Python3/LC-1129-Shortest-Path-with-Alternating-Colors.py)
 - (-Easy-) LC-1137-N-th-Tribonacci-Number: [Python3](./Python3/LC-1137-N-th-Tribonacci-Number.py)
 - (Medium) LC-1138-Alphabet-Board-Path: [Python3](./Python3/LC-1138-Alphabet-Board-Path.py)
