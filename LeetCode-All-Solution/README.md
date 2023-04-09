@@ -941,7 +941,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -964,6 +964,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
 - (Medium) LC-1833-Maximum-Ice-Cream-Bars: [Python3](./Python3/LC-1833-Maximum-Ice-Cream-Bars.py)
 - (Medium) LC-1834-Single-Threaded-CPU: [Python3](./Python3/LC-1834-Single-Threaded-CPU.py)
+- (-Hard-) LC-1857-Largest-Color-Value-in-a-Directed-Graph: [Python3](./Python3/LC-1857-Largest-Color-Value-in-a-Directed-Graph.py)
 
 </details>
 
@@ -1049,7 +1050,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1073,6 +1074,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition: [Python3](./Python3/LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition.py)
 - (-Easy-) LC-2389-Longest-Subsequence-With-Limited-Sum: [Python3](./Python3/LC-2389-Longest-Subsequence-With-Limited-Sum.py)
 - (-Easy-) LC-2395-Find-Subarrays-With-Equal-Sum: [Python3](./Python3/LC-2395-Find-Subarrays-With-Equal-Sum.py)
+- (-Easy-) LC-2399-Check-Distances-Between-Same-Letters: [Python3](./Python3/LC-2399-Check-Distances-Between-Same-Letters.py)
 
 </details>
 
