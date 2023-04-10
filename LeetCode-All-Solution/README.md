@@ -633,7 +633,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (35/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -644,6 +644,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1012-Numbers-With-Repeated-Digits: [Python3](./Python3/LC-1012-Numbers-With-Repeated-Digits.py)
 - (Medium) LC-1014-Best-Sightseeing-Pair: [Python3](./Python3/LC-1014-Best-Sightseeing-Pair.py)
 - (Medium) LC-1017-Convert-to-Base-2: [Python3](./Python3/LC-1017-Convert-to-Base-2.py)
+- (Medium) LC-1019-Next-Greater-Node-In-Linked-List: [Python3](./Python3/LC-1019-Next-Greater-Node-In-Linked-List.py)
 - (Medium) LC-1020-Number-of-Enclaves: [Python3](./Python3/LC-1020-Number-of-Enclaves.py)
 - (-Easy-) LC-1021-Remove-Outermost-Parentheses: [Python3](./Python3/LC-1021-Remove-Outermost-Parentheses.py)
 - (-Easy-) LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers: [Python3](./Python3/LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers.py)
