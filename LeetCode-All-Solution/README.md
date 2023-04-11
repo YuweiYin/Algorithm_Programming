@@ -1034,7 +1034,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (Medium) LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph: [Python3](./Python3/LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph.py)
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
@@ -1044,6 +1044,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks: [Python3](./Python3/LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks.py)
 - (-Easy-) LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value: [Python3](./Python3/LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value.py)
 - (-Easy-) LC-2287-Rearrange-Characters-to-Make-Target-String: [Python3](./Python3/LC-2287-Rearrange-Characters-to-Make-Target-String.py)
+- (Medium) LC-2390-Removing-Stars-From-a-String: [Python3](./Python3/LC-2390-Removing-Stars-From-a-String.py)
 - (-Easy-) LC-2293-Min-Max-Game: [Python3](./Python3/LC-2293-Min-Max-Game.py)
 - (-Easy-) LC-2299-Strong-Password-Checker-II: [Python3](./Python3/LC-2299-Strong-Password-Checker-II.py)
 - (Medium) LC-2300-Successful-Pairs-of-Spells-and-Potions: [Python3](./Python3/LC-2300-Successful-Pairs-of-Spells-and-Potions.py)
