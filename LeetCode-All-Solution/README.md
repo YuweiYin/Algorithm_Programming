@@ -633,7 +633,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -648,6 +648,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1020-Number-of-Enclaves: [Python3](./Python3/LC-1020-Number-of-Enclaves.py)
 - (-Easy-) LC-1021-Remove-Outermost-Parentheses: [Python3](./Python3/LC-1021-Remove-Outermost-Parentheses.py)
 - (-Easy-) LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers: [Python3](./Python3/LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers.py)
+- (Medium) LC-1023-Camelcase-Matching: [Python3](./Python3/LC-1023-Camelcase-Matching.py)
 - (Medium) LC-1026-Maximum-Difference-Between-Node-and-Ancestor: [Python3](./Python3/LC-1026-Maximum-Difference-Between-Node-and-Ancestor.py)
 - (Medium) LC-1029-Two-City-Scheduling: [Python3](./Python3/LC-1029-Two-City-Scheduling.py)
 - (-Hard-) LC-1032-Stream-of-Characters: [Python3](./Python3/LC-1032-Stream-of-Characters.py)
