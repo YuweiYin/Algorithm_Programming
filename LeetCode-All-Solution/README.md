@@ -633,7 +633,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -658,6 +658,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1039-Minimum-Score-Triangulation-of-Polygon: [Python3](./Python3/LC-1039-Minimum-Score-Triangulation-of-Polygon.py)
 - (Medium) LC-1040-Moving-Stones-Until-Consecutive-II: [Python3](./Python3/LC-1040-Moving-Stones-Until-Consecutive-II.py)
 - (Medium) LC-1041-Robot-Bounded-In-Circle: [Python3](./Python3/LC-1041-Robot-Bounded-In-Circle.py)
+- (Medium) LC-1042-Flower-Planting-With-No-Adjacent: [Python3](./Python3/LC-1042-Flower-Planting-With-No-Adjacent.py)
 - (-Easy-) LC-1046-Last-Stone-Weight: [Python3](./Python3/LC-1046-Last-Stone-Weight.py)
 - (-Easy-) LC-1047-Remove-All-Adjacent-Duplicates-In-String: [Python3](./Python3/LC-1047-Remove-All-Adjacent-Duplicates-In-String.py)
 - (Medium) LC-1048-Longest-String-Chain: [Python3](./Python3/LC-1048-Longest-String-Chain.py)
@@ -1038,7 +1039,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 <details>
 <summary>Solution List (12/100)</summary>
 
-- (Medium) LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph: [Python3](./Python3/LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph.py)
+- (-Hard-) LC-2218-Maximum-Value-of-K-Coins-From-Piles: [Python3](./Python3/LC-2218-Maximum-Value-of-K-Coins-From-Piles.py)
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
 - (-Hard-) LC-2246-Longest-Path-With-Different-Adjacent-Characters: [Python3](./Python3/LC-2246-Longest-Path-With-Different-Adjacent-Characters.py)
@@ -1054,12 +1055,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
 - (-Easy-) LC-2309-Greatest-English-Letter-in-Upper-and-Lower-Case: [Python3](./Python3/LC-2309-Greatest-English-Letter-in-Upper-and-Lower-Case.py)
 - (-Easy-) LC-2315-Count-Asterisks: [Python3](./Python3/LC-2315-Count-Asterisks.py)
+- (Medium) LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph: [Python3](./Python3/LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph.py)
 - (-Easy-) LC-2319-Check-if-Matrix-Is-X-Matrix: [Python3](./Python3/LC-2319-Check-if-Matrix-Is-X-Matrix.py)
 - (-Easy-) LC-2325-Decode-the-Message: [Python3](./Python3/LC-2325-Decode-the-Message.py)
 - (-Easy-) LC-2331-Evaluate-Boolean-Binary-Tree: [Python3](./Python3/LC-2331-Evaluate-Boolean-Binary-Tree.py)
