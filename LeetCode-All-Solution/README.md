@@ -679,7 +679,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
 - (-Easy-) LC-1108-Defanging-an-IP-Address: [Python3](./Python3/LC-1108-Defanging-an-IP-Address.py)
@@ -695,6 +695,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1145-Binary-Tree-Coloring-Game: [Python3](./Python3/LC-1145-Binary-Tree-Coloring-Game.py)
 - (-Hard-) LC-1147-Longest-Chunked-Palindrome-Decomposition: [Python3](./Python3/LC-1147-Longest-Chunked-Palindrome-Decomposition.py)
 - (Medium) LC-1155-Number-of-Dice-Rolls-With-Target-Sum: [Python3](./Python3/LC-1155-Number-of-Dice-Rolls-With-Target-Sum.py)
+- (-Hard-) LC-1157-Online-Majority-Element-In-Subarray: [Python3](./Python3/LC-1157-Online-Majority-Element-In-Subarray.py)
 - (Medium) LC-1161-Maximum-Level-Sum-of-a-Binary-Tree: [Python3](./Python3/LC-1161-Maximum-Level-Sum-of-a-Binary-Tree.py)
 - (Medium) LC-1162-As-Far-from-Land-as-Possible: [Python3](./Python3/LC-1162-As-Far-from-Land-as-Possible.py)
 - (-Easy-) LC-1175-Prime-Arrangements: [Python3](./Python3/LC-1175-Prime-Arrangements.py)
@@ -837,7 +838,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (50/100)</summary>
+<summary>Solution List (51/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
@@ -860,6 +861,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1636-Sort-Array-by-Increasing-Frequency: [Python3](./Python3/LC-1636-Sort-Array-by-Increasing-Frequency.py)
 - (Medium) LC-1637-Widest-Vertical-Area-Between-Two-Points-Containing-No-Points: [Python3](./Python3/LC-1637-Widest-Vertical-Area-Between-Two-Points-Containing-No-Points.py)
 - (Medium) LC-1638-Count-Substrings-That-Differ-by-One-Character: [Python3](./Python3/LC-1638-Count-Substrings-That-Differ-by-One-Character.py)
+- (-Hard-) LC-1639-Number-of-Ways-to-Form-a-Target-String-Given-a-Dictionary: [Python3](./Python3/LC-1639-Number-of-Ways-to-Form-a-Target-String-Given-a-Dictionary.py)
 - (-Easy-) LC-1640-Check-Array-Formation-Through-Concatenation: [Python3](./Python3/LC-1640-Check-Array-Formation-Through-Concatenation.py)
 - (Medium) LC-1641-Count-Sorted-Vowel-Strings: [Python3](./Python3/LC-1641-Count-Sorted-Vowel-Strings.py)
 - (Medium) LC-1642-Furthest-Building-You-Can-Reach: [Python3](./Python3/LC-1642-Furthest-Building-You-Can-Reach.py)
