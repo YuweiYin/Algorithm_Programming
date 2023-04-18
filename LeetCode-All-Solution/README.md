@@ -776,7 +776,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (27/100)</summary>
+<summary>Solution List (28/100)</summary>
 
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
@@ -787,6 +787,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1417-Reformat-The-String: [Python3](./Python3/LC-1417-Reformat-The-String.py)
 - (-Easy-) LC-1422-Maximum-Score-After-Splitting-a-String: [Python3](./Python3/LC-1422-Maximum-Score-After-Splitting-a-String.py)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
+- (-Easy-) LC-1431-Kids-With-the-Greatest-Number-of-Candies: [Python3](./Python3/LC-1431-Kids-With-the-Greatest-Number-of-Candies.py)
 - (Medium) LC-1441-Build-an-Array-With-Stack-Operations: [Python3](./Python3/LC-1441-Build-an-Array-With-Stack-Operations.py)
 - (Medium) LC-1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree: [Python3](./Python3/LC-1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree.py)
 - (-Hard-) LC-1444-Number-of-Ways-of-Cutting-a-Pizza: [Python3](./Python3/LC-1444-Number-of-Ways-of-Cutting-a-Pizza.py)
@@ -1089,10 +1090,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
+- (-Easy-) LC-2409-Count-Days-Spent-Together: [Python3](./Python3/LC-2409-Count-Days-Spent-Together.py)
 - (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
 - (-Easy-) LC-2427-Number-of-Common-Factors: [Python3](./Python3/LC-2427-Number-of-Common-Factors.py)
 - (Medium) LC-2439-Minimize-Maximum-of-Array: [Python3](./Python3/LC-2439-Minimize-Maximum-of-Array.py)
