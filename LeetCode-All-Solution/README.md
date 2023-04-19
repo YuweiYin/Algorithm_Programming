@@ -633,7 +633,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (39/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -659,6 +659,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1040-Moving-Stones-Until-Consecutive-II: [Python3](./Python3/LC-1040-Moving-Stones-Until-Consecutive-II.py)
 - (Medium) LC-1041-Robot-Bounded-In-Circle: [Python3](./Python3/LC-1041-Robot-Bounded-In-Circle.py)
 - (Medium) LC-1042-Flower-Planting-With-No-Adjacent: [Python3](./Python3/LC-1042-Flower-Planting-With-No-Adjacent.py)
+- (Medium) LC-1043-Partition-Array-for-Maximum-Sum: [Python3](./Python3/LC-1043-Partition-Array-for-Maximum-Sum.py)
 - (-Easy-) LC-1046-Last-Stone-Weight: [Python3](./Python3/LC-1046-Last-Stone-Weight.py)
 - (-Easy-) LC-1047-Remove-All-Adjacent-Duplicates-In-String: [Python3](./Python3/LC-1047-Remove-All-Adjacent-Duplicates-In-String.py)
 - (Medium) LC-1048-Longest-String-Chain: [Python3](./Python3/LC-1048-Longest-String-Chain.py)
@@ -746,7 +747,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -765,6 +766,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
 - (-Hard-) LC-1354-Construct-Target-Array-With-Multiple-Sums: [Python3](./Python3/LC-1354-Construct-Target-Array-With-Multiple-Sums.py)
 - (-Hard-) LC-1359-Count-All-Valid-Pickup-and-Delivery-Options: [Python3](./Python3/LC-1359-Count-All-Valid-Pickup-and-Delivery-Options.py)
+- (Medium) LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree: [Python3](./Python3/LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree.py)
 - (-Easy-) LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts: [Python3](./Python3/LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts.py)
 - (Medium) LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree: [Python3](./Python3/LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py)
 - (-Easy-) LC-1380-Lucky-Numbers-in-a-Matrix: [Python3](./Python3/LC-1380-Lucky-Numbers-in-a-Matrix.py)
