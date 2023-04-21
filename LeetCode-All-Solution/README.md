@@ -502,7 +502,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (53/100)</summary>
+<summary>Solution List (54/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -550,6 +550,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0875-Koko-Eating-Bananas: [Python3](./Python3/LC-0875-Koko-Eating-Bananas.py)
 - (-Easy-) LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
 - (-Hard-) LC-0878-Nth-Magical-Number: [Python3](./Python3/LC-0878-Nth-Magical-Number.py)
+- (-Hard-) LC-0879-Profitable-Schemes: [Python3](./Python3/LC-0879-Profitable-Schemes.py)
 - (Medium) LC-0881-Boats-to-Save-People: [Python3](./Python3/LC-0881-Boats-to-Save-People.py)
 - (-Hard-) LC-0882-Reachable-Nodes-In-Subdivided-Graph: [Python3](./Python3/LC-0882-Reachable-Nodes-In-Subdivided-Graph.py)
 - (-Easy-) LC-0883-Projection-Area-of-3D-Shapes: [Python3](./Python3/LC-0883-Projection-Area-of-3D-Shapes.py)
@@ -1093,11 +1094,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
 - (-Easy-) LC-2409-Count-Days-Spent-Together: [Python3](./Python3/LC-2409-Count-Days-Spent-Together.py)
+- (-Easy-) LC-2413-Smallest-Even-Multiple: [Python3](./Python3/LC-2413-Smallest-Even-Multiple.py)
 - (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
 - (-Easy-) LC-2427-Number-of-Common-Factors: [Python3](./Python3/LC-2427-Number-of-Common-Factors.py)
 - (Medium) LC-2439-Minimize-Maximum-of-Array: [Python3](./Python3/LC-2439-Minimize-Maximum-of-Array.py)
