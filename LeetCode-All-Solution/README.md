@@ -634,7 +634,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (39/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -651,6 +651,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers: [Python3](./Python3/LC-1022-Sum-of-Root-To-Leaf-Binary-Numbers.py)
 - (Medium) LC-1023-Camelcase-Matching: [Python3](./Python3/LC-1023-Camelcase-Matching.py)
 - (Medium) LC-1026-Maximum-Difference-Between-Node-and-Ancestor: [Python3](./Python3/LC-1026-Maximum-Difference-Between-Node-and-Ancestor.py)
+- (Medium) LC-1027-Longest-Arithmetic-Subsequence: [Python3](./Python3/LC-1027-Longest-Arithmetic-Subsequence.py)
 - (Medium) LC-1029-Two-City-Scheduling: [Python3](./Python3/LC-1029-Two-City-Scheduling.py)
 - (-Hard-) LC-1032-Stream-of-Characters: [Python3](./Python3/LC-1032-Stream-of-Characters.py)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
@@ -749,10 +750,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
+- (-Hard-) LC-1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome: [Python3](./Python3/LC-1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome.py)
 - (Medium) LC-1319-Number-of-Operations-to-Make-Network-Connected: [Python3](./Python3/LC-1319-Number-of-Operations-to-Make-Network-Connected.py)
 - (-Easy-) LC-1323-Maximum-69-Number: [Python3](./Python3/LC-1323-Maximum-69-Number.py)
 - (-Hard-) LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden: [Python3](./Python3/LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden.py)
