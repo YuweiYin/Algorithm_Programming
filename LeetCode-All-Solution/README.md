@@ -682,7 +682,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (Medium) LC-1105-Filling-Bookcase-Shelves: [Python3](./Python3/LC-1105-Filling-Bookcase-Shelves.py)
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
@@ -702,6 +702,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1157-Online-Majority-Element-In-Subarray: [Python3](./Python3/LC-1157-Online-Majority-Element-In-Subarray.py)
 - (Medium) LC-1161-Maximum-Level-Sum-of-a-Binary-Tree: [Python3](./Python3/LC-1161-Maximum-Level-Sum-of-a-Binary-Tree.py)
 - (Medium) LC-1162-As-Far-from-Land-as-Possible: [Python3](./Python3/LC-1162-As-Far-from-Land-as-Possible.py)
+- (-Hard-) LC-1163-Last-Substring-in-Lexicographical-Order: [Python3](./Python3/LC-1163-Last-Substring-in-Lexicographical-Order.py)
 - (-Easy-) LC-1175-Prime-Arrangements: [Python3](./Python3/LC-1175-Prime-Arrangements.py)
 - (-Easy-) LC-1184-Distance-Between-Bus-Stops: [Python3](./Python3/LC-1184-Distance-Between-Bus-Stops.py)
 - (-Easy-) LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
