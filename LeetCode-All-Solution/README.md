@@ -1067,7 +1067,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1078,6 +1078,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2325-Decode-the-Message: [Python3](./Python3/LC-2325-Decode-the-Message.py)
 - (-Easy-) LC-2331-Evaluate-Boolean-Binary-Tree: [Python3](./Python3/LC-2331-Evaluate-Boolean-Binary-Tree.py)
 - (-Easy-) LC-2335-Minimum-Amount-of-Time-to-Fill-Cups: [Python3](./Python3/LC-2335-Minimum-Amount-of-Time-to-Fill-Cups.py)
+- (Medium) LC-2336-Smallest-Number-in-Infinite-Set: [Python3](./Python3/LC-2336-Smallest-Number-in-Infinite-Set.py)
 - (-Easy-) LC-2341-Maximum-Number-of-Pairs-in-Array: [Python3](./Python3/LC-2341-Maximum-Number-of-Pairs-in-Array.py)
 - (-Easy-) LC-2347-Best-Poker-Hand: [Python3](./Python3/LC-2347-Best-Poker-Hand.py)
 - (Medium) LC-2348-Number-of-Zero-Filled-Subarrays: [Python3](./Python3/LC-2348-Number-of-Zero-Filled-Subarrays.py)
@@ -1099,12 +1100,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
 - (-Easy-) LC-2409-Count-Days-Spent-Together: [Python3](./Python3/LC-2409-Count-Days-Spent-Together.py)
 - (-Easy-) LC-2413-Smallest-Even-Multiple: [Python3](./Python3/LC-2413-Smallest-Even-Multiple.py)
+- (-Easy-) LC-2418-Sort-the-People: [Python3](./Python3/LC-2418-Sort-the-People.py)
 - (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
 - (-Easy-) LC-2427-Number-of-Common-Factors: [Python3](./Python3/LC-2427-Number-of-Common-Factors.py)
 - (Medium) LC-2439-Minimize-Maximum-of-Array: [Python3](./Python3/LC-2439-Minimize-Maximum-of-Array.py)
