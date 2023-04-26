@@ -634,7 +634,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (40/100)</summary>
+<summary>Solution List (41/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -653,6 +653,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1026-Maximum-Difference-Between-Node-and-Ancestor: [Python3](./Python3/LC-1026-Maximum-Difference-Between-Node-and-Ancestor.py)
 - (Medium) LC-1027-Longest-Arithmetic-Subsequence: [Python3](./Python3/LC-1027-Longest-Arithmetic-Subsequence.py)
 - (Medium) LC-1029-Two-City-Scheduling: [Python3](./Python3/LC-1029-Two-City-Scheduling.py)
+- (Medium) LC-1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays: [Python3](./Python3/LC-1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays.py)
 - (-Hard-) LC-1032-Stream-of-Characters: [Python3](./Python3/LC-1032-Stream-of-Characters.py)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
 - (-Easy-) LC-1037-Valid-Boomerang: [Python3](./Python3/LC-1037-Valid-Boomerang.py)
