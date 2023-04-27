@@ -229,7 +229,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (47/100)</summary>
+<summary>Solution List (48/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -239,6 +239,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0315-Count-of-Smaller-Numbers-After-Self: [Python3](./Python3/LC-0315-Count-of-Smaller-Numbers-After-Self.py)
 - (Medium) LC-0316-Remove-Duplicate-Letters: [Python3](./Python3/LC-0316-Remove-Duplicate-Letters.py)
 - (Medium) LC-0318-Maximum-Product-of-Word-Lengths: [Python3](./Python3/LC-0318-Maximum-Product-of-Word-Lengths.py)
+- (Medium) LC-0319-Bulb-Switcher: [Python3](./Python3/LC-0319-Bulb-Switcher.py)
 - (Medium) LC-0322-Coin-Change: [Python3](./Python3/LC-0322-Coin-Change.py)
 - (Medium) LC-0324-Wiggle-Sort-II: [Python3](./Python3/LC-0324-Wiggle-Sort-II.py)
 - (-Easy-) LC-0326-Power-of-Three: [Python3](./Python3/LC-0326-Power-of-Three.py)
