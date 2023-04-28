@@ -503,7 +503,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (54/100)</summary>
+<summary>Solution List (55/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -529,6 +529,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0834-Sum-of-Distances-in-Tree: [Python3](./Python3/LC-0834-Sum-of-Distances-in-Tree.py)
 - (Medium) LC-0835-Image-Overlap: [Python3](./Python3/LC-0835-Image-Overlap.py)
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
+- (-Hard-) LC-0839-Similar-String-Groups: [Python3](./Python3/LC-0839-Similar-String-Groups.py)
 - (Medium) LC-0841-Keys-and-Rooms: [Python3](./Python3/LC-0841-Keys-and-Rooms.py)
 - (-Easy-) LC-0844-Backspace-String-Compare: [Python3](./Python3/LC-0844-Backspace-String-Compare.py)
 - (-Hard-) LC-0847-Shortest-Path-Visiting-All-Nodes: [Python3](./Python3/LC-0847-Shortest-Path-Visiting-All-Nodes.py)
@@ -684,7 +685,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (Medium) LC-1105-Filling-Bookcase-Shelves: [Python3](./Python3/LC-1105-Filling-Bookcase-Shelves.py)
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
@@ -705,6 +706,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1161-Maximum-Level-Sum-of-a-Binary-Tree: [Python3](./Python3/LC-1161-Maximum-Level-Sum-of-a-Binary-Tree.py)
 - (Medium) LC-1162-As-Far-from-Land-as-Possible: [Python3](./Python3/LC-1162-As-Far-from-Land-as-Possible.py)
 - (-Hard-) LC-1163-Last-Substring-in-Lexicographical-Order: [Python3](./Python3/LC-1163-Last-Substring-in-Lexicographical-Order.py)
+- (-Hard-) LC-1172-Dinner-Plate-Stacks: [Python3](./Python3/LC-1172-Dinner-Plate-Stacks.py)
 - (-Easy-) LC-1175-Prime-Arrangements: [Python3](./Python3/LC-1175-Prime-Arrangements.py)
 - (-Easy-) LC-1184-Distance-Between-Bus-Stops: [Python3](./Python3/LC-1184-Distance-Between-Bus-Stops.py)
 - (-Easy-) LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
