@@ -1104,7 +1104,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1112,6 +1112,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2413-Smallest-Even-Multiple: [Python3](./Python3/LC-2413-Smallest-Even-Multiple.py)
 - (-Easy-) LC-2418-Sort-the-People: [Python3](./Python3/LC-2418-Sort-the-People.py)
 - (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
+- (-Easy-) LC-2423-Remove-Letter-To-Equalize-Frequency: [Python3](./Python3/LC-2423-Remove-Letter-To-Equalize-Frequency.py)
 - (-Easy-) LC-2427-Number-of-Common-Factors: [Python3](./Python3/LC-2427-Number-of-Common-Factors.py)
 - (Medium) LC-2439-Minimize-Maximum-of-Array: [Python3](./Python3/LC-2439-Minimize-Maximum-of-Array.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
