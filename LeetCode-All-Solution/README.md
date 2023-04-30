@@ -636,7 +636,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (42/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
@@ -657,6 +657,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1029-Two-City-Scheduling: [Python3](./Python3/LC-1029-Two-City-Scheduling.py)
 - (Medium) LC-1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays: [Python3](./Python3/LC-1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays.py)
 - (-Hard-) LC-1032-Stream-of-Characters: [Python3](./Python3/LC-1032-Stream-of-Characters.py)
+- (Medium) LC-1033-Moving-Stones-Until-Consecutive: [Python3](./Python3/LC-1033-Moving-Stones-Until-Consecutive.py)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
 - (-Easy-) LC-1037-Valid-Boomerang: [Python3](./Python3/LC-1037-Valid-Boomerang.py)
 - (Medium) LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree: [Python3](./Python3/LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree.py)
@@ -827,7 +828,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
@@ -840,6 +841,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted: [Python3](./Python3/LC-1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted.py)
 - (-Easy-) LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
 - (Medium) LC-1578-Minimum-Time-to-Make-Rope-Colorful: [Python3](./Python3/LC-1578-Minimum-Time-to-Make-Rope-Colorful.py)
+- (-Hard-) LC-1579-Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable: [Python3](./Python3/LC-1579-Remove-Max-Number-of-Edges-to-Keep-Graph-Fully-Traversable.py)
 - (-Easy-) LC-1582-Special-Positions-in-a-Binary-Matrix: [Python3](./Python3/LC-1582-Special-Positions-in-a-Binary-Matrix.py)
 - (Medium) LC-1584-Min-Cost-to-Connect-All-Points: [Python3](./Python3/LC-1584-Min-Cost-to-Connect-All-Points.py)
 - (Medium) LC-1590-Make-Sum-Divisible-by-P: [Python3](./Python3/LC-1590-Make-Sum-Divisible-by-P.py)
