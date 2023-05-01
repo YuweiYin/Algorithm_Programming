@@ -757,7 +757,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -779,6 +779,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1359-Count-All-Valid-Pickup-and-Delivery-Options: [Python3](./Python3/LC-1359-Count-All-Valid-Pickup-and-Delivery-Options.py)
 - (Medium) LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree: [Python3](./Python3/LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree.py)
 - (-Easy-) LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts: [Python3](./Python3/LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts.py)
+- (Medium) LC-1376-Time-Needed-to-Inform-All-Employees: [Python3](./Python3/LC-1376-Time-Needed-to-Inform-All-Employees.py)
 - (Medium) LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree: [Python3](./Python3/LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py)
 - (-Easy-) LC-1380-Lucky-Numbers-in-a-Matrix: [Python3](./Python3/LC-1380-Lucky-Numbers-in-a-Matrix.py)
 - (-Hard-) LC-1383-Maximum-Performance-of-a-Team: [Python3](./Python3/LC-1383-Maximum-Performance-of-a-Team.py)
@@ -789,7 +790,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
@@ -822,6 +823,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1475-Final-Prices-With-a-Special-Discount-in-a-Shop: [Python3](./Python3/LC-1475-Final-Prices-With-a-Special-Discount-in-a-Shop.py)
 - (-Easy-) LC-1480-Running-Sum-of-1d-Array: [Python3](./Python3/LC-1480-Running-Sum-of-1d-Array.py)
 - (Medium) LC-1487-Making-File-Names-Unique: [Python3](./Python3/LC-1487-Making-File-Names-Unique.py)
+- (-Easy-) LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary: [Python3](./Python3/LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)
 
 </details>
 
