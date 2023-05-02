@@ -569,7 +569,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (59/100)</summary>
+<summary>Solution List (60/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -612,6 +612,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0967-Numbers-With-Same-Consecutive-Differences: [Python3](./Python3/LC-0967-Numbers-With-Same-Consecutive-Differences.py)
 - (-Hard-) LC-0968-Binary-Tree-Cameras: [Python3](./Python3/LC-0968-Binary-Tree-Cameras.py)
 - (Medium) LC-0969-Pancake-Sorting: [Python3](./Python3/LC-0969-Pancake-Sorting.py)
+- (Medium) LC-0970-Powerful-Integers: [Python3](./Python3/LC-0970-Powerful-Integers.py)
 - (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](./Python3/LC-0973-K-Closest-Points-to-Origin.py)
 - (Medium) LC-0974-Subarray-Sums-Divisible-by-K: [Python3](./Python3/LC-0974-Subarray-Sums-Divisible-by-K.py)
 - (-Easy-) LC-0976-Largest-Perimeter-Triangle: [Python3](./Python3/LC-0976-Largest-Perimeter-Triangle.py)
