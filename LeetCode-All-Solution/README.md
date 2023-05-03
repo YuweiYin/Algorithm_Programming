@@ -637,9 +637,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (42/100)</summary>
+<summary>Solution List (43/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
+- (Medium) LC-1003-Check-If-Word-Is-Valid-After-Substitutions: [Python3](./Python3/LC-1003-Check-If-Word-Is-Valid-After-Substitutions.py)
 - (Medium) LC-1004-Max-Consecutive-Ones-III: [Python3](./Python3/LC-1004-Max-Consecutive-Ones-III.py)
 - (Medium) LC-1007-Minimum-Domino-Rotations-For-Equal-Row: [Python3](./Python3/LC-1007-Minimum-Domino-Rotations-For-Equal-Row.py)
 - (-Easy-) LC-1009-Complement-of-Base-10-Integer: [Python3](./Python3/LC-1009-Complement-of-Base-10-Integer.py)
@@ -1044,9 +1045,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2101 - 2200
 
 <details>
-<summary>Solution List (6/100)</summary>
+<summary>Solution List (7/100)</summary>
 
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
+- (-Easy-) LC-2215-Find-the-Difference-of-Two-Arrays: [Python3](./Python3/LC-2215-Find-the-Difference-of-Two-Arrays.py)
 - (Medium) LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words: [Python3](./Python3/LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py)
 - (-Hard-) LC-2136-Earliest-Possible-Day-of-Full-Bloom: [Python3](./Python3/LC-2136-Earliest-Possible-Day-of-Full-Bloom.py)
 - (-Easy-) LC-2180-Count-Integers-With-Even-Digit-Sum: [Python3](./Python3/LC-2180-Count-Integers-With-Even-Digit-Sum.py)
