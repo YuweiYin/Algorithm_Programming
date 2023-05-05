@@ -793,7 +793,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
@@ -813,6 +813,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1448-Count-Good-Nodes-in-Binary-Tree: [Python3](./Python3/LC-1448-Count-Good-Nodes-in-Binary-Tree.py)
 - (-Easy-) LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time: [Python3](./Python3/LC-1450-Number-of-Students-Doing-Homework-at-a-Given-Time.py)
 - (-Easy-) LC-1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence: [Python3](./Python3/LC-1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence.py)
+- (Medium) LC-1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length: [Python3](./Python3/LC-1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)
 - (Medium) LC-1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree: [Python3](./Python3/LC-1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree.py)
 - (-Easy-) LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays: [Python3](./Python3/LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays.py)
 - (Medium) LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K: [Python3](./Python3/LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K.py)
@@ -1113,7 +1114,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1123,6 +1124,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-2421-Number-of-Good-Paths: [Python3](./Python3/LC-2421-Number-of-Good-Paths.py)
 - (-Easy-) LC-2423-Remove-Letter-To-Equalize-Frequency: [Python3](./Python3/LC-2423-Remove-Letter-To-Equalize-Frequency.py)
 - (-Easy-) LC-2427-Number-of-Common-Factors: [Python3](./Python3/LC-2427-Number-of-Common-Factors.py)
+- (-Easy-) LC-2432-The-Employee-That-Worked-on-the-Longest-Task: [Python3](./Python3/LC-2432-The-Employee-That-Worked-on-the-Longest-Task.py)
 - (Medium) LC-2439-Minimize-Maximum-of-Array: [Python3](./Python3/LC-2439-Minimize-Maximum-of-Array.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
