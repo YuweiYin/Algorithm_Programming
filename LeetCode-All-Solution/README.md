@@ -793,7 +793,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
@@ -803,6 +803,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K: [Python3](./Python3/LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.py)
 - (-Hard-) LC-1416-Restore-The-Array: [Python3](./Python3/LC-1416-Restore-The-Array.py)
 - (-Easy-) LC-1417-Reformat-The-String: [Python3](./Python3/LC-1417-Reformat-The-String.py)
+- (Medium) LC-1419-Minimum-Number-of-Frogs-Croaking: [Python3](./Python3/LC-1419-Minimum-Number-of-Frogs-Croaking.py)
 - (-Easy-) LC-1422-Maximum-Score-After-Splitting-a-String: [Python3](./Python3/LC-1422-Maximum-Score-After-Splitting-a-String.py)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
 - (-Easy-) LC-1431-Kids-With-the-Greatest-Number-of-Candies: [Python3](./Python3/LC-1431-Kids-With-the-Greatest-Number-of-Candies.py)
@@ -828,6 +829,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1480-Running-Sum-of-1d-Array: [Python3](./Python3/LC-1480-Running-Sum-of-1d-Array.py)
 - (Medium) LC-1487-Making-File-Names-Unique: [Python3](./Python3/LC-1487-Making-File-Names-Unique.py)
 - (-Easy-) LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary: [Python3](./Python3/LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)
+- (Medium) LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition: [Python3](./Python3/LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition.py)
 
 </details>
 
