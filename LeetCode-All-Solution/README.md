@@ -1001,11 +1001,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1901 - 2000
 
 <details>
-<summary>Solution List (8/100)</summary>
+<summary>Solution List (9/100)</summary>
 
 - (Medium) LC-1926-Nearest-Exit-from-Entrance-in-Maze: [Python3](./Python3/LC-1926-Nearest-Exit-from-Entrance-in-Maze.py)
 - (-Easy-) LC-1945-Sum-of-Digits-of-String-After-Convert: [Python3](./Python3/LC-1945-Sum-of-Digits-of-String-After-Convert.py)
 - (Medium) LC-1962-Remove-Stones-to-Minimize-the-Total: [Python3](./Python3/LC-1962-Remove-Stones-to-Minimize-the-Total.py)
+- (-Hard-) LC-1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position: [Python3](./Python3/LC-1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position.py)
 - (-Easy-) LC-1971-Find-if-Path-Exists-in-Graph: [Python3](./Python3/LC-1971-Find-if-Path-Exists-in-Graph.py)
 - (-Easy-) LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores: [Python3](./Python3/LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.py)
 - (-Hard-) LC-1994-The-Number-of-Good-Subsets: [Python3](./Python3/LC-1994-The-Number-of-Good-Subsets.py)
