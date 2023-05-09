@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (87/100)</summary>
+<summary>Solution List (88/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -62,6 +62,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0051-N-Queens: [Python3](./Python3/LC-0051-N-Queens.py)
 - (-Hard-) LC-0052-N-Queens-II: [Python3](./Python3/LC-0052-N-Queens-II.py)
 - (-Easy-) LC-0053-Maximum-Subarray: [Python3](./Python3/LC-0053-Maximum-Subarray.py)
+- (Medium) LC-0054-Spiral-Matrix: [Python3](./Python3/LC-0054-Spiral-Matrix.py)
 - (Medium) LC-0055-Jump-Game: [Python3](./Python3/LC-0055-Jump-Game.py)
 - (Medium) LC-0056-Merge-Intervals: [Python3](./Python3/LC-0056-Merge-Intervals.py)
 - (Medium) LC-0057-Insert-Interval: [Python3](./Python3/LC-0057-Insert-Interval.py)
@@ -1119,7 +1120,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (14/100)</summary>
+<summary>Solution List (15/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1130,6 +1131,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2423-Remove-Letter-To-Equalize-Frequency: [Python3](./Python3/LC-2423-Remove-Letter-To-Equalize-Frequency.py)
 - (-Easy-) LC-2427-Number-of-Common-Factors: [Python3](./Python3/LC-2427-Number-of-Common-Factors.py)
 - (-Easy-) LC-2432-The-Employee-That-Worked-on-the-Longest-Task: [Python3](./Python3/LC-2432-The-Employee-That-Worked-on-the-Longest-Task.py)
+- (-Easy-) LC-2437-Number-of-Valid-Clock-Times: [Python3](./Python3/LC-2437-Number-of-Valid-Clock-Times.py)
 - (Medium) LC-2439-Minimize-Maximum-of-Array: [Python3](./Python3/LC-2439-Minimize-Maximum-of-Array.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
