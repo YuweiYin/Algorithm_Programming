@@ -639,7 +639,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (43/100)</summary>
+<summary>Solution List (44/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1003-Check-If-Word-Is-Valid-After-Substitutions: [Python3](./Python3/LC-1003-Check-If-Word-Is-Valid-After-Substitutions.py)
@@ -650,6 +650,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1011-Capacity-To-Ship-Packages-Within-D-Days: [Python3](./Python3/LC-1011-Capacity-To-Ship-Packages-Within-D-Days.py)
 - (-Hard-) LC-1012-Numbers-With-Repeated-Digits: [Python3](./Python3/LC-1012-Numbers-With-Repeated-Digits.py)
 - (Medium) LC-1014-Best-Sightseeing-Pair: [Python3](./Python3/LC-1014-Best-Sightseeing-Pair.py)
+- (Medium) LC-1015-Smallest-Integer-Divisible-by-K: [Python3](./Python3/LC-1015-Smallest-Integer-Divisible-by-K.py)
 - (Medium) LC-1017-Convert-to-Base-2: [Python3](./Python3/LC-1017-Convert-to-Base-2.py)
 - (Medium) LC-1019-Next-Greater-Node-In-Linked-List: [Python3](./Python3/LC-1019-Next-Greater-Node-In-Linked-List.py)
 - (Medium) LC-1020-Number-of-Enclaves: [Python3](./Python3/LC-1020-Number-of-Enclaves.py)
