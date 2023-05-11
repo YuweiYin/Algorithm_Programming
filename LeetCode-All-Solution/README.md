@@ -639,7 +639,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (44/100)</summary>
+<summary>Solution List (46/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1003-Check-If-Word-Is-Valid-After-Substitutions: [Python3](./Python3/LC-1003-Check-If-Word-Is-Valid-After-Substitutions.py)
@@ -651,6 +651,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1012-Numbers-With-Repeated-Digits: [Python3](./Python3/LC-1012-Numbers-With-Repeated-Digits.py)
 - (Medium) LC-1014-Best-Sightseeing-Pair: [Python3](./Python3/LC-1014-Best-Sightseeing-Pair.py)
 - (Medium) LC-1015-Smallest-Integer-Divisible-by-K: [Python3](./Python3/LC-1015-Smallest-Integer-Divisible-by-K.py)
+- (Medium) LC-1016-Binary-String-With-Substrings-Representing-1-To-N: [Python3](./Python3/LC-1016-Binary-String-With-Substrings-Representing-1-To-N.py)
 - (Medium) LC-1017-Convert-to-Base-2: [Python3](./Python3/LC-1017-Convert-to-Base-2.py)
 - (Medium) LC-1019-Next-Greater-Node-In-Linked-List: [Python3](./Python3/LC-1019-Next-Greater-Node-In-Linked-List.py)
 - (Medium) LC-1020-Number-of-Enclaves: [Python3](./Python3/LC-1020-Number-of-Enclaves.py)
@@ -663,6 +664,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays: [Python3](./Python3/LC-1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays.py)
 - (-Hard-) LC-1032-Stream-of-Characters: [Python3](./Python3/LC-1032-Stream-of-Characters.py)
 - (Medium) LC-1033-Moving-Stones-Until-Consecutive: [Python3](./Python3/LC-1033-Moving-Stones-Until-Consecutive.py)
+- (Medium) LC-1035-Uncrossed-Lines: [Python3](./Python3/LC-1035-Uncrossed-Lines.py)
 - (-Hard-) LC-1036-Escape-a-Large-Maze: [Python3](./Python3/LC-1036-Escape-a-Large-Maze.py)
 - (-Easy-) LC-1037-Valid-Boomerang: [Python3](./Python3/LC-1037-Valid-Boomerang.py)
 - (Medium) LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree: [Python3](./Python3/LC-1038-Binary-Search-Tree-to-Greater-Sum-Tree.py)
