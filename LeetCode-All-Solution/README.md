@@ -765,7 +765,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -775,6 +775,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden: [Python3](./Python3/LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden.py)
 - (Medium) LC-1328-Break-a-Palindrome: [Python3](./Python3/LC-1328-Break-a-Palindrome.py)
 - (Medium) LC-1329-Sort-the-Matrix-Diagonally: [Python3](./Python3/LC-1329-Sort-the-Matrix-Diagonally.py)
+- (-Hard-) LC-1330-Reverse-Subarray-To-Maximize-Array-Value: [Python3](./Python3/LC-1330-Reverse-Subarray-To-Maximize-Array-Value.py)
 - (-Easy-) LC-1331-Rank-Transform-of-an-Array: [Python3](./Python3/LC-1331-Rank-Transform-of-an-Array.py)
 - (-Easy-) LC-1332-Remove-Palindromic-Subsequences: [Python3](./Python3/LC-1332-Remove-Palindromic-Subsequences.py)
 - (Medium) LC-1335-Minimum-Difficulty-of-a-Job-Schedule: [Python3](./Python3/LC-1335-Minimum-Difficulty-of-a-Job-Schedule.py)
@@ -1056,13 +1057,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2101 - 2200
 
 <details>
-<summary>Solution List (8/100)</summary>
+<summary>Solution List (9/100)</summary>
 
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
 - (-Hard-) LC-2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps: [Python3](./Python3/LC-2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps.py)
 - (-Easy-) LC-2215-Find-the-Difference-of-Two-Arrays: [Python3](./Python3/LC-2215-Find-the-Difference-of-Two-Arrays.py)
 - (Medium) LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words: [Python3](./Python3/LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py)
 - (-Hard-) LC-2136-Earliest-Possible-Day-of-Full-Bloom: [Python3](./Python3/LC-2136-Earliest-Possible-Day-of-Full-Bloom.py)
+- (Medium) LC-2140-Solving-Questions-With-Brainpower: [Python3](./Python3/LC-2140-Solving-Questions-With-Brainpower.py)
 - (-Easy-) LC-2180-Count-Integers-With-Even-Digit-Sum: [Python3](./Python3/LC-2180-Count-Integers-With-Even-Digit-Sum.py)
 - (-Easy-) LC-2185-Counting-Words-With-a-Given-Prefix: [Python3](./Python3/LC-2185-Counting-Words-With-a-Given-Prefix.py)
 - (Medium) LC-2187-Minimum-Time-to-Complete-Trips: [Python3](./Python3/LC-2187-Minimum-Time-to-Complete-Trips.py)
