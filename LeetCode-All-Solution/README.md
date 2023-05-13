@@ -1125,7 +1125,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1138,7 +1138,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2432-The-Employee-That-Worked-on-the-Longest-Task: [Python3](./Python3/LC-2432-The-Employee-That-Worked-on-the-Longest-Task.py)
 - (-Easy-) LC-2437-Number-of-Valid-Clock-Times: [Python3](./Python3/LC-2437-Number-of-Valid-Clock-Times.py)
 - (Medium) LC-2439-Minimize-Maximum-of-Array: [Python3](./Python3/LC-2439-Minimize-Maximum-of-Array.py)
+- (-Easy-) LC-2441-Largest-Positive-Integer-That-Exists-With-Its-Negative: [Python3](./Python3/LC-2441-Largest-Positive-Integer-That-Exists-With-Its-Negative.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
+- (Medium) LC-2466-Count-Ways-To-Build-Good-Strings: [Python3](./Python3/LC-2466-Count-Ways-To-Build-Good-Strings.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
 - (-Hard-) LC-2488-Count-Subarrays-With-Median-K: [Python3](./Python3/LC-2488-Count-Subarrays-With-Median-K.py)
