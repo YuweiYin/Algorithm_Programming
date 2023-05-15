@@ -639,7 +639,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (47/100)</summary>
+<summary>Solution List (48/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1003-Check-If-Word-Is-Valid-After-Substitutions: [Python3](./Python3/LC-1003-Check-If-Word-Is-Valid-After-Substitutions.py)
@@ -681,6 +681,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1054-Distant-Barcodes: [Python3](./Python3/LC-1054-Distant-Barcodes.py)
 - (Medium) LC-1061-Lexicographically-Smallest-Equivalent-String: [Python3](./Python3/LC-1061-Lexicographically-Smallest-Equivalent-String.py)
 - (-Easy-) LC-1071-Greatest-Common-Divisor-of-Strings: [Python3](./Python3/LC-1071-Greatest-Common-Divisor-of-Strings.py)
+- (Medium) LC-1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows: [Python3](./Python3/LC-1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows.py)
 - (-Hard-) LC-1074-Number-of-Submatrices-That-Sum-to-Target: [Python3](./Python3/LC-1074-Number-of-Submatrices-That-Sum-to-Target.py)
 - (Medium) LC-1081-Smallest-Subsequence-of-Distinct-Characters: [Python3](./Python3/LC-1081-Smallest-Subsequence-of-Distinct-Characters.py)
 - (-Easy-) LC-1089-Duplicate-Zeros: [Python3](./Python3/LC-1089-Duplicate-Zeros.py)
