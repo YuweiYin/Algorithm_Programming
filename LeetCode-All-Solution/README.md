@@ -1059,11 +1059,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2101 - 2200
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
 - (-Hard-) LC-2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps: [Python3](./Python3/LC-2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps.py)
 - (-Easy-) LC-2215-Find-the-Difference-of-Two-Arrays: [Python3](./Python3/LC-2215-Find-the-Difference-of-Two-Arrays.py)
+- (Medium) LC-2130-Maximum-Twin-Sum-of-a-Linked-List: [Python3](./Python3/LC-2130-Maximum-Twin-Sum-of-a-Linked-List.py)
 - (Medium) LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words: [Python3](./Python3/LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py)
 - (-Hard-) LC-2136-Earliest-Possible-Day-of-Full-Bloom: [Python3](./Python3/LC-2136-Earliest-Possible-Day-of-Full-Bloom.py)
 - (Medium) LC-2140-Solving-Questions-With-Brainpower: [Python3](./Python3/LC-2140-Solving-Questions-With-Brainpower.py)
@@ -1127,7 +1128,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (17/100)</summary>
+<summary>Solution List (18/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1142,6 +1143,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2439-Minimize-Maximum-of-Array: [Python3](./Python3/LC-2439-Minimize-Maximum-of-Array.py)
 - (-Easy-) LC-2441-Largest-Positive-Integer-That-Exists-With-Its-Negative: [Python3](./Python3/LC-2441-Largest-Positive-Integer-That-Exists-With-Its-Negative.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
+- (-Easy-) LC-2446-Determine-if-Two-Events-Have-Conflict: [Python3](./Python3/LC-2446-Determine-if-Two-Events-Have-Conflict.py)
 - (Medium) LC-2466-Count-Ways-To-Build-Good-Strings: [Python3](./Python3/LC-2466-Count-Ways-To-Build-Good-Strings.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
