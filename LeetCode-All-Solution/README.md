@@ -639,7 +639,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (49/100)</summary>
+<summary>Solution List (50/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1003-Check-If-Word-Is-Valid-After-Substitutions: [Python3](./Python3/LC-1003-Check-If-Word-Is-Valid-After-Substitutions.py)
@@ -684,6 +684,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows: [Python3](./Python3/LC-1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows.py)
 - (Medium) LC-1073-Adding-Two-Negabinary-Numbers: [Python3](./Python3/LC-1073-Adding-Two-Negabinary-Numbers.py)
 - (-Hard-) LC-1074-Number-of-Submatrices-That-Sum-to-Target: [Python3](./Python3/LC-1074-Number-of-Submatrices-That-Sum-to-Target.py)
+- (Medium) LC-1079-Letter-Tile-Possibilities: [Python3](./Python3/LC-1079-Letter-Tile-Possibilities.py)
 - (Medium) LC-1081-Smallest-Subsequence-of-Distinct-Characters: [Python3](./Python3/LC-1081-Smallest-Subsequence-of-Distinct-Characters.py)
 - (-Easy-) LC-1089-Duplicate-Zeros: [Python3](./Python3/LC-1089-Duplicate-Zeros.py)
 - (Medium) LC-1091-Shortest-Path-in-Binary-Matrix: [Python3](./Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
@@ -768,7 +769,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (27/100)</summary>
+<summary>Solution List (28/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -790,6 +791,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1354-Construct-Target-Array-With-Multiple-Sums: [Python3](./Python3/LC-1354-Construct-Target-Array-With-Multiple-Sums.py)
 - (-Hard-) LC-1359-Count-All-Valid-Pickup-and-Delivery-Options: [Python3](./Python3/LC-1359-Count-All-Valid-Pickup-and-Delivery-Options.py)
 - (Medium) LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree: [Python3](./Python3/LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree.py)
+- (-Hard-) LC-1373-Maximum-Sum-BST-in-Binary-Tree: [Python3](./Python3/LC-1373-Maximum-Sum-BST-in-Binary-Tree.py)
 - (-Easy-) LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts: [Python3](./Python3/LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts.py)
 - (Medium) LC-1376-Time-Needed-to-Inform-All-Employees: [Python3](./Python3/LC-1376-Time-Needed-to-Inform-All-Employees.py)
 - (Medium) LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree: [Python3](./Python3/LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py)
