@@ -639,7 +639,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (50/100)</summary>
+<summary>Solution List (51/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1003-Check-If-Word-Is-Valid-After-Substitutions: [Python3](./Python3/LC-1003-Check-If-Word-Is-Valid-After-Substitutions.py)
@@ -685,6 +685,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1073-Adding-Two-Negabinary-Numbers: [Python3](./Python3/LC-1073-Adding-Two-Negabinary-Numbers.py)
 - (-Hard-) LC-1074-Number-of-Submatrices-That-Sum-to-Target: [Python3](./Python3/LC-1074-Number-of-Submatrices-That-Sum-to-Target.py)
 - (Medium) LC-1079-Letter-Tile-Possibilities: [Python3](./Python3/LC-1079-Letter-Tile-Possibilities.py)
+- (Medium) LC-1080-Insufficient-Nodes-in-Root-to-Leaf-Paths: [Python3](./Python3/LC-1080-Insufficient-Nodes-in-Root-to-Leaf-Paths.py)
 - (Medium) LC-1081-Smallest-Subsequence-of-Distinct-Characters: [Python3](./Python3/LC-1081-Smallest-Subsequence-of-Distinct-Characters.py)
 - (-Easy-) LC-1089-Duplicate-Zeros: [Python3](./Python3/LC-1089-Duplicate-Zeros.py)
 - (Medium) LC-1091-Shortest-Path-in-Binary-Matrix: [Python3](./Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
