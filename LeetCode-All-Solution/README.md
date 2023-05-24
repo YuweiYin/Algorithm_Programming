@@ -771,7 +771,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (28/100)</summary>
+<summary>Solution List (29/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -796,6 +796,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1373-Maximum-Sum-BST-in-Binary-Tree: [Python3](./Python3/LC-1373-Maximum-Sum-BST-in-Binary-Tree.py)
 - (-Easy-) LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts: [Python3](./Python3/LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts.py)
 - (Medium) LC-1376-Time-Needed-to-Inform-All-Employees: [Python3](./Python3/LC-1376-Time-Needed-to-Inform-All-Employees.py)
+- (-Hard-) LC-1377-Frog-Position-After-T-Seconds: [Python3](./Python3/LC-1377-Frog-Position-After-T-Seconds.py)
 - (Medium) LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree: [Python3](./Python3/LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py)
 - (-Easy-) LC-1380-Lucky-Numbers-in-a-Matrix: [Python3](./Python3/LC-1380-Lucky-Numbers-in-a-Matrix.py)
 - (-Hard-) LC-1383-Maximum-Performance-of-a-Team: [Python3](./Python3/LC-1383-Maximum-Performance-of-a-Team.py)
@@ -1154,6 +1155,15 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
 - (-Hard-) LC-2488-Count-Subarrays-With-Median-K: [Python3](./Python3/LC-2488-Count-Subarrays-With-Median-K.py)
 - (Medium) LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities: [Python3](./Python3/LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities.py)
+
+</details>
+
+### LeetCode 2501 - 2600
+
+<details>
+<summary>Solution List (1/100)</summary>
+
+- (Medium) LC-2542-Maximum-Subsequence-Score: [Python3](./Python3/LC-2542-Maximum-Subsequence-Score.py)
 
 </details>
 
