@@ -505,7 +505,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (55/100)</summary>
+<summary>Solution List (56/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -530,6 +530,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0831-Masking-Personal-Information: [Python3](./Python3/LC-0831-Masking-Personal-Information.py)
 - (-Hard-) LC-0834-Sum-of-Distances-in-Tree: [Python3](./Python3/LC-0834-Sum-of-Distances-in-Tree.py)
 - (Medium) LC-0835-Image-Overlap: [Python3](./Python3/LC-0835-Image-Overlap.py)
+- (Medium) LC-0837-New-21-Game: [Python3](./Python3/LC-0837-New-21-Game.py)
 - (Medium) LC-0838-Push-Dominoes: [Python3](./Python3/LC-0838-Push-Dominoes.py)
 - (-Hard-) LC-0839-Similar-String-Groups: [Python3](./Python3/LC-0839-Similar-String-Groups.py)
 - (Medium) LC-0841-Keys-and-Rooms: [Python3](./Python3/LC-0841-Keys-and-Rooms.py)
@@ -1134,7 +1135,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (18/100)</summary>
+<summary>Solution List (19/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1150,6 +1151,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2441-Largest-Positive-Integer-That-Exists-With-Its-Negative: [Python3](./Python3/LC-2441-Largest-Positive-Integer-That-Exists-With-Its-Negative.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
 - (-Easy-) LC-2446-Determine-if-Two-Events-Have-Conflict: [Python3](./Python3/LC-2446-Determine-if-Two-Events-Have-Conflict.py)
+- (-Easy-) LC-2451-Odd-String-Difference: [Python3](./Python3/LC-2451-Odd-String-Difference.py)
 - (Medium) LC-2466-Count-Ways-To-Build-Good-Strings: [Python3](./Python3/LC-2466-Count-Ways-To-Build-Good-Strings.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)

@@ -14,7 +14,7 @@ from typing import List
 # import functools
 
 """
-LeetCode - 1377 - (-Hard-) - Frog Position After T Seconds
+LeetCode - 1377 - (Hard) - Frog Position After T Seconds
 https://leetcode.com/problems/frog-position-after-t-seconds/
 
 Description & Requirement:
