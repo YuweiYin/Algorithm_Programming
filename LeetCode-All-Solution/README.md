@@ -640,7 +640,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1001 - 1100
 
 <details>
-<summary>Solution List (52/100)</summary>
+<summary>Solution List (53/100)</summary>
 
 - (-Hard-) LC-1001-Grid-Illumination: [Python3](./Python3/LC-1001-Grid-Illumination.py)
 - (Medium) LC-1003-Check-If-Word-Is-Valid-After-Substitutions: [Python3](./Python3/LC-1003-Check-If-Word-Is-Valid-After-Substitutions.py)
@@ -692,6 +692,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1090-Largest-Values-From-Labels: [Python3](./Python3/LC-1090-Largest-Values-From-Labels.py)
 - (Medium) LC-1091-Shortest-Path-in-Binary-Matrix: [Python3](./Python3/LC-1091-Shortest-Path-in-Binary-Matrix.py)
 - (-Hard-) LC-1092-Shortest-Common-Supersequence: [Python3](./Python3/LC-1092-Shortest-Common-Supersequence.py)
+- (Medium) LC-1093-Statistics-from-a-Large-Sample: [Python3](./Python3/LC-1093-Statistics-from-a-Large-Sample.py)
 - (Medium) LC-1094-Car-Pooling: [Python3](./Python3/LC-1094-Car-Pooling.py)
 - (-Hard-) LC-1096-Brace-Expansion-II: [Python3](./Python3/LC-1096-Brace-Expansion-II.py)
 
@@ -808,11 +809,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (34/100)</summary>
 
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
 - (Medium) LC-1405-Longest-Happy-String: [Python3](./Python3/LC-1405-Longest-Happy-String.py)
+- (-Hard-) LC-1406-Stone-Game-III: [Python3](./Python3/LC-1406-Stone-Game-III.py)
 - (-Easy-) LC-1408-String-Matching-in-an-Array: [Python3](./Python3/LC-1408-String-Matching-in-an-Array.py)
 - (-Easy-) LC-1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum: [Python3](./Python3/LC-1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum.py)
 - (Medium) LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K: [Python3](./Python3/LC-1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-Is-K.py)
