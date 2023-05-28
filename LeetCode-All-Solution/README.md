@@ -809,7 +809,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
@@ -824,6 +824,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1422-Maximum-Score-After-Splitting-a-String: [Python3](./Python3/LC-1422-Maximum-Score-After-Splitting-a-String.py)
 - (Medium) LC-1423-Maximum-Points-You-Can-Obtain-from-Cards: [Python3](./Python3/LC-1423-Maximum-Points-You-Can-Obtain-from-Cards.py)
 - (-Easy-) LC-1431-Kids-With-the-Greatest-Number-of-Candies: [Python3](./Python3/LC-1431-Kids-With-the-Greatest-Number-of-Candies.py)
+- (-Hard-) LC-1439-Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows: [Python3](./Python3/LC-1439-Find-the-Kth-Smallest-Sum-of-a-Matrix-With-Sorted-Rows.py)
 - (Medium) LC-1441-Build-an-Array-With-Stack-Operations: [Python3](./Python3/LC-1441-Build-an-Array-With-Stack-Operations.py)
 - (Medium) LC-1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree: [Python3](./Python3/LC-1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree.py)
 - (-Hard-) LC-1444-Number-of-Ways-of-Cutting-a-Pizza: [Python3](./Python3/LC-1444-Number-of-Ways-of-Cutting-a-Pizza.py)
@@ -853,7 +854,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
@@ -861,6 +862,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1531-String-Compression-II: [Python3](./Python3/LC-1531-String-Compression-II.py)
 - (-Easy-) LC-1539-Kth-Missing-Positive-Number: [Python3](./Python3/LC-1539-Kth-Missing-Positive-Number.py)
 - (-Easy-) LC-1544-Make-The-String-Great: [Python3](./Python3/LC-1544-Make-The-String-Great.py)
+- (-Hard-) LC-1547-Minimum-Cost-to-Cut-a-Stick: [Python3](./Python3/LC-1547-Minimum-Cost-to-Cut-a-Stick.py)
 - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
 - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](./Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
 - (-Easy-) LC-1572-Matrix-Diagonal-Sum: [Python3](./Python3/LC-1572-Matrix-Diagonal-Sum.py)
