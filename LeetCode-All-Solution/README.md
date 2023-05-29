@@ -882,9 +882,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (51/100)</summary>
+<summary>Solution List (52/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
+- (-Easy-) LC-1603-Design-Parking-System: [Python3](./Python3/LC-1603-Design-Parking-System.py)
 - (Medium) LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period: [Python3](./Python3/LC-1604-Alert-Using-Same-Key-Card-Three-or-More-Times-in-a-One-Hour-Period.py)
 - (Medium) LC-1605-Find-Valid-Matrix-Given-Row-and-Column-Sums: [Python3](./Python3/LC-1605-Find-Valid-Matrix-Given-Row-and-Column-Sums.py)
 - (-Hard-) LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests: [Python3](./Python3/LC-1606-Find-Servers-That-Handled-Most-Number-of-Requests.py)
@@ -1139,7 +1140,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (19/100)</summary>
+<summary>Solution List (20/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1156,6 +1157,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
 - (-Easy-) LC-2446-Determine-if-Two-Events-Have-Conflict: [Python3](./Python3/LC-2446-Determine-if-Two-Events-Have-Conflict.py)
 - (-Easy-) LC-2451-Odd-String-Difference: [Python3](./Python3/LC-2451-Odd-String-Difference.py)
+- (-Easy-) LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three: [Python3](./Python3/LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three.py)
 - (Medium) LC-2466-Count-Ways-To-Build-Good-Strings: [Python3](./Python3/LC-2466-Count-Ways-To-Build-Good-Strings.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
