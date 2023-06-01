@@ -1171,8 +1171,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2501 - 2600
 
 <details>
-<summary>Solution List (1/100)</summary>
+<summary>Solution List (2/100)</summary>
 
+- (Medium) LC-2517-Maximum-Tastiness-of-Candy-Basket: [Python3](./Python3/LC-2517-Maximum-Tastiness-of-Candy-Basket.py)
 - (Medium) LC-2542-Maximum-Subsequence-Score: [Python3](./Python3/LC-2542-Maximum-Subsequence-Score.py)
 
 </details>
