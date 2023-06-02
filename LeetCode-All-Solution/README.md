@@ -1073,8 +1073,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2101 - 2200
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
+- (Medium) LC-2101-Detonate-the-Maximum-Bombs: [Python3](./Python3/LC-2101-Detonate-the-Maximum-Bombs.py)
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
 - (-Hard-) LC-2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps: [Python3](./Python3/LC-2106-Maximum-Fruits-Harvested-After-at-Most-K-Steps.py)
 - (-Easy-) LC-2215-Find-the-Difference-of-Two-Arrays: [Python3](./Python3/LC-2215-Find-the-Difference-of-Two-Arrays.py)
@@ -1171,10 +1172,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2501 - 2600
 
 <details>
-<summary>Solution List (2/100)</summary>
+<summary>Solution List (3/100)</summary>
 
 - (Medium) LC-2517-Maximum-Tastiness-of-Candy-Basket: [Python3](./Python3/LC-2517-Maximum-Tastiness-of-Candy-Basket.py)
 - (Medium) LC-2542-Maximum-Subsequence-Score: [Python3](./Python3/LC-2542-Maximum-Subsequence-Score.py)
+- (Medium) LC-2559-Count-Vowel-Strings-in-Ranges: [Python3](./Python3/LC-2559-Count-Vowel-Strings-in-Ranges.py)
 
 </details>
 
