@@ -701,7 +701,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (Medium) LC-1105-Filling-Bookcase-Shelves: [Python3](./Python3/LC-1105-Filling-Bookcase-Shelves.py)
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
@@ -720,6 +720,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1145-Binary-Tree-Coloring-Game: [Python3](./Python3/LC-1145-Binary-Tree-Coloring-Game.py)
 - (-Hard-) LC-1147-Longest-Chunked-Palindrome-Decomposition: [Python3](./Python3/LC-1147-Longest-Chunked-Palindrome-Decomposition.py)
 - (Medium) LC-1155-Number-of-Dice-Rolls-With-Target-Sum: [Python3](./Python3/LC-1155-Number-of-Dice-Rolls-With-Target-Sum.py)
+- (Medium) LC-1156-Swap-For-Longest-Repeated-Character-Substring: [Python3](./Python3/LC-1156-Swap-For-Longest-Repeated-Character-Substring.py)
 - (-Hard-) LC-1157-Online-Majority-Element-In-Subarray: [Python3](./Python3/LC-1157-Online-Majority-Element-In-Subarray.py)
 - (Medium) LC-1161-Maximum-Level-Sum-of-a-Binary-Tree: [Python3](./Python3/LC-1161-Maximum-Level-Sum-of-a-Binary-Tree.py)
 - (Medium) LC-1162-As-Far-from-Land-as-Possible: [Python3](./Python3/LC-1162-As-Far-from-Land-as-Possible.py)
