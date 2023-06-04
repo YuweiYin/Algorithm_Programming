@@ -1144,7 +1144,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1162,6 +1162,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2446-Determine-if-Two-Events-Have-Conflict: [Python3](./Python3/LC-2446-Determine-if-Two-Events-Have-Conflict.py)
 - (-Easy-) LC-2451-Odd-String-Difference: [Python3](./Python3/LC-2451-Odd-String-Difference.py)
 - (-Easy-) LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three: [Python3](./Python3/LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three.py)
+- (-Easy-) LC-2465-Number-of-Distinct-Averages: [Python3](./Python3/LC-2465-Number-of-Distinct-Averages.py)
 - (Medium) LC-2466-Count-Ways-To-Build-Good-Strings: [Python3](./Python3/LC-2466-Count-Ways-To-Build-Good-Strings.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
