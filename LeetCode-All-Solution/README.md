@@ -739,7 +739,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -751,6 +751,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
 - (-Hard-) LC-1223-Dice-Roll-Simulation: [Python3](./Python3/LC-1223-Dice-Roll-Simulation.py)
 - (-Hard-) LC-1224-Maximum-Equal-Frequency: [Python3](./Python3/LC-1224-Maximum-Equal-Frequency.py)
+- (-Easy-) LC-1232-Check-If-It-Is-a-Straight-Line: [Python3](./Python3/LC-1232-Check-If-It-Is-a-Straight-Line.py)
 - (Medium) LC-1233-Remove-Sub-Folders-from-the-Filesystem: [Python3](./Python3/LC-1233-Remove-Sub-Folders-from-the-Filesystem.py)
 - (Medium) LC-1234-Replace-the-Substring-for-Balanced-String: [Python3](./Python3/LC-1234-Replace-the-Substring-for-Balanced-String.py)
 - (-Hard-) LC-1235-Maximum-Profit-in-Job-Scheduling: [Python3](./Python3/LC-1235-Maximum-Profit-in-Job-Scheduling.py)
@@ -1144,7 +1145,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1162,6 +1163,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2446-Determine-if-Two-Events-Have-Conflict: [Python3](./Python3/LC-2446-Determine-if-Two-Events-Have-Conflict.py)
 - (-Easy-) LC-2451-Odd-String-Difference: [Python3](./Python3/LC-2451-Odd-String-Difference.py)
 - (-Easy-) LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three: [Python3](./Python3/LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three.py)
+- (-Easy-) LC-2460-Apply-Operations-to-an-Array: [Python3](./Python3/LC-2460-Apply-Operations-to-an-Array.py)
 - (-Easy-) LC-2465-Number-of-Distinct-Averages: [Python3](./Python3/LC-2465-Number-of-Distinct-Averages.py)
 - (Medium) LC-2466-Count-Ways-To-Build-Good-Strings: [Python3](./Python3/LC-2466-Count-Ways-To-Build-Good-Strings.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
