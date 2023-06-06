@@ -858,8 +858,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (20/100)</summary>
+<summary>Solution List (21/100)</summary>
 
+- (-Easy-) LC-1502-Can-Make-Arithmetic-Progression-From-Sequence: [Python3](./Python3/LC-1502-Can-Make-Arithmetic-Progression-From-Sequence.py)
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
 - (-Easy-) LC-1523-Count-Odd-Numbers-in-an-Interval-Range: [Python3](./Python3/LC-1523-Count-Odd-Numbers-in-an-Interval-Range.py)
@@ -1112,7 +1113,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1128,6 +1129,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2347-Best-Poker-Hand: [Python3](./Python3/LC-2347-Best-Poker-Hand.py)
 - (Medium) LC-2348-Number-of-Zero-Filled-Subarrays: [Python3](./Python3/LC-2348-Number-of-Zero-Filled-Subarrays.py)
 - (-Easy-) LC-2351-First-Letter-to-Appear-Twice: [Python3](./Python3/LC-2351-First-Letter-to-Appear-Twice.py)
+- (Medium) LC-2352-Equal-Row-and-Column-Pairs: [Python3](./Python3/LC-2352-Equal-Row-and-Column-Pairs.py)
 - (-Easy-) LC-2357-Make-Array-Zero-by-Subtracting-Equal-Amounts: [Python3](./Python3/LC-2357-Make-Array-Zero-by-Subtracting-Equal-Amounts.py)
 - (Medium) LC-2359-Find-Closest-Node-to-Given-Two-Nodes: [Python3](./Python3/LC-2359-Find-Closest-Node-to-Given-Two-Nodes.py)
 - (-Hard-) LC-2360-Longest-Cycle-in-a-Graph: [Python3](./Python3/LC-2360-Longest-Cycle-in-a-Graph.py)
