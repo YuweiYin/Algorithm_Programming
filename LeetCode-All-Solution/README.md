@@ -777,11 +777,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
 - (-Hard-) LC-1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome: [Python3](./Python3/LC-1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome.py)
+- (Medium) LC-1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c: [Python3](./Python3/LC-1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c.py)
 - (Medium) LC-1319-Number-of-Operations-to-Make-Network-Connected: [Python3](./Python3/LC-1319-Number-of-Operations-to-Make-Network-Connected.py)
 - (-Easy-) LC-1323-Maximum-69-Number: [Python3](./Python3/LC-1323-Maximum-69-Number.py)
 - (-Hard-) LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden: [Python3](./Python3/LC-1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden.py)
@@ -1183,6 +1184,15 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2517-Maximum-Tastiness-of-Candy-Basket: [Python3](./Python3/LC-2517-Maximum-Tastiness-of-Candy-Basket.py)
 - (Medium) LC-2542-Maximum-Subsequence-Score: [Python3](./Python3/LC-2542-Maximum-Subsequence-Score.py)
 - (Medium) LC-2559-Count-Vowel-Strings-in-Ranges: [Python3](./Python3/LC-2559-Count-Vowel-Strings-in-Ranges.py)
+
+</details>
+
+### LeetCode 2601 - 2700
+
+<details>
+<summary>Solution List (1/100)</summary>
+
+- (Medium) LC-2611-Mice-and-Cheese: [Python3](./Python3/LC-2611-Mice-and-Cheese.py)
 
 </details>
 
