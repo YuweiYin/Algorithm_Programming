@@ -739,7 +739,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -758,6 +758,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1237-Find-Positive-Integer-Solution-for-a-Given-Equation: [Python3](./Python3/LC-1237-Find-Positive-Integer-Solution-for-a-Given-Equation.py)
 - (Medium) LC-1238-Circular-Permutation-in-Binary-Representation: [Python3](./Python3/LC-1238-Circular-Permutation-in-Binary-Representation.py)
 - (Medium) LC-1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters: [Python3](./Python3/LC-1239-Maximum-Length-of-a-Concatenated-String-with-Unique-Characters.py)
+- (-Hard-) LC-1240-Tiling-a-Rectangle-with-the-Fewest-Squares: [Python3](./Python3/LC-1240-Tiling-a-Rectangle-with-the-Fewest-Squares.py)
 - (Medium) LC-1247-Minimum-Swaps-to-Make-Strings-Equal: [Python3](./Python3/LC-1247-Minimum-Swaps-to-Make-Strings-Equal.py)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
 - (-Hard-) LC-1250-Check-If-It-Is-a-Good-Array: [Python3](./Python3/LC-1250-Check-If-It-Is-a-Good-Array.py)
@@ -777,7 +778,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -797,6 +798,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1339-Maximum-Product-of-Splitted-Binary-Tree: [Python3](./Python3/LC-1339-Maximum-Product-of-Splitted-Binary-Tree.py)
 - (-Easy-) LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero: [Python3](./Python3/LC-1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.py)
 - (-Hard-) LC-1345-Jump-Game-IV: [Python3](./Python3/LC-1345-Jump-Game-IV.py)
+- (-Easy-) LC-1351-Count-Negative-Numbers-in-a-Sorted-Matrix: [Python3](./Python3/LC-1351-Count-Negative-Numbers-in-a-Sorted-Matrix.py)
 - (-Hard-) LC-1354-Construct-Target-Array-With-Multiple-Sums: [Python3](./Python3/LC-1354-Construct-Target-Array-With-Multiple-Sums.py)
 - (-Hard-) LC-1359-Count-All-Valid-Pickup-and-Delivery-Options: [Python3](./Python3/LC-1359-Count-All-Valid-Pickup-and-Delivery-Options.py)
 - (Medium) LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree: [Python3](./Python3/LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree.py)
