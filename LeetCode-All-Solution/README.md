@@ -1192,9 +1192,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2601 - 2700
 
 <details>
-<summary>Solution List (1/100)</summary>
+<summary>Solution List (2/100)</summary>
 
 - (Medium) LC-2611-Mice-and-Cheese: [Python3](./Python3/LC-2611-Mice-and-Cheese.py)
+- (-Hard-) LC-2699-Modify-Graph-Edge-Weights: [Python3](./Python3/LC-2699-Modify-Graph-Edge-Weights.py)
 
 </details>
 
