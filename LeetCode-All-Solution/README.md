@@ -701,7 +701,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (Medium) LC-1105-Filling-Bookcase-Shelves: [Python3](./Python3/LC-1105-Filling-Bookcase-Shelves.py)
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
@@ -725,6 +725,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1161-Maximum-Level-Sum-of-a-Binary-Tree: [Python3](./Python3/LC-1161-Maximum-Level-Sum-of-a-Binary-Tree.py)
 - (Medium) LC-1162-As-Far-from-Land-as-Possible: [Python3](./Python3/LC-1162-As-Far-from-Land-as-Possible.py)
 - (-Hard-) LC-1163-Last-Substring-in-Lexicographical-Order: [Python3](./Python3/LC-1163-Last-Substring-in-Lexicographical-Order.py)
+- (Medium) LC-1170-Compare-Strings-by-Frequency-of-the-Smallest-Character: [Python3](./Python3/LC-1170-Compare-Strings-by-Frequency-of-the-Smallest-Character.py)
 - (-Hard-) LC-1172-Dinner-Plate-Stacks: [Python3](./Python3/LC-1172-Dinner-Plate-Stacks.py)
 - (-Easy-) LC-1175-Prime-Arrangements: [Python3](./Python3/LC-1175-Prime-Arrangements.py)
 - (-Easy-) LC-1184-Distance-Between-Bus-Stops: [Python3](./Python3/LC-1184-Distance-Between-Bus-Stops.py)
