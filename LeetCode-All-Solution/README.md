@@ -701,7 +701,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (Medium) LC-1105-Filling-Bookcase-Shelves: [Python3](./Python3/LC-1105-Filling-Bookcase-Shelves.py)
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
@@ -718,6 +718,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1143-Longest-Common-Subsequence: [Python3](./Python3/LC-1143-Longest-Common-Subsequence.py)
 - (Medium) LC-1144-Decrease-Elements-To-Make-Array-Zigzag: [Python3](./Python3/LC-1144-Decrease-Elements-To-Make-Array-Zigzag.py)
 - (Medium) LC-1145-Binary-Tree-Coloring-Game: [Python3](./Python3/LC-1145-Binary-Tree-Coloring-Game.py)
+- (Medium) LC-1146-Snapshot-Array: [Python3](./Python3/LC-1146-Snapshot-Array.py)
 - (-Hard-) LC-1147-Longest-Chunked-Palindrome-Decomposition: [Python3](./Python3/LC-1147-Longest-Chunked-Palindrome-Decomposition.py)
 - (Medium) LC-1155-Number-of-Dice-Rolls-With-Target-Sum: [Python3](./Python3/LC-1155-Number-of-Dice-Rolls-With-Target-Sum.py)
 - (Medium) LC-1156-Swap-For-Longest-Repeated-Character-Substring: [Python3](./Python3/LC-1156-Swap-For-Longest-Repeated-Character-Substring.py)
@@ -726,6 +727,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1162-As-Far-from-Land-as-Possible: [Python3](./Python3/LC-1162-As-Far-from-Land-as-Possible.py)
 - (-Hard-) LC-1163-Last-Substring-in-Lexicographical-Order: [Python3](./Python3/LC-1163-Last-Substring-in-Lexicographical-Order.py)
 - (Medium) LC-1170-Compare-Strings-by-Frequency-of-the-Smallest-Character: [Python3](./Python3/LC-1170-Compare-Strings-by-Frequency-of-the-Smallest-Character.py)
+- (Medium) LC-1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List: [Python3](./Python3/LC-1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List.py)
 - (-Hard-) LC-1172-Dinner-Plate-Stacks: [Python3](./Python3/LC-1172-Dinner-Plate-Stacks.py)
 - (-Easy-) LC-1175-Prime-Arrangements: [Python3](./Python3/LC-1175-Prime-Arrangements.py)
 - (-Easy-) LC-1184-Distance-Between-Bus-Stops: [Python3](./Python3/LC-1184-Distance-Between-Bus-Stops.py)
