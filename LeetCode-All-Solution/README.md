@@ -819,7 +819,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (35/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
@@ -855,6 +855,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1473-Paint-House-III: [Python3](./Python3/LC-1473-Paint-House-III.py)
 - (-Easy-) LC-1475-Final-Prices-With-a-Special-Discount-in-a-Shop: [Python3](./Python3/LC-1475-Final-Prices-With-a-Special-Discount-in-a-Shop.py)
 - (-Easy-) LC-1480-Running-Sum-of-1d-Array: [Python3](./Python3/LC-1480-Running-Sum-of-1d-Array.py)
+- (-Hard-) LC-1483-Kth-Ancestor-of-a-Tree-Node: [Python3](./Python3/LC-1483-Kth-Ancestor-of-a-Tree-Node.py)
 - (Medium) LC-1487-Making-File-Names-Unique: [Python3](./Python3/LC-1487-Making-File-Names-Unique.py)
 - (-Easy-) LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary: [Python3](./Python3/LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)
 - (Medium) LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition: [Python3](./Python3/LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition.py)
