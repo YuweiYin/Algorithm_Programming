@@ -335,7 +335,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0501 - 0600
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (42/100)</summary>
 
 - (-Hard-) LC-0502-IPO: [Python3](./Python3/LC-0502-IPO.py)
 - (-Easy-) LC-0504-Base-7: [Python3](./Python3/LC-0504-Base-7.py)
@@ -350,6 +350,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0522-Longest-Uncommon-Subsequence-II: [Python3](./Python3/LC-0522-Longest-Uncommon-Subsequence-II.py)
 - (Medium) LC-0523-Continuous-Subarray-Sum: [Python3](./Python3/LC-0523-Continuous-Subarray-Sum.py)
 - (Medium) LC-0525-Contiguous-Array: [Python3](./Python3/LC-0525-Contiguous-Array.py)
+- (-Easy-) LC-0530-Minimum-Absolute-Difference-in-BST: [Python3](./Python3/LC-0530-Minimum-Absolute-Difference-in-BST.py)
 - (Medium) LC-0532-K-diff-Pairs-in-an-Array: [Python3](./Python3/LC-0532-K-diff-Pairs-in-an-Array.py)
 - (Medium) LC-0535-Encode-and-Decode-TinyURL: [Python3](./Python3/LC-0535-Encode-and-Decode-TinyURL.py)
 - (Medium) LC-0537-Complex-Number-Multiplication: [Python3](./Python3/LC-0537-Complex-Number-Multiplication.py)
@@ -701,7 +702,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (34/100)</summary>
 
 - (Medium) LC-1105-Filling-Bookcase-Shelves: [Python3](./Python3/LC-1105-Filling-Bookcase-Shelves.py)
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
@@ -730,6 +731,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List: [Python3](./Python3/LC-1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List.py)
 - (-Hard-) LC-1172-Dinner-Plate-Stacks: [Python3](./Python3/LC-1172-Dinner-Plate-Stacks.py)
 - (-Easy-) LC-1175-Prime-Arrangements: [Python3](./Python3/LC-1175-Prime-Arrangements.py)
+- (Medium) LC-1177-Can-Make-Palindrome-from-Substring: [Python3](./Python3/LC-1177-Can-Make-Palindrome-from-Substring.py)
 - (-Easy-) LC-1184-Distance-Between-Bus-Stops: [Python3](./Python3/LC-1184-Distance-Between-Bus-Stops.py)
 - (-Easy-) LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
 - (-Hard-) LC-1187-Make-Array-Strictly-Increasing: [Python3](./Python3/LC-1187-Make-Array-Strictly-Increasing.py)
@@ -781,7 +783,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (31/100)</summary>
+<summary>Solution List (32/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -807,6 +809,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree: [Python3](./Python3/LC-1372-Longest-ZigZag-Path-in-a-Binary-Tree.py)
 - (-Hard-) LC-1373-Maximum-Sum-BST-in-Binary-Tree: [Python3](./Python3/LC-1373-Maximum-Sum-BST-in-Binary-Tree.py)
 - (-Easy-) LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts: [Python3](./Python3/LC-1374-Generate-a-String-With-Characters-That-Have-Odd-Counts.py)
+- (Medium) LC-1375-Number-of-Times-Binary-String-Is-Prefix-Aligned: [Python3](./Python3/LC-1375-Number-of-Times-Binary-String-Is-Prefix-Aligned.py)
 - (Medium) LC-1376-Time-Needed-to-Inform-All-Employees: [Python3](./Python3/LC-1376-Time-Needed-to-Inform-All-Employees.py)
 - (-Hard-) LC-1377-Frog-Position-After-T-Seconds: [Python3](./Python3/LC-1377-Frog-Position-After-T-Seconds.py)
 - (Medium) LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree: [Python3](./Python3/LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py)
