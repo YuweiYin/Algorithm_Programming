@@ -822,7 +822,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (36/100)</summary>
+<summary>Solution List (37/100)</summary>
 
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
 - (-Easy-) LC-1403-Minimum-Subsequence-in-Non-Increasing-Order: [Python3](./Python3/LC-1403-Minimum-Subsequence-in-Non-Increasing-Order.py)
@@ -861,6 +861,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1483-Kth-Ancestor-of-a-Tree-Node: [Python3](./Python3/LC-1483-Kth-Ancestor-of-a-Tree-Node.py)
 - (Medium) LC-1487-Making-File-Names-Unique: [Python3](./Python3/LC-1487-Making-File-Names-Unique.py)
 - (-Easy-) LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary: [Python3](./Python3/LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)
+- (-Hard-) LC-1494-Parallel-Courses-II: [Python3](./Python3/LC-1494-Parallel-Courses-II.py)
 - (Medium) LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition: [Python3](./Python3/LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition.py)
 
 </details>
@@ -868,7 +869,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (21/100)</summary>
+<summary>Solution List (22/100)</summary>
 
 - (-Easy-) LC-1502-Can-Make-Arithmetic-Progression-From-Sequence: [Python3](./Python3/LC-1502-Can-Make-Arithmetic-Progression-From-Sequence.py)
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
@@ -880,6 +881,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1547-Minimum-Cost-to-Cut-a-Stick: [Python3](./Python3/LC-1547-Minimum-Cost-to-Cut-a-Stick.py)
 - (Medium) LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes: [Python3](./Python3/LC-1557-Minimum-Number-of-Vertices-to-Reach-All-Nodes.py)
 - (Medium) LC-1567-Maximum-Length-of-Subarray-With-Positive-Product: [Python3](./Python3/LC-1567-Maximum-Length-of-Subarray-With-Positive-Product.py)
+- (-Hard-) LC-1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST: [Python3](./Python3/LC-1569-Number-of-Ways-to-Reorder-Array-to-Get-Same-BST.py)
 - (-Easy-) LC-1572-Matrix-Diagonal-Sum: [Python3](./Python3/LC-1572-Matrix-Diagonal-Sum.py)
 - (Medium) LC-1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted: [Python3](./Python3/LC-1574-Shortest-Subarray-to-be-Removed-to-Make-Array-Sorted.py)
 - (-Easy-) LC-1576-Replace-All-?'s-to-Avoid-Consecutive-Repeating-Characters: [Python3](./Python3/LC-1576-Replace-All-s-to-Avoid-Consecutive-Repeating-Characters.py)
