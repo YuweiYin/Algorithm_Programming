@@ -1159,7 +1159,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1183,6 +1183,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
 - (-Easy-) LC-2475-Number-of-Unequal-Triplets-in-Array: [Python3](./Python3/LC-2475-Number-of-Unequal-Triplets-in-Array.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
+- (-Easy-) LC-2481-Minimum-Cuts-to-Divide-a-Circle: [Python3](./Python3/LC-2481-Minimum-Cuts-to-Divide-a-Circle.py)
 - (-Hard-) LC-2488-Count-Subarrays-With-Median-K: [Python3](./Python3/LC-2488-Count-Subarrays-With-Median-K.py)
 - (Medium) LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities: [Python3](./Python3/LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities.py)
 
