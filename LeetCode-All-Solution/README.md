@@ -1125,7 +1125,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (27/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
@@ -1134,6 +1134,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph: [Python3](./Python3/LC-2316-Count-Unreachable-Pairs-of-Nodes-in-an-Undirected-Graph.py)
 - (-Easy-) LC-2319-Check-if-Matrix-Is-X-Matrix: [Python3](./Python3/LC-2319-Check-if-Matrix-Is-X-Matrix.py)
 - (-Easy-) LC-2325-Decode-the-Message: [Python3](./Python3/LC-2325-Decode-the-Message.py)
+- (-Hard-) LC-2328-Number-of-Increasing-Paths-in-a-Grid: [Python3](./Python3/LC-2328-Number-of-Increasing-Paths-in-a-Grid.py)
 - (-Easy-) LC-2331-Evaluate-Boolean-Binary-Tree: [Python3](./Python3/LC-2331-Evaluate-Boolean-Binary-Tree.py)
 - (-Easy-) LC-2335-Minimum-Amount-of-Time-to-Fill-Cups: [Python3](./Python3/LC-2335-Minimum-Amount-of-Time-to-Fill-Cups.py)
 - (Medium) LC-2336-Smallest-Number-in-Infinite-Set: [Python3](./Python3/LC-2336-Smallest-Number-in-Infinite-Set.py)
