@@ -744,7 +744,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -771,6 +771,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1254-Number-of-Closed-Islands: [Python3](./Python3/LC-1254-Number-of-Closed-Islands.py)
 - (-Hard-) LC-1255-Maximum-Score-Words-Formed-by-Letters: [Python3](./Python3/LC-1255-Maximum-Score-Words-Formed-by-Letters.py)
 - (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
+- (Medium) LC-1262-Greatest-Sum-Divisible-by-Three: [Python3](./Python3/LC-1262-Greatest-Sum-Divisible-by-Three.py)
 - (-Hard-) LC-1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location: [Python3](./Python3/LC-1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location.py)
 - (Medium) LC-1268-Search-Suggestions-System: [Python3](./Python3/LC-1268-Search-Suggestions-System.py)
 - (Medium) LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To: [Python3](./Python3/LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To.py)
