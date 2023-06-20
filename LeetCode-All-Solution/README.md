@@ -870,7 +870,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (-Easy-) LC-1502-Can-Make-Arithmetic-Progression-From-Sequence: [Python3](./Python3/LC-1502-Can-Make-Arithmetic-Progression-From-Sequence.py)
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
@@ -892,6 +892,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1584-Min-Cost-to-Connect-All-Points: [Python3](./Python3/LC-1584-Min-Cost-to-Connect-All-Points.py)
 - (Medium) LC-1590-Make-Sum-Divisible-by-P: [Python3](./Python3/LC-1590-Make-Sum-Divisible-by-P.py)
 - (-Easy-) LC-1592-Rearrange-Spaces-Between-Words: [Python3](./Python3/LC-1592-Rearrange-Spaces-Between-Words.py)
+- (-Hard-) LC-1595-Minimum-Cost-to-Connect-Two-Groups-of-Points: [Python3](./Python3/LC-1595-Minimum-Cost-to-Connect-Two-Groups-of-Points.py)
 - (-Easy-) LC-1598-Crawler-Log-Folder: [Python3](./Python3/LC-1598-Crawler-Log-Folder.py)
 - (Medium) LC-1599-Maximum-Profit-of-Operating-a-Centennial-Wheel: [Python3](./Python3/LC-1599-Maximum-Profit-of-Operating-a-Centennial-Wheel.py)
 
@@ -1057,7 +1058,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2007-Find-Original-Array-From-Doubled-Array: [Python3](./Python3/LC-2007-Find-Original-Array-From-Doubled-Array.py)
@@ -1081,6 +1082,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2047-Number-of-Valid-Words-in-a-Sentence: [Python3](./Python3/LC-2047-Number-of-Valid-Words-in-a-Sentence.py)
 - (Medium) LC-2049-Count-Nodes-With-the-Highest-Score: [Python3](./Python3/LC-2049-Count-Nodes-With-the-Highest-Score.py)
 - (Medium) LC-2055-Plates-Between-Candles: [Python3](./Python3/LC-2055-Plates-Between-Candles.py)
+- (Medium) LC-2090-K-Radius-Subarray-Averages: [Python3](./Python3/LC-2090-K-Radius-Subarray-Averages.py)
 - (Medium) LC-2095-Delete-the-Middle-Node-of-a-Linked-List: [Python3](./Python3/LC-2095-Delete-the-Middle-Node-of-a-Linked-List.py)
 - (Medium) LC-2100-Find-Good-Days-to-Rob-the-Bank: [Python3](./Python3/LC-2100-Find-Good-Days-to-Rob-the-Bank.py)
 
