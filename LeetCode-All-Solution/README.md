@@ -1163,7 +1163,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1179,6 +1179,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2441-Largest-Positive-Integer-That-Exists-With-Its-Negative: [Python3](./Python3/LC-2441-Largest-Positive-Integer-That-Exists-With-Its-Negative.py)
 - (-Hard-) LC-2444-Count-Subarrays-With-Fixed-Bounds: [Python3](./Python3/LC-2444-Count-Subarrays-With-Fixed-Bounds.py)
 - (-Easy-) LC-2446-Determine-if-Two-Events-Have-Conflict: [Python3](./Python3/LC-2446-Determine-if-Two-Events-Have-Conflict.py)
+- (-Hard-) LC-2448-Minimum-Cost-to-Make-Array-Equal: [Python3](./Python3/LC-2448-Minimum-Cost-to-Make-Array-Equal.py)
 - (-Easy-) LC-2451-Odd-String-Difference: [Python3](./Python3/LC-2451-Odd-String-Difference.py)
 - (-Easy-) LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three: [Python3](./Python3/LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three.py)
 - (-Easy-) LC-2460-Apply-Operations-to-an-Array: [Python3](./Python3/LC-2460-Apply-Operations-to-an-Array.py)
