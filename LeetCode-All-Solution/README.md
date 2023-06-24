@@ -573,7 +573,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (60/100)</summary>
+<summary>Solution List (61/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -610,6 +610,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0952-Largest-Component-Size-by-Common-Factor: [Python3](./Python3/LC-0952-Largest-Component-Size-by-Common-Factor.py)
 - (-Easy-) LC-0953-Verifying-an-Alien-Dictionary: [Python3](./Python3/LC-0953-Verifying-an-Alien-Dictionary.py)
 - (Medium) LC-0954-Array-of-Doubled-Pairs: [Python3](./Python3/LC-0954-Array-of-Doubled-Pairs.py)
+- (-Hard-) LC-0956-Tallest-Billboard: [Python3](./Python3/LC-0956-Tallest-Billboard.py)
 - (Medium) LC-0958-Check-Completeness-of-a-Binary-Tree: [Python3](./Python3/LC-0958-Check-Completeness-of-a-Binary-Tree.py)
 - (-Easy-) LC-0961-N-Repeated-Element-in-Size-2N-Array: [Python3](./Python3/LC-0961-N-Repeated-Element-in-Size-2N-Array.py)
 - (-Easy-) LC-0965-Univalued-Binary-Tree: [Python3](./Python3/LC-0965-Univalued-Binary-Tree.py)
@@ -901,7 +902,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (52/100)</summary>
+<summary>Solution List (53/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Easy-) LC-1603-Design-Parking-System: [Python3](./Python3/LC-1603-Design-Parking-System.py)
@@ -935,6 +936,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1656-Design-an-Ordered-Stream: [Python3](./Python3/LC-1656-Design-an-Ordered-Stream.py)
 - (Medium) LC-1657-Determine-if-Two-Strings-Are-Close: [Python3](./Python3/LC-1657-Determine-if-Two-Strings-Are-Close.py)
 - (Medium) LC-1658-Minimum-Operations-to-Reduce-X-to-Zero: [Python3](./Python3/LC-1658-Minimum-Operations-to-Reduce-X-to-Zero.py)
+- (-Hard-) LC-1659-Maximize-Grid-Happiness: [Python3](./Python3/LC-1659-Maximize-Grid-Happiness.py)
 - (-Easy-) LC-1662-Check-If-Two-String-Arrays-are-Equivalent: [Python3](./Python3/LC-1662-Check-If-Two-String-Arrays-are-Equivalent.py)
 - (Medium) LC-1663-Smallest-String-With-A-Given-Numeric-Value: [Python3](./Python3/LC-1663-Smallest-String-With-A-Given-Numeric-Value.py)
 - (Medium) LC-1664-Ways-to-Make-a-Fair-Array: [Python3](./Python3/LC-1664-Ways-to-Make-a-Fair-Array.py)
