@@ -1167,7 +1167,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (26/100)</summary>
+<summary>Solution List (28/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1187,12 +1187,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2451-Odd-String-Difference: [Python3](./Python3/LC-2451-Odd-String-Difference.py)
 - (-Easy-) LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three: [Python3](./Python3/LC-2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three.py)
 - (-Easy-) LC-2460-Apply-Operations-to-an-Array: [Python3](./Python3/LC-2460-Apply-Operations-to-an-Array.py)
+- (Medium) LC-2462-Total-Cost-to-Hire-K-Workers: [Python3](./Python3/LC-2462-Total-Cost-to-Hire-K-Workers.py)
 - (-Easy-) LC-2465-Number-of-Distinct-Averages: [Python3](./Python3/LC-2465-Number-of-Distinct-Averages.py)
 - (Medium) LC-2466-Count-Ways-To-Build-Good-Strings: [Python3](./Python3/LC-2466-Count-Ways-To-Build-Good-Strings.py)
 - (-Easy-) LC-2469-Convert-the-Temperature: [Python3](./Python3/LC-2469-Convert-the-Temperature.py)
 - (-Easy-) LC-2475-Number-of-Unequal-Triplets-in-Array: [Python3](./Python3/LC-2475-Number-of-Unequal-Triplets-in-Array.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
 - (-Easy-) LC-2481-Minimum-Cuts-to-Divide-a-Circle: [Python3](./Python3/LC-2481-Minimum-Cuts-to-Divide-a-Circle.py)
+- (-Easy-) LC-2485-Find-the-Pivot-Integer: [Python3](./Python3/LC-2485-Find-the-Pivot-Integer.py)
 - (-Hard-) LC-2488-Count-Subarrays-With-Median-K: [Python3](./Python3/LC-2488-Count-Subarrays-With-Median-K.py)
 - (Medium) LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities: [Python3](./Python3/LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities.py)
 - (-Easy-) LC-2496-Maximum-Value-of-a-String-in-an-Array: [Python3](./Python3/LC-2496-Maximum-Value-of-a-String-in-an-Array.py)
