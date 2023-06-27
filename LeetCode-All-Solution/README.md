@@ -703,7 +703,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1101 - 1200
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (Medium) LC-1105-Filling-Bookcase-Shelves: [Python3](./Python3/LC-1105-Filling-Bookcase-Shelves.py)
 - (-Hard-) LC-1106-Parsing-A-Boolean-Expression: [Python3](./Python3/LC-1106-Parsing-A-Boolean-Expression.py)
@@ -735,6 +735,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1177-Can-Make-Palindrome-from-Substring: [Python3](./Python3/LC-1177-Can-Make-Palindrome-from-Substring.py)
 - (-Easy-) LC-1184-Distance-Between-Bus-Stops: [Python3](./Python3/LC-1184-Distance-Between-Bus-Stops.py)
 - (-Easy-) LC-1185-Day-of-the-Week: [Python3](./Python3/LC-1185-Day-of-the-Week.py)
+- (Medium) LC-1186-Maximum-Subarray-Sum-with-One-Deletion: [Python3](./Python3/LC-1186-Maximum-Subarray-Sum-with-One-Deletion.py)
 - (-Hard-) LC-1187-Make-Array-Strictly-Increasing: [Python3](./Python3/LC-1187-Make-Array-Strictly-Increasing.py)
 - (-Easy-) LC-1189-Maximum-Number-of-Balloons: [Python3](./Python3/LC-1189-Maximum-Number-of-Balloons.py)
 - (-Hard-) LC-1192-Critical-Connections-in-a-Network: [Python3](./Python3/LC-1192-Critical-Connections-in-a-Network.py)
