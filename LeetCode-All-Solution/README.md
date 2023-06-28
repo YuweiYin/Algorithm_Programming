@@ -873,10 +873,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (-Easy-) LC-1502-Can-Make-Arithmetic-Progression-From-Sequence: [Python3](./Python3/LC-1502-Can-Make-Arithmetic-Progression-From-Sequence.py)
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
+- (Medium) LC-1514-Path-with-Maximum-Probability: [Python3](./Python3/LC-1514-Path-with-Maximum-Probability.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
 - (-Easy-) LC-1523-Count-Odd-Numbers-in-an-Interval-Range: [Python3](./Python3/LC-1523-Count-Odd-Numbers-in-an-Interval-Range.py)
 - (-Hard-) LC-1531-String-Compression-II: [Python3](./Python3/LC-1531-String-Compression-II.py)
@@ -905,7 +906,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (53/100)</summary>
+<summary>Solution List (54/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Easy-) LC-1603-Design-Parking-System: [Python3](./Python3/LC-1603-Design-Parking-System.py)
@@ -950,6 +951,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1678-Goal-Parser-Interpretation: [Python3](./Python3/LC-1678-Goal-Parser-Interpretation.py)
 - (Medium) LC-1679-Max-Number-of-K-Sum-Pairs: [Python3](./Python3/LC-1679-Max-Number-of-K-Sum-Pairs.py)
 - (Medium) LC-1680-Concatenation-of-Consecutive-Binary-Numbers: [Python3](./Python3/LC-1680-Concatenation-of-Consecutive-Binary-Numbers.py)
+- (-Hard-) LC-1681-Minimum-Incompatibility: [Python3](./Python3/LC-1681-Minimum-Incompatibility.py)
 - (-Easy-) LC-1684-Count-the-Number-of-Consistent-Strings: [Python3](./Python3/LC-1684-Count-the-Number-of-Consistent-Strings.py)
 - (-Hard-) LC-1687-Delivering-Boxes-from-Storage-to-Ports: [Python3](./Python3/LC-1687-Delivering-Boxes-from-Storage-to-Ports.py)
 - (-Easy-) LC-1688-Count-of-Matches-in-Tournament: [Python3](./Python3/LC-1688-Count-of-Matches-in-Tournament.py)
