@@ -746,7 +746,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (33/100)</summary>
+<summary>Solution List (34/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -770,6 +770,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1249-Minimum-Remove-to-Make-Valid-Parentheses: [Python3](./Python3/LC-1249-Minimum-Remove-to-Make-Valid-Parentheses.py)
 - (-Hard-) LC-1250-Check-If-It-Is-a-Good-Array: [Python3](./Python3/LC-1250-Check-If-It-Is-a-Good-Array.py)
 - (-Easy-) LC-1252-Cells-with-Odd-Values-in-a-Matrix: [Python3](./Python3/LC-1252-Cells-with-Odd-Values-in-a-Matrix.py)
+- (Medium) LC-1253-Reconstruct-a-2-Row-Binary-Matrix: [Python3](./Python3/LC-1253-Reconstruct-a-2-Row-Binary-Matrix.py)
 - (Medium) LC-1254-Number-of-Closed-Islands: [Python3](./Python3/LC-1254-Number-of-Closed-Islands.py)
 - (-Hard-) LC-1255-Maximum-Score-Words-Formed-by-Letters: [Python3](./Python3/LC-1255-Maximum-Score-Words-Formed-by-Letters.py)
 - (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
@@ -1048,12 +1049,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1901 - 2000
 
 <details>
-<summary>Solution List (9/100)</summary>
+<summary>Solution List (10/100)</summary>
 
 - (Medium) LC-1926-Nearest-Exit-from-Entrance-in-Maze: [Python3](./Python3/LC-1926-Nearest-Exit-from-Entrance-in-Maze.py)
 - (-Easy-) LC-1945-Sum-of-Digits-of-String-After-Convert: [Python3](./Python3/LC-1945-Sum-of-Digits-of-String-After-Convert.py)
 - (Medium) LC-1962-Remove-Stones-to-Minimize-the-Total: [Python3](./Python3/LC-1962-Remove-Stones-to-Minimize-the-Total.py)
 - (-Hard-) LC-1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position: [Python3](./Python3/LC-1964-Find-the-Longest-Valid-Obstacle-Course-at-Each-Position.py)
+- (-Hard-) LC-1970-Last-Day-Where-You-Can-Still-Cross: [Python3](./Python3/LC-1970-Last-Day-Where-You-Can-Still-Cross.py)
 - (-Easy-) LC-1971-Find-if-Path-Exists-in-Graph: [Python3](./Python3/LC-1971-Find-if-Path-Exists-in-Graph.py)
 - (-Easy-) LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores: [Python3](./Python3/LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.py)
 - (-Hard-) LC-1994-The-Number-of-Good-Subsets: [Python3](./Python3/LC-1994-The-Number-of-Good-Subsets.py)
@@ -1170,7 +1172,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (28/100)</summary>
+<summary>Solution List (29/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1199,6 +1201,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2481-Minimum-Cuts-to-Divide-a-Circle: [Python3](./Python3/LC-2481-Minimum-Cuts-to-Divide-a-Circle.py)
 - (-Easy-) LC-2485-Find-the-Pivot-Integer: [Python3](./Python3/LC-2485-Find-the-Pivot-Integer.py)
 - (-Hard-) LC-2488-Count-Subarrays-With-Median-K: [Python3](./Python3/LC-2488-Count-Subarrays-With-Median-K.py)
+- (-Easy-) LC-2490-Circular-Sentence: [Python3](./Python3/LC-2490-Circular-Sentence.py)
 - (Medium) LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities: [Python3](./Python3/LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities.py)
 - (-Easy-) LC-2496-Maximum-Value-of-a-String-in-an-Array: [Python3](./Python3/LC-2496-Maximum-Value-of-a-String-in-an-Array.py)
 
