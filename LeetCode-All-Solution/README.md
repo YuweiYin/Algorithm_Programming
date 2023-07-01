@@ -1137,9 +1137,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (27/100)</summary>
+<summary>Solution List (28/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
+- (Medium) LC-2305-Fair-Distribution-of-Cookies: [Python3](./Python3/LC-2305-Fair-Distribution-of-Cookies.py)
 - (-Hard-) LC-2306-Naming-a-Company: [Python3](./Python3/LC-2306-Naming-a-Company.py)
 - (-Easy-) LC-2309-Greatest-English-Letter-in-Upper-and-Lower-Case: [Python3](./Python3/LC-2309-Greatest-English-Letter-in-Upper-and-Lower-Case.py)
 - (-Easy-) LC-2315-Count-Asterisks: [Python3](./Python3/LC-2315-Count-Asterisks.py)
