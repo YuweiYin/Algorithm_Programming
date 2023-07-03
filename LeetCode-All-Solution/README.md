@@ -286,7 +286,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (42/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (Medium) LC-0406-Queue-Reconstruction-by-Height: [Python3](./Python3/LC-0406-Queue-Reconstruction-by-Height.py)
@@ -307,6 +307,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0440-K-th-Smallest-in-Lexicographical-Order: [Python3](./Python3/LC-0440-K-th-Smallest-in-Lexicographical-Order.py)
 - (Medium) LC-0442-Find-All-Duplicates-in-an-Array: [Python3](./Python3/LC-0442-Find-All-Duplicates-in-an-Array.py)
 - (Medium) LC-0443-String-Compression: [Python3](./Python3/LC-0443-String-Compression.py)
+- (Medium) LC-0445-Add-Two-Numbers-II: [Python3](./Python3/LC-0445-Add-Two-Numbers-II.py)
 - (-Hard-) LC-0446-Arithmetic-Slices-II-Subsequence: [Python3](./Python3/LC-0446-Arithmetic-Slices-II-Subsequence.py)
 - (Medium) LC-0449-Serialize-and-Deserialize-BST: [Python3](./Python3/LC-0449-Serialize-and-Deserialize-BST.py)
 - (Medium) LC-0450-Delete-Node-in-a-BST: [Python3](./Python3/LC-0450-Delete-Node-in-a-BST.py)
@@ -506,7 +507,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (56/100)</summary>
+<summary>Solution List (57/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
@@ -544,6 +545,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0856-Score-of-Parentheses: [Python3](./Python3/LC-0856-Score-of-Parentheses.py)
 - (-Hard-) LC-0857-Minimum-Cost-to-Hire-K-Workers: [Python3](./Python3/LC-0857-Minimum-Cost-to-Hire-K-Workers.py)
 - (Medium) LC-0858-Mirror-Reflection: [Python3](./Python3/LC-0858-Mirror-Reflection.py)
+- (-Easy-) LC-0859-Buddy-Strings: [Python3](./Python3/LC-0859-Buddy-Strings.py)
 - (-Hard-) LC-0862-Shortest-Subarray-with-Sum-at-Least-K: [Python3](./Python3/LC-0862-Shortest-Subarray-with-Sum-at-Least-K.py)
 - (-Hard-) LC-0864-Shortest-Path-to-Get-All-Keys: [Python3](./Python3/LC-0864-Shortest-Path-to-Get-All-Keys.py)
 - (-Easy-) LC-0868-Binary-Gap: [Python3](./Python3/LC-0868-Binary-Gap.py)
