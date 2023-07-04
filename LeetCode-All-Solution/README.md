@@ -107,7 +107,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (59/100)</summary>
+<summary>Solution List (60/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -138,6 +138,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0134-Gas-Station: [Python3](./Python3/LC-0134-Gas-Station.py)
 - (-Hard-) LC-0135-Candy: [Python3](./Python3/LC-0135-Candy.py)
 - (-Easy-) LC-0136-Single-Number: [Python3](./Python3/LC-0136-Single-Number.py)
+- (Medium) LC-0137-Single-Number-II: [Python3](./Python3/LC-0137-Single-Number-II.py)
 - (Medium) LC-0138-Copy-List-with-Random-Pointer: [Python3](./Python3/LC-0138-Copy-List-with-Random-Pointer.py)
 - (Medium) LC-0139-Word-Break: [Python3](./Python3/LC-0139-Word-Break.py)
 - (-Easy-) LC-0141-Linked-List-Cycle: [Python3](./Python3/LC-0141-Linked-List-Cycle.py)
@@ -1224,9 +1225,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2601 - 2700
 
 <details>
-<summary>Solution List (2/100)</summary>
+<summary>Solution List (3/100)</summary>
 
 - (Medium) LC-2611-Mice-and-Cheese: [Python3](./Python3/LC-2611-Mice-and-Cheese.py)
+- (Medium) LC-2679-Sum-in-a-Matrix: [Python3](./Python3/LC-2679-Sum-in-a-Matrix.py)
 - (-Hard-) LC-2699-Modify-Graph-Edge-Weights: [Python3](./Python3/LC-2699-Modify-Graph-Edge-Weights.py)
 
 </details>
