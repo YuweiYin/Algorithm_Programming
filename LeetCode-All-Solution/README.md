@@ -829,7 +829,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (39/100)</summary>
 
 - (Medium) LC-1401-Circle-and-Rectangle-Overlapping: [Python3](./Python3/LC-1401-Circle-and-Rectangle-Overlapping.py)
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
@@ -869,6 +869,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1483-Kth-Ancestor-of-a-Tree-Node: [Python3](./Python3/LC-1483-Kth-Ancestor-of-a-Tree-Node.py)
 - (Medium) LC-1487-Making-File-Names-Unique: [Python3](./Python3/LC-1487-Making-File-Names-Unique.py)
 - (-Easy-) LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary: [Python3](./Python3/LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)
+- (Medium) LC-1493-Longest-Subarray-of-1s-After-Deleting-One-Element: [Python3](./Python3/LC-1493-Longest-Subarray-of-1s-After-Deleting-One-Element.py)
 - (-Hard-) LC-1494-Parallel-Courses-II: [Python3](./Python3/LC-1494-Parallel-Courses-II.py)
 - (Medium) LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition: [Python3](./Python3/LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition.py)
 
@@ -1214,11 +1215,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2501 - 2600
 
 <details>
-<summary>Solution List (3/100)</summary>
+<summary>Solution List (4/100)</summary>
 
 - (Medium) LC-2517-Maximum-Tastiness-of-Candy-Basket: [Python3](./Python3/LC-2517-Maximum-Tastiness-of-Candy-Basket.py)
 - (Medium) LC-2542-Maximum-Subsequence-Score: [Python3](./Python3/LC-2542-Maximum-Subsequence-Score.py)
 - (Medium) LC-2559-Count-Vowel-Strings-in-Ranges: [Python3](./Python3/LC-2559-Count-Vowel-Strings-in-Ranges.py)
+- (-Easy-) LC-2600-K-Items-With-the-Maximum-Sum: [Python3](./Python3/LC-2600-K-Items-With-the-Maximum-Sum.py)
 
 </details>
 
