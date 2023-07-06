@@ -1104,7 +1104,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2101 - 2200
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (Medium) LC-2101-Detonate-the-Maximum-Bombs: [Python3](./Python3/LC-2101-Detonate-the-Maximum-Bombs.py)
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
@@ -1114,6 +1114,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words: [Python3](./Python3/LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py)
 - (-Hard-) LC-2136-Earliest-Possible-Day-of-Full-Bloom: [Python3](./Python3/LC-2136-Earliest-Possible-Day-of-Full-Bloom.py)
 - (Medium) LC-2140-Solving-Questions-With-Brainpower: [Python3](./Python3/LC-2140-Solving-Questions-With-Brainpower.py)
+- (Medium) LC-2178-Maximum-Split-of-Positive-Even-Integers: [Python3](./Python3/LC-2178-Maximum-Split-of-Positive-Even-Integers.py)
 - (-Easy-) LC-2180-Count-Integers-With-Even-Digit-Sum: [Python3](./Python3/LC-2180-Count-Integers-With-Even-Digit-Sum.py)
 - (-Easy-) LC-2185-Counting-Words-With-a-Given-Prefix: [Python3](./Python3/LC-2185-Counting-Words-With-a-Given-Prefix.py)
 - (Medium) LC-2187-Minimum-Time-to-Complete-Trips: [Python3](./Python3/LC-2187-Minimum-Time-to-Complete-Trips.py)
