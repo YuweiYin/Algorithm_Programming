@@ -1216,9 +1216,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2501 - 2600
 
 <details>
-<summary>Solution List (4/100)</summary>
+<summary>Solution List (5/100)</summary>
 
 - (Medium) LC-2517-Maximum-Tastiness-of-Candy-Basket: [Python3](./Python3/LC-2517-Maximum-Tastiness-of-Candy-Basket.py)
+- (-Hard-) LC-2532-Time-to-Cross-a-Bridge: [Python3](./Python3/LC-532-Time-to-Cross-a-Bridge.py)
 - (Medium) LC-2542-Maximum-Subsequence-Score: [Python3](./Python3/LC-2542-Maximum-Subsequence-Score.py)
 - (Medium) LC-2559-Count-Vowel-Strings-in-Ranges: [Python3](./Python3/LC-2559-Count-Vowel-Strings-in-Ranges.py)
 - (-Easy-) LC-2600-K-Items-With-the-Maximum-Sum: [Python3](./Python3/LC-2600-K-Items-With-the-Maximum-Sum.py)
