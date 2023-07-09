@@ -1124,13 +1124,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (-Hard-) LC-2218-Maximum-Value-of-K-Coins-From-Piles: [Python3](./Python3/LC-2218-Maximum-Value-of-K-Coins-From-Piles.py)
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
 - (-Hard-) LC-2246-Longest-Path-With-Different-Adjacent-Characters: [Python3](./Python3/LC-2246-Longest-Path-With-Different-Adjacent-Characters.py)
 - (Medium) LC-2256-Minimum-Average-Difference: [Python3](./Python3/LC-2256-Minimum-Average-Difference.py)
+- (-Hard-) LC-2272-Substring-With-Largest-Variance: [Python3](./Python3/LC-2272-Substring-With-Largest-Variance.py)
 - (Medium) LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks: [Python3](./Python3/LC-2279-Maximum-Bags-With-Full-Capacity-of-Rocks.py)
 - (-Easy-) LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value: [Python3](./Python3/LC-2283-Check-if-Number-Has-Equal-Digit-Count-and-Digit-Value.py)
 - (-Easy-) LC-2287-Rearrange-Characters-to-Make-Target-String: [Python3](./Python3/LC-2287-Rearrange-Characters-to-Make-Target-String.py)
