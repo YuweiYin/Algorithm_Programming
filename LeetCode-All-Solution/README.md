@@ -509,9 +509,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (57/100)</summary>
+<summary>Solution List (59/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
+- (Medium) LC-0802-Find-Eventual-Safe-States: [Python3](./Python3/LC-0802-Find-Eventual-Safe-States.py)
 - (-Easy-) LC-0804-Unique-Morse-Code-Words: [Python3](./Python3/LC-0804-Unique-Morse-Code-Words.py)
 - (-Hard-) LC-0805-Split-Array-With-Same-Average: [Python3](./Python3/LC-0805-Split-Array-With-Same-Average.py)
 - (-Easy-) LC-0806-Number-of-Lines-To-Write-String: [Python3](./Python3/LC-0806-Number-of-Lines-To-Write-String.py)
@@ -549,6 +550,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0858-Mirror-Reflection: [Python3](./Python3/LC-0858-Mirror-Reflection.py)
 - (-Easy-) LC-0859-Buddy-Strings: [Python3](./Python3/LC-0859-Buddy-Strings.py)
 - (-Hard-) LC-0862-Shortest-Subarray-with-Sum-at-Least-K: [Python3](./Python3/LC-0862-Shortest-Subarray-with-Sum-at-Least-K.py)
+- (Medium) LC-0863-All-Nodes-Distance-K-in-Binary-Tree: [Python3](./Python3/LC-0863-All-Nodes-Distance-K-in-Binary-Tree.py)
 - (-Hard-) LC-0864-Shortest-Path-to-Get-All-Keys: [Python3](./Python3/LC-0864-Shortest-Path-to-Get-All-Keys.py)
 - (-Easy-) LC-0868-Binary-Gap: [Python3](./Python3/LC-0868-Binary-Gap.py)
 - (-Easy-) LC-0867-Transpose-Matrix: [Python3](./Python3/LC-0867-Transpose-Matrix.py)
@@ -1054,8 +1056,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1901 - 2000
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
+- (Medium) LC-1911-Maximum-Alternating-Subsequence-Sum: [Python3](./Python3/LC-1911-Maximum-Alternating-Subsequence-Sum.py)
 - (Medium) LC-1926-Nearest-Exit-from-Entrance-in-Maze: [Python3](./Python3/LC-1926-Nearest-Exit-from-Entrance-in-Maze.py)
 - (-Easy-) LC-1945-Sum-of-Digits-of-String-After-Convert: [Python3](./Python3/LC-1945-Sum-of-Digits-of-String-After-Convert.py)
 - (Medium) LC-1962-Remove-Stones-to-Minimize-the-Total: [Python3](./Python3/LC-1962-Remove-Stones-to-Minimize-the-Total.py)
@@ -1218,11 +1221,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2501 - 2600
 
 <details>
-<summary>Solution List (6/100)</summary>
+<summary>Solution List (7/100)</summary>
 
 - (Medium) LC-2517-Maximum-Tastiness-of-Candy-Basket: [Python3](./Python3/LC-2517-Maximum-Tastiness-of-Candy-Basket.py)
 - (-Hard-) LC-2532-Time-to-Cross-a-Bridge: [Python3](./Python3/LC-532-Time-to-Cross-a-Bridge.py)
 - (Medium) LC-2542-Maximum-Subsequence-Score: [Python3](./Python3/LC-2542-Maximum-Subsequence-Score.py)
+- (-Easy-) LC-2544-Alternating-Digit-Sum: [Python3](./Python3/LC-2544-Alternating-Digit-Sum.py)
 - (-Hard-) LC-2551-Put-Marbles-in-Bags: [Python3](./Python3/LC-2551-Put-Marbles-in-Bags.py)
 - (Medium) LC-2559-Count-Vowel-Strings-in-Ranges: [Python3](./Python3/LC-2559-Count-Vowel-Strings-in-Ranges.py)
 - (-Easy-) LC-2600-K-Items-With-the-Maximum-Sum: [Python3](./Python3/LC-2600-K-Items-With-the-Maximum-Sum.py)
