@@ -176,7 +176,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (48/100)</summary>
+<summary>Solution List (49/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -184,6 +184,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0204-Count-Primes: [Python3](./Python3/LC-0204-Count-Primes.py)
 - (-Easy-) LC-0205-Isomorphic-Strings: [Python3](./Python3/LC-0205-Isomorphic-Strings.py)
 - (-Easy-) LC-0206-Reverse-Linked-List: [Python3](./Python3/LC-0206-Reverse-Linked-List.py)
+- (Medium) LC-0207-Course-Schedule: [Python3](./Python3/LC-0207-Course-Schedule.py)
 - (Medium) LC-0208-Implement-Trie-Prefix-Tree: [Python3](./Python3/LC-0208-Implement-Trie-Prefix-Tree.py)
 - (Medium) LC-0209-Minimum-Size-Subarray-Sum: [Python3](./Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
 - (Medium) LC-0211-Design-Add-and-Search-Words-Data-Structure: [Python3](./Python3/LC-0211-Design-Add-and-Search-Words-Data-Structure.py)
