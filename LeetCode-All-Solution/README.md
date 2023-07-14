@@ -580,7 +580,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (61/100)</summary>
+<summary>Solution List (62/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -629,6 +629,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0974-Subarray-Sums-Divisible-by-K: [Python3](./Python3/LC-0974-Subarray-Sums-Divisible-by-K.py)
 - (-Easy-) LC-0976-Largest-Perimeter-Triangle: [Python3](./Python3/LC-0976-Largest-Perimeter-Triangle.py)
 - (-Easy-) LC-0977-Squares-of-a-Sorted-Array: [Python3](./Python3/LC-0977-Squares-of-a-Sorted-Array.py)
+- (Medium) LC-0979-Distribute-Coins-in-Binary-Tree: [Python3](./Python3/LC-0979-Distribute-Coins-in-Binary-Tree.py)
 - (-Hard-) LC-0980-Unique-Paths-III: [Python3](./Python3/LC-0980-Unique-Paths-III.py)
 - (Medium) LC-0981-Time-Based-Key-Value-Store: [Python3](./Python3/LC-0981-Time-Based-Key-Value-Store.py)
 - (-Hard-) LC-0982-Triples-with-Bitwise-AND-Equal-To-Zero: [Python3](./Python3/LC-0982-Triples-with-Bitwise-AND-Equal-To-Zero.py)
@@ -753,7 +754,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (34/100)</summary>
+<summary>Solution List (35/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -762,6 +763,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1210-Minimum-Moves-to-Reach-Target-with-Rotations: [Python3](./Python3/LC-1210-Minimum-Moves-to-Reach-Target-with-Rotations.py)
 - (Medium) LC-1219-Path-with-Maximum-Gold: [Python3](./Python3/LC-1219-Path-with-Maximum-Gold.py)
 - (-Easy-) LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position: [Python3](./Python3/LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position.py)
+- (Medium) LC-1218-Longest-Arithmetic-Subsequence-of-Given-Difference: [Python3](./Python3/LC-1218-Longest-Arithmetic-Subsequence-of-Given-Difference.py)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
 - (-Hard-) LC-1223-Dice-Roll-Simulation: [Python3](./Python3/LC-1223-Dice-Roll-Simulation.py)
 - (-Hard-) LC-1224-Maximum-Equal-Frequency: [Python3](./Python3/LC-1224-Maximum-Equal-Frequency.py)
