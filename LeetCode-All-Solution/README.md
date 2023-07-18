@@ -107,7 +107,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (61/100)</summary>
+<summary>Solution List (62/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -147,6 +147,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0143-Reorder-List: [Python3](./Python3/LC-0143-Reorder-List.py)
 - (-Easy-) LC-0144-Binary-Tree-Preorder-Traversal: [Python3](./Python3/LC-0144-Binary-Tree-Preorder-Traversal.py)
 - (-Easy-) LC-0145-Binary-Tree-Postorder-Traversal: [Python3](./Python3/LC-0145-Binary-Tree-Postorder-Traversal.py)
+- (Medium) LC-0146-LRU-Cache: [Python3](./Python3/LC-0146-LRU-Cache.py)
 - (Medium) LC-0148-Sort-List: [Python3](./Python3/LC-0148-Sort-List.py)
 - (-Hard-) LC-0149-Max-Points-on-a-Line: [Python3](./Python3/LC-0149-Max-Points-on-a-Line.py)
 - (Medium) LC-0150-Evaluate-Reverse-Polish-Notation: [Python3](./Python3/LC-0150-Evaluate-Reverse-Polish-Notation.py)
@@ -1030,7 +1031,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (22/100)</summary>
+<summary>Solution List (23/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -1053,6 +1054,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1832-Check-if-the-Sentence-Is-Pangram: [Python3](./Python3/LC-1832-Check-if-the-Sentence-Is-Pangram.py)
 - (Medium) LC-1833-Maximum-Ice-Cream-Bars: [Python3](./Python3/LC-1833-Maximum-Ice-Cream-Bars.py)
 - (Medium) LC-1834-Single-Threaded-CPU: [Python3](./Python3/LC-1834-Single-Threaded-CPU.py)
+- (-Hard-) LC-1851-Minimum-Interval-to-Include-Each-Query: [Python3](./Python3/LC-1851-Minimum-Interval-to-Include-Each-Query.py)
 - (-Hard-) LC-1857-Largest-Color-Value-in-a-Directed-Graph: [Python3](./Python3/LC-1857-Largest-Color-Value-in-a-Directed-Graph.py)
 
 </details>
