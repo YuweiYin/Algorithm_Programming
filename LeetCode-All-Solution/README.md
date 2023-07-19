@@ -511,7 +511,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (59/100)</summary>
+<summary>Solution List (60/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (Medium) LC-0802-Find-Eventual-Safe-States: [Python3](./Python3/LC-0802-Find-Eventual-Safe-States.py)
@@ -561,6 +561,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0871-Minimum-Number-of-Refueling-Stops: [Python3](./Python3/LC-0871-Minimum-Number-of-Refueling-Stops.py)
 - (-Easy-) LC-0872-Leaf-Similar-Trees: [Python3](./Python3/LC-0872-Leaf-Similar-Trees.py)
 - (Medium) LC-0873-Length-of-Longest-Fibonacci-Subsequence: [Python3](./Python3/LC-0873-Length-of-Longest-Fibonacci-Subsequence.py)
+- (Medium) LC-0874-Walking-Robot-Simulation: [Python3](./Python3/LC-0874-Walking-Robot-Simulation.py)
 - (Medium) LC-0875-Koko-Eating-Bananas: [Python3](./Python3/LC-0875-Koko-Eating-Bananas.py)
 - (-Easy-) LC-0876-Middle-of-the-Linked-List: [Python3](./Python3/LC-0876-Middle-of-the-Linked-List.py)
 - (-Hard-) LC-0878-Nth-Magical-Number: [Python3](./Python3/LC-0878-Nth-Magical-Number.py)
