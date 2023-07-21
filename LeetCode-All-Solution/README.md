@@ -837,7 +837,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (39/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (Medium) LC-1401-Circle-and-Rectangle-Overlapping: [Python3](./Python3/LC-1401-Circle-and-Rectangle-Overlapping.py)
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
@@ -880,6 +880,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1493-Longest-Subarray-of-1s-After-Deleting-One-Element: [Python3](./Python3/LC-1493-Longest-Subarray-of-1s-After-Deleting-One-Element.py)
 - (-Hard-) LC-1494-Parallel-Courses-II: [Python3](./Python3/LC-1494-Parallel-Courses-II.py)
 - (Medium) LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition: [Python3](./Python3/LC-1498-Number-of-Subsequences-That-Satisfy-the-Given-Sum-Condition.py)
+- (-Hard-) LC-1499-Max-Value-of-Equation: [Python3](./Python3/LC-1499-Max-Value-of-Equation.py)
 
 </details>
 
