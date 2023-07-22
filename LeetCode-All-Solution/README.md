@@ -511,7 +511,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (60/100)</summary>
+<summary>Solution List (61/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (Medium) LC-0802-Find-Eventual-Safe-States: [Python3](./Python3/LC-0802-Find-Eventual-Safe-States.py)
@@ -551,6 +551,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0857-Minimum-Cost-to-Hire-K-Workers: [Python3](./Python3/LC-0857-Minimum-Cost-to-Hire-K-Workers.py)
 - (Medium) LC-0858-Mirror-Reflection: [Python3](./Python3/LC-0858-Mirror-Reflection.py)
 - (-Easy-) LC-0859-Buddy-Strings: [Python3](./Python3/LC-0859-Buddy-Strings.py)
+- (-Easy-) LC-0860-Lemonade-Change: [Python3](./Python3/LC-0860-Lemonade-Change.py)
 - (-Hard-) LC-0862-Shortest-Subarray-with-Sum-at-Least-K: [Python3](./Python3/LC-0862-Shortest-Subarray-with-Sum-at-Least-K.py)
 - (Medium) LC-0863-All-Nodes-Distance-K-in-Binary-Tree: [Python3](./Python3/LC-0863-All-Nodes-Distance-K-in-Binary-Tree.py)
 - (-Hard-) LC-0864-Shortest-Path-to-Get-All-Keys: [Python3](./Python3/LC-0864-Shortest-Path-to-Get-All-Keys.py)
