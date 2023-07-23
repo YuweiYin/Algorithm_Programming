@@ -511,7 +511,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (61/100)</summary>
+<summary>Solution List (62/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (Medium) LC-0802-Find-Eventual-Safe-States: [Python3](./Python3/LC-0802-Find-Eventual-Safe-States.py)
@@ -574,6 +574,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0886-Possible-Bipartition: [Python3](./Python3/LC-0886-Possible-Bipartition.py)
 - (Medium) LC-0890-Find-and-Replace-Pattern: [Python3](./Python3/LC-0890-Find-and-Replace-Pattern.py)
 - (-Hard-) LC-0891-Sum-of-Subsequence-Widths: [Python3](./Python3/LC-0891-Sum-of-Subsequence-Widths.py)
+- (Medium) LC-0894-All-Possible-Full-Binary-Trees: [Python3](./Python3/LC-0894-All-Possible-Full-Binary-Trees.py)
 - (-Hard-) LC-0895-Maximum-Frequency-Stack: [Python3](./Python3/LC-0895-Maximum-Frequency-Stack.py)
 - (-Easy-) LC-0897-Increasing-Order-Search-Tree: [Python3](./Python3/LC-0897-Increasing-Order-Search-Tree.py)
 - (-Hard-) LC-0899-Orderly-Queue: [Python3](./Python3/LC-0899-Orderly-Queue.py)
