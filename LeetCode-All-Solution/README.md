@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (88/100)</summary>
+<summary>Solution List (89/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -59,6 +59,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0047-Permutations-II: [Python3](./Python3/LC-0047-Permutations-II.py)
 - (Medium) LC-0048-Rotate-Image: [Python3](./Python3/LC-0048-Rotate-Image.py)
 - (Medium) LC-0049-Group-Anagrams: [Python3](./Python3/LC-0049-Group-Anagrams.py)
+- (Medium) LC-0050-Pow(x,n): [Python3](./Python3/LC-0050-Pow(x,n).py)
 - (-Hard-) LC-0051-N-Queens: [Python3](./Python3/LC-0051-N-Queens.py)
 - (-Hard-) LC-0052-N-Queens-II: [Python3](./Python3/LC-0052-N-Queens-II.py)
 - (-Easy-) LC-0053-Maximum-Subarray: [Python3](./Python3/LC-0053-Maximum-Subarray.py)
@@ -443,7 +444,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (60/100)</summary>
+<summary>Solution List (61/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -486,6 +487,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0766-Toeplitz-Matrix: [Python3](./Python3/LC-0766-Toeplitz-Matrix.py)
 - (-Hard-) LC-0768-Max-Chunks-To-Make-Sorted-II: [Python3](./Python3/LC-0768-Max-Chunks-To-Make-Sorted-II.py)
 - (Medium) LC-0769-Max-Chunks-To-Make-Sorted: [Python3](./Python3/LC-0769-Max-Chunks-To-Make-Sorted.py)
+- (-Easy-) LC-0771-Jewels-and-Stones: [Python3](./Python3/LC-0771-Jewels-and-Stones.py)
 - (Medium) LC-0775-Global-and-Local-Inversions: [Python3](./Python3/LC-0775-Global-and-Local-Inversions.py)
 - (Medium) LC-0777-Swap-Adjacent-in-LR-String: [Python3](./Python3/LC-0777-Swap-Adjacent-in-LR-String.py)
 - (Medium) LC-0779-K-th-Symbol-in-Grammar: [Python3](./Python3/LC-0779-K-th-Symbol-in-Grammar.py)
