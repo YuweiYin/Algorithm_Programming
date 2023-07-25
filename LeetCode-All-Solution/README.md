@@ -513,7 +513,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (62/100)</summary>
+<summary>Solution List (63/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (Medium) LC-0802-Find-Eventual-Safe-States: [Python3](./Python3/LC-0802-Find-Eventual-Safe-States.py)
@@ -547,6 +547,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0847-Shortest-Path-Visiting-All-Nodes: [Python3](./Python3/LC-0847-Shortest-Path-Visiting-All-Nodes.py)
 - (Medium) LC-0849-Maximize-Distance-to-Closest-Person: [Python3](./Python3/LC-0849-Maximize-Distance-to-Closest-Person.py)
 - (-Hard-) LC-0850-Rectangle-Area-II: [Python3](./Python3/LC-0850-Rectangle-Area-II.py)
+- (Medium) LC-0852-Peak-Index-in-a-Mountain-Array: [Python3](./Python3/LC-0852-Peak-Index-in-a-Mountain-Array.py)
 - (-Hard-) LC-0854-K-Similar-Strings: [Python3](./Python3/LC-0854-K-Similar-Strings.py)
 - (Medium) LC-0855-Exam-Room: [Python3](./Python3/LC-0855-Exam-Room.py)
 - (Medium) LC-0856-Score-of-Parentheses: [Python3](./Python3/LC-0856-Score-of-Parentheses.py)
@@ -1140,8 +1141,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (13/100)</summary>
+<summary>Solution List (14/100)</summary>
 
+- (Medium) LC-2208-Minimum-Operations-to-Halve-Array-Sum: [Python3](./Python3/LC-2208-Minimum-Operations-to-Halve-Array-Sum.py)
 - (-Hard-) LC-2218-Maximum-Value-of-K-Coins-From-Piles: [Python3](./Python3/LC-2218-Maximum-Value-of-K-Coins-From-Piles.py)
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
