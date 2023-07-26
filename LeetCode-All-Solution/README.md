@@ -1038,7 +1038,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1801 - 1900
 
 <details>
-<summary>Solution List (23/100)</summary>
+<summary>Solution List (24/100)</summary>
 
 - (Medium) LC-1801-Number-of-Orders-in-the-Backlog: [Python3](./Python3/LC-1801-Number-of-Orders-in-the-Backlog.py)
 - (Medium) LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array: [Python3](./Python3/LC-1802-Maximum-Value-at-a-Given-Index-in-a-Bounded-Array.py)
@@ -1063,6 +1063,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1834-Single-Threaded-CPU: [Python3](./Python3/LC-1834-Single-Threaded-CPU.py)
 - (-Hard-) LC-1851-Minimum-Interval-to-Include-Each-Query: [Python3](./Python3/LC-1851-Minimum-Interval-to-Include-Each-Query.py)
 - (-Hard-) LC-1857-Largest-Color-Value-in-a-Directed-Graph: [Python3](./Python3/LC-1857-Largest-Color-Value-in-a-Directed-Graph.py)
+- (Medium) LC-1870-Minimum-Speed-to-Arrive-on-Time: [Python3](./Python3/LC-1870-Minimum-Speed-to-Arrive-on-Time.py)
 
 </details>
 
@@ -1235,7 +1236,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2501 - 2600
 
 <details>
-<summary>Solution List (7/100)</summary>
+<summary>Solution List (8/100)</summary>
 
 - (Medium) LC-2517-Maximum-Tastiness-of-Candy-Basket: [Python3](./Python3/LC-2517-Maximum-Tastiness-of-Candy-Basket.py)
 - (-Hard-) LC-2532-Time-to-Cross-a-Bridge: [Python3](./Python3/LC-532-Time-to-Cross-a-Bridge.py)
@@ -1243,6 +1244,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2544-Alternating-Digit-Sum: [Python3](./Python3/LC-2544-Alternating-Digit-Sum.py)
 - (-Hard-) LC-2551-Put-Marbles-in-Bags: [Python3](./Python3/LC-2551-Put-Marbles-in-Bags.py)
 - (Medium) LC-2559-Count-Vowel-Strings-in-Ranges: [Python3](./Python3/LC-2559-Count-Vowel-Strings-in-Ranges.py)
+- (-Hard-) LC-2569-Handling-Sum-Queries-After-Update: [Python3](./Python3/LC-2569-Handling-Sum-Queries-After-Update.py)
 - (-Easy-) LC-2600-K-Items-With-the-Maximum-Sum: [Python3](./Python3/LC-2600-K-Items-With-the-Maximum-Sum.py)
 
 </details>
