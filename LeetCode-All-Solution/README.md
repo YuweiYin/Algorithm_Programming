@@ -1122,7 +1122,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2101 - 2200
 
 <details>
-<summary>Solution List (12/100)</summary>
+<summary>Solution List (13/100)</summary>
 
 - (Medium) LC-2101-Detonate-the-Maximum-Bombs: [Python3](./Python3/LC-2101-Detonate-the-Maximum-Bombs.py)
 - (Medium) LC-2104-Sum-of-Subarray-Ranges: [Python3](./Python3/LC-2104-Sum-of-Subarray-Ranges.py)
@@ -1132,6 +1132,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words: [Python3](./Python3/LC-2131-Longest-Palindrome-by-Concatenating-Two-Letter-Words.py)
 - (-Hard-) LC-2136-Earliest-Possible-Day-of-Full-Bloom: [Python3](./Python3/LC-2136-Earliest-Possible-Day-of-Full-Bloom.py)
 - (Medium) LC-2140-Solving-Questions-With-Brainpower: [Python3](./Python3/LC-2140-Solving-Questions-With-Brainpower.py)
+- (-Hard-) LC-2141-Maximum-Running-Time-of-N-Computers: [Python3](./Python3/LC-2141-Maximum-Running-Time-of-N-Computers.py)
 - (Medium) LC-2178-Maximum-Split-of-Positive-Even-Integers: [Python3](./Python3/LC-2178-Maximum-Split-of-Positive-Even-Integers.py)
 - (-Easy-) LC-2180-Count-Integers-With-Even-Digit-Sum: [Python3](./Python3/LC-2180-Count-Integers-With-Even-Digit-Sum.py)
 - (-Easy-) LC-2185-Counting-Words-With-a-Given-Prefix: [Python3](./Python3/LC-2185-Counting-Words-With-a-Given-Prefix.py)
@@ -1198,7 +1199,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1230,6 +1231,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2490-Circular-Sentence: [Python3](./Python3/LC-2490-Circular-Sentence.py)
 - (Medium) LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities: [Python3](./Python3/LC-2492-Minimum-Score-of-a-Path-Between-Two-Cities.py)
 - (-Easy-) LC-2496-Maximum-Value-of-a-String-in-an-Array: [Python3](./Python3/LC-2496-Maximum-Value-of-a-String-in-an-Array.py)
+- (-Easy-) LC-2500-Delete-Greatest-Value-in-Each-Row: [Python3](./Python3/LC-2500-Delete-Greatest-Value-in-Each-Row.py)
 
 </details>
 
