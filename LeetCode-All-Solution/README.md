@@ -291,7 +291,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (42/100)</summary>
+<summary>Solution List (43/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (Medium) LC-0406-Queue-Reconstruction-by-Height: [Python3](./Python3/LC-0406-Queue-Reconstruction-by-Height.py)
@@ -332,6 +332,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0478-Generate-Random-Point-in-a-Circle: [Python3](./Python3/LC-0478-Generate-Random-Point-in-a-Circle.py)
 - (-Hard-) LC-0479-Largest-Palindrome-Product: [Python3](./Python3/LC-0479-Largest-Palindrome-Product.py)
 - (Medium) LC-0481-Magical-String: [Python3](./Python3/LC-0481-Magical-String.py)
+- (Medium) LC-0486-Predict-the-Winner: [Python3](./Python3/LC-0486-Predict-the-Winner.py)
 - (Medium) LC-0491-Non-decreasing-Subsequences: [Python3](./Python3/LC-0491-Non-decreasing-Subsequences.py)
 - (Medium) LC-0497-Random-Point-in-Non-overlapping-Rectangles: [Python3](./Python3/LC-0497-Random-Point-in-Non-overlapping-Rectangles.py)
 - (Medium) LC-0498-Diagonal-Traverse: [Python3](./Python3/LC-0498-Diagonal-Traverse.py)
@@ -1089,7 +1090,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2001 - 2100
 
 <details>
-<summary>Solution List (24/100)</summary>
+<summary>Solution List (25/100)</summary>
 
 - (-Easy-) LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K: [Python3](./Python3/LC-2006-Count-Number-of-Pairs-With-Absolute-Difference-K.py)
 - (Medium) LC-2007-Find-Original-Array-From-Doubled-Array: [Python3](./Python3/LC-2007-Find-Original-Array-From-Doubled-Array.py)
@@ -1112,6 +1113,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-2045-Second-Minimum-Time-to-Reach-Destination: [Python3](./Python3/LC-2045-Second-Minimum-Time-to-Reach-Destination.py)
 - (-Easy-) LC-2047-Number-of-Valid-Words-in-a-Sentence: [Python3](./Python3/LC-2047-Number-of-Valid-Words-in-a-Sentence.py)
 - (Medium) LC-2049-Count-Nodes-With-the-Highest-Score: [Python3](./Python3/LC-2049-Count-Nodes-With-the-Highest-Score.py)
+- (-Hard-) LC-2050-Parallel-Courses-III: [Python3](./Python3/LC-2050-Parallel-Courses-III.py)
 - (Medium) LC-2055-Plates-Between-Candles: [Python3](./Python3/LC-2055-Plates-Between-Candles.py)
 - (Medium) LC-2090-K-Radius-Subarray-Averages: [Python3](./Python3/LC-2090-K-Radius-Subarray-Averages.py)
 - (Medium) LC-2095-Delete-the-Middle-Node-of-a-Linked-List: [Python3](./Python3/LC-2095-Delete-the-Middle-Node-of-a-Linked-List.py)
