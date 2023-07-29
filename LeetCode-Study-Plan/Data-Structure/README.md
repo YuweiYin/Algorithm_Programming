@@ -12,12 +12,8 @@ During the computer programming process, **identifying and using the appropriate
 
 ## Study Plan (Data-Structure) List
 
-- [Data-Structure-1](./Data-Structure-1/)
-- [Data-Structure-2](./Data-Structure-2/)
-- [Data-Structure-3](./Data-Structure-3/)
-
-## TODO
-
-- [ ] Finish all the study plans (data structure).
+- [x] [Data-Structure-1](./Data-Structure-1/)
+- [x] [Data-Structure-2](./Data-Structure-2/)
+- [ ] [Data-Structure-3](./Data-Structure-3/)
 
 ---

@@ -10,8 +10,4 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - [Data-Structure](./Data-Structure/)
 - [Dynamic-Programming](./Dynamic-Programming/)
 
-## TODO
-
-- [ ] Finish all the study plans.
-
 ---

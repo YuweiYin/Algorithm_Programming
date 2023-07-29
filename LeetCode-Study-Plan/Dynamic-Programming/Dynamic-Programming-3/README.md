@@ -12,8 +12,4 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - *LeetCode Premium*
 
-## TODO
-
-- [ ] Finish all the study plans (dynamic-programming-3).
-
 ---

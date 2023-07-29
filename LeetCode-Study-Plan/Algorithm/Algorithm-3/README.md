@@ -12,8 +12,4 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 
 - *LeetCode Premium*
 
-## TODO
-
-- [ ] Finish all the study plans (algorithm-3).
-
 ---

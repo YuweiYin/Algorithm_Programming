@@ -56,8 +56,4 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Easy) LC-0190-Reverse-Bits: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0190-Reverse-Bits.py)
   - (Easy) LC-0136-Single-Number: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0136-Single-Number.py)
 
-## TODO
-
-- [x] <s>Finish all the study plans (algorithm-1)</s>.
-
 ---

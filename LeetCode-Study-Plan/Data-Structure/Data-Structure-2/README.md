@@ -84,8 +84,4 @@ During the computer programming process, **identifying and using the appropriate
   - (Medium) LC-0451-Sort-Characters-By-Frequency: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0451-Sort-Characters-By-Frequency.py)
   - (Medium) LC-0973-K-Closest-Points-to-Origin: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0973-K-Closest-Points-to-Origin.py)
 
-## TODO
-
-- [x] <s>Finish all the study plans (data-structure-2)</s>.
-
 ---

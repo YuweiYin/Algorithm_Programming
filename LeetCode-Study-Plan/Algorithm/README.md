@@ -10,12 +10,8 @@ In mathematics and computer science, an algorithm is defined as **a process or s
 
 ## Study Plan (Algorithm) List
 
-- [Algorithm-1](./Algorithm-1/)
-- [Algorithm-2](./Algorithm-2/)
-- [Algorithm-3](./Algorithm-3/)
-
-## TODO
-
-- [ ] Finish all the study plans (algorithm).
+- [x] [Algorithm-1](./Algorithm-1/)
+- [x] [Algorithm-2](./Algorithm-2/)
+- [ ] [Algorithm-3](./Algorithm-3/)
 
 ---

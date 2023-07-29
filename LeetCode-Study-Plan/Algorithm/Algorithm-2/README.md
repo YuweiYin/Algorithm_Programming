@@ -79,8 +79,4 @@ In mathematics and computer science, an algorithm is defined as **a process or s
   - (Easy) LC-0202-Happy-Number: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0202-Happy-Number.py)
   - (Hard) LC-0149-Max-Points-on-a-Line: [Python3](https://github.com/YuweiYin/Algorithm_YuweiYin/blob/master/LeetCode-All-Solution/Python3/LC-0149-Max-Points-on-a-Line.py)
 
-## TODO
-
-- [x] <s>Finish all the study plans (algorithm-2)</s>.
-
 ---

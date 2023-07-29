@@ -14,8 +14,4 @@ During the computer programming process, **identifying and using the appropriate
 
 - *LeetCode Premium*
 
-## TODO
-
-- [ ] Finish all the study plans (data-structure-3).
-
 ---
