@@ -392,7 +392,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0601 - 0700
 
 <details>
-<summary>Solution List (45/100)</summary>
+<summary>Solution List (46/100)</summary>
 
 - (-Easy-) LC-0605-Can-Place-Flowers: [Python3](./Python3/LC-0605-Can-Place-Flowers.py)
 - (-Easy-) LC-0606-Construct-String-from-Binary-Tree: [Python3](./Python3/LC-0606-Construct-String-from-Binary-Tree.py)
@@ -419,6 +419,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0659-Split-Array-into-Consecutive-Subsequences: [Python3](./Python3/LC-0659-Split-Array-into-Consecutive-Subsequences.py)
 - (-Easy-) LC-0661-Image-Smoother: [Python3](./Python3/LC-0661-Image-Smoother.py)
 - (Medium) LC-0662-Maximum-Width-of-Binary-Tree: [Python3](./Python3/LC-0662-Maximum-Width-of-Binary-Tree.py)
+- (-Hard-) LC-0664-Strange-Printer: [Python3](./Python3/LC-0664-Strange-Printer.py)
 - (Medium) LC-0665-Non-decreasing-Array: [Python3](./Python3/LC-0665-Non-decreasing-Array.py)
 - (Medium) LC-0667-Beautiful-Arrangement-II: [Python3](./Python3/LC-0667-Beautiful-Arrangement-II.py)
 - (-Hard-) LC-0668-Kth-Smallest-Number-in-Multiplication-Table: [Python3](./Python3/LC-0668-Kth-Smallest-Number-in-Multiplication-Table.py)
