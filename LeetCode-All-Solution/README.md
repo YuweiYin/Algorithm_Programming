@@ -446,7 +446,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (61/100)</summary>
+<summary>Solution List (62/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -455,6 +455,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0706-Design-HashMap: [Python3](./Python3/LC-0706-Design-HashMap.py)
 - (Medium) LC-0707-Design-Linked-List: [Python3](./Python3/LC-0707-Design-Linked-List.py)
 - (-Hard-) LC-0710-Random-Pick-with-Blacklist: [Python3](./Python3/LC-0710-Random-Pick-with-Blacklist.py)
+- (Medium) LC-0712-Minimum-ASCII-Delete-Sum-for-Two-Strings: [Python3](./Python3/LC-0712-Minimum-ASCII-Delete-Sum-for-Two-Strings.py)
 - (Medium) LC-0713-Subarray-Product-Less-Than-K: [Python3](./Python3/LC-0713-Subarray-Product-Less-Than-K.py)
 - (Medium) LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee: [Python3](./Python3/LC-0714-Best-Time-to-Buy-and-Sell-Stock-with-Transaction-Fee.py)
 - (-Hard-) LC-0715-Range-Module: [Python3](./Python3/LC-0715-Range-Module.py)
