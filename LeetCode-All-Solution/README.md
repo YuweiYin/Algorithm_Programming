@@ -1262,6 +1262,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 
 - (Medium) LC-2611-Mice-and-Cheese: [Python3](./Python3/LC-2611-Mice-and-Cheese.py)
 - (Medium) LC-2679-Sum-in-a-Matrix: [Python3](./Python3/LC-2679-Sum-in-a-Matrix.py)
+- (-Hard-) LC-2681-Power-of-Heroes: [Python3](./Python3/LC-2681-Power-of-Heroes.py)
 - (-Hard-) LC-2699-Modify-Graph-Edge-Weights: [Python3](./Python3/LC-2699-Modify-Graph-Edge-Weights.py)
 
 </details>
