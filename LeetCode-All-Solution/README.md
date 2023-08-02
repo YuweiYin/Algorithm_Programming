@@ -516,7 +516,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (63/100)</summary>
+<summary>Solution List (64/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (Medium) LC-0802-Find-Eventual-Safe-States: [Python3](./Python3/LC-0802-Find-Eventual-Safe-States.py)
@@ -534,6 +534,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0819-Most-Common-Word: [Python3](./Python3/LC-0819-Most-Common-Word.py)
 - (Medium) LC-0820-Short-Encoding-of-Words: [Python3](./Python3/LC-0820-Short-Encoding-of-Words.py)
 - (-Easy-) LC-0821-Shortest-Distance-to-a-Character: [Python3](./Python3/LC-0821-Shortest-Distance-to-a-Character.py)
+- (Medium) LC-0822-Card-Flipping-Game: [Python3](./Python3/LC-0822-Card-Flipping-Game.py)
 - (Medium) LC-0823-Binary-Trees-With-Factors: [Python3](./Python3/LC-0823-Binary-Trees-With-Factors.py)
 - (-Easy-) LC-0824-Goat-Latin: [Python3](./Python3/LC-0824-Goat-Latin.py)
 - (-Hard-) LC-0827-Making-A-Large-Island: [Python3](./Python3/LC-0827-Making-A-Large-Island.py)
