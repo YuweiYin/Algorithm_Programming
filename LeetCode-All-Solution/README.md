@@ -446,7 +446,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (62/100)</summary>
+<summary>Solution List (63/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -463,6 +463,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0718-Maximum-Length-of-Repeated-Subarray: [Python3](./Python3/LC-0718-Maximum-Length-of-Repeated-Subarray.py)
 - (-Hard-) LC-0719-Find-K-th-Smallest-Pair-Distance: [Python3](./Python3/LC-0719-Find-K-th-Smallest-Pair-Distance.py)
 - (Medium) LC-0720-Longest-Word-in-Dictionary: [Python3](./Python3/LC-0720-Longest-Word-in-Dictionary.py)
+- (Medium) LC-0722-Remove-Comments: [Python3](./Python3/LC-0722-Remove-Comments.py)
 - (-Easy-) LC-0728-Self-Dividing-Numbers: [Python3](./Python3/LC-0728-Self-Dividing-Numbers.py)
 - (Medium) LC-0729-My-Calendar-I: [Python3](./Python3/LC-0729-My-Calendar-I.py)
 - (-Hard-) LC-0730-Count-Different-Palindromic-Subsequences: [Python3](./Python3/LC-0730-Count-Different-Palindromic-Subsequences.py)
