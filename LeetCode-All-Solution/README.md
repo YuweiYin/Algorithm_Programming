@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (89/100)</summary>
+<summary>Solution List (90/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -97,6 +97,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0092-Reverse-Linked-List-II: [Python3](./Python3/LC-0092-Reverse-Linked-List-II.py)
 - (Medium) LC-0093-Restore-IP-Addresses: [Python3](./Python3/LC-0093-Restore-IP-Addresses.py)
 - (-Easy-) LC-0094-Binary-Tree-Inorder-Traversal: [Python3](./Python3/LC-0094-Binary-Tree-Inorder-Traversal.py)
+- (Medium) LC-0095-Unique-Binary-Search-Trees-II: [Python3](./Python3/LC-0095-Unique-Binary-Search-Trees-II.py)
 - (Medium) LC-0096-Unique-Binary-Search-Trees: [Python3](./Python3/LC-0096-Unique-Binary-Search-Trees.py)
 - (Medium) LC-0097-Interleaving-String: [Python3](./Python3/LC-0097-Interleaving-String.py)
 - (Medium) LC-0098-Validate-Binary-Search-Tree: [Python3](./Python3/LC-0098-Validate-Binary-Search-Tree.py)
