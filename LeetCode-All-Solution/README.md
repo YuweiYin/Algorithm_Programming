@@ -593,7 +593,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0901 - 1000
 
 <details>
-<summary>Solution List (62/100)</summary>
+<summary>Solution List (63/100)</summary>
 
 - (Medium) LC-0901-Online-Stock-Span: [Python3](./Python3/LC-0901-Online-Stock-Span.py)
 - (-Hard-) LC-0902-Numbers-At-Most-N-Given-Digit-Set: [Python3](./Python3/LC-0902-Numbers-At-Most-N-Given-Digit-Set.py)
@@ -609,6 +609,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0917-Reverse-Only-Letters: [Python3](./Python3/LC-0917-Reverse-Only-Letters.py)
 - (Medium) LC-0918-Maximum-Sum-Circular-Subarray: [Python3](./Python3/LC-0918-Maximum-Sum-Circular-Subarray.py)
 - (Medium) LC-0919-Complete-Binary-Tree-Inserter: [Python3](./Python3/LC-0919-Complete-Binary-Tree-Inserter.py)
+- (-Hard-) LC-0920-Number-of-Music-Playlists: [Python3](./Python3/LC-0920-Number-of-Music-Playlists.py)
 - (Medium) LC-0921-Minimum-Add-to-Make-Parentheses-Valid: [Python3](./Python3/LC-0921-Minimum-Add-to-Make-Parentheses-Valid.py)
 - (Medium) LC-0923-3Sum-With-Multiplicity: [Python3](./Python3/LC-0923-3Sum-With-Multiplicity.py)
 - (Medium) LC-0926-Flip-String-to-Monotone-Increasing: [Python3](./Python3/LC-0926-Flip-String-to-Monotone-Increasing.py)
