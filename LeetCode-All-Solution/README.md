@@ -994,7 +994,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (-Hard-) LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones: [Python3](./Python3/LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones.py)
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
@@ -1009,6 +1009,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1739-Building-Boxes: [Python3](./Python3/LC-1739-Building-Boxes.py)
 - (-Easy-) LC-1742-Maximum-Number-of-Balls-in-a-Box: [Python3](./Python3/LC-1742-Maximum-Number-of-Balls-in-a-Box.py)
 - (-Easy-) LC-1748-Sum-of-Unique-Elements: [Python3](./Python3/LC-1748-Sum-of-Unique-Elements.py)
+- (Medium) LC-1749-Maximum-Absolute-Sum-of-Any-Subarray: [Python3](./Python3/LC-1749-Maximum-Absolute-Sum-of-Any-Subarray.py)
 - (Medium) LC-1750-Minimum-Length-of-String-After-Deleting-Similar-Ends: [Python3](./Python3/LC-1750-Minimum-Length-of-String-After-Deleting-Similar-Ends.py)
 - (-Hard-) LC-1751-Maximum-Number-of-Events-That-Can-Be-Attended-II: [Python3](./Python3/LC-1751-Maximum-Number-of-Events-That-Can-Be-Attended-II.py)
 - (-Easy-) LC-1752-Check-if-Array-Is-Sorted-and-Rotated: [Python3](./Python3/LC-1752-Check-if-Array-Is-Sorted-and-Rotated.py)
