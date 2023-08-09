@@ -768,7 +768,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (35/100)</summary>
+<summary>Solution List (36/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1206-Design-Skiplist: [Python3](./Python3/LC-1206-Design-Skiplist.py)
@@ -800,6 +800,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1262-Greatest-Sum-Divisible-by-Three: [Python3](./Python3/LC-1262-Greatest-Sum-Divisible-by-Three.py)
 - (-Hard-) LC-1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location: [Python3](./Python3/LC-1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location.py)
 - (Medium) LC-1268-Search-Suggestions-System: [Python3](./Python3/LC-1268-Search-Suggestions-System.py)
+- (-Easy-) LC-1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer: [Python3](./Python3/LC-1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.py)
 - (Medium) LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To: [Python3](./Python3/LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To.py)
 - (Medium) LC-1288-Remove-Covered-Intervals: [Python3](./Python3/LC-1288-Remove-Covered-Intervals.py)
 - (Medium) LC-1291-Sequential-Digits: [Python3](./Python3/LC-1291-Sequential-Digits.py)
@@ -1263,9 +1264,10 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2601 - 2700
 
 <details>
-<summary>Solution List (3/100)</summary>
+<summary>Solution List (4/100)</summary>
 
 - (Medium) LC-2611-Mice-and-Cheese: [Python3](./Python3/LC-2611-Mice-and-Cheese.py)
+- (Medium) LC-2616-Minimize-the-Maximum-Difference-of-Pairs: [Python3](./Python3/LC-2616-Minimize-the-Maximum-Difference-of-Pairs.py)
 - (Medium) LC-2679-Sum-in-a-Matrix: [Python3](./Python3/LC-2679-Sum-in-a-Matrix.py)
 - (-Hard-) LC-2681-Power-of-Heroes: [Python3](./Python3/LC-2681-Power-of-Heroes.py)
 - (-Hard-) LC-2699-Modify-Graph-Edge-Weights: [Python3](./Python3/LC-2699-Modify-Graph-Edge-Weights.py)
