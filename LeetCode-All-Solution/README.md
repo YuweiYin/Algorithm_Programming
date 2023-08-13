@@ -1174,7 +1174,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (28/100)</summary>
+<summary>Solution List (29/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (Medium) LC-2305-Fair-Distribution-of-Cookies: [Python3](./Python3/LC-2305-Fair-Distribution-of-Cookies.py)
@@ -1198,6 +1198,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-2360-Longest-Cycle-in-a-Graph: [Python3](./Python3/LC-2360-Longest-Cycle-in-a-Graph.py)
 - (-Easy-) LC-2363-Merge-Similar-Items: [Python3](./Python3/LC-2363-Merge-Similar-Items.py)
 - (-Easy-) LC-2367-Number-of-Arithmetic-Triplets: [Python3](./Python3/LC-2367-Number-of-Arithmetic-Triplets.py)
+- (Medium) LC-2369-Check-if-There-is-a-Valid-Partition-For-The-Array: [Python3](./Python3/LC-2369-Check-if-There-is-a-Valid-Partition-For-The-Array.py)
 - (-Easy-) LC-2373-Largest-Local-Values-in-a-Matrix: [Python3](./Python3/LC-2373-Largest-Local-Values-in-a-Matrix.py)
 - (-Easy-) LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks: [Python3](./Python3/LC-2379-Minimum-Recolors-to-Get-K-Consecutive-Black-Blocks.py)
 - (-Easy-) LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition: [Python3](./Python3/LC-2383-Minimum-Hours-of-Training-to-Win-a-Competition.py)
