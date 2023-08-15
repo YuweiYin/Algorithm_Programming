@@ -518,7 +518,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0801 - 0900
 
 <details>
-<summary>Solution List (64/100)</summary>
+<summary>Solution List (65/100)</summary>
 
 - (-Hard-) LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing: [Python3](./Python3/LC-0801-Minimum-Swaps-To-Make-Sequences-Increasing.py)
 - (Medium) LC-0802-Find-Eventual-Safe-States: [Python3](./Python3/LC-0802-Find-Eventual-Safe-States.py)
@@ -543,6 +543,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String: [Python3](./Python3/LC-0828-Count-Unique-Characters-of-All-Substrings-of-a-Given-String.py)
 - (-Hard-) LC-0829-Consecutive-Numbers-Sum: [Python3](./Python3/LC-0829-Consecutive-Numbers-Sum.py)
 - (Medium) LC-0831-Masking-Personal-Information: [Python3](./Python3/LC-0831-Masking-Personal-Information.py)
+- (Medium) LC-0833-Find-And-Replace-in-String: [Python3](./Python3/LC-0833-Find-And-Replace-in-String.py)
 - (-Hard-) LC-0834-Sum-of-Distances-in-Tree: [Python3](./Python3/LC-0834-Sum-of-Distances-in-Tree.py)
 - (Medium) LC-0835-Image-Overlap: [Python3](./Python3/LC-0835-Image-Overlap.py)
 - (Medium) LC-0837-New-21-Game: [Python3](./Python3/LC-0837-New-21-Game.py)
