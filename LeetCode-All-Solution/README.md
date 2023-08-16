@@ -179,7 +179,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (49/100)</summary>
+<summary>Solution List (50/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -213,6 +213,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree: [Python3](./Python3/LC-0236-Lowest-Common-Ancestor-of-a-Binary-Tree.py)
 - (Medium) LC-0237-Delete-Node-in-a-Linked-List: [Python3](./Python3/LC-0237-Delete-Node-in-a-Linked-List.py)
 - (Medium) LC-0238-Product-of-Array-Except-Self: [Python3](./Python3/LC-0238-Product-of-Array-Except-Self.py)
+- (-Hard-) LC-0239-Sliding-Window-Maximum: [Python3](./Python3/LC-0239-Sliding-Window-Maximum.py)
 - (Medium) LC-0240-Search-a-2D-Matrix-II: [Python3](./Python3/LC-0240-Search-a-2D-Matrix-II.py)
 - (Medium) LC-0241-Different-Ways-to-Add-Parentheses: [Python3](./Python3/LC-0241-Different-Ways-to-Add-Parentheses.py)
 - (-Easy-) LC-0242-Valid-Anagram: [Python3](./Python3/LC-0242-Valid-Anagram.py)
@@ -1267,12 +1268,13 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2601 - 2700
 
 <details>
-<summary>Solution List (4/100)</summary>
+<summary>Solution List (5/100)</summary>
 
 - (Medium) LC-2611-Mice-and-Cheese: [Python3](./Python3/LC-2611-Mice-and-Cheese.py)
 - (Medium) LC-2616-Minimize-the-Maximum-Difference-of-Pairs: [Python3](./Python3/LC-2616-Minimize-the-Maximum-Difference-of-Pairs.py)
 - (Medium) LC-2679-Sum-in-a-Matrix: [Python3](./Python3/LC-2679-Sum-in-a-Matrix.py)
 - (-Hard-) LC-2681-Power-of-Heroes: [Python3](./Python3/LC-2681-Power-of-Heroes.py)
+- (-Easy-) LC-2682-Find-the-Losers-of-the-Circular-Game: [Python3](./Python3/LC-2682-Find-the-Losers-of-the-Circular-Game.py)
 - (-Hard-) LC-2699-Modify-Graph-Edge-Weights: [Python3](./Python3/LC-2699-Modify-Graph-Edge-Weights.py)
 
 </details>
