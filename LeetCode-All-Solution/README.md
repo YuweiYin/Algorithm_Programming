@@ -814,7 +814,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1301 - 1400
 
 <details>
-<summary>Solution List (32/100)</summary>
+<summary>Solution List (33/100)</summary>
 
 - (Medium) LC-1302-Deepest-Leaves-Sum: [Python3](./Python3/LC-1302-Deepest-Leaves-Sum.py)
 - (Medium) LC-1305-All-Elements-in-Two-Binary-Search-Trees: [Python3](./Python3/LC-1305-All-Elements-in-Two-Binary-Search-Trees.py)
@@ -846,6 +846,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree: [Python3](./Python3/LC-1379-Find-a-Corresponding-Node-of-a-Binary-Tree-in-a-Clone-of-That-Tree.py)
 - (-Easy-) LC-1380-Lucky-Numbers-in-a-Matrix: [Python3](./Python3/LC-1380-Lucky-Numbers-in-a-Matrix.py)
 - (-Hard-) LC-1383-Maximum-Performance-of-a-Team: [Python3](./Python3/LC-1383-Maximum-Performance-of-a-Team.py)
+- (-Hard-) LC-1388-Pizza-With-3n-Slices: [Python3](./Python3/LC-1388-Pizza-With-3n-Slices.py)
 - (Medium) LC-1396-Design-Underground-System: [Python3](./Python3/LC-1396-Design-Underground-System.py)
 
 </details>
