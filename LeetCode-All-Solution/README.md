@@ -293,7 +293,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0401 - 0500
 
 <details>
-<summary>Solution List (43/100)</summary>
+<summary>Solution List (44/100)</summary>
 
 - (Medium) LC-0402-Remove-K-Digits: [Python3](./Python3/LC-0402-Remove-K-Digits.py)
 - (Medium) LC-0406-Queue-Reconstruction-by-Height: [Python3](./Python3/LC-0406-Queue-Reconstruction-by-Height.py)
@@ -323,6 +323,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0454-4Sum-II: [Python3](./Python3/LC-0454-4Sum-II.py)
 - (Medium) LC-0456-132-Pattern: [Python3](./Python3/LC-0456-132-Pattern.py)
 - (-Hard-) LC-0458-Poor-Pigs: [Python3](./Python3/LC-0458-Poor-Pigs.py)
+- (-Easy-) LC-0459-Repeated-Substring-Pattern: [Python3](./Python3/LC-0459-Repeated-Substring-Pattern.py)
 - (-Hard-) LC-0460-LFU-Cache: [Python3](./Python3/LC-0460-LFU-Cache.py)
 - (Medium) LC-0462-Minimum-Moves-to-Equal-Array-Elements-II: [Python3](./Python3/LC-0462-Minimum-Moves-to-Equal-Array-Elements-II.py)
 - (Medium) LC-0464-Can-I-Win: [Python3](./Python3/LC-0464-Can-I-Win.py)
@@ -855,7 +856,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (40/100)</summary>
+<summary>Solution List (41/100)</summary>
 
 - (Medium) LC-1401-Circle-and-Rectangle-Overlapping: [Python3](./Python3/LC-1401-Circle-and-Rectangle-Overlapping.py)
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
@@ -894,6 +895,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1480-Running-Sum-of-1d-Array: [Python3](./Python3/LC-1480-Running-Sum-of-1d-Array.py)
 - (-Hard-) LC-1483-Kth-Ancestor-of-a-Tree-Node: [Python3](./Python3/LC-1483-Kth-Ancestor-of-a-Tree-Node.py)
 - (Medium) LC-1487-Making-File-Names-Unique: [Python3](./Python3/LC-1487-Making-File-Names-Unique.py)
+- (-Hard-) LC-1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree: [Python3](./Python3/LC-1489-Find-Critical-and-Pseudo-Critical-Edges-in-Minimum-Spanning-Tree.py)
 - (-Easy-) LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary: [Python3](./Python3/LC-1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary.py)
 - (Medium) LC-1493-Longest-Subarray-of-1s-After-Deleting-One-Element: [Python3](./Python3/LC-1493-Longest-Subarray-of-1s-After-Deleting-One-Element.py)
 - (-Hard-) LC-1494-Parallel-Courses-II: [Python3](./Python3/LC-1494-Parallel-Courses-II.py)
@@ -1158,11 +1160,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (15/100)</summary>
+<summary>Solution List (16/100)</summary>
 
 - (Medium) LC-2208-Minimum-Operations-to-Halve-Array-Sum: [Python3](./Python3/LC-2208-Minimum-Operations-to-Halve-Array-Sum.py)
 - (-Hard-) LC-2218-Maximum-Value-of-K-Coins-From-Piles: [Python3](./Python3/LC-2218-Maximum-Value-of-K-Coins-From-Piles.py)
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
+- (-Easy-) LC-2235-Add-Two-Integers: [Python3](./Python3/LC-2235-Add-Two-Integers.py)
 - (-Easy-) LC-2236-Root-Equals-Sum-of-Children: [Python3](./Python3/LC-2236-Root-Equals-Sum-of-Children.py)
 - (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
 - (-Hard-) LC-2246-Longest-Path-With-Different-Adjacent-Characters: [Python3](./Python3/LC-2246-Longest-Path-With-Different-Adjacent-Characters.py)
@@ -1179,7 +1182,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (29/100)</summary>
+<summary>Solution List (30/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (Medium) LC-2305-Fair-Distribution-of-Cookies: [Python3](./Python3/LC-2305-Fair-Distribution-of-Cookies.py)
@@ -1193,6 +1196,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2331-Evaluate-Boolean-Binary-Tree: [Python3](./Python3/LC-2331-Evaluate-Boolean-Binary-Tree.py)
 - (-Easy-) LC-2335-Minimum-Amount-of-Time-to-Fill-Cups: [Python3](./Python3/LC-2335-Minimum-Amount-of-Time-to-Fill-Cups.py)
 - (Medium) LC-2336-Smallest-Number-in-Infinite-Set: [Python3](./Python3/LC-2336-Smallest-Number-in-Infinite-Set.py)
+- (Medium) LC-2337-Move-Pieces-to-Obtain-a-String: [Python3](./Python3/LC-2337-Move-Pieces-to-Obtain-a-String.py)
 - (-Easy-) LC-2341-Maximum-Number-of-Pairs-in-Array: [Python3](./Python3/LC-2341-Maximum-Number-of-Pairs-in-Array.py)
 - (-Easy-) LC-2347-Best-Poker-Hand: [Python3](./Python3/LC-2347-Best-Poker-Hand.py)
 - (Medium) LC-2348-Number-of-Zero-Filled-Subarrays: [Python3](./Python3/LC-2348-Number-of-Zero-Filled-Subarrays.py)
