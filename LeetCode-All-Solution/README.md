@@ -450,7 +450,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0701 - 0800
 
 <details>
-<summary>Solution List (63/100)</summary>
+<summary>Solution List (64/100)</summary>
 
 - (Medium) LC-0701-Insert-into-a-Binary-Search-Tree: [Python3](./Python3/LC-0701-Insert-into-a-Binary-Search-Tree.py)
 - (-Easy-) LC-0703-Kth-Largest-Element-in-a-Stream: [Python3](./Python3/LC-0703-Kth-Largest-Element-in-a-Stream.py)
@@ -493,6 +493,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0763-Partition-Labels: [Python3](./Python3/LC-0763-Partition-Labels.py)
 - (Medium) LC-0764-Largest-Plus-Sign: [Python3](./Python3/LC-0764-Largest-Plus-Sign.py)
 - (-Easy-) LC-0766-Toeplitz-Matrix: [Python3](./Python3/LC-0766-Toeplitz-Matrix.py)
+- (Medium) LC-0767-Reorganize-String: [Python3](./Python3/LC-0767-Reorganize-String.py)
 - (-Hard-) LC-0768-Max-Chunks-To-Make-Sorted-II: [Python3](./Python3/LC-0768-Max-Chunks-To-Make-Sorted-II.py)
 - (Medium) LC-0769-Max-Chunks-To-Make-Sorted: [Python3](./Python3/LC-0769-Max-Chunks-To-Make-Sorted.py)
 - (-Easy-) LC-0771-Jewels-and-Stones: [Python3](./Python3/LC-0771-Jewels-and-Stones.py)
@@ -1003,7 +1004,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (39/100)</summary>
 
 - (-Hard-) LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones: [Python3](./Python3/LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones.py)
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
@@ -1039,6 +1040,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate: [Python3](./Python3/LC-1779-Find-Nearest-Point-That-Has-the-Same-X-or-Y-Coordinate.py)
 - (Medium) LC-1780-Check-if-Number-is-a-Sum-of-Powers-of-Three: [Python3](./Python3/LC-1780-Check-if-Number-is-a-Sum-of-Powers-of-Three.py)
 - (Medium) LC-1781-Sum-of-Beauty-of-All-Substrings: [Python3](./Python3/LC-1781-Sum-of-Beauty-of-All-Substrings.py)
+- (-Hard-) LC-1782-Count-Pairs-Of-Nodes: [Python3](./Python3/LC-1782-Count-Pairs-Of-Nodes.py)
 - (-Easy-) LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones: [Python3](./Python3/LC-1784-Check-if-Binary-String-Has-at-Most-One-Segment-of-Ones.py)
 - (Medium) LC-1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum: [Python3](./Python3/LC-1785-Minimum-Elements-to-Add-to-Form-a-Given-Sum.py)
 - (-Easy-) LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal: [Python3](./Python3/LC-1790-Check-if-One-String-Swap-Can-Make-Strings-Equal.py)
