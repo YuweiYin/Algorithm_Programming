@@ -9,7 +9,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0001 - 0100
 
 <details>
-<summary>Solution List (90/100)</summary>
+<summary>Solution List (91/100)</summary>
 
 - (-Easy-) LC-0001-Two-Sum: [Python3](./Python3/LC-0001-Two-Sum.py)
 - (Medium) LC-0002-Add-Two-Numbers: [Python3](./Python3/LC-0002-Add-Two-Numbers.py)
@@ -73,6 +73,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0063-Unique-Paths-II: [Python3](./Python3/LC-0063-Unique-Paths-II.py)
 - (Medium) LC-0064-Minimum-Path-Sum: [Python3](./Python3/LC-0064-Minimum-Path-Sum.py)
 - (-Easy-) LC-0067-Add-Binary: [Python3](./Python3/LC-0067-Add-Binary.py)
+- (-Hard-) LC-0068-Text-Justification: [Python3](./Python3/LC-0068-Text-Justification.py)
 - (-Easy-) LC-0070-Climbing-Stairs: [Python3](./Python3/LC-0070-Climbing-Stairs.py)
 - (Medium) LC-0071-Simplify-Path: [Python3](./Python3/LC-0071-Simplify-Path.py)
 - (-Hard-) LC-0072-Edit-Distance: [Python3](./Python3/LC-0072-Edit-Distance.py)
@@ -773,7 +774,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (37/100)</summary>
+<summary>Solution List (38/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1203-Sort-Items-by-Groups-Respecting-Dependencies: [Python3](./Python3/LC-1203-Sort-Items-by-Groups-Respecting-Dependencies.py)
@@ -805,6 +806,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1260-Shift-2D-Grid: [Python3](./Python3/LC-1260-Shift-2D-Grid.py)
 - (Medium) LC-1262-Greatest-Sum-Divisible-by-Three: [Python3](./Python3/LC-1262-Greatest-Sum-Divisible-by-Three.py)
 - (-Hard-) LC-1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location: [Python3](./Python3/LC-1263-Minimum-Moves-to-Move-a-Box-to-Their-Target-Location.py)
+- (Medium) LC-1267-Count-Servers-that-Communicate: [Python3](./Python3/LC-1267-Count-Servers-that-Communicate.py)
 - (Medium) LC-1268-Search-Suggestions-System: [Python3](./Python3/LC-1268-Search-Suggestions-System.py)
 - (-Easy-) LC-1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer: [Python3](./Python3/LC-1281-Subtract-the-Product-and-Sum-of-Digits-of-an-Integer.py)
 - (Medium) LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To: [Python3](./Python3/LC-1282-Group-the-People-Given-the-Group-Size-They-Belong-To.py)
