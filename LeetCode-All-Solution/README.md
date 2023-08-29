@@ -1226,7 +1226,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2401 - 2500
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (-Easy-) LC-2404-Most-Frequent-Even-Element: [Python3](./Python3/LC-2404-Most-Frequent-Even-Element.py)
 - (Medium) LC-2405-Optimal-Partition-of-String: [Python3](./Python3/LC-2405-Optimal-Partition-of-String.py)
@@ -1253,6 +1253,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2475-Number-of-Unequal-Triplets-in-Array: [Python3](./Python3/LC-2475-Number-of-Unequal-Triplets-in-Array.py)
 - (Medium) LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital: [Python3](./Python3/LC-2477-Minimum-Fuel-Cost-to-Report-to-the-Capital.py)
 - (-Easy-) LC-2481-Minimum-Cuts-to-Divide-a-Circle: [Python3](./Python3/LC-2481-Minimum-Cuts-to-Divide-a-Circle.py)
+- (Medium) LC-2483-Minimum-Penalty-for-a-Shop: [Python3](./Python3/LC-2483-Minimum-Penalty-for-a-Shop.py)
 - (-Easy-) LC-2485-Find-the-Pivot-Integer: [Python3](./Python3/LC-2485-Find-the-Pivot-Integer.py)
 - (-Hard-) LC-2488-Count-Subarrays-With-Median-K: [Python3](./Python3/LC-2488-Count-Subarrays-With-Median-K.py)
 - (-Easy-) LC-2490-Circular-Sentence: [Python3](./Python3/LC-2490-Circular-Sentence.py)
