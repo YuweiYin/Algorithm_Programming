@@ -945,7 +945,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1601 - 1700
 
 <details>
-<summary>Solution List (54/100)</summary>
+<summary>Solution List (55/100)</summary>
 
 - (-Hard-) LC-1601-Maximum-Number-of-Achievable-Transfer-Requests: [Python3](./Python3/LC-1601-Maximum-Number-of-Achievable-Transfer-Requests.py)
 - (-Easy-) LC-1603-Design-Parking-System: [Python3](./Python3/LC-1603-Design-Parking-System.py)
@@ -976,6 +976,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique: [Python3](./Python3/LC-1647-Minimum-Deletions-to-Make-Character-Frequencies-Unique.py)
 - (-Easy-) LC-1652-Defuse-the-Bomb: [Python3](./Python3/LC-1652-Defuse-the-Bomb.py)
 - (Medium) LC-1653-Minimum-Deletions-to-Make-String-Balanced: [Python3](./Python3/LC-1653-Minimum-Deletions-to-Make-String-Balanced.py)
+- (Medium) LC-1654-Minimum-Jumps-to-Reach-Home: [Python3](./Python3/LC-1654-Minimum-Jumps-to-Reach-Home.py)
 - (-Easy-) LC-1656-Design-an-Ordered-Stream: [Python3](./Python3/LC-1656-Design-an-Ordered-Stream.py)
 - (Medium) LC-1657-Determine-if-Two-Strings-Are-Close: [Python3](./Python3/LC-1657-Determine-if-Two-Strings-Are-Close.py)
 - (Medium) LC-1658-Minimum-Operations-to-Reduce-X-to-Zero: [Python3](./Python3/LC-1658-Minimum-Operations-to-Reduce-X-to-Zero.py)
@@ -1188,7 +1189,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2301 - 2400
 
 <details>
-<summary>Solution List (30/100)</summary>
+<summary>Solution List (31/100)</summary>
 
 - (-Easy-) LC-2303-Calculate-Amount-Paid-in-Taxes: [Python3](./Python3/LC-2303-Calculate-Amount-Paid-in-Taxes.py)
 - (Medium) LC-2305-Fair-Distribution-of-Cookies: [Python3](./Python3/LC-2305-Fair-Distribution-of-Cookies.py)
@@ -1212,6 +1213,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2359-Find-Closest-Node-to-Given-Two-Nodes: [Python3](./Python3/LC-2359-Find-Closest-Node-to-Given-Two-Nodes.py)
 - (-Hard-) LC-2360-Longest-Cycle-in-a-Graph: [Python3](./Python3/LC-2360-Longest-Cycle-in-a-Graph.py)
 - (-Easy-) LC-2363-Merge-Similar-Items: [Python3](./Python3/LC-2363-Merge-Similar-Items.py)
+- (-Hard-) LC-2366-Minimum-Replacements-to-Sort-the-Array: [Python3](./Python3/LC-2366-Minimum-Replacements-to-Sort-the-Array.py)
 - (-Easy-) LC-2367-Number-of-Arithmetic-Triplets: [Python3](./Python3/LC-2367-Number-of-Arithmetic-Triplets.py)
 - (Medium) LC-2369-Check-if-There-is-a-Valid-Partition-For-The-Array: [Python3](./Python3/LC-2369-Check-if-There-is-a-Valid-Partition-For-The-Array.py)
 - (-Easy-) LC-2373-Largest-Local-Values-in-a-Matrix: [Python3](./Python3/LC-2373-Largest-Local-Values-in-a-Matrix.py)
