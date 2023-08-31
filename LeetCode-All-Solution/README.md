@@ -1008,7 +1008,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1701 - 1800
 
 <details>
-<summary>Solution List (39/100)</summary>
+<summary>Solution List (40/100)</summary>
 
 - (-Hard-) LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones: [Python3](./Python3/LC-1703-Minimum-Adjacent-Swaps-for-K-Consecutive-Ones.py)
 - (-Easy-) LC-1704-Determine-if-String-Halves-Are-Alike: [Python3](./Python3/LC-1704-Determine-if-String-Halves-Are-Alike.py)
@@ -1032,6 +1032,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1758-Minimum-Changes-To-Make-Alternating-Binary-String: [Python3](./Python3/LC-1758-Minimum-Changes-To-Make-Alternating-Binary-String.py)
 - (Medium) LC-1759-Count-Number-of-Homogenous-Substrings: [Python3](./Python3/LC-1759-Count-Number-of-Homogenous-Substrings.py)
 - (Medium) LC-1760-Minimum-Limit-of-Balls-in-a-Bag: [Python3](./Python3/LC-1760-Minimum-Limit-of-Balls-in-a-Bag.py)
+- (-Hard-) LC-1761-Minimum-Degree-of-a-Connected-Trio-in-a-Graph: [Python3](./Python3/LC-1761-Minimum-Degree-of-a-Connected-Trio-in-a-Graph.py)
 - (-Easy-) LC-1763-Longest-Nice-Substring: [Python3](./Python3/LC-1763-Longest-Nice-Substring.py)
 - (Medium) LC-1764-Form-Array-by-Concatenating-Subarrays-of-Another-Array: [Python3](./Python3/LC-1764-Form-Array-by-Concatenating-Subarrays-of-Another-Array.py)
 - (Medium) LC-1765-Map-of-Highest-Peak: [Python3](./Python3/LC-1765-Map-of-Highest-Peak.py)
