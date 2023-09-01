@@ -1168,13 +1168,14 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2201 - 2300
 
 <details>
-<summary>Solution List (16/100)</summary>
+<summary>Solution List (17/100)</summary>
 
 - (Medium) LC-2208-Minimum-Operations-to-Halve-Array-Sum: [Python3](./Python3/LC-2208-Minimum-Operations-to-Halve-Array-Sum.py)
 - (-Hard-) LC-2218-Maximum-Value-of-K-Coins-From-Piles: [Python3](./Python3/LC-2218-Maximum-Value-of-K-Coins-From-Piles.py)
 - (Medium) LC-2225-Find-Players-With-Zero-or-One-Losses: [Python3](./Python3/LC-2225-Find-Players-With-Zero-or-One-Losses.py)
 - (-Easy-) LC-2235-Add-Two-Integers: [Python3](./Python3/LC-2235-Add-Two-Integers.py)
 - (-Easy-) LC-2236-Root-Equals-Sum-of-Children: [Python3](./Python3/LC-2236-Root-Equals-Sum-of-Children.py)
+- (Medium) LC-2240-Number-of-Ways-to-Buy-Pens-and-Pencils: [Python3](./Python3/LC-2240-Number-of-Ways-to-Buy-Pens-and-Pencils.py)
 - (Medium) LC-2244-Minimum-Rounds-to-Complete-All-Tasks: [Python3](./Python3/LC-2244-Minimum-Rounds-to-Complete-All-Tasks.py)
 - (-Hard-) LC-2246-Longest-Path-With-Different-Adjacent-Characters: [Python3](./Python3/LC-2246-Longest-Path-With-Different-Adjacent-Characters.py)
 - (Medium) LC-2256-Minimum-Average-Difference: [Python3](./Python3/LC-2256-Minimum-Average-Difference.py)
