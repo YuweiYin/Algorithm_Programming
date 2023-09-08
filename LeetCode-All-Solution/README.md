@@ -1287,11 +1287,12 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2601 - 2700
 
 <details>
-<summary>Solution List (6/100)</summary>
+<summary>Solution List (7/100)</summary>
 
 - (-Easy-) LC-2605-Form-Smallest-Number-From-Two-Digit-Arrays: [Python3](./Python3/LC-2605-Form-Smallest-Number-From-Two-Digit-Arrays.py)
 - (Medium) LC-2611-Mice-and-Cheese: [Python3](./Python3/LC-2611-Mice-and-Cheese.py)
 - (Medium) LC-2616-Minimize-the-Maximum-Difference-of-Pairs: [Python3](./Python3/LC-2616-Minimize-the-Maximum-Difference-of-Pairs.py)
+- (-Easy-) LC-2651-Calculate-Delayed-Arrival-Time: [Python3](./Python3/LC-2651-Calculate-Delayed-Arrival-Time.py)
 - (Medium) LC-2679-Sum-in-a-Matrix: [Python3](./Python3/LC-2679-Sum-in-a-Matrix.py)
 - (-Hard-) LC-2681-Power-of-Heroes: [Python3](./Python3/LC-2681-Power-of-Heroes.py)
 - (-Easy-) LC-2682-Find-the-Losers-of-the-Circular-Game: [Python3](./Python3/LC-2682-Find-the-Losers-of-the-Circular-Game.py)
