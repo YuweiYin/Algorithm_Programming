@@ -181,7 +181,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (50/100)</summary>
+<summary>Solution List (51/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -192,6 +192,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0207-Course-Schedule: [Python3](./Python3/LC-0207-Course-Schedule.py)
 - (Medium) LC-0208-Implement-Trie-Prefix-Tree: [Python3](./Python3/LC-0208-Implement-Trie-Prefix-Tree.py)
 - (Medium) LC-0209-Minimum-Size-Subarray-Sum: [Python3](./Python3/LC-0209-Minimum-Size-Subarray-Sum.py)
+- (Medium) LC-0210-Course-Schedule-II: [Python3](./Python3/LC-0210-Course-Schedule-II.py)
 - (Medium) LC-0211-Design-Add-and-Search-Words-Data-Structure: [Python3](./Python3/LC-0211-Design-Add-and-Search-Words-Data-Structure.py)
 - (-Hard-) LC-0212-Word-Search-II: [Python3](./Python3/LC-0212-Word-Search-II.py)
 - (Medium) LC-0213-House-Robber-II: [Python3](./Python3/LC-0213-House-Robber-II.py)
