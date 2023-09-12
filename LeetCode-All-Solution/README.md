@@ -862,7 +862,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (41/100)</summary>
+<summary>Solution List (42/100)</summary>
 
 - (Medium) LC-1401-Circle-and-Rectangle-Overlapping: [Python3](./Python3/LC-1401-Circle-and-Rectangle-Overlapping.py)
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
@@ -890,6 +890,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree: [Python3](./Python3/LC-1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree.py)
 - (-Easy-) LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays: [Python3](./Python3/LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays.py)
 - (Medium) LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K: [Python3](./Python3/LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K.py)
+- (Medium) LC-1462-Course-Schedule-IV: [Python3](./Python3/LC-1462-Course-Schedule-IV.py)
 - (-Hard-) LC-1463-Cherry-Pickup-II: [Python3](./Python3/LC-1463-Cherry-Pickup-II.py)
 - (-Easy-) LC-1464-Maximum-Product-of-Two-Elements-in-an-Array: [Python3](./Python3/LC-1464-Maximum-Product-of-Two-Elements-in-an-Array.py)
 - (Medium) LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts: [Python3](./Python3/LC-1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts.py)
