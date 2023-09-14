@@ -240,7 +240,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (48/100)</summary>
+<summary>Solution List (49/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -256,6 +256,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0326-Power-of-Three: [Python3](./Python3/LC-0326-Power-of-Three.py)
 - (Medium) LC-0328-Odd-Even-Linked-List: [Python3](./Python3/LC-0328-Odd-Even-Linked-List.py)
 - (-Hard-) LC-0329-Longest-Increasing-Path-in-a-Matrix: [Python3](./Python3/LC-0329-Longest-Increasing-Path-in-a-Matrix.py)
+- (-Hard-) LC-0332-Reconstruct-Itinerary: [Python3](./Python3/LC-0332-Reconstruct-Itinerary.py)
 - (Medium) LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
 - (-Hard-) LC-0336-Palindrome-Pairs: [Python3](./Python3/LC-0336-Palindrome-Pairs.py)
 - (-Easy-) LC-0338-Counting-Bits: [Python3](./Python3/LC-0338-Counting-Bits.py)
@@ -776,7 +777,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1201 - 1300
 
 <details>
-<summary>Solution List (38/100)</summary>
+<summary>Solution List (39/100)</summary>
 
 - (Medium) LC-1202-Smallest-String-With-Swaps: [Python3](./Python3/LC-1202-Smallest-String-With-Swaps.py)
 - (-Hard-) LC-1203-Sort-Items-by-Groups-Respecting-Dependencies: [Python3](./Python3/LC-1203-Sort-Items-by-Groups-Respecting-Dependencies.py)
@@ -788,6 +789,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position: [Python3](./Python3/LC-1217-Minimum-Cost-to-Move-Chips-to-The-Same-Position.py)
 - (Medium) LC-1218-Longest-Arithmetic-Subsequence-of-Given-Difference: [Python3](./Python3/LC-1218-Longest-Arithmetic-Subsequence-of-Given-Difference.py)
 - (-Hard-) LC-1220-Count-Vowels-Permutation: [Python3](./Python3/LC-1220-Count-Vowels-Permutation.py)
+- (Medium) LC-1222-Queens-That-Can-Attack-the-King: [Python3](./Python3/LC-1222-Queens-That-Can-Attack-the-King.py)
 - (-Hard-) LC-1223-Dice-Roll-Simulation: [Python3](./Python3/LC-1223-Dice-Roll-Simulation.py)
 - (-Hard-) LC-1224-Maximum-Equal-Frequency: [Python3](./Python3/LC-1224-Maximum-Equal-Frequency.py)
 - (-Easy-) LC-1232-Check-If-It-Is-a-Straight-Line: [Python3](./Python3/LC-1232-Check-If-It-Is-a-Straight-Line.py)
