@@ -240,7 +240,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0301 - 0400
 
 <details>
-<summary>Solution List (49/100)</summary>
+<summary>Solution List (50/100)</summary>
 
 - (Medium) LC-0306-Additive-Number: [Python3](./Python3/LC-0306-Additive-Number.py)
 - (Medium) LC-0307-Range-Sum-Query-Mutable: [Python3](./Python3/LC-0307-Range-Sum-Query-Mutable.py)
@@ -259,6 +259,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-0332-Reconstruct-Itinerary: [Python3](./Python3/LC-0332-Reconstruct-Itinerary.py)
 - (Medium) LC-0334-Increasing-Triplet-Subsequence: [Python3](./Python3/LC-0334-Increasing-Triplet-Subsequence.py)
 - (-Hard-) LC-0336-Palindrome-Pairs: [Python3](./Python3/LC-0336-Palindrome-Pairs.py)
+- (Medium) LC-0337-House-Robber-III: [Python3](./Python3/LC-0337-House-Robber-III.py)
 - (-Easy-) LC-0338-Counting-Bits: [Python3](./Python3/LC-0338-Counting-Bits.py)
 - (Medium) LC-0341-Flatten-Nested-List-Iterator: [Python3](./Python3/LC-0341-Flatten-Nested-List-Iterator.py)
 - (-Easy-) LC-0342-Power-of-Four: [Python3](./Python3/LC-0342-Power-of-Four.py)
