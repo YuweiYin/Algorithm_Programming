@@ -1275,7 +1275,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2501 - 2600
 
 <details>
-<summary>Solution List (10/100)</summary>
+<summary>Solution List (11/100)</summary>
 
 - (Medium) LC-2517-Maximum-Tastiness-of-Candy-Basket: [Python3](./Python3/LC-2517-Maximum-Tastiness-of-Candy-Basket.py)
 - (-Hard-) LC-2532-Time-to-Cross-a-Bridge: [Python3](./Python3/LC-532-Time-to-Cross-a-Bridge.py)
@@ -1283,6 +1283,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-2544-Alternating-Digit-Sum: [Python3](./Python3/LC-2544-Alternating-Digit-Sum.py)
 - (-Hard-) LC-2551-Put-Marbles-in-Bags: [Python3](./Python3/LC-2551-Put-Marbles-in-Bags.py)
 - (Medium) LC-2559-Count-Vowel-Strings-in-Ranges: [Python3](./Python3/LC-2559-Count-Vowel-Strings-in-Ranges.py)
+- (Medium) LC-2560-House-Robber-IV: [Python3](./Python3/LC-2560-House-Robber-IV.py)
 - (-Hard-) LC-2569-Handling-Sum-Queries-After-Update: [Python3](./Python3/LC-2569-Handling-Sum-Queries-After-Update.py)
 - (Medium) LC-2594-Minimum-Time-to-Repair-Cars: [Python3](./Python3/LC-2594-Minimum-Time-to-Repair-Cars.py)
 - (Medium) LC-2596-Check-Knight-Tour-Configuration: [Python3](./Python3/LC-2596-Check-Knight-Tour-Configuration.py)
