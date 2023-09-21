@@ -1294,8 +1294,9 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2601 - 2700
 
 <details>
-<summary>Solution List (7/100)</summary>
+<summary>Solution List (8/100)</summary>
 
+- (-Hard-) LC-2603-Collect-Coins-in-a-Tree: [Python3](./Python3/LC-2603-Collect-Coins-in-a-Tree.py)
 - (-Easy-) LC-2605-Form-Smallest-Number-From-Two-Digit-Arrays: [Python3](./Python3/LC-2605-Form-Smallest-Number-From-Two-Digit-Arrays.py)
 - (Medium) LC-2611-Mice-and-Cheese: [Python3](./Python3/LC-2611-Mice-and-Cheese.py)
 - (Medium) LC-2616-Minimize-the-Maximum-Difference-of-Pairs: [Python3](./Python3/LC-2616-Minimize-the-Maximum-Difference-of-Pairs.py)
