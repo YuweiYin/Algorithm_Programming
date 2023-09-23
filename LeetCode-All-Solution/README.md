@@ -1099,7 +1099,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1901 - 2000
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (Medium) LC-1911-Maximum-Alternating-Subsequence-Sum: [Python3](./Python3/LC-1911-Maximum-Alternating-Subsequence-Sum.py)
 - (Medium) LC-1926-Nearest-Exit-from-Entrance-in-Maze: [Python3](./Python3/LC-1926-Nearest-Exit-from-Entrance-in-Maze.py)
@@ -1109,6 +1109,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Hard-) LC-1970-Last-Day-Where-You-Can-Still-Cross: [Python3](./Python3/LC-1970-Last-Day-Where-You-Can-Still-Cross.py)
 - (-Easy-) LC-1971-Find-if-Path-Exists-in-Graph: [Python3](./Python3/LC-1971-Find-if-Path-Exists-in-Graph.py)
 - (-Easy-) LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores: [Python3](./Python3/LC-1984-Minimum-Difference-Between-Highest-and-Lowest-of-K-Scores.py)
+- (Medium) LC-1993-Operations-on-Tree: [Python3](./Python3/LC-1993-Operations-on-Tree.py)
 - (-Hard-) LC-1994-The-Number-of-Good-Subsets: [Python3](./Python3/LC-1994-The-Number-of-Good-Subsets.py)
 - (Medium) LC-1996-The-Number-of-Weak-Characters-in-the-Game: [Python3](./Python3/LC-1996-The-Number-of-Weak-Characters-in-the-Game.py)
 - (-Easy-) LC-2000-Reverse-Prefix-of-Word: [Python3](./Python3/LC-2000-Reverse-Prefix-of-Word.py)
@@ -1275,7 +1276,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 2501 - 2600
 
 <details>
-<summary>Solution List (11/100)</summary>
+<summary>Solution List (12/100)</summary>
 
 - (Medium) LC-2517-Maximum-Tastiness-of-Candy-Basket: [Python3](./Python3/LC-2517-Maximum-Tastiness-of-Candy-Basket.py)
 - (-Hard-) LC-2532-Time-to-Cross-a-Bridge: [Python3](./Python3/LC-532-Time-to-Cross-a-Bridge.py)
@@ -1285,6 +1286,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-2559-Count-Vowel-Strings-in-Ranges: [Python3](./Python3/LC-2559-Count-Vowel-Strings-in-Ranges.py)
 - (Medium) LC-2560-House-Robber-IV: [Python3](./Python3/LC-2560-House-Robber-IV.py)
 - (-Hard-) LC-2569-Handling-Sum-Queries-After-Update: [Python3](./Python3/LC-2569-Handling-Sum-Queries-After-Update.py)
+- (-Easy-) LC-2591-Distribute-Money-to-Maximum-Children: [Python3](./Python3/LC-2591-Distribute-Money-to-Maximum-Children.py)
 - (Medium) LC-2594-Minimum-Time-to-Repair-Cars: [Python3](./Python3/LC-2594-Minimum-Time-to-Repair-Cars.py)
 - (Medium) LC-2596-Check-Knight-Tour-Configuration: [Python3](./Python3/LC-2596-Check-Knight-Tour-Configuration.py)
 - (-Easy-) LC-2600-K-Items-With-the-Maximum-Sum: [Python3](./Python3/LC-2600-K-Items-With-the-Maximum-Sum.py)
