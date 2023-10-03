@@ -110,7 +110,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0101 - 0200
 
 <details>
-<summary>Solution List (63/100)</summary>
+<summary>Solution List (64/100)</summary>
 
 - (-Easy-) LC-0101-Symmetric-Tree: [Python3](./Python3/LC-0101-Symmetric-Tree.py)
 - (Medium) LC-0102-Binary-Tree-Level-Order-Traversal: [Python3](./Python3/LC-0102-Binary-Tree-Level-Order-Traversal.py)
@@ -131,6 +131,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (Medium) LC-0120-Triangle: [Python3](./Python3/LC-0120-Triangle.py)
 - (-Easy-) LC-0121-Best-Time-to-Buy-and-Sell-Stock: [Python3](./Python3/LC-0121-Best-Time-to-Buy-and-Sell-Stock.py)
 - (Medium) LC-0122-Best-Time-to-Buy-and-Sell-Stock-II: [Python3](./Python3/LC-0122-Best-Time-to-Buy-and-Sell-Stock-II.py)
+- (-Hard-) LC-0123-Best-Time-to-Buy-and-Sell-Stock-III: [Python3](./Python3/LC-0123-Best-Time-to-Buy-and-Sell-Stock-III.py)
 - (-Hard-) LC-0124-Binary-Tree-Maximum-Path-Sum: [Python3](./Python3/LC-0124-Binary-Tree-Maximum-Path-Sum.py)
 - (-Hard-) LC-0126-Word-Ladder-II: [Python3](./Python3/LC-0126-Word-Ladder-II.py)
 - (-Hard-) LC-0127-Word-Ladder: [Python3](./Python3/LC-0127-Word-Ladder.py)
@@ -917,10 +918,11 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1501 - 1600
 
 <details>
-<summary>Solution List (25/100)</summary>
+<summary>Solution List (26/100)</summary>
 
 - (-Easy-) LC-1502-Can-Make-Arithmetic-Progression-From-Sequence: [Python3](./Python3/LC-1502-Can-Make-Arithmetic-Progression-From-Sequence.py)
 - (-Hard-) LC-1510-Stone-Game-IV: [Python3](./Python3/LC-1510-Stone-Game-IV.py)
+- (-Easy-) LC-1512-Number-of-Good-Pairs: [Python3](./Python3/LC-1512-Number-of-Good-Pairs.py)
 - (Medium) LC-1514-Path-with-Maximum-Probability: [Python3](./Python3/LC-1514-Path-with-Maximum-Probability.py)
 - (Medium) LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label: [Python3](./Python3/LC-1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label.py)
 - (-Easy-) LC-1523-Count-Odd-Numbers-in-an-Interval-Range: [Python3](./Python3/LC-1523-Count-Odd-Numbers-in-an-Interval-Range.py)
