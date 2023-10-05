@@ -182,7 +182,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 0201 - 0300
 
 <details>
-<summary>Solution List (51/100)</summary>
+<summary>Solution List (52/100)</summary>
 
 - (Medium) LC-0201-Bitwise-AND-of-Numbers-Range: [Python3](./Python3/LC-0201-Bitwise-AND-of-Numbers-Range.py)
 - (-Easy-) LC-0202-Happy-Number: [Python3](./Python3/LC-0202-Happy-Number.py)
@@ -209,6 +209,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-0225-Implement-Stack-using-Queues: [Python3](./Python3/LC-0225-Implement-Stack-using-Queues.py)
 - (-Easy-) LC-0226-Invert-Binary-Tree: [Python3](./Python3/LC-0226-Invert-Binary-Tree.py)
 - (-Easy-) LC-0228-Summary-Ranges: [Python3](./Python3/LC-0228-Summary-Ranges.py)
+- (Medium) LC-0229-Majority-Element-II: [Python3](./Python3/LC-0229-Majority-Element-II.py)
 - (Medium) LC-0230-Kth-Smallest-Element-in-a-BST: [Python3](./Python3/LC-0230-Kth-Smallest-Element-in-a-BST.py)
 - (-Easy-) LC-0231-Power-of-Two: [Python3](./Python3/LC-0231-Power-of-Two.py)
 - (-Easy-) LC-0232-Implement-Queue-using-Stacks: [Python3](./Python3/LC-0232-Implement-Queue-using-Stacks.py)
