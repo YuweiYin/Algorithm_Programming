@@ -867,7 +867,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 ### LeetCode 1401 - 1500
 
 <details>
-<summary>Solution List (43/100)</summary>
+<summary>Solution List (44/100)</summary>
 
 - (Medium) LC-1401-Circle-and-Rectangle-Overlapping: [Python3](./Python3/LC-1401-Circle-and-Rectangle-Overlapping.py)
 - (-Hard-) LC-1402-Reducing-Dishes: [Python3](./Python3/LC-1402-Reducing-Dishes.py)
@@ -894,6 +894,7 @@ Algorithm - [YuweiYin](https://github.com/YuweiYin)
 - (-Easy-) LC-1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence: [Python3](./Python3/LC-1455-Check-If-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence.py)
 - (Medium) LC-1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length: [Python3](./Python3/LC-1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length.py)
 - (Medium) LC-1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree: [Python3](./Python3/LC-1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree.py)
+- (-Hard-) LC-1458-Max-Dot-Product-of-Two-Subsequences: [Python3](./Python3/LC-1458-Max-Dot-Product-of-Two-Subsequences.py)
 - (-Easy-) LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays: [Python3](./Python3/LC-1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays.py)
 - (Medium) LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K: [Python3](./Python3/LC-1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K.py)
 - (Medium) LC-1462-Course-Schedule-IV: [Python3](./Python3/LC-1462-Course-Schedule-IV.py)
